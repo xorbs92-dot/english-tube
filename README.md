@@ -10,7 +10,16 @@ cd ~/Desktop/AI/app/english_tube
 ./start          # http://localhost:8765 이 브라우저에서 열림 (종료: Ctrl+C)
 ```
 
-## 휴대폰에서 보기
+## 밖에서·지하철에서 보기 (인터넷 버전)
+
+**https://xorbs92-dot.github.io/english-tube/**
+
+- Mac이 꺼져 있어도 열려요. 휴대폰에서 이 주소를 열고 **홈 화면에 추가**하세요.
+- 앱 화면과 자막은 휴대폰에 저장돼서, 지하철에서 신호가 잠깐 끊겨도 열려요. 영상 재생에는 인터넷이 필요해요.
+- 강의를 추가하거나 번역을 채운 뒤에는 `./publish`를 실행하면 1~2분 뒤 인터넷 버전에 반영돼요.
+- 공개 사이트라 주소를 아는 사람은 볼 수 있어요. 진도와 저장한 문장은 휴대폰에만 남아요.
+
+## 집 와이파이에서 보기 (Mac 서버)
 
 1. Mac에서 `./start`를 실행하면 터미널에 **휴대폰 주소**(예: `http://192.168.x.x:8765`)와 **QR코드**가 나와요.
 2. 휴대폰을 **Mac과 같은 와이파이**에 연결하고, 카메라로 QR코드를 찍거나 주소를 직접 입력하세요.
@@ -65,6 +74,8 @@ cd ~/Desktop/AI/app/english_tube
 ```
 tube / tube.py      코스·자막 수집 도구 (.venv 사용)
 start / serve.py    학습 앱 실행 (휴대폰 주소·QR 표시)
+publish             GitHub Pages에 올리기
+sw.js               오프라인 저장 (앱 화면·자막)
 manifest.json icon-*.png  홈 화면 추가용
 index.html app.js style.css   학습 앱
 data/courses.json   코스 목록과 순서 (직접 편집해서 순서를 바꿔도 됨)
