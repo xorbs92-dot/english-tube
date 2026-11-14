@@ -1,0 +1,342 @@
+{
+  "courses": [
+    {
+      "id": "초중급-회화-bbc-real-easy-english",
+      "title": "초중급 회화 · BBC Real Easy English",
+      "lessons": [
+        {
+          "videoId": "z5H_dK2b7K0",
+          "title": "Do you like weddings? 💍 | Improve your listening with Real Easy English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 80,
+          "ko": "claude"
+        },
+        {
+          "videoId": "LMtpF7ZQqGA",
+          "title": "Octopuses or dolphins? 🐙🐬 Which is your favourite? | Improve your listening with Real Easy English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 64,
+          "ko": "claude"
+        },
+        {
+          "videoId": "VFA53-P4yPo",
+          "title": "Tips for feeling confident in job interviews 🤝 | Improve your listening with Real Easy English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 64,
+          "ko": "claude"
+        },
+        {
+          "videoId": "KHimUkNBDiQ",
+          "title": "What are your favourite famous sites? 🎡 | Improve your listening with Real Easy English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 91,
+          "ko": "claude"
+        },
+        {
+          "videoId": "I4G9TjlbdtM",
+          "title": "Films at home or at the cinema - which is better? 🍿 | Improve your listening with Real Easy English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 91,
+          "ko": "claude"
+        },
+        {
+          "videoId": "0W6PymVdXVw",
+          "title": "I enjoy flying ✈️ but airports are stressful 🛄 | Improve your listening with Real Easy English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 68,
+          "ko": "claude"
+        },
+        {
+          "videoId": "UcfT3qOhyF0",
+          "title": "\"I love autumn!\" 🍁🍄🎃 | Improve your listening with Real Easy English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 78,
+          "ko": "claude"
+        },
+        {
+          "videoId": "HHLfkHkUc14",
+          "title": "Neil's difficult summer job in Canada 🫛 | Practise your listening with Real Easy English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 69,
+          "ko": "claude"
+        },
+        {
+          "videoId": "P3jsDVjil2o",
+          "title": "Our favourite sweet foods 🍦🍭🍫  Practise your listening with Real Easy English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 92,
+          "ko": "claude"
+        },
+        {
+          "videoId": "E3G-dsvZHGU",
+          "title": "When is it OK to complain? ☝️😠 | Practise your listening skills with Real Easy English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 82,
+          "ko": "claude"
+        },
+        {
+          "videoId": "q4JyFF46528",
+          "title": "Do you like cleaning? 🚽🧹🧽 | Improve your listening skills with Real Easy English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 92,
+          "ko": "none"
+        },
+        {
+          "videoId": "BFJsSnEEGrI",
+          "title": "How do you take your coffee? ☕🥛🍯 Improve your listening skills with Real Easy English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 84,
+          "ko": "none"
+        },
+        {
+          "videoId": "qfQ61oYIbxY",
+          "title": "Are you in a good or bad mood? 🤩😡 Improve your listening with Real Easy English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 77,
+          "ko": "none"
+        },
+        {
+          "videoId": "ChYnYM0txRk",
+          "title": "Do you like spicy food? 🌶️🥵 Improve your listening with Real Easy English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 73,
+          "ko": "none"
+        },
+        {
+          "videoId": "bGxdYW_6rjQ",
+          "title": "What are the pros and cons of living in a city?🏙️: Real Easy English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 74,
+          "ko": "none"
+        },
+        {
+          "videoId": "W_yFHgHafKM",
+          "title": "How to talk about your family tree in English🌳🤗: Real Easy English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 70,
+          "ko": "none"
+        },
+        {
+          "videoId": "n0rrgJ4MGdY",
+          "title": "A real conversation in easy English about hair 💇‍♀️💈: Real Easy English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 82,
+          "ko": "none"
+        },
+        {
+          "videoId": "6Bzmb8uFQz4",
+          "title": "What's your dream job? 🤩🧑‍🚒🧑‍🚀 Real Easy English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 64,
+          "ko": "none"
+        },
+        {
+          "videoId": "3FP-RbqWB_s",
+          "title": "The things we throw away 🗑️♻️🙀 Real Easy English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 79,
+          "ko": "none"
+        }
+      ]
+    },
+    {
+      "id": "bbc-6-minute-english",
+      "title": "BBC 6 Minute English",
+      "lessons": [
+        {
+          "videoId": "h-NZcQF7jgI",
+          "title": "Learning from different generations ⏲️ 6 Minute English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 68,
+          "ko": "claude"
+        },
+        {
+          "videoId": "-ukHyqiEH1U",
+          "title": "Could vaccines cure cancer? ⏲️ 6 Minute English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 70,
+          "ko": "claude"
+        },
+        {
+          "videoId": "npka43vhwNo",
+          "title": "Is aircon the answer to a heating world? ⏲️ 6 Minute English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 86,
+          "ko": "claude"
+        },
+        {
+          "videoId": "pjFlVc-EDzc",
+          "title": "What should you eat for a better night’s sleep? ⏲️ 6 Minute English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 66,
+          "ko": "claude"
+        },
+        {
+          "videoId": "CelIpn03m1w",
+          "title": "Why gold is so valuable ⏲️ 6 Minute English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 65,
+          "ko": "claude"
+        },
+        {
+          "videoId": "9ZdPuQtQyUU",
+          "title": "Is this the end of British drinking culture? ⏲️ 6 Minute English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 72,
+          "ko": "claude"
+        },
+        {
+          "videoId": "GDwLjLHsGGg",
+          "title": "What can science tell us about the pain of a broken heart? ⏲️ 6 Minute English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 75,
+          "ko": "claude"
+        },
+        {
+          "videoId": "1VQNMDSzWpE",
+          "title": "What is that unpleasant feeling on our skin and is scratching good for us? ⏲️ 6 Minute English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 69,
+          "ko": "claude"
+        },
+        {
+          "videoId": "-XcALxwXJVY",
+          "title": "Can apps teach you a language? ⏲️ 6 Minute English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 64,
+          "ko": "claude"
+        },
+        {
+          "videoId": "rCIs5x0SGTY",
+          "title": "How do you feel when someone says 'no'? ⏲️ 6 Minute English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 84,
+          "ko": "claude"
+        },
+        {
+          "videoId": "xwseWCSXD3Y",
+          "title": "How are smell adjectives different? ⏲️ 6 Minute English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 75,
+          "ko": "none"
+        },
+        {
+          "videoId": "SC_opiKLohg",
+          "title": "Sharing the road with driverless cars ⏲️ 6 Minute English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 69,
+          "ko": "none"
+        },
+        {
+          "videoId": "D9jZMLm72a8",
+          "title": "Who does the housework? ⏲️ 6 Minute English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 63,
+          "ko": "none"
+        },
+        {
+          "videoId": "sv9DItmJvlI",
+          "title": "How do climate scientists make predictions? ⏲️ 6 Minute English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 69,
+          "ko": "none"
+        },
+        {
+          "videoId": "0XccoTXPu_c",
+          "title": "What if athletes were allowed to take drugs? ⏲️ 6 Minute English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 65,
+          "ko": "none"
+        },
+        {
+          "videoId": "ut3b9qDHvEQ",
+          "title": "Children in war zones ⏲️ 6 Minute English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 57,
+          "ko": "none"
+        },
+        {
+          "videoId": "MSJMJxd1udk",
+          "title": "How do footballers cope with high-pressure scenarios? ⏲️ 6 Minute English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 66,
+          "ko": "none"
+        },
+        {
+          "videoId": "hb1CBEENiPQ",
+          "title": "Should we cycle more? ⏲️ 6 Minute English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 62,
+          "ko": "none"
+        },
+        {
+          "videoId": "vxoPApiNZBU",
+          "title": "Rude emails ⏲️ 6 Minute English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 58,
+          "ko": "none"
+        },
+        {
+          "videoId": "-idY8F7LOSE",
+          "title": "Stress-free family meals ⏲️ 6 Minute English",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 73,
+          "ko": "none"
+        }
+      ]
+    },
+    {
+      "id": "ted-명강의",
+      "title": "TED 명강의",
+      "lessons": [
+        {
+          "videoId": "arj7oStGLkU",
+          "title": "Inside the Mind of a Master Procrastinator | Tim Urban | TED",
+          "channel": "TED",
+          "duration": null,
+          "sentences": 153,
+          "ko": "youtube-ko"
+        }
+      ]
+    }
+  ]
+}

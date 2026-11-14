@@ -1,0 +1,393 @@
+{
+ "videoId": "LMtpF7ZQqGA",
+ "title": "Octopuses or dolphins? 🐙🐬 Which is your favourite? | Improve your listening with Real Easy English",
+ "channel": "BBC Learning English",
+ "enSource": "manual",
+ "koSource": "claude",
+ "sentences": [
+  {
+   "s": 0.08,
+   "e": 1.24,
+   "en": "Hi Becca. How are you?",
+   "ko": "안녕, 베카. 잘 지내?"
+  },
+  {
+   "s": 1.24,
+   "e": 2.96,
+   "en": "I'm well, thank you, Neil. How are you?",
+   "ko": "잘 지내, 고마워 닐. 너는?"
+  },
+  {
+   "s": 2.96,
+   "e": 4.36,
+   "en": "I'm very well, thanks.",
+   "ko": "아주 잘 지내, 고마워."
+  },
+  {
+   "s": 4.36,
+   "e": 9.92,
+   "en": "We're talking about oceans today, and I know you live near the sea.",
+   "ko": "오늘은 바다 얘기를 할 건데, 너 바닷가 근처에 살잖아."
+  },
+  {
+   "s": 9.92,
+   "e": 11.4,
+   "en": "Is that because you like oceans?",
+   "ko": "바다를 좋아해서 그런 거야?"
+  },
+  {
+   "s": 11.4,
+   "e": 15.72,
+   "en": "Yes, I do live near the seaside and I love oceans.",
+   "ko": "응, 바닷가 근처에 살고 바다를 정말 좋아해."
+  },
+  {
+   "s": 15.72,
+   "e": 28.44,
+   "en": "Well, we're going to be talking about the ocean in this episode, but people need to know that they can find a worksheet and a transcript to help them understand everything on our website, at bbclearningenglish.com.",
+   "ko": "이번 에피소드에서 바다에 대해 이야기할 텐데요, 모든 내용을 이해하는 데 도움이 되는 워크시트와 대본을 저희 웹사이트 bbclearningenglish.com에서 찾을 수 있어요."
+  },
+  {
+   "s": 34.16,
+   "e": 37.76,
+   "en": "OK Becca. So, why do you love the ocean?",
+   "ko": "좋아, 베카. 그럼 바다를 왜 좋아해?"
+  },
+  {
+   "s": 37.76,
+   "e": 46.88,
+   "en": "Ooh, I love the ocean because it's very big and in there live lots of really cool sea creatures.",
+   "ko": "음, 바다는 엄청 넓고, 그 안에 정말 멋진 바다 생물들이 많이 살거든."
+  },
+  {
+   "s": 46.88,
+   "e": 49.28,
+   "en": "Yeah. Have you got a favourite sea creature?",
+   "ko": "그렇지. 제일 좋아하는 바다 생물 있어?"
+  },
+  {
+   "s": 49.28,
+   "e": 51.52,
+   "en": "Difficult question for me to answer, Neil.",
+   "ko": "대답하기 어려운 질문이네, 닐."
+  },
+  {
+   "s": 51.52,
+   "e": 55.88,
+   "en": "I love them all, but I really like octopuses.",
+   "ko": "다 좋아하지만, 문어를 정말 좋아해."
+  },
+  {
+   "s": 55.88,
+   "e": 57.32,
+   "en": "Octopuses?",
+   "ko": "문어?"
+  },
+  {
+   "s": 57.32,
+   "e": 59.04,
+   "en": "Why do you like octopuses?",
+   "ko": "문어를 왜 좋아해?"
+  },
+  {
+   "s": 59.04,
+   "e": 63.2,
+   "en": "They're very intelligent, very smart creatures.",
+   "ko": "아주 지능이 높고 똑똑한 동물이거든."
+  },
+  {
+   "s": 63.2,
+   "e": 66.48,
+   "en": "And I also really like the way that they move through the water.",
+   "ko": "그리고 물속에서 움직이는 방식도 정말 좋아."
+  },
+  {
+   "s": 66.48,
+   "e": 68.36,
+   "en": "They swim with their tentacles.",
+   "ko": "촉수로 헤엄을 쳐."
+  },
+  {
+   "s": 68.36,
+   "e": 71.24,
+   "en": "Tentacles? That's the name for their legs.",
+   "ko": "촉수(tentacles)? 그게 다리를 부르는 이름이지."
+  },
+  {
+   "s": 71.24,
+   "e": 72.32,
+   "en": "Yes. Yeah.",
+   "ko": "응. 맞아."
+  },
+  {
+   "s": 72.32,
+   "e": 76.76,
+   "en": "And they can use their tentacles to also pick things up, which I think is really cool.",
+   "ko": "그리고 촉수로 물건을 집을 수도 있는데, 그게 정말 멋진 것 같아."
+  },
+  {
+   "s": 76.76,
+   "e": 80.36,
+   "en": "There aren't many sea creatures that can do that.",
+   "ko": "그렇게 할 수 있는 바다 생물은 많지 않거든."
+  },
+  {
+   "s": 80.36,
+   "e": 83.0,
+   "en": "Do you know what my favourite sea creature is, Becca?",
+   "ko": "베카, 내가 제일 좋아하는 바다 생물이 뭔지 알아?"
+  },
+  {
+   "s": 83.0,
+   "e": 84.48,
+   "en": "I don't know, Neil. What is it?",
+   "ko": "모르겠는데, 닐. 뭔데?"
+  },
+  {
+   "s": 84.48,
+   "e": 86.48,
+   "en": "I really like dolphins.",
+   "ko": "나는 돌고래가 정말 좋아."
+  },
+  {
+   "s": 86.48,
+   "e": 98.52,
+   "en": "And I like dolphins for the same reason that you like your octopuses – because they're very intelligent, they're very clever, and they're very beautiful, I think – very... they're very pretty to look at.",
+   "ko": "네가 문어를 좋아하는 것과 같은 이유로 돌고래를 좋아해. 아주 지능이 높고, 영리하고, 내 생각엔 아주 아름다워. 정말... 보기에 아주 예뻐."
+  },
+  {
+   "s": 98.52,
+   "e": 101.16,
+   "en": "I think they're much more beautiful than octopuses.",
+   "ko": "문어보다 훨씬 더 아름다운 것 같아."
+  },
+  {
+   "s": 101.16,
+   "e": 102.64,
+   "en": "Ooh, hold on now, Neil.",
+   "ko": "어머, 잠깐만, 닐."
+  },
+  {
+   "s": 102.64,
+   "e": 105.04,
+   "en": "I don't think I agree with you.",
+   "ko": "그 말엔 동의 못 하겠는데."
+  },
+  {
+   "s": 105.04,
+   "e": 109.28,
+   "en": "Well, it doesn't matter if you prefer octopuses or dolphins.",
+   "ko": "뭐, 문어를 더 좋아하든 돌고래를 더 좋아하든 상관없어."
+  },
+  {
+   "s": 109.28,
+   "e": 116.32,
+   "en": "There's lots of amazing creatures living in the sea, but there is actually a danger with the oceans.",
+   "ko": "바다에는 놀라운 생물들이 많이 살지만, 사실 바다에는 위험이 있어."
+  },
+  {
+   "s": 116.32,
+   "e": 118.92,
+   "en": "They're not really in a good condition.",
+   "ko": "상태가 별로 좋지 않거든."
+  },
+  {
+   "s": 118.92,
+   "e": 122.04,
+   "en": "No. There are lots of threats to the oceans right now.",
+   "ko": "맞아. 지금 바다를 위협하는 게 많아."
+  },
+  {
+   "s": 122.04,
+   "e": 128.72,
+   "en": "So, a threat is a danger, and one of those threats is pollution.",
+   "ko": "'threat(위협)'는 위험이라는 뜻인데, 그 위협 중 하나가 오염이야."
+  },
+  {
+   "s": 128.72,
+   "e": 131.6,
+   "en": "Yeah. Plastic is a real problem, isn't it?",
+   "ko": "응. 플라스틱이 진짜 문제지, 그렇지?"
+  },
+  {
+   "s": 131.6,
+   "e": 136.8,
+   "en": "So, the material that lots of bottles are made from that isn't glass.",
+   "ko": "그러니까 유리가 아닌, 많은 병을 만드는 재료 말이야."
+  },
+  {
+   "s": 136.8,
+   "e": 142.8,
+   "en": "That plastic ends up in the ocean, and then it's really bad for the sea creatures.",
+   "ko": "그 플라스틱이 결국 바다로 흘러가서 바다 생물들에게 정말 해로워."
+  },
+  {
+   "s": 142.8,
+   "e": 152.36,
+   "en": "It is, yeah. I've seen lots of videos of sea creatures maybe getting stuck in plastic bottles, and it's really sad.",
+   "ko": "맞아. 바다 생물들이 플라스틱 병에 끼어 있는 영상을 많이 봤는데, 정말 슬퍼."
+  },
+  {
+   "s": 152.36,
+   "e": 158.0,
+   "en": "Pollution and single-use plastic are major, major threats to the ocean.",
+   "ko": "오염과 일회용 플라스틱은 바다에 아주아주 큰 위협이야."
+  },
+  {
+   "s": 158.0,
+   "e": 161.44,
+   "en": "Yes, there are lots of threats to the ocean.",
+   "ko": "맞아, 바다를 위협하는 건 많아."
+  },
+  {
+   "s": 161.44,
+   "e": 165.76,
+   "en": "For example, the plastic pollution that you are talking about.",
+   "ko": "예를 들면 네가 말한 플라스틱 오염 같은 거."
+  },
+  {
+   "s": 165.76,
+   "e": 175.44,
+   "en": "Also, the oceans are getting warmer and that's a real threat because it can cause all kinds of environmental problems.",
+   "ko": "또 바다가 점점 따뜻해지고 있는데, 그게 온갖 환경 문제를 일으킬 수 있어서 정말 큰 위협이야."
+  },
+  {
+   "s": 175.44,
+   "e": 178.08,
+   "en": "You're right, Neil. There are lots of threats to the oceans.",
+   "ko": "네 말이 맞아, 닐. 바다를 위협하는 게 많아."
+  },
+  {
+   "s": 178.08,
+   "e": 181.88,
+   "en": "Do you do anything to protect the oceans?",
+   "ko": "너는 바다를 지키려고 뭔가 하는 게 있어?"
+  },
+  {
+   "s": 181.88,
+   "e": 189.32,
+   "en": "Well, I don't go near the ocean very often, so I don't do anything directly.",
+   "ko": "음, 나는 바다 근처에 자주 가지 않아서 직접적으로 하는 건 없어."
+  },
+  {
+   "s": 189.32,
+   "e": 193.6,
+   "en": "But I try not to use single-use plastic.",
+   "ko": "그래도 일회용 플라스틱은 안 쓰려고 노력해."
+  },
+  {
+   "s": 193.6,
+   "e": 200.44,
+   "en": "So, single-use plastic is plastic that you use just once and then you throw it away.",
+   "ko": "일회용 플라스틱은 한 번 쓰고 버리는 플라스틱이야."
+  },
+  {
+   "s": 200.44,
+   "e": 214.52,
+   "en": "So, for example, single-use plastic straws for drinks – in the UK there are lots of places that don't use those anymore and I think that's a good way to help protect the oceans.",
+   "ko": "예를 들어 음료용 일회용 플라스틱 빨대 같은 거. 영국에서는 이제 그걸 안 쓰는 곳이 많은데, 바다를 지키는 좋은 방법인 것 같아."
+  },
+  {
+   "s": 219.32,
+   "e": 223.88,
+   "en": "OK. Neil, let's recap some of the vocabulary that we used in this conversation.",
+   "ko": "좋아. 닐, 이번 대화에서 쓴 어휘를 복습해 보자."
+  },
+  {
+   "s": 223.88,
+   "e": 227.56,
+   "en": "We'll start with my favourite sea creature – that's an octopus.",
+   "ko": "내가 제일 좋아하는 바다 생물부터 시작할게. 바로 문어(octopus)야."
+  },
+  {
+   "s": 227.56,
+   "e": 235.84,
+   "en": "So, 'octo-' means eight and octopuses have eight tentacles, and those are the arms of the octopus.",
+   "ko": "'octo-'는 8이라는 뜻인데, 문어는 촉수가 8개 있고 그게 문어의 팔이야."
+  },
+  {
+   "s": 235.84,
+   "e": 236.72,
+   "en": "Or legs.",
+   "ko": "아니면 다리."
+  },
+  {
+   "s": 236.72,
+   "e": 239.24,
+   "en": "Or legs, yeah!",
+   "ko": "아니면 다리, 맞아!"
+  },
+  {
+   "s": 239.24,
+   "e": 241.04,
+   "en": "We also heard 'threat'.",
+   "ko": "'threat'도 나왔지."
+  },
+  {
+   "s": 241.04,
+   "e": 245.0,
+   "en": "Now, a threat is something that is a danger to something.",
+   "ko": "'threat'는 무언가에 위험이 되는 것이야."
+  },
+  {
+   "s": 245.0,
+   "e": 250.88,
+   "en": "For example, the oceans getting warmer is a threat to the environment.",
+   "ko": "예를 들어 바다가 따뜻해지는 건 환경에 대한 위협이야."
+  },
+  {
+   "s": 250.88,
+   "e": 255.8,
+   "en": "And another example of a threat that we mentioned was pollution.",
+   "ko": "그리고 우리가 말한 또 다른 위협의 예는 오염(pollution)이었지."
+  },
+  {
+   "s": 255.8,
+   "e": 259.12,
+   "en": "And that is the things there that shouldn't be there.",
+   "ko": "그건 있어서는 안 되는 곳에 있는 것들이야."
+  },
+  {
+   "s": 259.12,
+   "e": 267.08,
+   "en": "They could be chemicals or rubbish, and pollution is very harmful to whatever lives in that environment.",
+   "ko": "화학 물질일 수도 있고 쓰레기일 수도 있는데, 오염은 그 환경에 사는 모든 것에 아주 해로워."
+  },
+  {
+   "s": 267.08,
+   "e": 273.76,
+   "en": "Yes. And a big problem – a big part of that pollution is single-use plastic.",
+   "ko": "맞아. 그리고 큰 문제, 그 오염의 큰 부분이 일회용 플라스틱이야."
+  },
+  {
+   "s": 273.76,
+   "e": 278.52,
+   "en": "'Single-use' means it's something that you use just once and then throw it away.",
+   "ko": "'Single-use'는 한 번 쓰고 버리는 것을 뜻해."
+  },
+  {
+   "s": 278.52,
+   "e": 288.16,
+   "en": "That's it for this episode of Real Easy English, but if you want to test yourself with a worksheet, you can find it on our website at bbclearningenglish.com.",
+   "ko": "이번 Real Easy English는 여기까지예요. 워크시트로 실력을 테스트해 보고 싶다면 웹사이트 bbclearningenglish.com에서 찾을 수 있어요."
+  },
+  {
+   "s": 288.16,
+   "e": 292.04,
+   "en": "And we'll be back next week with another episode of Real Easy English.",
+   "ko": "다음 주에 또 다른 Real Easy English로 돌아올게요."
+  },
+  {
+   "s": 292.04,
+   "e": 292.72,
+   "en": "Bye for now.",
+   "ko": "그럼 이만."
+  },
+  {
+   "s": 292.72,
+   "e": 293.88,
+   "en": "Goodbye!",
+   "ko": "안녕!"
+  }
+ ]
+}

@@ -1,0 +1,399 @@
+{
+ "videoId": "CelIpn03m1w",
+ "title": "Why gold is so valuable ⏲️ 6 Minute English",
+ "channel": "BBC Learning English",
+ "enSource": "manual",
+ "koSource": "claude",
+ "sentences": [
+  {
+   "s": 0.04,
+   "e": 1.12,
+   "en": "Hi Phil.",
+   "ko": "안녕, 필."
+  },
+  {
+   "s": 1.12,
+   "e": 2.2,
+   "en": "Hi Georgie.",
+   "ko": "안녕, 조지."
+  },
+  {
+   "s": 2.2,
+   "e": 4.0,
+   "en": "I've got a question for you.",
+   "ko": "너한테 물어볼 게 있어."
+  },
+  {
+   "s": 4.0,
+   "e": 7.56,
+   "en": "Do you own anything made of gold?",
+   "ko": "금으로 된 물건 가지고 있어?"
+  },
+  {
+   "s": 7.56,
+   "e": 15.88,
+   "en": "Well, at the moment I'm wearing a lot of gold-coloured jewellery, but I'm not sure exactly how much of it is made of gold.",
+   "ko": "음, 지금 금색 장신구를 많이 하고 있긴 한데, 그중 얼마나 진짜 금으로 만든 건지는 잘 모르겠어."
+  },
+  {
+   "s": 15.88,
+   "e": 19.56,
+   "en": "OK. I don't think I own anything made of gold.",
+   "ko": "그렇구나. 나는 금으로 된 건 없는 것 같아."
+  },
+  {
+   "s": 19.56,
+   "e": 26.12,
+   "en": "Beyond jewellery and other personal items, gold is bought and sold by investors and banks.",
+   "ko": "장신구나 다른 개인 물품 말고도, 금은 투자자와 은행이 사고팔아."
+  },
+  {
+   "s": 26.12,
+   "e": 33.16,
+   "en": "The price of gold has always gone up and down, but in 2026 it reached its highest ever price.",
+   "ko": "금값은 늘 오르락내리락했지만, 2026년에는 역대 최고가를 기록했어."
+  },
+  {
+   "s": 33.16,
+   "e": 43.5,
+   "en": "In this episode of 6 Minute English, we'll be talking about how gold became a valuable investment and asking the question, why do people buy gold?",
+   "ko": "이번 6 Minute English에서는 금이 어떻게 가치 있는 투자 대상이 됐는지 이야기하고, 사람들은 왜 금을 살까 하는 질문을 던져볼 거예요."
+  },
+  {
+   "s": 45.88,
+   "e": 49.08,
+   "en": "Let's start with our quiz question, Georgie.",
+   "ko": "퀴즈 문제로 시작하자, 조지."
+  },
+  {
+   "s": 49.08,
+   "e": 54.76,
+   "en": "Gold is a metal that's extracted or dug up from under the ground in mines.",
+   "ko": "금은 광산에서 땅 밑을 파서 캐내는 금속이야."
+  },
+  {
+   "s": 54.76,
+   "e": 60.6,
+   "en": "But how much gold has been extracted from the earth?",
+   "ko": "그런데 지금까지 땅에서 캐낸 금은 얼마나 될까?"
+  },
+  {
+   "s": 60.6,
+   "e": 73.3,
+   "en": "Is it: a) over 50,000 tonnes, b) over 100,000 tonnes, or c) over 200,000 tonnes?",
+   "ko": "a) 5만 톤 이상, b) 10만 톤 이상, c) 20만 톤 이상 중 뭘까?"
+  },
+  {
+   "s": 73.3,
+   "e": 78.88,
+   "en": "Phil, I have absolutely no idea, but I'm going to go with c) 200,000 tonnes.",
+   "ko": "필, 전혀 모르겠는데, c) 20만 톤으로 할게."
+  },
+  {
+   "s": 78.88,
+   "e": 82.54,
+   "en": "OK. Well, we'll give you the answer at the end of the programme.",
+   "ko": "좋아. 정답은 프로그램 끝에 알려줄게."
+  },
+  {
+   "s": 82.54,
+   "e": 88.82,
+   "en": "OK Phil. So, we've been using gold for thousands of years, but why and how did it start?",
+   "ko": "좋아, 필. 우리는 수천 년 동안 금을 써왔는데, 왜, 그리고 어떻게 시작된 거야?"
+  },
+  {
+   "s": 88.82,
+   "e": 96.98,
+   "en": "Well, before money was paper or plastic or just numbers in your bank account, a lot of it was actually gold.",
+   "ko": "음, 돈이 종이나 플라스틱, 아니면 그냥 은행 계좌의 숫자가 되기 전에는, 상당 부분이 사실 금이었어."
+  },
+  {
+   "s": 96.98,
+   "e": 104.3,
+   "en": "And experts have discovered gold in coins that are thought to have been made in the 6th Century BC.",
+   "ko": "그리고 전문가들은 기원전 6세기에 만들어진 것으로 보이는 동전에서 금을 발견했어."
+  },
+  {
+   "s": 104.3,
+   "e": 112.98,
+   "en": "So, gold coins were made and they were used because the metal was much easier to carry and trade than things like cattle or timber.",
+   "ko": "그러니까 금화가 만들어져서 쓰였는데, 그 금속이 소나 목재 같은 것보다 들고 다니고 거래하기 훨씬 쉬웠기 때문이야."
+  },
+  {
+   "s": 112.98,
+   "e": 118.3,
+   "en": "OK. But now our money isn't literally made of gold, so why is gold valuable?",
+   "ko": "그렇구나. 그런데 지금 우리 돈은 말 그대로 금으로 만든 게 아닌데, 금은 왜 가치가 있는 거야?"
+  },
+  {
+   "s": 118.3,
+   "e": 128.3,
+   "en": "It's a good question, but even though it isn't money, gold is still a financial asset, and an asset is something valuable that could be sold for money.",
+   "ko": "좋은 질문이야. 금은 돈은 아니지만 여전히 금융 자산(asset)이야. 자산은 돈을 받고 팔 수 있는 가치 있는 것이야."
+  },
+  {
+   "s": 128.3,
+   "e": 134.14,
+   "en": "And people buy gold in times of crisis because it's thought of as a safe investment.",
+   "ko": "그리고 사람들은 위기 때 금을 사. 안전한 투자로 여겨지거든."
+  },
+  {
+   "s": 134.14,
+   "e": 139.98,
+   "en": "Let's listen to expert Suki Cooper explaining more to the BBC World Service.",
+   "ko": "전문가 수키 쿠퍼가 BBC 월드 서비스에서 더 설명하는 걸 들어보자."
+  },
+  {
+   "s": 139.98,
+   "e": 153.62,
+   "en": "Gold is a safe haven because it's not connected to one particular government or one particular economy or one particular market, so the fact that it's neutral means it's an asset that's perceived to be a store of value over a longer term.",
+   "ko": "\"금이 안전자산인 이유는 특정 정부나 특정 경제, 특정 시장에 연결되어 있지 않기 때문이에요. 중립적이라는 사실 덕분에 장기적으로 가치를 저장하는 자산으로 인식되는 거죠.\""
+  },
+  {
+   "s": 153.62,
+   "e": 165.62,
+   "en": "Suki describes gold as a safe haven, and a safe haven means something or somewhere that's protected from harm or danger, or in financial terms, from a fall in value.",
+   "ko": "수키는 금을 'safe haven'이라고 표현하는데, 'safe haven'은 해나 위험으로부터, 금융 용어로는 가치 하락으로부터 보호받는 것이나 곳을 뜻해."
+  },
+  {
+   "s": 165.62,
+   "e": 172.58,
+   "en": "Yes, Suki explains that, unlike dollars or pounds for example, gold is not connected to a particular country.",
+   "ko": "맞아, 수키는 예를 들어 달러나 파운드와 달리 금은 특정 나라에 연결되어 있지 않다고 설명해."
+  },
+  {
+   "s": 172.58,
+   "e": 173.98,
+   "en": "It's neutral.",
+   "ko": "중립적이라는 거지."
+  },
+  {
+   "s": 173.98,
+   "e": 179.66,
+   "en": "And Georgie, because we get gold from mines, there's more or less a fixed amount.",
+   "ko": "그리고 조지, 금은 광산에서 얻으니까 양이 거의 정해져 있어."
+  },
+  {
+   "s": 179.66,
+   "e": 187.18,
+   "en": "Unlike paper money, you can't just print more, as Catherine Schenk, professor of economic and social history, explains.",
+   "ko": "경제사회사 교수 캐서린 솅크가 설명하듯, 지폐와 달리 그냥 더 찍어낼 수가 없어."
+  },
+  {
+   "s": 187.18,
+   "e": 197.32,
+   "en": "It can't be created and fabricated out of thin air through alchemy, and so this, sort of, controls the supply and sustains an underlying value behind the demand for gold.",
+   "ko": "\"연금술로 허공에서 만들어내거나 꾸며낼 수 없으니, 이게 공급을 어느 정도 조절하고 금 수요의 바탕이 되는 가치를 유지해 줘요.\""
+  },
+  {
+   "s": 197.32,
+   "e": 204.62,
+   "en": "Catherine explains that gold can't be created out of thin air, an expression meaning making something from nothing.",
+   "ko": "캐서린은 금을 'out of thin air'로 만들 수 없다고 설명하는데, 이건 무에서 뭔가를 만들어낸다는 뜻의 표현이야."
+  },
+  {
+   "s": 204.62,
+   "e": 208.72,
+   "en": "As Catherine says, we don't make gold through alchemy.",
+   "ko": "캐서린 말처럼 우리는 연금술(alchemy)로 금을 만들지 않아."
+  },
+  {
+   "s": 208.72,
+   "e": 216.56,
+   "en": "Alchemy is an ancient kind of chemistry that attempted to do impossible things, like turn ordinary metals into gold.",
+   "ko": "연금술은 평범한 금속을 금으로 바꾸는 것처럼 불가능한 일을 시도했던 고대의 화학 같은 거야."
+  },
+  {
+   "s": 216.56,
+   "e": 225.46,
+   "en": "And because we can't just magically make more gold, when lots of people want to buy gold, the price increases.",
+   "ko": "그리고 마법처럼 금을 더 만들 수 없으니까, 많은 사람이 금을 사고 싶어 하면 가격이 올라."
+  },
+  {
+   "s": 225.46,
+   "e": 227.44,
+   "en": "OK. Understood.",
+   "ko": "좋아. 이해했어."
+  },
+  {
+   "s": 227.44,
+   "e": 234.2,
+   "en": "Now, Phil, at the start of this programme, you said that gold prices hit an all-time high in early 2026.",
+   "ko": "그런데 필, 프로그램 시작할 때 금값이 2026년 초에 사상 최고치를 찍었다고 했잖아."
+  },
+  {
+   "s": 234.2,
+   "e": 235.8,
+   "en": "So, what's going on?",
+   "ko": "그럼 무슨 일이 일어나고 있는 거야?"
+  },
+  {
+   "s": 235.8,
+   "e": 244.04,
+   "en": "Well, we mentioned that the price of gold increases in times of crisis because government banks want to buy more of it.",
+   "ko": "음, 위기 때 각국 중앙은행들이 금을 더 사고 싶어 해서 금값이 오른다고 했지."
+  },
+  {
+   "s": 244.04,
+   "e": 259.02,
+   "en": "And there has been a series of world events that have made government banks want to buy more gold, for example the wars in Ukraine and the Middle East, and in politics too, for example the US imposing tariffs on international products.",
+   "ko": "그리고 중앙은행들이 금을 더 사고 싶게 만든 세계적인 사건들이 잇따랐어. 예를 들어 우크라이나와 중동의 전쟁, 그리고 정치적으로는 미국이 해외 제품에 관세를 부과한 것 같은 일들이야."
+  },
+  {
+   "s": 259.02,
+   "e": 263.2,
+   "en": "But since that peak in January, the price has dropped a bit.",
+   "ko": "그런데 1월 최고점 이후로 가격이 조금 떨어졌어."
+  },
+  {
+   "s": 263.2,
+   "e": 269.06,
+   "en": "OK. And does the fall in the price of gold mean that people won't want to invest in it in the future?",
+   "ko": "그렇구나. 금값이 떨어졌다는 건 앞으로 사람들이 금에 투자하고 싶어 하지 않을 거라는 뜻이야?"
+  },
+  {
+   "s": 269.06,
+   "e": 273.46,
+   "en": "No. It's likely that the price will go up again.",
+   "ko": "아니. 가격은 다시 오를 가능성이 높아."
+  },
+  {
+   "s": 273.46,
+   "e": 279.02,
+   "en": "Experts believe that gold will always be an attractive investment during uncertain times.",
+   "ko": "전문가들은 불확실한 시기에 금은 언제나 매력적인 투자 대상일 거라고 봐."
+  },
+  {
+   "s": 279.02,
+   "e": 283.08,
+   "en": "Let's hear from market strategist John Reade.",
+   "ko": "시장 전략가 존 리드의 이야기를 들어보자."
+  },
+  {
+   "s": 283.08,
+   "e": 286.18,
+   "en": "So much of the world we live in now is ethereal.",
+   "ko": "\"지금 우리가 사는 세상의 상당 부분은 실체가 없어요."
+  },
+  {
+   "s": 286.18,
+   "e": 296.5,
+   "en": "It's... it's virtual, it's online, it disappears, whereas gold is something solid, something dependable and, you know, maybe something a little bit old fashioned.",
+   "ko": "가상이고, 온라인이고, 사라지죠. 반면 금은 단단하고 믿을 수 있는 것, 그리고 어쩌면 조금은 구식인 것이에요."
+  },
+  {
+   "s": 296.5,
+   "e": 302.86,
+   "en": "And maybe it's a hankering for traditional values rather than what is super modern and super changeable.",
+   "ko": "그리고 어쩌면 아주 현대적이고 아주 변하기 쉬운 것보다는 전통적인 가치를 갈망하는 걸 수도 있어요.\""
+  },
+  {
+   "s": 302.86,
+   "e": 307.86,
+   "en": "John says that much of the modern world is ethereal, meaning it doesn't seem real.",
+   "ko": "존은 현대 세계의 상당 부분이 'ethereal'하다고 하는데, 실제처럼 느껴지지 않는다는 뜻이야."
+  },
+  {
+   "s": 307.86,
+   "e": 314.78,
+   "en": "And in this ethereal world, people have a hankering for something that's solid and real, like gold.",
+   "ko": "그리고 이런 실체 없는 세상에서 사람들은 금처럼 단단하고 진짜인 것을 갈망해(have a hankering for)."
+  },
+  {
+   "s": 314.78,
+   "e": 320.06,
+   "en": "And the expression 'a hankering for' means a strong desire for something.",
+   "ko": "'a hankering for'라는 표현은 무언가에 대한 강한 욕구를 뜻해."
+  },
+  {
+   "s": 320.06,
+   "e": 324.16,
+   "en": "OK. Phil, I think it's time for the answer to your quiz question.",
+   "ko": "좋아. 필, 퀴즈 정답을 알려줄 시간인 것 같아."
+  },
+  {
+   "s": 324.16,
+   "e": 330.12,
+   "en": "OK. Well, I asked how much gold has been mined from the ground to date.",
+   "ko": "좋아. 지금까지 땅에서 캐낸 금이 얼마나 되는지 물었지."
+  },
+  {
+   "s": 330.12,
+   "e": 333.28,
+   "en": "I said 200,000 tonnes.",
+   "ko": "나는 20만 톤이라고 했어."
+  },
+  {
+   "s": 333.28,
+   "e": 335.52,
+   "en": "And that is the correct answer!",
+   "ko": "정답이야!"
+  },
+  {
+   "s": 335.52,
+   "e": 340.64,
+   "en": "OK. Let's recap the vocabulary we learnt in this programme, starting with 'asset'.",
+   "ko": "좋아. 이번 프로그램에서 배운 어휘를 복습해 보자. 먼저 'asset'."
+  },
+  {
+   "s": 340.64,
+   "e": 345.56,
+   "en": "And an asset is something of financial value that can be sold for money.",
+   "ko": "'asset'은 돈을 받고 팔 수 있는 금전적 가치가 있는 것이야."
+  },
+  {
+   "s": 345.56,
+   "e": 350.12,
+   "en": "A safe haven is something or somewhere protected from harm or loss.",
+   "ko": "'safe haven'은 해나 손실로부터 보호받는 것이나 곳이야."
+  },
+  {
+   "s": 350.12,
+   "e": 356.0,
+   "en": "To make something out of thin air is an expression meaning to make something from nothing.",
+   "ko": "'make something out of thin air'는 무에서 무언가를 만들어낸다는 뜻의 표현이야."
+  },
+  {
+   "s": 356.0,
+   "e": 363.76,
+   "en": "Alchemy is a kind of ancient chemistry that attempted to do impossible things, like making gold from ordinary metals.",
+   "ko": "'Alchemy'는 평범한 금속으로 금을 만드는 것처럼 불가능한 일을 시도했던 일종의 고대 화학이야."
+  },
+  {
+   "s": 363.76,
+   "e": 367.36,
+   "en": "If something is ethereal, it doesn't seem real.",
+   "ko": "어떤 것이 'ethereal'하다면, 실제처럼 느껴지지 않는 거야."
+  },
+  {
+   "s": 367.36,
+   "e": 372.08,
+   "en": "And if you have a hankering for something, you have a strong desire for it.",
+   "ko": "그리고 무언가에 'a hankering'이 있다면, 그걸 강하게 원하는 거야."
+  },
+  {
+   "s": 372.08,
+   "e": 379.48,
+   "en": "Once again, our six minutes are up, and if you have a hankering for more practice, test what you've learned with the worksheet on our website.",
+   "ko": "이번에도 6분이 다 됐네요. 연습을 더 하고 싶은 마음이 간절하다면, 저희 웹사이트의 워크시트로 배운 내용을 테스트해 보세요."
+  },
+  {
+   "s": 379.48,
+   "e": 382.4,
+   "en": "That's bbclearningenglish.com.",
+   "ko": "bbclearningenglish.com이에요."
+  },
+  {
+   "s": 382.4,
+   "e": 384.32,
+   "en": "Thank you for joining us. Goodbye.",
+   "ko": "함께해 주셔서 고마워요. 안녕히 계세요."
+  },
+  {
+   "s": 384.32,
+   "e": 385.38,
+   "en": "Goodbye!",
+   "ko": "안녕!"
+  }
+ ]
+}

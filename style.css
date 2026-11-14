@@ -1,0 +1,135 @@
+:root {
+  --bg: #f6f5f1; --card: #ffffff; --ink: #1c1c1e; --sub: #6b6b70; --line: #e4e2dc;
+  --accent: #2d6cdf; --accent-soft: #e6eefc; --ko: #8a5a00; --star: #e0a400; --ok: #1f9d55;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #151517; --card: #1f1f22; --ink: #ececee; --sub: #9a9aa2; --line: #2e2e33;
+    --accent: #6b9bff; --accent-soft: #23304a; --ko: #e7b65c; --ok: #4cc38a; }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink);
+  font: 15px/1.55 -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Pretendard", sans-serif; }
+button { font: inherit; color: inherit; background: var(--card); border: 1px solid var(--line);
+  border-radius: 8px; padding: 6px 12px; cursor: pointer; }
+button:hover { border-color: var(--accent); }
+button.primary { background: var(--accent); color: #fff; border-color: var(--accent); }
+button.on { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+a { color: var(--accent); text-decoration: none; }
+
+.top { display: flex; gap: 16px; align-items: center; padding: 12px 20px; border-bottom: 1px solid var(--line);
+  background: var(--card); position: sticky; top: 0; z-index: 5; }
+.logo { font-weight: 700; color: var(--ink); white-space: nowrap; }
+#crumb { color: var(--sub); font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+main { max-width: 1400px; margin: 0 auto; padding: 20px; }
+
+/* home */
+.h2 { font-size: 18px; margin: 8px 0 12px; }
+.course { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 16px; margin-bottom: 14px; }
+.course-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; }
+.course h3 { margin: 0; font-size: 17px; }
+.bar { height: 6px; background: var(--line); border-radius: 3px; margin: 10px 0; overflow: hidden; }
+.bar i { display: block; height: 100%; background: var(--ok); }
+.lessons { list-style: none; margin: 0; padding: 0; }
+.lessons li a { display: flex; gap: 10px; padding: 7px 4px; color: var(--ink); border-top: 1px solid var(--line); }
+.lessons li a:hover { background: var(--accent-soft); }
+.lessons .n { color: var(--sub); width: 28px; text-align: right; flex: none; }
+.lessons .t { flex: 1; }
+.lessons .m { color: var(--sub); font-size: 13px; flex: none; }
+.lessons .done .t { color: var(--sub); }
+.lessons .n { width: 36px; }
+@media (max-width: 640px) {
+  main { padding: 16px; }
+  .lessons li a { flex-wrap: wrap; row-gap: 0; }
+  .lessons .t { flex: 1 1 calc(100% - 46px); }
+  .lessons .m { width: 100%; padding-left: 46px; }
+  .cur-en { font-size: 19px; }
+}
+.lessons .done .n::before { content: "✓ "; color: var(--ok); }
+.empty { background: var(--card); border: 1px dashed var(--line); border-radius: 12px; padding: 24px; color: var(--sub); }
+.empty code { background: var(--bg); padding: 2px 6px; border-radius: 4px; color: var(--ink); }
+.starred li { padding: 8px 0; border-top: 1px solid var(--line); list-style: none; }
+.starred { padding: 0; }
+.starred .ko { color: var(--ko); font-size: 14px; }
+.starred .src { color: var(--sub); font-size: 12px; }
+.starred button { padding: 2px 8px; font-size: 12px; margin-left: 6px; }
+
+/* lesson */
+.lesson { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(320px, 1fr); gap: 20px; align-items: start; }
+@media (max-width: 900px) { .lesson { grid-template-columns: 1fr; } }
+.player-wrap { position: relative; aspect-ratio: 16 / 9; background: #000; border-radius: 12px; overflow: hidden; }
+.player-wrap iframe, #player { position: absolute; inset: 0; width: 100%; height: 100%; }
+.controls { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+.seg { display: inline-flex; }
+.seg button { border-radius: 0; margin-left: -1px; }
+.seg button:first-child { border-radius: 8px 0 0 8px; margin-left: 0; }
+.seg button:last-child { border-radius: 0 8px 8px 0; }
+.current { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 18px 20px; min-height: 110px; }
+.cur-en { font-size: 22px; line-height: 1.4; font-weight: 500; }
+.cur-ko { font-size: 17px; color: var(--ko); margin-top: 6px; }
+.lesson-foot { display: flex; justify-content: space-between; margin-top: 16px; }
+.keys { color: var(--sub); font-size: 12px; }
+
+.right { background: var(--card); border: 1px solid var(--line); border-radius: 12px; overflow: hidden;
+  position: sticky; top: 70px; }
+.script-head { display: flex; justify-content: space-between; padding: 10px 14px; border-bottom: 1px solid var(--line);
+  font-size: 14px; color: var(--sub); }
+.script { position: relative; list-style: none; margin: 0; padding: 0; max-height: calc(100vh - 140px); overflow-y: auto; }
+@media (max-width: 900px) { .right { position: static; } .script { max-height: 60vh; } }
+.script li { padding: 9px 14px 9px 52px; border-bottom: 1px solid var(--line); cursor: pointer; position: relative; }
+.script li:hover { background: var(--accent-soft); }
+.script li.active { background: var(--accent-soft); box-shadow: inset 3px 0 0 var(--accent); }
+.script .tm { position: absolute; left: 10px; top: 11px; font-size: 11px; color: var(--sub); font-variant-numeric: tabular-nums; }
+.script .ko { color: var(--ko); font-size: 14px; }
+.script li.starred-s .tm::after { content: " ★"; color: var(--star); }
+
+.ctrl-bar b { font-weight: normal; margin-right: 4px; }
+.current { margin-top: 12px; }
+button { touch-action: manipulation; -webkit-tap-highlight-color: transparent; }
+@media (hover: none) { .keys { display: none; } button:hover { border-color: var(--line); } }
+
+/* ---------- 휴대폰 ---------- */
+@media (max-width: 900px) {
+  .top { position: static; padding: 10px 16px; padding-top: max(10px, env(safe-area-inset-top)); }
+  #crumb { display: none; }
+  main:has(.lesson) { padding: 0; }
+  .lesson { display: flex; flex-direction: column; align-items: stretch; gap: 0; padding-bottom: calc(76px + env(safe-area-inset-bottom)); }
+  .left { display: contents; }
+  /* 영상 + 현재 문장은 위에 고정 */
+  .stick { position: sticky; top: 0; z-index: 4; background: var(--bg); order: 1; }
+  .player-wrap { border-radius: 0; }
+  .current { margin: 0; border-radius: 0; border-width: 0 0 1px; padding: 10px 16px;
+    min-height: 0; max-height: 26vh; overflow-y: auto; }
+  .cur-en { font-size: 18px; line-height: 1.35; }
+  .cur-ko { font-size: 15px; margin-top: 3px; }
+  .m-ko .cur-ko { font-size: 17px; }
+  /* 자동 스크롤이 켜져 있으면 스크립트의 강조 문장이 바로 아래 보이므로 중복 카드는 숨김 */
+  .following .current { display: none; }
+  .script li.active .en { font-size: 17px; font-weight: 500; }
+  .opts { order: 2; margin: 8px 10px; gap: 6px; flex-wrap: nowrap; justify-content: space-between; }
+  .opts button { padding: 6px 7px; font-size: 13px; white-space: nowrap; }
+  #modes { flex: 1.6; } #rates { flex: 1; }
+  .opts .seg button { flex: 1; }
+  .right { order: 3; border-radius: 0; border-width: 1px 0; }
+  .script-head { padding: 8px 16px; }
+  .script { max-height: none; overflow: visible; }
+  .script li { padding: 12px 16px 12px 54px; }
+  .script li .en { font-size: 16px; }
+  .lesson-foot { order: 4; margin: 16px 12px; gap: 8px; }
+  .lesson-foot button { flex: 1; padding: 12px 8px; }
+  .keys { display: none; }
+  /* 아래 고정 조작 바 */
+  .ctrl-bar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 6; margin: 0; gap: 0; flex-wrap: nowrap;
+    background: var(--card); border-top: 1px solid var(--line); padding: 6px 4px calc(6px + env(safe-area-inset-bottom)); }
+  .ctrl-bar button { flex: 1; border: 0; background: none; display: flex; flex-direction: column; align-items: center;
+    padding: 4px 0; font-size: 11px; color: var(--sub); border-radius: 8px; min-width: 0; }
+  .ctrl-bar button b { font-size: 21px; line-height: 1.2; margin: 0; color: var(--ink); }
+  .ctrl-bar button.on { background: var(--accent-soft); color: var(--accent); }
+  #play b { font-size: 24px; }
+}
+
+/* subtitle modes */
+.m-en .ko, .m-en .cur-ko { display: none; }
+.m-ko .en, .m-ko .cur-en { display: none; }
+.m-ko .cur-ko { font-size: 20px; }
+.m-hide .en, .m-hide .ko, .m-hide .cur-en, .m-hide .cur-ko { filter: blur(7px); user-select: none; transition: filter .15s; }
+.m-hide .revealed .en, .m-hide .revealed .ko, .m-hide .current.revealed div { filter: none; }

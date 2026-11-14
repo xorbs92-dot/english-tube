@@ -1,0 +1,417 @@
+{
+ "videoId": "0W6PymVdXVw",
+ "title": "I enjoy flying ✈️ but airports are stressful 🛄 | Improve your listening with Real Easy English",
+ "channel": "BBC Learning English",
+ "enSource": "manual",
+ "koSource": "claude",
+ "sentences": [
+  {
+   "s": 0.21,
+   "e": 0.96,
+   "en": "Hi Becca.",
+   "ko": "안녕, 베카."
+  },
+  {
+   "s": 0.96,
+   "e": 1.71,
+   "en": "Hi Neil.",
+   "ko": "안녕, 닐."
+  },
+  {
+   "s": 1.71,
+   "e": 2.71,
+   "en": "How are you?",
+   "ko": "잘 지내?"
+  },
+  {
+   "s": 2.71,
+   "e": 5.34,
+   "en": "Have you got any trips coming up soon?",
+   "ko": "곧 여행 갈 일 있어?"
+  },
+  {
+   "s": 5.34,
+   "e": 9.51,
+   "en": "I have. I'm going to Montenegro, which is exciting.",
+   "ko": "있어. 몬테네그로에 가는데, 신나."
+  },
+  {
+   "s": 9.51,
+   "e": 16.18,
+   "en": "I've never been there before, but it means that I have to go to an airport and I have to fly.",
+   "ko": "한 번도 가본 적 없는데, 그러려면 공항에 가서 비행기를 타야 하잖아."
+  },
+  {
+   "s": 16.18,
+   "e": 17.35,
+   "en": "I don't like flying.",
+   "ko": "나는 비행기 타는 게 싫어."
+  },
+  {
+   "s": 17.35,
+   "e": 21.23,
+   "en": "But we're talking about airports today in this episode of Real Easy English.",
+   "ko": "그런데 이번 Real Easy English에서는 공항에 대해 이야기할 거야."
+  },
+  {
+   "s": 21.23,
+   "e": 30.78,
+   "en": "We are. But people need to know that to get a transcript and a worksheet for this episode, they need to go to our website, bbclearningenglish.com.",
+   "ko": "맞아. 그런데 이번 에피소드의 대본과 워크시트를 받으려면 저희 웹사이트 bbclearningenglish.com으로 가셔야 해요."
+  },
+  {
+   "s": 30.78,
+   "e": 32.37,
+   "en": "Absolutely.",
+   "ko": "물론이지."
+  },
+  {
+   "s": 38.37,
+   "e": 44.25,
+   "en": "So, you'll be going to an airport for your holiday, but what happens at an airport, Neil?",
+   "ko": "그러니까 휴가 때문에 공항에 갈 텐데, 공항에서는 무슨 일을 하지, 닐?"
+  },
+  {
+   "s": 44.25,
+   "e": 47.67,
+   "en": "One of the most important things is check in.",
+   "ko": "가장 중요한 것 중 하나가 체크인이야."
+  },
+  {
+   "s": 47.67,
+   "e": 53.68,
+   "en": "Now, 'to check in' is to officially tell the airline that you're going to fly.",
+   "ko": "'check in'은 항공사에 비행기를 탈 거라고 공식적으로 알리는 거야."
+  },
+  {
+   "s": 53.68,
+   "e": 60.44,
+   "en": "Normally, now, we do this online, but you can still check in at the airport, I think.",
+   "ko": "요즘은 보통 온라인으로 하지만, 아직 공항에서도 체크인할 수 있는 것 같아."
+  },
+  {
+   "s": 60.44,
+   "e": 61.52,
+   "en": "Yes, you can. Yeah.",
+   "ko": "응, 할 수 있어."
+  },
+  {
+   "s": 61.52,
+   "e": 63.85,
+   "en": "So, there will be check-in gates.",
+   "ko": "그래서 체크인 카운터가 있지."
+  },
+  {
+   "s": 63.85,
+   "e": 65.44,
+   "en": "It is very important.",
+   "ko": "아주 중요해."
+  },
+  {
+   "s": 65.44,
+   "e": 69.19,
+   "en": "It is, because they give you a boarding pass then, don't they?",
+   "ko": "그렇지, 그때 탑승권을 주잖아, 그렇지?"
+  },
+  {
+   "s": 69.19,
+   "e": 69.78,
+   "en": "They do.",
+   "ko": "맞아."
+  },
+  {
+   "s": 69.78,
+   "e": 80.25,
+   "en": "The boarding pass is the document that lets you get on the plane and also tells you what seat that you have on the plane as well.",
+   "ko": "탑승권(boarding pass)은 비행기에 탈 수 있게 해주는 서류고, 비행기에서 어느 좌석인지도 알려줘."
+  },
+  {
+   "s": 80.25,
+   "e": 84.13,
+   "en": "So, you've checked in and you've got your boarding pass.",
+   "ko": "그럼 체크인하고 탑승권을 받았어."
+  },
+  {
+   "s": 84.13,
+   "e": 85.79,
+   "en": "What happens next?",
+   "ko": "그다음엔 뭘 해?"
+  },
+  {
+   "s": 85.79,
+   "e": 96.47,
+   "en": "Well, then you need to go through security, and that's when they check you to make sure you haven't got anything that you shouldn't have on a plane.",
+   "ko": "음, 그다음엔 보안 검색을 통과해야 해. 비행기에 가지고 타면 안 되는 물건이 없는지 확인하는 거야."
+  },
+  {
+   "s": 96.47,
+   "e": 100.43,
+   "en": "I hate airport security.",
+   "ko": "나는 공항 보안 검색이 정말 싫어."
+  },
+  {
+   "s": 100.43,
+   "e": 109.48,
+   "en": "Even though I know that I'm not carrying anything that I'm not supposed to have, it still makes me feel a bit stressed.",
+   "ko": "가지고 있으면 안 되는 걸 안 가지고 있다는 걸 알면서도, 여전히 좀 스트레스 받아."
+  },
+  {
+   "s": 109.48,
+   "e": 111.15,
+   "en": "Yeah, I know what you mean.",
+   "ko": "응, 무슨 말인지 알아."
+  },
+  {
+   "s": 111.15,
+   "e": 113.86,
+   "en": "You feel guilty even if you haven't done anything.",
+   "ko": "아무것도 안 했는데도 괜히 죄책감이 들지."
+  },
+  {
+   "s": 113.86,
+   "e": 115.87,
+   "en": "Exactly!",
+   "ko": "바로 그거야!"
+  },
+  {
+   "s": 115.87,
+   "e": 121.45,
+   "en": "Yeah, airport security is one of the reasons I don't really enjoy airports.",
+   "ko": "응, 보안 검색은 내가 공항을 별로 안 좋아하는 이유 중 하나야."
+  },
+  {
+   "s": 121.45,
+   "e": 123.46,
+   "en": "Really? You don't like airports?",
+   "ko": "정말? 공항 안 좋아해?"
+  },
+  {
+   "s": 123.46,
+   "e": 124.46,
+   "en": "I don't like airports.",
+   "ko": "공항 안 좋아해."
+  },
+  {
+   "s": 124.46,
+   "e": 126.63,
+   "en": "I enjoy flying but...",
+   "ko": "비행기 타는 건 좋은데..."
+  },
+  {
+   "s": 126.63,
+   "e": 130.05,
+   "en": "yeah, airports can be a bit stressful for me.",
+   "ko": "응, 공항은 좀 스트레스 받아."
+  },
+  {
+   "s": 130.05,
+   "e": 138.22,
+   "en": "Well, I'm the exact opposite of you because I quite like airports, but I really don't like flying.",
+   "ko": "나는 너랑 완전 반대야. 공항은 꽤 좋아하는데, 비행기 타는 건 정말 싫어."
+  },
+  {
+   "s": 138.22,
+   "e": 140.43,
+   "en": "What do you like about airports?",
+   "ko": "공항의 어떤 점이 좋아?"
+  },
+  {
+   "s": 140.43,
+   "e": 148.9,
+   "en": "I think because when you finally get to the airport, it's somebody else's problem for you to travel.",
+   "ko": "공항에 일단 도착하면, 그다음 이동은 다른 사람이 신경 쓸 문제니까 그런 것 같아."
+  },
+  {
+   "s": 148.9,
+   "e": 156.66,
+   "en": "So, it's my responsibility to get to the airport but once I'm there, I can relax.",
+   "ko": "그러니까 공항까지 가는 건 내 책임이지만, 일단 도착하면 마음 놓을 수 있어."
+  },
+  {
+   "s": 156.66,
+   "e": 167.5,
+   "en": "OK. And have you ever been in a situation where you relaxed a bit too much and almost missed a flight?",
+   "ko": "그렇구나. 그럼 너무 마음을 놓다가 비행기를 놓칠 뻔한 적은 있어?"
+  },
+  {
+   "s": 167.5,
+   "e": 173.22,
+   "en": "Yes, I have missed a flight once and it was very stressful.",
+   "ko": "응, 한 번 비행기를 놓친 적이 있는데 엄청 스트레스였어."
+  },
+  {
+   "s": 173.22,
+   "e": 181.35,
+   "en": "I was travelling in Ireland and I had a flight in Dublin, and I was in a different city – in Cork.",
+   "ko": "아일랜드를 여행 중이었는데, 더블린에서 비행기를 타야 했고 나는 다른 도시인 코크에 있었어."
+  },
+  {
+   "s": 181.35,
+   "e": 189.48,
+   "en": "And I missed the train from Cork to Dublin and so I couldn't get to the airport on time.",
+   "ko": "그런데 코크에서 더블린 가는 기차를 놓쳐서 제시간에 공항에 못 갔어."
+  },
+  {
+   "s": 189.48,
+   "e": 191.07,
+   "en": "So, you did miss that flight?",
+   "ko": "그래서 그 비행기를 놓쳤어?"
+  },
+  {
+   "s": 191.07,
+   "e": 191.98,
+   "en": "I missed it.",
+   "ko": "놓쳤어."
+  },
+  {
+   "s": 191.98,
+   "e": 193.4,
+   "en": "Oh no!",
+   "ko": "아이고!"
+  },
+  {
+   "s": 193.4,
+   "e": 196.9,
+   "en": "So, Becca, have you ever missed a flight?",
+   "ko": "베카, 너는 비행기 놓친 적 있어?"
+  },
+  {
+   "s": 196.91,
+   "e": 200.83,
+   "en": "Thankfully, no, I haven't missed a flight.",
+   "ko": "다행히 비행기를 놓친 적은 없어."
+  },
+  {
+   "s": 200.83,
+   "e": 203.91,
+   "en": "I was very close to missing a flight...",
+   "ko": "놓칠 뻔한 적은 있어..."
+  },
+  {
+   "s": 203.91,
+   "e": 206.41,
+   "en": "I was just relaxing.",
+   "ko": "그냥 쉬고 있었거든."
+  },
+  {
+   "s": 206.41,
+   "e": 214.97,
+   "en": "I had travelled from Vietnam and I was really tired, so I wasn't really listening carefully.",
+   "ko": "베트남에서 오는 길이라 너무 피곤해서 안내 방송을 제대로 안 듣고 있었어."
+  },
+  {
+   "s": 214.97,
+   "e": 223.68,
+   "en": "Well, they didn't call my name, so I was really stressed trying to find the gate, but luckily I caught it.",
+   "ko": "내 이름을 부르진 않았지만, 탑승구 찾느라 엄청 스트레스 받았는데 다행히 탔어."
+  },
+  {
+   "s": 223.68,
+   "e": 229.98,
+   "en": "I think I was the last person to board the plane, and that's always a little bit embarrassing as well.",
+   "ko": "아마 마지막으로 탑승한 사람이었을 거야. 그것도 항상 좀 민망하지."
+  },
+  {
+   "s": 229.98,
+   "e": 231.15,
+   "en": "You know what, Becca?",
+   "ko": "있잖아, 베카?"
+  },
+  {
+   "s": 231.15,
+   "e": 244.45,
+   "en": "I think if you get your name read out on the loudspeaker in an airport, that's really embarrassing because everyone in the airport is thinking, Who's that person?",
+   "ko": "공항 스피커로 내 이름이 불리면 정말 창피할 것 같아. 공항에 있는 모두가 '저 사람 누구야?' 하고 생각하잖아."
+  },
+  {
+   "s": 244.45,
+   "e": 246.87,
+   "en": "That person who's going to miss their flight!",
+   "ko": "비행기 놓치게 생긴 저 사람!"
+  },
+  {
+   "s": 246.87,
+   "e": 250.17,
+   "en": "And you don't want to be that person.",
+   "ko": "그런 사람이 되고 싶진 않지."
+  },
+  {
+   "s": 255.88,
+   "e": 262.47,
+   "en": "OK. Becca, it's time to recap the vocabulary that we used in this episode, starting with 'check in'.",
+   "ko": "좋아. 베카, 이번 에피소드에서 쓴 어휘를 복습할 시간이야. 먼저 'check in'."
+  },
+  {
+   "s": 262.47,
+   "e": 271.77,
+   "en": "'Check in' is the verb, which means you officially tell the plane company that you plan to get on the plane, and you give them your bags as well.",
+   "ko": "'Check in'은 동사인데, 항공사에 비행기에 탈 계획이라고 공식적으로 알리고 짐도 맡기는 걸 뜻해."
+  },
+  {
+   "s": 271.77,
+   "e": 276.36,
+   "en": "And at the airport you do this at the check-in desk.",
+   "ko": "공항에서는 체크인 카운터(check-in desk)에서 해."
+  },
+  {
+   "s": 276.36,
+   "e": 283.62,
+   "en": "Yes. And at the check-in desk, that's where you get your boarding pass, and that's the ticket that you need to get on the plane.",
+   "ko": "맞아. 그리고 체크인 카운터에서 탑승권을 받는데, 비행기에 타려면 꼭 필요한 표야."
+  },
+  {
+   "s": 283.62,
+   "e": 287.79,
+   "en": "And then we heard the expression 'go through security'.",
+   "ko": "그다음엔 'go through security'라는 표현을 들었지."
+  },
+  {
+   "s": 287.79,
+   "e": 296.67,
+   "en": "If you go through security, you go through that area where they check and make sure you have nothing with you that should not be on a plane.",
+   "ko": "'go through security'는 비행기에 있으면 안 되는 물건이 없는지 확인하는 구역을 통과하는 거야."
+  },
+  {
+   "s": 296.67,
+   "e": 301.51,
+   "en": "Yes. Going through security – my least favourite thing about airports.",
+   "ko": "맞아. 보안 검색 통과하기, 공항에서 내가 제일 싫어하는 거."
+  },
+  {
+   "s": 301.51,
+   "e": 308.89,
+   "en": "After security, you wait at the boarding gate and this is the area that you wait at before you get on the plane.",
+   "ko": "보안 검색이 끝나면 탑승구(boarding gate)에서 기다리는데, 비행기에 타기 전에 기다리는 곳이야."
+  },
+  {
+   "s": 308.89,
+   "e": 321.7,
+   "en": "If you catch a flight, it means you successfully get on the plane and fly somewhere, but if you miss a flight, like I did in Ireland, it means that you were too late to get on the plane.",
+   "ko": "'catch a flight'는 비행기를 제대로 타고 어딘가로 가는 거고, 내가 아일랜드에서 그랬던 것처럼 'miss a flight'는 너무 늦어서 비행기를 못 탔다는 뜻이야."
+  },
+  {
+   "s": 321.7,
+   "e": 328.95,
+   "en": "Well, Neil, that's it for this week's episode of Real Easy English, but we'll be back next week with another episode.",
+   "ko": "닐, 이번 주 Real Easy English는 여기까지고, 다음 주에 새 에피소드로 돌아올게요."
+  },
+  {
+   "s": 328.95,
+   "e": 334.83,
+   "en": "Don't forget that you can download a free worksheet on our website, bbclearningenglish.com.",
+   "ko": "웹사이트 bbclearningenglish.com에서 무료 워크시트를 받을 수 있다는 것도 잊지 마세요."
+  },
+  {
+   "s": 334.83,
+   "e": 335.67,
+   "en": "Goodbye for now.",
+   "ko": "그럼 이만."
+  },
+  {
+   "s": 335.67,
+   "e": 336.59,
+   "en": "Bye!",
+   "ko": "안녕!"
+  }
+ ]
+}

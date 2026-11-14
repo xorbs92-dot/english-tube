@@ -1,0 +1,423 @@
+{
+ "videoId": "sv9DItmJvlI",
+ "title": "How do climate scientists make predictions? ⏲️ 6 Minute English",
+ "channel": "BBC Learning English",
+ "enSource": "manual",
+ "koSource": "none",
+ "sentences": [
+  {
+   "s": 7.84,
+   "e": 12.52,
+   "en": "Hello, this is 6 Minute English from BBC Learning English. I'm Phil.",
+   "ko": ""
+  },
+  {
+   "s": 12.52,
+   "e": 13.84,
+   "en": "And I'm Pippa.",
+   "ko": ""
+  },
+  {
+   "s": 13.84,
+   "e": 19.84,
+   "en": "This summer is becoming one of the hottest ever with heatwaves across Europe.",
+   "ko": ""
+  },
+  {
+   "s": 19.84,
+   "e": 29.44,
+   "en": "Here in the UK, a new record for the highest June temperature was set at a sweltering 37.7°C.",
+   "ko": ""
+  },
+  {
+   "s": 29.44,
+   "e": 34.2,
+   "en": "It seems that year after year, temperatures are going up.",
+   "ko": ""
+  },
+  {
+   "s": 34.2,
+   "e": 50.96,
+   "en": "In 2015, the COP21 summit agreed to limit global warming to 1.5°C, but since then research shows temperatures exceeding that, leading to warnings of catastrophic damage to Earth's life support systems.",
+   "ko": ""
+  },
+  {
+   "s": 50.96,
+   "e": 57.28,
+   "en": "In this episode, we'll be discussing how hot the planet could get, using some useful new vocabulary.",
+   "ko": ""
+  },
+  {
+   "s": 57.28,
+   "e": 63.8,
+   "en": "And remember, you'll find a free transcript to read along with on our website, bbclearningenglish.com.",
+   "ko": ""
+  },
+  {
+   "s": 63.8,
+   "e": 66.64,
+   "en": "But first, I have a question for you, Phil.",
+   "ko": ""
+  },
+  {
+   "s": 66.64,
+   "e": 77.92,
+   "en": "Scientists monitor climate change using the Earth's energy imbalance – the difference between the solar energy entering the Earth's atmosphere and the radiation going back out into space.",
+   "ko": ""
+  },
+  {
+   "s": 77.92,
+   "e": 80.68,
+   "en": "But which unit do scientists use for this?",
+   "ko": ""
+  },
+  {
+   "s": 80.68,
+   "e": 87.8,
+   "en": "Is it: a) Fahrenheit, b) Watts per square metre, or c) Joules?",
+   "ko": ""
+  },
+  {
+   "s": 87.8,
+   "e": 93.16,
+   "en": "Ooh, I know Joules is something to do with energy, so I'm going to go with c).",
+   "ko": ""
+  },
+  {
+   "s": 93.16,
+   "e": 100.2,
+   "en": "Well, we'll find out the answer at the end of the programme, although careful listeners might hear the answer sooner.",
+   "ko": ""
+  },
+  {
+   "s": 100.2,
+   "e": 101.0,
+   "en": "Ooh!",
+   "ko": ""
+  },
+  {
+   "s": 101.0,
+   "e": 102.56,
+   "en": "Yes, exciting!",
+   "ko": ""
+  },
+  {
+   "s": 102.56,
+   "e": 107.56,
+   "en": "So, how do scientists calculate the effects of climate change in the first place?",
+   "ko": ""
+  },
+  {
+   "s": 107.56,
+   "e": 109.68,
+   "en": "The answer is with models.",
+   "ko": ""
+  },
+  {
+   "s": 109.68,
+   "e": 117.56,
+   "en": "Huge amounts of physical and chemical data are fed into supercomputers, which then paint pictures of possible futures on Earth.",
+   "ko": ""
+  },
+  {
+   "s": 117.56,
+   "e": 125.76,
+   "en": "But, as NASA climate scientist Kate Marvel explained to BBC World Service programme The Climate Question, nothing is certain.",
+   "ko": ""
+  },
+  {
+   "s": 125.76,
+   "e": 129.24,
+   "en": "Climate models don't make predictions – they make projections.",
+   "ko": ""
+  },
+  {
+   "s": 129.24,
+   "e": 135.2,
+   "en": "Predictions are saying this is what will happen and a projection is conditional.",
+   "ko": ""
+  },
+  {
+   "s": 135.2,
+   "e": 138.8,
+   "en": "A projection is: If we do this, then this will happen.",
+   "ko": ""
+  },
+  {
+   "s": 138.8,
+   "e": 141.2,
+   "en": "Climate models don't make predictions.",
+   "ko": ""
+  },
+  {
+   "s": 141.2,
+   "e": 143.84,
+   "en": "Those are statements about what's likely to happen.",
+   "ko": ""
+  },
+  {
+   "s": 143.84,
+   "e": 150.76,
+   "en": "Instead, they make projections about different possible futures, and these depend on many things.",
+   "ko": ""
+  },
+  {
+   "s": 150.76,
+   "e": 157.24,
+   "en": "In other words, climate models are conditional, meaning that they depend on other factors.",
+   "ko": ""
+  },
+  {
+   "s": 157.24,
+   "e": 163.6,
+   "en": "The main factor in climate change, of course, is human activity, especially greenhouse gas emissions.",
+   "ko": ""
+  },
+  {
+   "s": 163.6,
+   "e": 167.04,
+   "en": "Another influence on climate models is clouds.",
+   "ko": ""
+  },
+  {
+   "s": 167.04,
+   "e": 177.2,
+   "en": "We usually associate hot summers with cloudless blue skies, but in fact clouds play a big part in the climate, as Kate Marvel explained to the BBC World Service.",
+   "ko": ""
+  },
+  {
+   "s": 177.2,
+   "e": 181.48,
+   "en": "So, the thing about clouds is that they have this dual effect.",
+   "ko": ""
+  },
+  {
+   "s": 181.48,
+   "e": 188.88,
+   "en": "They both cool the planet by blocking sunlight, and they warm the planet because they have their own greenhouse effect.",
+   "ko": ""
+  },
+  {
+   "s": 188.88,
+   "e": 199.4,
+   "en": "Right now, the unit that scientists use to measure the energy imbalance of the planet – how much it's out of whack – is Watts, like in a light bulb, per square metre.",
+   "ko": ""
+  },
+  {
+   "s": 199.4,
+   "e": 203.76,
+   "en": "Kate starts by saying, The thing about clouds is.",
+   "ko": ""
+  },
+  {
+   "s": 203.76,
+   "e": 211.24,
+   "en": "She uses the expression 'the thing about' to introduce the most important detail about something.",
+   "ko": ""
+  },
+  {
+   "s": 211.24,
+   "e": 219.0,
+   "en": "Here, that detail is that clouds both cool the planet by blocking sunlight, but also warm it by trapping heat.",
+   "ko": ""
+  },
+  {
+   "s": 219.0,
+   "e": 225.2,
+   "en": "So, climate models monitor clouds to accurately measure how much the Earth is out of whack.",
+   "ko": ""
+  },
+  {
+   "s": 225.2,
+   "e": 229.92,
+   "en": "If something is out of whack, it's out of balance and not working properly.",
+   "ko": ""
+  },
+  {
+   "s": 229.92,
+   "e": 234.08,
+   "en": "Hmm. Climate models sound very complicated to me, Pippa.",
+   "ko": ""
+  },
+  {
+   "s": 234.08,
+   "e": 239.84,
+   "en": "For one thing, how can you monitor clouds which are constantly moving and changing?",
+   "ko": ""
+  },
+  {
+   "s": 239.84,
+   "e": 246.76,
+   "en": "Yeah. And how much information from around the world would the supercomputers need to make accurate projections?",
+   "ko": ""
+  },
+  {
+   "s": 246.76,
+   "e": 254.44,
+   "en": "It's a concern that BBC presenter Graihagh Jackson raised with Kate Marvel for BBC World Service programme The Climate Question.",
+   "ko": ""
+  },
+  {
+   "s": 254.44,
+   "e": 260.32,
+   "en": "Surely we need to know the trajectory we're heading in, in order to adapt.",
+   "ko": ""
+  },
+  {
+   "s": 260.32,
+   "e": 261.48,
+   "en": "Oh absolutely.",
+   "ko": ""
+  },
+  {
+   "s": 261.48,
+   "e": 263.52,
+   "en": "You know, I am very pro-science.",
+   "ko": ""
+  },
+  {
+   "s": 263.52,
+   "e": 270.2,
+   "en": "I am very pro-doing science because no climate change is unfortunately not on the table.",
+   "ko": ""
+  },
+  {
+   "s": 270.2,
+   "e": 272.92,
+   "en": "Kate is very pro-science.",
+   "ko": ""
+  },
+  {
+   "s": 272.92,
+   "e": 277.2,
+   "en": "If you're pro-something, it means you're in favour of it.",
+   "ko": ""
+  },
+  {
+   "s": 277.2,
+   "e": 288.96,
+   "en": "Models are complex, but they're necessary because unfortunately no climate change at all is not on the table, and that's an idiom, meaning it's not an option.",
+   "ko": ""
+  },
+  {
+   "s": 288.96,
+   "e": 291.48,
+   "en": "If all this sounds a bit depressing.",
+   "ko": ""
+  },
+  {
+   "s": 291.48,
+   "e": 294.16,
+   "en": "Kate's final message is more hopeful.",
+   "ko": ""
+  },
+  {
+   "s": 294.16,
+   "e": 303.92,
+   "en": "Climate models prove beyond doubt that the problem of global warming is created by humans, so we know beyond doubt that the solution is also in our hands.",
+   "ko": ""
+  },
+  {
+   "s": 303.92,
+   "e": 311.32,
+   "en": "Now, Pippa, careful listeners might already know, but go ahead and reveal the correct answer to your question.",
+   "ko": ""
+  },
+  {
+   "s": 311.32,
+   "e": 316.88,
+   "en": "Yes. I asked you, Which unit do scientists use to measure the Earth's energy imbalance?",
+   "ko": ""
+  },
+  {
+   "s": 316.88,
+   "e": 319.32,
+   "en": "And the answer was Watts per square metre.",
+   "ko": ""
+  },
+  {
+   "s": 319.32,
+   "e": 320.8,
+   "en": "And I didn't know that, Phil.",
+   "ko": ""
+  },
+  {
+   "s": 320.8,
+   "e": 324.96,
+   "en": "Right, it's time to recap the vocabulary we heard during this programme.",
+   "ko": ""
+  },
+  {
+   "s": 324.96,
+   "e": 329.2,
+   "en": "A prediction is a statement about what you think will happen in the future.",
+   "ko": ""
+  },
+  {
+   "s": 329.2,
+   "e": 333.6,
+   "en": "The adjective 'conditional' means depending on other factors.",
+   "ko": ""
+  },
+  {
+   "s": 333.6,
+   "e": 340.52,
+   "en": "You can use the informal expression 'the thing about' to introduce the most important feature or detail of something.",
+   "ko": ""
+  },
+  {
+   "s": 340.52,
+   "e": 345.6,
+   "en": "The phrase 'out of whack' means out of balance and not working properly.",
+   "ko": ""
+  },
+  {
+   "s": 345.6,
+   "e": 348.76,
+   "en": "If you're pro-something, you're in favour of it.",
+   "ko": ""
+  },
+  {
+   "s": 348.76,
+   "e": 353.08,
+   "en": "And if something is not on the table, it's not an option.",
+   "ko": ""
+  },
+  {
+   "s": 353.08,
+   "e": 355.12,
+   "en": "It's not available to us.",
+   "ko": ""
+  },
+  {
+   "s": 355.12,
+   "e": 358.12,
+   "en": "That's the end of this episode of 6 Minute English.",
+   "ko": ""
+  },
+  {
+   "s": 358.12,
+   "e": 362.16,
+   "en": "Find a worksheet and quiz on our website to test what you've learned.",
+   "ko": ""
+  },
+  {
+   "s": 362.16,
+   "e": 366.12,
+   "en": "We'll be back next week with another episode, so make sure you don't miss it.",
+   "ko": ""
+  },
+  {
+   "s": 366.12,
+   "e": 367.2,
+   "en": "Bye for now.",
+   "ko": ""
+  },
+  {
+   "s": 367.2,
+   "e": 368.12,
+   "en": "Bye!",
+   "ko": ""
+  }
+ ]
+}

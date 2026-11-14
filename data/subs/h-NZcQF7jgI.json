@@ -1,0 +1,417 @@
+{
+ "videoId": "h-NZcQF7jgI",
+ "title": "Learning from different generations ⏲️ 6 Minute English",
+ "channel": "BBC Learning English",
+ "enSource": "manual",
+ "koSource": "claude",
+ "sentences": [
+  {
+   "s": 0.16,
+   "e": 1.02,
+   "en": "Hi Georgie.",
+   "ko": "안녕, 조지."
+  },
+  {
+   "s": 1.02,
+   "e": 1.88,
+   "en": "Hi Phil.",
+   "ko": "안녕, 필."
+  },
+  {
+   "s": 1.88,
+   "e": 9.0,
+   "en": "So, Georgie, do you often spend time with people who are much older than you or much younger than you?",
+   "ko": "조지, 너는 너보다 훨씬 나이가 많거나 훨씬 어린 사람들이랑 자주 시간을 보내?"
+  },
+  {
+   "s": 9.0,
+   "e": 16.8,
+   "en": "I do, actually, because I'm in a choir, so there's quite a wide range of ages – lots of older people, lots of younger people.",
+   "ko": "응, 사실 그래. 합창단에 있거든. 그래서 나이대가 꽤 다양해. 나이 많은 분들도 많고 젊은 사람들도 많아."
+  },
+  {
+   "s": 16.8,
+   "e": 21.04,
+   "en": "We can call an age group of people a generation.",
+   "ko": "비슷한 나이대의 사람들을 '세대(generation)'라고 부를 수 있지."
+  },
+  {
+   "s": 21.04,
+   "e": 28.0,
+   "en": "And you might feel that it's difficult to understand or agree with people from a different generation.",
+   "ko": "그리고 다른 세대 사람들을 이해하거나 그들과 생각이 맞기가 어렵다고 느낄 수도 있어."
+  },
+  {
+   "s": 28.0,
+   "e": 41.12,
+   "en": "Today on 6 Minute English, we're going to be finding out about a project that is gathering together the oldest people – that's those that are retired – with the youngest, and that's children who attend nursery.",
+   "ko": "오늘 6 Minute English에서는 가장 나이 많은 사람들, 즉 은퇴한 분들과 가장 어린 사람들, 즉 어린이집에 다니는 아이들을 한데 모으는 프로젝트에 대해 알아볼 거예요."
+  },
+  {
+   "s": 41.12,
+   "e": 47.58,
+   "en": "And we'll be asking the question, What can we learn from different generations?",
+   "ko": "그리고 이런 질문을 던져볼 거예요. 다른 세대로부터 우리는 무엇을 배울 수 있을까요?"
+  },
+  {
+   "s": 50.32,
+   "e": 53.24,
+   "en": "Let's start with our quiz question, Georgie.",
+   "ko": "퀴즈 문제부터 시작해 보자, 조지."
+  },
+  {
+   "s": 53.24,
+   "e": 58.76,
+   "en": "What generation would someone born in 1982 be in?",
+   "ko": "1982년생은 어느 세대에 속할까?"
+  },
+  {
+   "s": 58.76,
+   "e": 66.98,
+   "en": "Is it: a) Generation X, b) Millennial, or c) Gen Z.",
+   "ko": "a) X세대, b) 밀레니얼, c) Z세대 중 어느 걸까?"
+  },
+  {
+   "s": 66.98,
+   "e": 70.74,
+   "en": "Phil, I'm going to go with Generation X.",
+   "ko": "필, 나는 X세대로 할게."
+  },
+  {
+   "s": 70.74,
+   "e": 74.68,
+   "en": "OK. Well, we will find out the answer at the end of the programme.",
+   "ko": "좋아. 정답은 프로그램 끝에 알아보자."
+  },
+  {
+   "s": 74.68,
+   "e": 82.16,
+   "en": "OK. Phil, so you said we're going to look at a project which gets small children interacting with older retired people.",
+   "ko": "좋아. 필, 어린아이들이 은퇴한 어르신들과 어울리게 하는 프로젝트를 살펴본다고 했지."
+  },
+  {
+   "s": 82.16,
+   "e": 83.8,
+   "en": "So, how does it work?",
+   "ko": "그래서, 어떻게 운영되는 거야?"
+  },
+  {
+   "s": 83.8,
+   "e": 91.08,
+   "en": "Well, in Chester, in the northwest of England, a nursery has opened up in a retirement village.",
+   "ko": "음, 잉글랜드 북서부 체스터에서 한 어린이집이 은퇴자 마을 안에 문을 열었어."
+  },
+  {
+   "s": 91.08,
+   "e": 98.28,
+   "en": "There's the usual nursery staff to look after the children, but the older residents can join in for activities as well.",
+   "ko": "아이들을 돌보는 일반 어린이집 직원들이 있지만, 나이 든 주민들도 활동에 함께 참여할 수 있어."
+  },
+  {
+   "s": 98.28,
+   "e": 112.56,
+   "en": "There's a library, a cafeteria and a garden for the children and the older people to share, and some of the older people or 'grand-friends', as the children call them, lead some of the activities, like dance or crafts.",
+   "ko": "아이들과 어르신들이 함께 쓰는 도서관, 카페테리아, 정원이 있고, 아이들이 '할머니 할아버지 친구(grand-friends)'라고 부르는 어르신들 일부는 춤이나 공예 같은 활동을 직접 이끌기도 해."
+  },
+  {
+   "s": 112.56,
+   "e": 123.04,
+   "en": "And presenter of BBC World Service podcast People Fixing the World, Myra Anubi, went to visit the special nursery and spoke to some of the participants.",
+   "ko": "BBC 월드 서비스 팟캐스트 'People Fixing the World'의 진행자 마이라 아누비가 이 특별한 어린이집을 방문해서 참가자들과 이야기를 나눴어."
+  },
+  {
+   "s": 123.04,
+   "e": 128.84,
+   "en": "Ian was once a fighter pilot, and getting involved in the nursery has helped him fill a void.",
+   "ko": "이언은 한때 전투기 조종사였는데, 어린이집 활동에 참여하면서 마음의 빈자리를 채울 수 있었어요."
+  },
+  {
+   "s": 128.84,
+   "e": 131.44,
+   "en": "It was after my wife died last year.",
+   "ko": "작년에 아내가 세상을 떠난 뒤였어요."
+  },
+  {
+   "s": 131.44,
+   "e": 134.76,
+   "en": "It seemed I had a big, big hole to fill.",
+   "ko": "채워야 할 아주, 아주 큰 구멍이 생긴 것 같았죠."
+  },
+  {
+   "s": 134.76,
+   "e": 142.2,
+   "en": "And the people down in the nursery, they phoned me up and said, We were doing such and such a thing.",
+   "ko": "그런데 어린이집 사람들이 전화를 해서 이러더라고요. \"저희가 이러저러한 걸 하고 있어요."
+  },
+  {
+   "s": 142.2,
+   "e": 144.64,
+   "en": "Why don't you come and join us?",
+   "ko": "와서 함께하시지 않을래요?\""
+  },
+  {
+   "s": 144.64,
+   "e": 146.72,
+   "en": "And that's what I've been doing.",
+   "ko": "그래서 그렇게 하고 있는 거예요."
+  },
+  {
+   "s": 146.72,
+   "e": 150.04,
+   "en": "So, yes, and I've enjoyed it.",
+   "ko": "그래요, 정말 즐거웠어요."
+  },
+  {
+   "s": 150.04,
+   "e": 154.6,
+   "en": "And I find it very interesting to see how they develop.",
+   "ko": "아이들이 커가는 모습을 보는 게 아주 흥미로워요."
+  },
+  {
+   "s": 154.6,
+   "e": 159.62,
+   "en": "One of the things I heard from the grapevine is that you help the children make paper planes.",
+   "ko": "소문으로 들었는데, 아이들이 종이비행기 만드는 걸 도와주신다면서요."
+  },
+  {
+   "s": 159.62,
+   "e": 160.38,
+   "en": "That's right.",
+   "ko": "맞아요."
+  },
+  {
+   "s": 160.38,
+   "e": 165.8,
+   "en": "Myra says that the nursery helped Ian fill a void after his wife sadly died.",
+   "ko": "마이라는 이언의 아내가 안타깝게 세상을 떠난 뒤 어린이집이 그의 빈자리를 채워줬다고 말해."
+  },
+  {
+   "s": 165.8,
+   "e": 170.44,
+   "en": "If you fill a void, you find something to help you feel better after a loss.",
+   "ko": "'fill a void'는 무언가를 잃은 뒤 기분이 나아지도록 도와주는 걸 찾는다는 뜻이야."
+  },
+  {
+   "s": 170.44,
+   "e": 180.72,
+   "en": "Ian explains that after his wife died, staff at the nursery would phone him to tell him about the daily activities, which he refers to as such and such.",
+   "ko": "이언은 아내가 세상을 떠난 뒤 어린이집 직원들이 전화를 걸어 그날그날의 활동을 알려줬다고 설명하는데, 그걸 'such and such'라고 표현하지."
+  },
+  {
+   "s": 180.72,
+   "e": 186.16,
+   "en": "And that's an expression that we use to talk about something without giving a specific example.",
+   "ko": "그건 구체적인 예를 들지 않고 무언가를 말할 때 쓰는 표현이야."
+  },
+  {
+   "s": 186.16,
+   "e": 196.64,
+   "en": "It sounds like Ian has enjoyed spending time with the children at the nursery, and Myra tells him she's heard from the grapevine that he's been teaching the children to make paper planes.",
+   "ko": "이언은 어린이집에서 아이들과 보내는 시간을 즐긴 것 같고, 마이라는 그가 아이들에게 종이비행기 만드는 법을 가르친다는 이야기를 소문으로(from the grapevine) 들었다고 하지."
+  },
+  {
+   "s": 196.64,
+   "e": 202.18,
+   "en": "Yes, 'hear from the grapevine' is an expression, meaning that something is a rumour.",
+   "ko": "맞아, 'hear from the grapevine'은 어떤 게 소문이라는 뜻의 표현이야."
+  },
+  {
+   "s": 202.18,
+   "e": 204.86,
+   "en": "And we also say 'hear on the grapevine'.",
+   "ko": "'hear on the grapevine'이라고도 해."
+  },
+  {
+   "s": 204.86,
+   "e": 208.62,
+   "en": "Well, this nursery sounds like a really lovely project, Phil.",
+   "ko": "이 어린이집 정말 멋진 프로젝트 같다, 필."
+  },
+  {
+   "s": 208.62,
+   "e": 212.26,
+   "en": "What is the impact it's having on the older and younger people?",
+   "ko": "어르신들과 아이들에게 어떤 영향을 주고 있어?"
+  },
+  {
+   "s": 212.26,
+   "e": 224.66,
+   "en": "Well, the charity Ready Generations, which runs the nursery, says it works with universities to study the effects of mixing generations on health and wellbeing, and they say they've seen positive results.",
+   "ko": "어린이집을 운영하는 자선단체 '레디 제너레이션스'는 대학들과 함께 세대가 어울리는 것이 건강과 행복에 미치는 영향을 연구하고 있는데, 긍정적인 결과를 확인했대."
+  },
+  {
+   "s": 224.66,
+   "e": 240.58,
+   "en": "And there have been studies around the world on projects that encourage different generations to mix, and they found that they can help reduce loneliness, improve how healthy and well people feel, and even boost learning and creativity.",
+   "ko": "그리고 전 세계적으로 여러 세대의 교류를 장려하는 프로젝트들에 대한 연구가 있었는데, 외로움을 줄이고 사람들이 느끼는 건강과 행복감을 높이며, 학습과 창의성까지 높일 수 있다는 결과가 나왔어."
+  },
+  {
+   "s": 240.58,
+   "e": 250.38,
+   "en": "People Fixing the World host Myra spoke to Liz Ludden, co-founder of the nursery in Chester, about the differences that she's noticed since it opened.",
+   "ko": "'People Fixing the World' 진행자 마이라는 체스터 어린이집의 공동 설립자 리즈 러든과 개원 이후 그녀가 느낀 변화에 대해 이야기를 나눴어."
+  },
+  {
+   "s": 250.38,
+   "e": 255.62,
+   "en": "And as I realised, these interactions also seem to be breaking down stereotypes.",
+   "ko": "그리고 제가 깨달은 건, 이런 교류가 고정관념도 깨고 있는 것 같다는 거예요."
+  },
+  {
+   "s": 255.62,
+   "e": 264.3,
+   "en": "Your first thought would be how lively and energetic young children can be, and what we found is so can older people.",
+   "ko": "보통은 어린아이들이 얼마나 활발하고 에너지가 넘치는지부터 떠올리겠지만, 저희가 발견한 건 어르신들도 그렇다는 거예요."
+  },
+  {
+   "s": 264.3,
+   "e": 270.34,
+   "en": "And so sometimes, you know, it's the older people that we're saying, Can we just calm this down a little bit?",
+   "ko": "그래서 가끔은, 있잖아요, 저희가 \"조금만 진정해 주실 수 있을까요?\" 하고 말하는 대상이 오히려 어르신들이에요."
+  },
+  {
+   "s": 270.34,
+   "e": 273.46,
+   "en": "Myra says the nursery breaks down stereotypes.",
+   "ko": "마이라는 이 어린이집이 고정관념을 깬다고(breaks down stereotypes) 말하지."
+  },
+  {
+   "s": 273.46,
+   "e": 278.62,
+   "en": "This means it provides evidence that common beliefs about a group of people are not true.",
+   "ko": "이건 어떤 집단에 대한 흔한 믿음이 사실이 아니라는 증거를 보여준다는 뜻이야."
+  },
+  {
+   "s": 278.62,
+   "e": 290.1,
+   "en": "For example, a stereotype about generations is that younger people are lively, meaning they're loud and have lots of energy, whereas older people are not that lively.",
+   "ko": "예를 들어, 세대에 대한 고정관념 중 하나는 젊은 사람들은 활발하고(lively), 즉 시끄럽고 에너지가 넘치지만, 나이 든 사람들은 그렇게 활발하지 않다는 거지."
+  },
+  {
+   "s": 290.1,
+   "e": 298.22,
+   "en": "Right. But in the nursery, Liz says it's often the older people who have lots of energy and are being noisy rather than the children.",
+   "ko": "맞아. 그런데 리즈 말로는 그 어린이집에서는 아이들보다 오히려 어르신들이 에너지가 넘치고 시끄러운 경우가 많대."
+  },
+  {
+   "s": 298.22,
+   "e": 301.78,
+   "en": "The staff even have to tell them to calm down sometimes!",
+   "ko": "직원들이 가끔은 어르신들한테 진정하라고 말해야 할 정도래!"
+  },
+  {
+   "s": 301.78,
+   "e": 305.54,
+   "en": "So, Georgie, is that something that you found in your choir?",
+   "ko": "그래서 조지, 너희 합창단에서도 그런 걸 느껴?"
+  },
+  {
+   "s": 305.54,
+   "e": 306.54,
+   "en": "Actually, yes.",
+   "ko": "사실, 응."
+  },
+  {
+   "s": 306.54,
+   "e": 309.26,
+   "en": "The older people in my choir are big characters.",
+   "ko": "우리 합창단 어르신들은 개성이 엄청 강해."
+  },
+  {
+   "s": 309.26,
+   "e": 312.82,
+   "en": "It's often them who are dragging us all to the pub...!",
+   "ko": "우리 모두를 술집으로 끌고 가는 것도 대개 그분들이야...!"
+  },
+  {
+   "s": 312.82,
+   "e": 316.66,
+   "en": "OK. Georgie, I think it's time to look at the answer for that question.",
+   "ko": "좋아. 조지, 이제 퀴즈 정답을 확인할 시간인 것 같아."
+  },
+  {
+   "s": 316.66,
+   "e": 323.06,
+   "en": "I asked if someone was born in 1982, which generation would they be from?",
+   "ko": "1982년에 태어난 사람은 어느 세대에 속하는지 물었지."
+  },
+  {
+   "s": 323.06,
+   "e": 325.66,
+   "en": "I said Generation X.",
+   "ko": "나는 X세대라고 했어."
+  },
+  {
+   "s": 325.66,
+   "e": 331.14,
+   "en": "OK. Well, actually, I'm afraid the answer was b) – they're a Millennial, just like you!",
+   "ko": "음, 아쉽지만 정답은 b)야. 너처럼 밀레니얼이지!"
+  },
+  {
+   "s": 331.14,
+   "e": 333.34,
+   "en": "Ah...! OK.",
+   "ko": "아...! 알겠어."
+  },
+  {
+   "s": 333.34,
+   "e": 341.26,
+   "en": "Let's recap the vocabulary we learned in this programme, starting with 'generation', which is a group of people who are of a similar age.",
+   "ko": "이번 프로그램에서 배운 어휘를 복습해 보자. 먼저 'generation', 비슷한 나이대의 사람들의 집단이야."
+  },
+  {
+   "s": 341.26,
+   "e": 347.42,
+   "en": "'Fill a void' means find something to help you feel better after experiencing loss.",
+   "ko": "'Fill a void'는 상실을 겪은 뒤 기분이 나아지도록 도와주는 무언가를 찾는다는 뜻이야."
+  },
+  {
+   "s": 347.42,
+   "e": 352.34,
+   "en": "'Such and such' is a way to talk about something without giving a specific example.",
+   "ko": "'Such and such'는 구체적인 예를 들지 않고 무언가를 말하는 방법이야."
+  },
+  {
+   "s": 352.34,
+   "e": 356.9,
+   "en": "If you hear something on the grapevine, you hear a rumour.",
+   "ko": "무언가를 'on the grapevine'으로 들었다면, 소문을 들었다는 뜻이야."
+  },
+  {
+   "s": 356.9,
+   "e": 363.66,
+   "en": "The expression 'break down stereotypes' means find evidence that common beliefs about a group of people are untrue.",
+   "ko": "'break down stereotypes'라는 표현은 어떤 집단에 대한 흔한 믿음이 사실이 아니라는 증거를 찾는다는 뜻이야."
+  },
+  {
+   "s": 363.66,
+   "e": 367.66,
+   "en": "And 'lively' means loud and with lots of energy.",
+   "ko": "그리고 'lively'는 시끄럽고 에너지가 넘친다는 뜻이야."
+  },
+  {
+   "s": 367.66,
+   "e": 372.62,
+   "en": "Once again, our six minutes are up, but you can test what you've learned with the worksheet on our website.",
+   "ko": "이번에도 6분이 다 됐네요. 저희 웹사이트의 워크시트로 배운 내용을 테스트해 보세요."
+  },
+  {
+   "s": 372.62,
+   "e": 375.18,
+   "en": "Go to bbclearningenglish.com.",
+   "ko": "bbclearningenglish.com으로 가세요."
+  },
+  {
+   "s": 375.18,
+   "e": 377.08,
+   "en": "Thanks for joining us and goodbye.",
+   "ko": "함께해 주셔서 고마워요. 안녕히 계세요."
+  },
+  {
+   "s": 377.08,
+   "e": 378.64,
+   "en": "Goodbye!",
+   "ko": "안녕!"
+  }
+ ]
+}

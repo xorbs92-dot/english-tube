@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="English Tube">
+<meta name="theme-color" content="#151517">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" href="icon-192.png">
+<title>English Tube</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <a href="#/" class="logo">English Tube</a>
+  <nav id="crumb"></nav>
+</header>
+<main id="app"></main>
+
+<template id="lesson-tpl">
+  <div class="lesson">
+    <section class="left">
+      <div class="stick">
+        <div class="player-wrap"><div id="player"></div></div>
+        <div class="current" id="current">
+          <div class="cur-en"></div>
+          <div class="cur-ko"></div>
+        </div>
+      </div>
+      <div class="controls opts">
+        <div class="seg" id="modes">
+          <button data-mode="both">영+한</button>
+          <button data-mode="en">영어만</button>
+          <button data-mode="ko">한글만</button>
+          <button data-mode="hide">가리기</button>
+        </div>
+        <div class="seg" id="rates">
+          <button data-rate="0.75">0.75x</button>
+          <button data-rate="1">1x</button>
+          <button data-rate="1.25">1.25x</button>
+        </div>
+      </div>
+      <div class="controls ctrl-bar">
+        <button id="prev" title="이전 문장 (←)"><b>⏮</b><span>이전</span></button>
+        <button id="play" title="재생/정지 (Space)"><b>▶</b><span>재생</span></button>
+        <button id="replay" title="현재 문장 다시 (↓)"><b>↺</b><span>다시</span></button>
+        <button id="next" title="다음 문장 (→)"><b>⏭</b><span>다음</span></button>
+        <button id="repeat" class="toggle" title="현재 문장 무한 반복 (R)"><b>🔁</b><span>반복</span></button>
+        <button id="autopause" class="toggle" title="문장마다 멈춤, 따라 말하기 (P)"><b>🗣</b><span>쉐도잉</span></button>
+        <button id="star" title="복습 문장에 저장 (S)"><b>☆</b><span>저장</span></button>
+      </div>
+      <div class="lesson-foot">
+        <button id="prev-lesson">← 이전 레슨</button>
+        <button id="done" class="primary">완료하고 다음 레슨 →</button>
+      </div>
+      <p class="keys">단축키: Space 재생/정지 · ←/→ 문장 이동 · ↓ 다시 · R 반복 · P 쉐도잉 · S 저장 · 1~4 자막 모드</p>
+    </section>
+    <section class="right">
+      <div class="script-head"><span id="script-title">스크립트</span><label><input type="checkbox" id="follow" checked> 자동 스크롤</label></div>
+      <ol class="script" id="script"></ol>
+    </section>
+  </div>
+</template>
+
+<script src="https://www.youtube.com/iframe_api"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,423 @@
+{
+ "videoId": "SC_opiKLohg",
+ "title": "Sharing the road with driverless cars ⏲️ 6 Minute English",
+ "channel": "BBC Learning English",
+ "enSource": "manual",
+ "koSource": "none",
+ "sentences": [
+  {
+   "s": 7.96,
+   "e": 12.88,
+   "en": "Hello, this is 6 Minute English from BBC Learning English. I'm Phil.",
+   "ko": ""
+  },
+  {
+   "s": 12.88,
+   "e": 14.16,
+   "en": "And I'm Pippa.",
+   "ko": ""
+  },
+  {
+   "s": 14.16,
+   "e": 18.24,
+   "en": "Here at 6 Minute English, we love discussing new tech.",
+   "ko": ""
+  },
+  {
+   "s": 18.24,
+   "e": 29.32,
+   "en": "One of the most controversial technologies of recent years is driverless cars, also known as self-driving cars, autonomous cars or robotaxis.",
+   "ko": ""
+  },
+  {
+   "s": 29.32,
+   "e": 40.2,
+   "en": "Many people say they wouldn't feel safe in a car without a human driver, but there are concerns from other road users too – pedestrians, runners and cyclists.",
+   "ko": ""
+  },
+  {
+   "s": 40.2,
+   "e": 43.12,
+   "en": "How will driverless cars interact with them?",
+   "ko": ""
+  },
+  {
+   "s": 43.12,
+   "e": 48.48,
+   "en": "It's a problem Professor Stephen Brewster, from Glasgow University, has been working on.",
+   "ko": ""
+  },
+  {
+   "s": 48.48,
+   "e": 52.72,
+   "en": "He explained more to BBC World Service programme Tech Life.",
+   "ko": ""
+  },
+  {
+   "s": 52.72,
+   "e": 59.12,
+   "en": "If you're outside a vehicle right now, you can see the driver inside the vehicle, you can wave to them, they can see you, you can make eye contact.",
+   "ko": ""
+  },
+  {
+   "s": 59.12,
+   "e": 68.64,
+   "en": "But when you come to an autonomous vehicle, there's no person in the driving seat, so how do you negotiate whether they're going to go, whether they're going to let you go?",
+   "ko": ""
+  },
+  {
+   "s": 68.64,
+   "e": 71.4,
+   "en": "On my walk to work, I need to cross the road.",
+   "ko": ""
+  },
+  {
+   "s": 71.4,
+   "e": 74.16,
+   "en": "Usually a driver makes eye contact with me.",
+   "ko": ""
+  },
+  {
+   "s": 74.16,
+   "e": 78.04,
+   "en": "They look directly into my eyes and then wave me across.",
+   "ko": ""
+  },
+  {
+   "s": 78.04,
+   "e": 82.48,
+   "en": "'To wave' means to raise your hand and move it from side to side.",
+   "ko": ""
+  },
+  {
+   "s": 82.48,
+   "e": 87.32,
+   "en": "It's a gesture for saying hello, or a way of telling a person to do something.",
+   "ko": ""
+  },
+  {
+   "s": 87.32,
+   "e": 94.56,
+   "en": "Luckily, Phil, you usually arrive safely at work and as yet there are no driverless cars in London.",
+   "ko": ""
+  },
+  {
+   "s": 94.56,
+   "e": 100.16,
+   "en": "But, Phil, how would you feel about crossing that road in front of a robotaxi?",
+   "ko": ""
+  },
+  {
+   "s": 100.16,
+   "e": 101.96,
+   "en": "Well, maybe a little bit nervous.",
+   "ko": ""
+  },
+  {
+   "s": 101.96,
+   "e": 105.24,
+   "en": "I might wait for it to go and go behind it or something.",
+   "ko": ""
+  },
+  {
+   "s": 105.24,
+   "e": 106.72,
+   "en": "Mmm... yeah, I get that.",
+   "ko": ""
+  },
+  {
+   "s": 106.72,
+   "e": 114.44,
+   "en": "I think maybe as we get more used to these technologies we'll get more used to how to deal with them and when to cross.",
+   "ko": ""
+  },
+  {
+   "s": 114.44,
+   "e": 120.84,
+   "en": "But in this episode we investigate the tech helping driverless cars communicate on the roads.",
+   "ko": ""
+  },
+  {
+   "s": 120.84,
+   "e": 129.92,
+   "en": "We'll learn some useful new words and phrases, and as usual you'll find all the vocabulary on our website, bbclearningenglish.com.",
+   "ko": ""
+  },
+  {
+   "s": 129.92,
+   "e": 133.6,
+   "en": "But first, I have a question for you, Pippa.",
+   "ko": ""
+  },
+  {
+   "s": 133.6,
+   "e": 137.68,
+   "en": "As you mentioned, we don't have self-driving cars here in London yet.",
+   "ko": ""
+  },
+  {
+   "s": 137.68,
+   "e": 144.24,
+   "en": "So, which was the first city to have fully driverless robotaxis on the streets?",
+   "ko": ""
+  },
+  {
+   "s": 144.24,
+   "e": 149.68,
+   "en": "Was it: a) Philadelphia, b) Phoenix, or c) San Francisco?",
+   "ko": ""
+  },
+  {
+   "s": 149.68,
+   "e": 156.36,
+   "en": "I'm going to say b) Phoenix because I think it's quite a car-friendly city.",
+   "ko": ""
+  },
+  {
+   "s": 156.36,
+   "e": 160.76,
+   "en": "OK. Well, we will find out the answer, but at the end of the programme.",
+   "ko": ""
+  },
+  {
+   "s": 160.76,
+   "e": 169.56,
+   "en": "Because accidents are often caused by not seeing the oncoming danger, Professor Brewster wants to make driverless cars more visible.",
+   "ko": ""
+  },
+  {
+   "s": 169.56,
+   "e": 175.0,
+   "en": "He discussed his work with BBC Tech Life's presenter Chris Vallance.",
+   "ko": ""
+  },
+  {
+   "s": 175.0,
+   "e": 183.76,
+   "en": "What kind of signals worked in terms of alerting pedestrians and runners and cyclists to the intentions of the vehicle?",
+   "ko": ""
+  },
+  {
+   "s": 183.76,
+   "e": 184.68,
+   "en": "We tested two things.",
+   "ko": ""
+  },
+  {
+   "s": 184.68,
+   "e": 188.96,
+   "en": "We tested animations and fixed, coloured light rings.",
+   "ko": ""
+  },
+  {
+   "s": 188.96,
+   "e": 199.52,
+   "en": "The animations – they work well for pedestrians, but when it came to runners and cyclists, they have much less time to make their decisions, so if you do a quick glance at a vehicle, you don't really see the animation.",
+   "ko": ""
+  },
+  {
+   "s": 199.52,
+   "e": 203.52,
+   "en": "It's important to alert people to driverless cars.",
+   "ko": ""
+  },
+  {
+   "s": 203.52,
+   "e": 207.76,
+   "en": "To alert somebody means to warn them about a potential danger.",
+   "ko": ""
+  },
+  {
+   "s": 207.76,
+   "e": 211.88,
+   "en": "Some cars do this with animations – displays of moving images.",
+   "ko": ""
+  },
+  {
+   "s": 211.88,
+   "e": 216.36,
+   "en": "For example, a green man walking to signal it's safe to cross.",
+   "ko": ""
+  },
+  {
+   "s": 216.36,
+   "e": 223.52,
+   "en": "Animations alert pedestrians but are not suitable for runners and cyclists, who are travelling too fast to react.",
+   "ko": ""
+  },
+  {
+   "s": 223.52,
+   "e": 226.16,
+   "en": "They only have time for a glance.",
+   "ko": ""
+  },
+  {
+   "s": 226.16,
+   "e": 229.24,
+   "en": "'A glance at something' means a quick look.",
+   "ko": ""
+  },
+  {
+   "s": 229.24,
+   "e": 236.76,
+   "en": "So, instead Stephen's team used coloured light rings, similar to traffic lights, to warn cyclists and runners.",
+   "ko": ""
+  },
+  {
+   "s": 236.76,
+   "e": 239.04,
+   "en": "Culture is another problem.",
+   "ko": ""
+  },
+  {
+   "s": 239.04,
+   "e": 241.36,
+   "en": "The meaning of body language can change.",
+   "ko": ""
+  },
+  {
+   "s": 241.36,
+   "e": 248.2,
+   "en": "For example, hand waving can mean 'please proceed' in one culture, but 'thank you' in another.",
+   "ko": ""
+  },
+  {
+   "s": 248.2,
+   "e": 253.96,
+   "en": "Ammar Al-Taie is a researcher at the Advanced Institute of Science and Technology in South Korea.",
+   "ko": ""
+  },
+  {
+   "s": 253.96,
+   "e": 262.84,
+   "en": "Here, Ammar tells BBC World Service's Tech Life why Korean culture is especially suited to self-driving cars.",
+   "ko": ""
+  },
+  {
+   "s": 262.84,
+   "e": 268.76,
+   "en": "In South Korea, for example, jaywalking is illegal, whereas in the UK, you know, we tend to jaywalk a lot.",
+   "ko": ""
+  },
+  {
+   "s": 268.76,
+   "e": 271.52,
+   "en": "'Jaywalking' is an American-English word.",
+   "ko": ""
+  },
+  {
+   "s": 271.52,
+   "e": 277.04,
+   "en": "It means crossing the road at a place where crossing is not allowed or without taking care.",
+   "ko": ""
+  },
+  {
+   "s": 277.04,
+   "e": 283.68,
+   "en": "Unlike Britain, jaywalking is rare in South Korea, making the country safer for autonomous cars.",
+   "ko": ""
+  },
+  {
+   "s": 283.68,
+   "e": 294.32,
+   "en": "We've heard a lot about making driverless cars safer, and with plans to introduce them to London later this year, we'll soon see how safe they really are.",
+   "ko": ""
+  },
+  {
+   "s": 294.32,
+   "e": 298.12,
+   "en": "Now, isn't it time to reveal the answer to your question, Phil?",
+   "ko": ""
+  },
+  {
+   "s": 298.12,
+   "e": 304.52,
+   "en": "I asked you which city was the first to have self-driving cars on the road, and you said it was Phoenix...",
+   "ko": ""
+  },
+  {
+   "s": 304.52,
+   "e": 307.24,
+   "en": "and that is the correct answer.",
+   "ko": ""
+  },
+  {
+   "s": 307.24,
+   "e": 317.16,
+   "en": "Phoenix, Arizona, was the first city in the world to have self-driving cars operating on public roads without a human safety driver, and that was in 2017.",
+   "ko": ""
+  },
+  {
+   "s": 317.16,
+   "e": 324.88,
+   "en": "Let's recap the vocabulary we've learned, starting with 'eye contact' – looking directly into someone's eyes.",
+   "ko": ""
+  },
+  {
+   "s": 324.88,
+   "e": 330.84,
+   "en": "'To wave at someone' is a way of saying hi, by raising your hand and waving it from side to side.",
+   "ko": ""
+  },
+  {
+   "s": 330.84,
+   "e": 334.28,
+   "en": "If you alert someone, you warn them of potential danger.",
+   "ko": ""
+  },
+  {
+   "s": 334.28,
+   "e": 338.36,
+   "en": "An animation is a display made up of moving images.",
+   "ko": ""
+  },
+  {
+   "s": 338.36,
+   "e": 341.36,
+   "en": "A glance is a quick, brief look at something.",
+   "ko": ""
+  },
+  {
+   "s": 341.36,
+   "e": 348.0,
+   "en": "And finally, the American-English term 'jaywalking' means crossing the road where you're not supposed to.",
+   "ko": ""
+  },
+  {
+   "s": 348.0,
+   "e": 350.16,
+   "en": "Once again, our six minutes are up.",
+   "ko": ""
+  },
+  {
+   "s": 350.16,
+   "e": 357.2,
+   "en": "If you'd like to hear more programmes about technology, you'll find plenty on our tech topic page, all on our website.",
+   "ko": ""
+  },
+  {
+   "s": 357.2,
+   "e": 361.08,
+   "en": "And there you'll also find a quiz and worksheet for this episode.",
+   "ko": ""
+  },
+  {
+   "s": 361.08,
+   "e": 363.84,
+   "en": "Visit bbclearningenglish.com.",
+   "ko": ""
+  },
+  {
+   "s": 363.84,
+   "e": 366.72,
+   "en": "We'll see you again soon, but for now it's goodbye.",
+   "ko": ""
+  },
+  {
+   "s": 366.72,
+   "e": 368.04,
+   "en": "Goodbye!",
+   "ko": ""
+  }
+ ]
+}

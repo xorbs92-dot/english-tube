@@ -1,0 +1,513 @@
+{
+ "videoId": "rCIs5x0SGTY",
+ "title": "How do you feel when someone says 'no'? ⏲️ 6 Minute English",
+ "channel": "BBC Learning English",
+ "enSource": "manual",
+ "koSource": "claude",
+ "sentences": [
+  {
+   "s": 0.08,
+   "e": 4.34,
+   "en": "Hello and welcome to 6 Minute English from BBC Learning English.",
+   "ko": "안녕하세요, BBC Learning English의 6 Minute English에 오신 걸 환영해요."
+  },
+  {
+   "s": 4.34,
+   "e": 5.17,
+   "en": "I'm Georgie.",
+   "ko": "저는 조지예요."
+  },
+  {
+   "s": 5.17,
+   "e": 6.34,
+   "en": "And I'm Neil.",
+   "ko": "저는 닐이에요."
+  },
+  {
+   "s": 6.34,
+   "e": 14.89,
+   "en": "Don't forget you can find vocabulary, definitions and a worksheet for free on our website, bbclearningenglish.com.",
+   "ko": "어휘와 뜻, 워크시트는 저희 웹사이트 bbclearningenglish.com에서 무료로 찾을 수 있다는 것 잊지 마세요."
+  },
+  {
+   "s": 14.89,
+   "e": 18.94,
+   "en": "So Neil, today we're talking about rejection.",
+   "ko": "닐, 오늘은 거절(rejection)에 대해 이야기할 거야."
+  },
+  {
+   "s": 18.94,
+   "e": 25.73,
+   "en": "So, rejection means saying no to someone or refusing to accept their idea or suggestion.",
+   "ko": "'rejection'은 누군가에게 '아니'라고 하거나, 상대의 생각이나 제안을 받아들이지 않는 걸 뜻해."
+  },
+  {
+   "s": 25.73,
+   "e": 28.24,
+   "en": "Neil, how do you feel about rejection?",
+   "ko": "닐, 거절에 대해 어떻게 생각해?"
+  },
+  {
+   "s": 28.24,
+   "e": 31.82,
+   "en": "Well, nobody likes rejection.",
+   "ko": "음, 거절을 좋아하는 사람은 없지."
+  },
+  {
+   "s": 31.82,
+   "e": 35.66,
+   "en": "But I think as you get older, you get used to it.",
+   "ko": "그래도 나이가 들수록 익숙해지는 것 같아."
+  },
+  {
+   "s": 35.66,
+   "e": 42.67,
+   "en": "And probably it's quite a good thing to experience rejection, even if it doesn't feel nice.",
+   "ko": "그리고 기분은 좋지 않더라도 거절을 겪어보는 건 아마 꽤 좋은 일일 거야."
+  },
+  {
+   "s": 42.67,
+   "e": 43.96,
+   "en": "Yeah, I agree.",
+   "ko": "응, 동의해."
+  },
+  {
+   "s": 43.96,
+   "e": 45.92,
+   "en": "We can't always get what we want, can we?",
+   "ko": "원하는 걸 항상 얻을 수는 없잖아, 그렇지?"
+  },
+  {
+   "s": 45.92,
+   "e": 47.09,
+   "en": "We can't, no.",
+   "ko": "그렇지, 못 얻지."
+  },
+  {
+   "s": 47.09,
+   "e": 59.27,
+   "en": "In this podcast, we'll be learning about a new internet trend called rejection therapy and how people are using it to help them to be more confident.",
+   "ko": "이번 팟캐스트에서는 '거절 치료(rejection therapy)'라는 새로운 인터넷 유행과, 사람들이 자신감을 키우려고 이걸 어떻게 활용하는지 알아볼 거예요."
+  },
+  {
+   "s": 59.27,
+   "e": 62.27,
+   "en": "OK. Let's start with our quiz question, Georgie.",
+   "ko": "좋아. 퀴즈 문제로 시작하자, 조지."
+  },
+  {
+   "s": 62.27,
+   "e": 75.7,
+   "en": "Lots of famous people have faced rejection in their lives before they became successful, but which of these things did not happen to the animator Walt Disney before he became successful?",
+   "ko": "많은 유명인들이 성공하기 전에 거절을 겪었는데, 다음 중 애니메이터 월트 디즈니가 성공하기 전에 겪지 않은 일은 뭘까?"
+  },
+  {
+   "s": 75.7,
+   "e": 86.67,
+   "en": "Was it: a) he lost his job as an artist, b) his first business ran out of money, or c) his first full length film was a failure?",
+   "ko": "a) 화가로 일하던 직장에서 잘렸다, b) 첫 사업이 자금이 바닥났다, c) 첫 장편 영화가 실패했다, 중 뭘까?"
+  },
+  {
+   "s": 86.67,
+   "e": 92.13,
+   "en": "I've got no idea, but I'm going to go with a) he lost his job as an artist.",
+   "ko": "전혀 모르겠지만, a) 화가로 일하던 직장에서 잘렸다로 할게."
+  },
+  {
+   "s": 92.13,
+   "e": 95.85,
+   "en": "OK. Well, we'll find out the answer at the end of the programme.",
+   "ko": "좋아. 정답은 프로그램 끝에서 알아보자."
+  },
+  {
+   "s": 95.85,
+   "e": 104.69,
+   "en": "OK Neil. So, most people don't like being rejected, but one thing to try might be something called rejection therapy.",
+   "ko": "좋아, 닐. 대부분의 사람은 거절당하는 걸 싫어하는데, 한번 해볼 만한 게 '거절 치료'라는 거야."
+  },
+  {
+   "s": 104.69,
+   "e": 113.11,
+   "en": "It's a social media trend where people record themselves talking to strangers and sometimes being rejected.",
+   "ko": "사람들이 낯선 사람에게 말을 걸고, 때로는 거절당하는 모습을 촬영하는 소셜 미디어 유행이야."
+  },
+  {
+   "s": 113.11,
+   "e": 118.62,
+   "en": "OK. That sounds quite interesting, but let's find out how it works in practice.",
+   "ko": "좋아. 꽤 흥미롭게 들리는데, 실제로 어떻게 하는지 알아보자."
+  },
+  {
+   "s": 118.62,
+   "e": 125.42,
+   "en": "Hannah Gelbart, host of the BBC World Service podcast What in the World, had a go at the trend.",
+   "ko": "BBC 월드 서비스 팟캐스트 'What in the World'의 진행자 해나 겔바트가 이 유행에 도전해 봤어."
+  },
+  {
+   "s": 125.42,
+   "e": 128.0,
+   "en": "Let's see how she got on.",
+   "ko": "어떻게 됐는지 보자."
+  },
+  {
+   "s": 128.0,
+   "e": 130.25,
+   "en": "Hey, can I come sit down at your table?",
+   "ko": "\"저기, 그쪽 테이블에 앉아도 될까요?\""
+  },
+  {
+   "s": 130.25,
+   "e": 130.92,
+   "en": "Yeah.",
+   "ko": "\"네.\""
+  },
+  {
+   "s": 130.92,
+   "e": 132.01,
+   "en": "Hey, how's it going?",
+   "ko": "\"안녕하세요, 어떻게 지내세요?\""
+  },
+  {
+   "s": 132.01,
+   "e": 132.84,
+   "en": "Good, thank you.",
+   "ko": "\"좋아요, 고마워요.\""
+  },
+  {
+   "s": 132.84,
+   "e": 133.93,
+   "en": "How's your day gone?",
+   "ko": "\"오늘 하루 어떠셨어요?\""
+  },
+  {
+   "s": 133.93,
+   "e": 136.3,
+   "en": "Good afternoon. How are you doing?",
+   "ko": "\"안녕하세요. 잘 지내세요?"
+  },
+  {
+   "s": 136.3,
+   "e": 139.51,
+   "en": "Can I drive your cab?",
+   "ko": "제가 택시를 운전해 봐도 될까요?"
+  },
+  {
+   "s": 139.51,
+   "e": 141.6,
+   "en": "Can I? Can I get behind the wheel?",
+   "ko": "제가요? 제가 운전대 잡아봐도 돼요?\""
+  },
+  {
+   "s": 141.6,
+   "e": 143.1,
+   "en": "Don't be silly...!",
+   "ko": "\"말도 안 되는 소리 마세요...!\""
+  },
+  {
+   "s": 143.1,
+   "e": 146.48,
+   "en": "Coming somewhere else to try and face my fears...",
+   "ko": "\"두려움을 마주하려고 다른 곳에 왔어요..."
+  },
+  {
+   "s": 146.48,
+   "e": 148.06,
+   "en": "maybe do a bit of shopping.",
+   "ko": "쇼핑도 좀 할까 해요."
+  },
+  {
+   "s": 148.06,
+   "e": 150.19,
+   "en": "I was wondering, can I have a nap in one of these beds?",
+   "ko": "혹시, 이 침대 중 하나에서 낮잠 좀 자도 될까요?"
+  },
+  {
+   "s": 150.19,
+   "e": 151.44,
+   "en": "Can I just try it out?",
+   "ko": "한번 누워봐도 돼요?"
+  },
+  {
+   "s": 151.44,
+   "e": 154.03,
+   "en": "Wow – I didn't expect that one to be a yes!",
+   "ko": "와, 이건 된다고 할 줄 몰랐어요!\""
+  },
+  {
+   "s": 154.03,
+   "e": 157.74,
+   "en": "Well, it seems like people were pretty nice to Hannah in those examples.",
+   "ko": "음, 저 예시들을 보면 사람들이 해나에게 꽤 친절했던 것 같아."
+  },
+  {
+   "s": 157.74,
+   "e": 163.79,
+   "en": "Yes. And she talks with psychologist Claudia Hammond about how she felt during the experiment.",
+   "ko": "응. 그리고 해나는 심리학자 클라우디아 해먼드와 실험하는 동안 어떤 기분이었는지 이야기해."
+  },
+  {
+   "s": 163.79,
+   "e": 168.63,
+   "en": "And actually walking up to the first person, I felt my adrenaline really, really spiking.",
+   "ko": "\"그리고 실제로 첫 번째 사람에게 다가갈 때 아드레날린이 정말, 정말 치솟는 걸 느꼈어요."
+  },
+  {
+   "s": 168.63,
+   "e": 170.09,
+   "en": "I'm not a socially anxious person.",
+   "ko": "저는 사회적으로 불안해하는 사람이 아니에요."
+  },
+  {
+   "s": 170.09,
+   "e": 171.8,
+   "en": "I think I'm really confident.",
+   "ko": "꽤 자신감 있는 편이라고 생각해요."
+  },
+  {
+   "s": 171.8,
+   "e": 173.8,
+   "en": "But that first thing really scared me.",
+   "ko": "그런데 처음 건 정말 무서웠어요."
+  },
+  {
+   "s": 173.8,
+   "e": 181.89,
+   "en": "And once I'd done one, the second one came easier and the third one came even easier. And you know, by the fourth time I didn't even mind it whether they said yes or no.",
+   "ko": "그리고 한 번 하고 나니까 두 번째는 더 쉬워졌고 세 번째는 훨씬 더 쉬워졌어요. 그리고 네 번째쯤엔 상대가 된다고 하든 안 된다고 하든 신경도 안 쓰였어요.\""
+  },
+  {
+   "s": 181.89,
+   "e": 188.4,
+   "en": "Hannah says that when she walked up to the first stranger in the video, she felt her adrenaline spiking.",
+   "ko": "해나는 영상에서 첫 번째 낯선 사람에게 다가갈 때 아드레날린이 치솟는(spiking) 걸 느꼈다고 말해."
+  },
+  {
+   "s": 188.4,
+   "e": 191.4,
+   "en": "If something spikes, it increases sharply.",
+   "ko": "무언가가 'spike'하면, 급격하게 올라가는 거야."
+  },
+  {
+   "s": 191.4,
+   "e": 194.99,
+   "en": "Hannah is not generally a socially anxious person.",
+   "ko": "해나는 평소에 사회적으로 불안해하는(socially anxious) 사람이 아니야."
+  },
+  {
+   "s": 194.99,
+   "e": 200.95,
+   "en": "Someone who is socially anxious is nervous or worried about speaking to other people.",
+   "ko": "'socially anxious'한 사람은 다른 사람과 말하는 걸 긴장하거나 걱정해."
+  },
+  {
+   "s": 200.95,
+   "e": 206.29,
+   "en": "Each time Hannah tried to speak to a new person, she says, it came easier.",
+   "ko": "해나는 새로운 사람에게 말을 걸 때마다 점점 더 쉬워졌다(came easier)고 말해."
+  },
+  {
+   "s": 206.29,
+   "e": 211.21,
+   "en": "Come easier is an informal way to say something is easier to achieve.",
+   "ko": "'Come easier'는 무언가를 해내기가 더 쉬워진다는 걸 비격식적으로 말하는 방식이야."
+  },
+  {
+   "s": 211.21,
+   "e": 218.43,
+   "en": "Now, this social media trend is called rejection therapy, but it's not a proper form of therapy.",
+   "ko": "그런데 이 소셜 미디어 유행을 '거절 치료'라고 부르지만, 정식 치료법은 아니야."
+  },
+  {
+   "s": 218.43,
+   "e": 220.01,
+   "en": "It hasn't been tested.",
+   "ko": "검증되지 않았거든."
+  },
+  {
+   "s": 220.01,
+   "e": 227.98,
+   "en": "And there are some criticisms of the videos because they involve filming your interactions with strangers, which people might not want.",
+   "ko": "그리고 이런 영상들에 대한 비판도 있어. 낯선 사람과의 상호작용을 촬영하는데, 상대는 그걸 원하지 않을 수도 있으니까."
+  },
+  {
+   "s": 227.98,
+   "e": 232.52,
+   "en": "But people who post the videos say they boost their confidence.",
+   "ko": "하지만 영상을 올리는 사람들은 자신감이 높아진다고 말해."
+  },
+  {
+   "s": 232.52,
+   "e": 236.28,
+   "en": "So, why do people want to ask for rejection?",
+   "ko": "그럼 사람들은 왜 거절을 자청하는 걸까?"
+  },
+  {
+   "s": 236.28,
+   "e": 244.7,
+   "en": "Psychologist Claudia Hammond has some ideas, which she shared with Hannah on the BBC World Service podcast What in the World.",
+   "ko": "심리학자 클라우디아 해먼드가 BBC 월드 서비스 팟캐스트 'What in the World'에서 해나에게 몇 가지 생각을 나눴어."
+  },
+  {
+   "s": 244.7,
+   "e": 248.29,
+   "en": "What we do know is that there is an increase in perfectionism.",
+   "ko": "\"분명한 건 완벽주의가 늘고 있다는 거예요."
+  },
+  {
+   "s": 248.29,
+   "e": 252.04,
+   "en": "People are more worried now, younger people, about how other people are judging them.",
+   "ko": "요즘 사람들, 특히 젊은 사람들은 남들이 자기를 어떻게 평가하는지 더 걱정해요."
+  },
+  {
+   "s": 252.04,
+   "e": 266.18,
+   "en": "And so, I wonder whether that might make people more shy of speaking to strangers – worried that the people will, you know, not appraise them in a good way, and so doing something like this to try to counter that might feel",
+   "ko": "그래서 그게 사람들이 낯선 사람에게 말 거는 걸 더 꺼리게 만드는 게 아닐까 싶어요. 상대가 나를 좋게 평가하지 않을까 봐 걱정하는 거죠. 그래서 이런 걸 해서 그걸 극복해 보려는 게"
+  },
+  {
+   "s": 266.18,
+   "e": 269.06,
+   "en": "like a positive step to people, that they're trying to do something.",
+   "ko": "사람들에게는 뭔가를 시도하고 있다는 긍정적인 발걸음처럼 느껴질 수 있어요."
+  },
+  {
+   "s": 269.06,
+   "e": 270.73,
+   "en": "Also, they're fun to watch.",
+   "ko": "그리고 보는 재미도 있고요.\""
+  },
+  {
+   "s": 270.73,
+   "e": 275.57,
+   "en": "Claudia says there's an increase in perfectionism among young people.",
+   "ko": "클라우디아는 젊은 사람들 사이에서 완벽주의(perfectionism)가 늘고 있다고 말해."
+  },
+  {
+   "s": 275.57,
+   "e": 280.49,
+   "en": "Perfectionism is the feeling that everything you do needs to be perfect.",
+   "ko": "'Perfectionism'은 내가 하는 모든 일이 완벽해야 한다는 느낌이야."
+  },
+  {
+   "s": 280.49,
+   "e": 287.33,
+   "en": "Young people are also worried about how people will appraise them, which means judge them.",
+   "ko": "젊은 사람들은 또 사람들이 자기를 어떻게 'appraise'할지, 즉 평가할지 걱정해."
+  },
+  {
+   "s": 287.33,
+   "e": 295.29,
+   "en": "Deliberately looking for rejection might be an extreme way to become more confident, but it can lead to surprising discoveries.",
+   "ko": "일부러 거절을 찾아다니는 건 자신감을 키우는 극단적인 방법일 수 있지만, 뜻밖의 발견으로 이어질 수도 있어."
+  },
+  {
+   "s": 295.3,
+   "e": 303.89,
+   "en": "Yes, and Hannah found that most strangers she spoke to were friendly and happy to help, so she didn't really experience rejection much at all.",
+   "ko": "맞아, 그리고 해나는 말을 건 낯선 사람들 대부분이 친절하고 기꺼이 도와줬다는 걸 알게 돼서, 사실 거절은 거의 겪지 않았어."
+  },
+  {
+   "s": 303.89,
+   "e": 308.6,
+   "en": "OK. Georgie, I think it's time now for the answer to my quiz question.",
+   "ko": "좋아. 조지, 이제 퀴즈 정답을 알려줄 시간인 것 같아."
+  },
+  {
+   "s": 308.6,
+   "e": 315.94,
+   "en": "I asked you which rejection Walt Disney didn't experience before becoming successful?",
+   "ko": "월트 디즈니가 성공하기 전에 겪지 않은 거절이 뭐냐고 물었지?"
+  },
+  {
+   "s": 315.94,
+   "e": 321.49,
+   "en": "Yes, and I went for a) I don't think he lost his job as an artist.",
+   "ko": "응, 나는 a)를 골랐어. 화가로 일하던 직장에서 잘리진 않았을 것 같아서."
+  },
+  {
+   "s": 321.49,
+   "e": 328.91,
+   "en": "Well, actually, the answer was c) his first full length film, Snow White and the Seven Dwarfs, was not a failure.",
+   "ko": "음, 사실 정답은 c)야. 그의 첫 장편 영화 '백설공주와 일곱 난쟁이'는 실패하지 않았어."
+  },
+  {
+   "s": 328.91,
+   "e": 330.79,
+   "en": "It was a huge success.",
+   "ko": "엄청난 성공을 거뒀지."
+  },
+  {
+   "s": 330.79,
+   "e": 332.79,
+   "en": "Wow! That was his first film?",
+   "ko": "와! 그게 첫 영화였어?"
+  },
+  {
+   "s": 332.79,
+   "e": 333.96,
+   "en": "That's really impressive.",
+   "ko": "정말 대단하다."
+  },
+  {
+   "s": 333.96,
+   "e": 334.88,
+   "en": "It is.",
+   "ko": "그렇지."
+  },
+  {
+   "s": 334.88,
+   "e": 345.05,
+   "en": "OK. Let's recap the vocabulary we learned in this programme, starting with 'rejection', which means saying no or refusing an idea or suggestion.",
+   "ko": "좋아. 이번 프로그램에서 배운 어휘를 복습해 보자. 먼저 'rejection'은 '아니'라고 하거나 생각이나 제안을 거절하는 걸 뜻해."
+  },
+  {
+   "s": 345.05,
+   "e": 348.14,
+   "en": "The verb 'spike' means increase suddenly.",
+   "ko": "동사 'spike'는 갑자기 증가한다는 뜻이야."
+  },
+  {
+   "s": 348.14,
+   "e": 354.27,
+   "en": "Someone who is socially anxious is nervous or worried about speaking to other people.",
+   "ko": "'socially anxious'한 사람은 다른 사람과 말하는 걸 긴장하거나 걱정해."
+  },
+  {
+   "s": 354.27,
+   "e": 357.98,
+   "en": "If something comes easier, it's easier to achieve.",
+   "ko": "무언가가 'comes easier'하면, 해내기가 더 쉬워지는 거야."
+  },
+  {
+   "s": 357.98,
+   "e": 362.7,
+   "en": "'Perfectionism' is the feeling that everything you do needs to be perfect.",
+   "ko": "'Perfectionism'은 내가 하는 모든 일이 완벽해야 한다는 느낌이야."
+  },
+  {
+   "s": 362.7,
+   "e": 366.37,
+   "en": "And if you appraise someone, you judge them.",
+   "ko": "그리고 누군가를 'appraise'하면, 그 사람을 평가하는 거야."
+  },
+  {
+   "s": 366.37,
+   "e": 374.96,
+   "en": "Once again, our six minutes are up, but you can test what you've learned with the free worksheet on our website, bbclearningenglish.com.",
+   "ko": "이번에도 6분이 다 됐네요. 저희 웹사이트 bbclearningenglish.com의 무료 워크시트로 배운 내용을 테스트할 수 있어요."
+  },
+  {
+   "s": 374.96,
+   "e": 376.67,
+   "en": "Thank you for joining us and goodbye.",
+   "ko": "함께해 주셔서 고마워요. 안녕히 계세요."
+  },
+  {
+   "s": 376.67,
+   "e": 378.13,
+   "en": "Goodbye.",
+   "ko": "안녕히 계세요."
+  }
+ ]
+}

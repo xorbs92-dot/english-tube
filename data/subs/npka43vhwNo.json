@@ -1,0 +1,525 @@
+{
+ "videoId": "npka43vhwNo",
+ "title": "Is aircon the answer to a heating world? ⏲️ 6 Minute English",
+ "channel": "BBC Learning English",
+ "enSource": "manual",
+ "koSource": "claude",
+ "sentences": [
+  {
+   "s": 0.08,
+   "e": 0.84,
+   "en": "Hi Neil.",
+   "ko": "안녕, 닐."
+  },
+  {
+   "s": 0.84,
+   "e": 1.56,
+   "en": "Hi Georgie.",
+   "ko": "안녕, 조지."
+  },
+  {
+   "s": 1.56,
+   "e": 5.04,
+   "en": "So, Neil, we've just had a really hot summer in the UK.",
+   "ko": "닐, 영국은 방금 정말 더운 여름을 보냈잖아."
+  },
+  {
+   "s": 5.04,
+   "e": 7.88,
+   "en": "Did you have air conditioning in your house?",
+   "ko": "너희 집엔 에어컨 있었어?"
+  },
+  {
+   "s": 7.88,
+   "e": 10.24,
+   "en": "I didn't have air conditioning in my house.",
+   "ko": "우리 집엔 에어컨이 없었어."
+  },
+  {
+   "s": 10.24,
+   "e": 14.6,
+   "en": "I wish I had, because it was really hot and I couldn't sleep.",
+   "ko": "있었으면 좋았을 텐데. 정말 더워서 잠을 못 잤거든."
+  },
+  {
+   "s": 14.6,
+   "e": 18.4,
+   "en": "No, I had one of those big fans, which didn't always do its job.",
+   "ko": "아니, 큰 선풍기가 하나 있었는데 항상 제 역할을 하진 못했어."
+  },
+  {
+   "s": 18.4,
+   "e": 20.84,
+   "en": "But there is a really serious side to this.",
+   "ko": "그런데 여기엔 정말 심각한 측면이 있어."
+  },
+  {
+   "s": 20.84,
+   "e": 24.04,
+   "en": "Heat records continue to be broken around the world.",
+   "ko": "전 세계에서 폭염 기록이 계속 깨지고 있어요."
+  },
+  {
+   "s": 24.04,
+   "e": 27.12,
+   "en": "You may be feeling that summers are getting too hot.",
+   "ko": "여름이 너무 더워지고 있다고 느끼실지도 몰라요."
+  },
+  {
+   "s": 27.12,
+   "e": 30.24,
+   "en": "Have you been using air conditioning more to cope?",
+   "ko": "더위를 견디려고 에어컨을 더 많이 쓰고 계신가요?"
+  },
+  {
+   "s": 30.24,
+   "e": 32.0,
+   "en": "If so, you're not alone.",
+   "ko": "그렇다면 여러분만 그런 게 아니에요."
+  },
+  {
+   "s": 32.0,
+   "e": 39.04,
+   "en": "Experts are predicting that ten new air conditioning units will be installed every second for the next 30 years.",
+   "ko": "전문가들은 앞으로 30년 동안 매초 10대의 에어컨이 새로 설치될 거라고 예측해요."
+  },
+  {
+   "s": 39.04,
+   "e": 47.88,
+   "en": "Today on 6 Minute English, we're talking about this and whether air conditioning really is the best way to cope with a warming world.",
+   "ko": "오늘 6 Minute English에서는 이 이야기와 함께, 에어컨이 정말 더워지는 세상에 대처하는 최선의 방법인지 이야기해 볼 거예요."
+  },
+  {
+   "s": 47.88,
+   "e": 51.36,
+   "en": "OK. As always, Neil, we'll start with a quiz question.",
+   "ko": "좋아. 늘 그렇듯 닐, 퀴즈 문제로 시작할게."
+  },
+  {
+   "s": 51.36,
+   "e": 58.16,
+   "en": "So, modern air conditioning was invented in 1902, but what was it originally used for?",
+   "ko": "현대식 에어컨은 1902년에 발명됐는데, 원래 어디에 쓰였을까?"
+  },
+  {
+   "s": 58.16,
+   "e": 65.0,
+   "en": "Is it: a) to protect people in hospitals, b) to dry ink, or c) to clean air?",
+   "ko": "a) 병원에 있는 사람들을 보호하려고, b) 잉크를 말리려고, c) 공기를 깨끗하게 하려고, 중에 뭘까?"
+  },
+  {
+   "s": 65.0,
+   "e": 68.16,
+   "en": "Well, I have absolutely no idea, Georgie.",
+   "ko": "음, 전혀 모르겠어, 조지."
+  },
+  {
+   "s": 68.16,
+   "e": 71.4,
+   "en": "I'm going to guess and say c) clean air.",
+   "ko": "그냥 찍어서 c) 공기 정화라고 할게."
+  },
+  {
+   "s": 71.4,
+   "e": 74.88,
+   "en": "OK, Neil, we'll find out the answer at the end of the programme.",
+   "ko": "좋아, 닐. 정답은 프로그램 끝에 알아보자."
+  },
+  {
+   "s": 74.88,
+   "e": 81.12,
+   "en": "OK. Georgie, we've been talking about how uncomfortable the hot weather can make you feel in the summer.",
+   "ko": "좋아. 조지, 지금까지 더운 날씨가 여름에 얼마나 불편하게 만드는지 얘기했잖아."
+  },
+  {
+   "s": 81.12,
+   "e": 83.84,
+   "en": "Is air conditioning all about comfort, though?",
+   "ko": "그런데 에어컨이 그냥 편안함만의 문제일까?"
+  },
+  {
+   "s": 83.84,
+   "e": 85.84,
+   "en": "No, it's not just about comfort.",
+   "ko": "아니, 편안함만의 문제가 아니야."
+  },
+  {
+   "s": 85.84,
+   "e": 89.04,
+   "en": "Summer heat can be a real health issue as well.",
+   "ko": "여름 더위는 실제로 건강 문제가 될 수도 있어."
+  },
+  {
+   "s": 89.04,
+   "e": 94.88,
+   "en": "It's thought that across Europe, over 30,000 people died as a result of this summer's heat.",
+   "ko": "유럽 전역에서 올여름 더위로 3만 명 넘게 사망한 것으로 추정돼."
+  },
+  {
+   "s": 94.88,
+   "e": 113.12,
+   "en": "Dr Radhika Khosla, an expert in climatology, told BBC World Service's The Climate Question how important air conditioning can be: Actually, air conditioning is life-saving. You know, in Singapore, when Lee Kuan Yew was asked what made civilisation possible",
+   "ko": "기후학 전문가 라디카 코슬라 박사는 BBC 월드 서비스의 'The Climate Question'에서 에어컨이 얼마나 중요할 수 있는지 말했어. \"사실 에어컨은 생명을 살립니다. 싱가포르에서 리콴유에게 무엇이 열대 지방에서 문명을"
+  },
+  {
+   "s": 113.12,
+   "e": 115.88,
+   "en": "in the tropics, he said it was air conditioning.",
+   "ko": "가능하게 했느냐고 물었을 때, 그는 에어컨이라고 답했죠."
+  },
+  {
+   "s": 115.88,
+   "e": 121.88,
+   "en": "And there are so many large parts of the world where we would not be able to inhabit if we did not have air conditioning.",
+   "ko": "그리고 에어컨이 없다면 우리가 거주할 수 없을 넓은 지역이 세계에 정말 많아요.\""
+  },
+  {
+   "s": 121.88,
+   "e": 126.04,
+   "en": "So, Radhika is saying that air conditioning is life-saving.",
+   "ko": "라디카는 에어컨이 생명을 살린다(life-saving)고 말하고 있어."
+  },
+  {
+   "s": 126.04,
+   "e": 129.2,
+   "en": "It literally stops people from dying.",
+   "ko": "말 그대로 사람들이 죽지 않게 막아준다는 거지."
+  },
+  {
+   "s": 129.2,
+   "e": 137.08,
+   "en": "Yes, and she makes the point that there are many parts of the world that we would not be able to inhabit – that means live in – without this technology.",
+   "ko": "맞아, 그리고 이 기술이 없다면 우리가 거주할(inhabit) 수 없는, 즉 살 수 없는 지역이 세계에 많다는 점을 짚고 있어."
+  },
+  {
+   "s": 137.08,
+   "e": 138.08,
+   "en": "OK Georgie.",
+   "ko": "좋아, 조지."
+  },
+  {
+   "s": 138.08,
+   "e": 142.48,
+   "en": "So, it sounds like air conditioning has a lot of good things about it.",
+   "ko": "그럼 에어컨에는 좋은 점이 많은 것 같네."
+  },
+  {
+   "s": 142.48,
+   "e": 144.2,
+   "en": "Is it all positive, though?",
+   "ko": "그런데 전부 긍정적이기만 할까?"
+  },
+  {
+   "s": 144.2,
+   "e": 146.48,
+   "en": "No. There are some serious downsides.",
+   "ko": "아니. 심각한 단점들도 있어."
+  },
+  {
+   "s": 146.48,
+   "e": 150.76,
+   "en": "So, one big problem with air conditioning is the amount of energy it uses.",
+   "ko": "에어컨의 큰 문제 중 하나는 사용하는 에너지 양이야."
+  },
+  {
+   "s": 150.76,
+   "e": 165.2,
+   "en": "Let's hear more from Radhika talking to The Climate Question: When air conditioning becomes the first, go-to solution for how we deal with the increased, prolonged and extreme heat that we're going to face and are facing,",
+   "ko": "라디카가 'The Climate Question'에서 하는 이야기를 더 들어보자. \"우리가 마주하게 될, 그리고 이미 마주하고 있는 더 심하고 더 오래가는 극심한 더위에 대처하는 첫 번째 해결책으로 에어컨부터 찾게 되면,"
+  },
+  {
+   "s": 165.2,
+   "e": 169.96,
+   "en": "it places stresses across the system that are not able to be met.",
+   "ko": "시스템 전반에 감당할 수 없는 부담을 주게 됩니다."
+  },
+  {
+   "s": 169.96,
+   "e": 172.16,
+   "en": "So, you know, we're going to see the grid collapse.",
+   "ko": "그러니까 전력망이 무너지는 걸 보게 될 거예요."
+  },
+  {
+   "s": 172.16,
+   "e": 174.32,
+   "en": "We're going to see emissions rise.",
+   "ko": "배출량이 늘어나는 것도 보게 될 거고요."
+  },
+  {
+   "s": 174.32,
+   "e": 179.32,
+   "en": "We're going to see all kinds of other impacts that actually are quite detrimental.",
+   "ko": "사실 꽤 해로운 온갖 다른 영향들도 보게 될 겁니다."
+  },
+  {
+   "s": 179.32,
+   "e": 184.48,
+   "en": "And we reach a vicious cycle, because then you're in a world where it's getting warmer.",
+   "ko": "그리고 악순환에 빠지게 되죠. 점점 더워지는 세상에서"
+  },
+  {
+   "s": 184.48,
+   "e": 187.6,
+   "en": "We're using air conditioning to be able to protect ourselves.",
+   "ko": "우리는 스스로를 보호하려고 에어컨을 쓰고,"
+  },
+  {
+   "s": 187.6,
+   "e": 190.44,
+   "en": "That's leading to more emissions and more energy use.",
+   "ko": "그게 더 많은 배출과 더 많은 에너지 사용으로 이어지고,"
+  },
+  {
+   "s": 190.44,
+   "e": 192.04,
+   "en": "That is then making the world warmer.",
+   "ko": "그게 다시 세상을 더 덥게 만들고,"
+  },
+  {
+   "s": 192.04,
+   "e": 193.68,
+   "en": "And then we need more air conditioning.",
+   "ko": "그러면 에어컨이 더 필요해지는 거예요.\""
+  },
+  {
+   "s": 193.68,
+   "e": 195.28,
+   "en": "We heard about the grid.",
+   "ko": "'grid'에 대해 들었지."
+  },
+  {
+   "s": 195.28,
+   "e": 201.36,
+   "en": "The grid is the network that distributes electricity across towns, cities and countries.",
+   "ko": "'grid'는 마을, 도시, 나라 전체에 전기를 나눠 보내는 전력망이야."
+  },
+  {
+   "s": 201.36,
+   "e": 210.96,
+   "en": "If people are trying to use more electricity than it can cope with, then the grid can collapse – you get power cuts, which is when you can't get any electricity.",
+   "ko": "사람들이 감당할 수 있는 것보다 더 많은 전기를 쓰려고 하면 전력망이 무너질 수 있어. 정전이 되는 거지, 전기를 전혀 쓸 수 없는 상황 말이야."
+  },
+  {
+   "s": 210.96,
+   "e": 218.72,
+   "en": "We heard that air conditioning creates emissions, which can lead the world to warm up, which means we then need more air conditioning.",
+   "ko": "에어컨이 배출 가스를 만들고, 그게 세상을 더 덥게 만들 수 있어서, 결국 에어컨이 더 필요해진다는 얘기를 들었지."
+  },
+  {
+   "s": 218.72,
+   "e": 221.68,
+   "en": "This makes the world even warmer and so on.",
+   "ko": "그게 세상을 더욱 덥게 만들고, 계속 그런 식이야."
+  },
+  {
+   "s": 221.68,
+   "e": 224.56,
+   "en": "And Radhika calls this a vicious cycle.",
+   "ko": "라디카는 이걸 'vicious cycle(악순환)'이라고 불러."
+  },
+  {
+   "s": 224.56,
+   "e": 236.08,
+   "en": "A vicious cycle, or a vicious circle, is where a solution to a problem actually makes it worse, which means you have to do more and that makes the problem even worse still.",
+   "ko": "'vicious cycle' 또는 'vicious circle'은 문제를 해결하려던 방법이 오히려 문제를 악화시켜서, 더 많은 걸 해야 하고, 그게 문제를 더더욱 악화시키는 거야."
+  },
+  {
+   "s": 236.08,
+   "e": 238.44,
+   "en": "OK. Well, that sounds like a bit of a problem.",
+   "ko": "좋아. 음, 좀 문제처럼 들리네."
+  },
+  {
+   "s": 238.44,
+   "e": 239.88,
+   "en": "What are the solutions?",
+   "ko": "해결책은 뭐야?"
+  },
+  {
+   "s": 239.88,
+   "e": 247.08,
+   "en": "Well, Radhika says that there are some things we should try first before using air conditioning, which will still be important.",
+   "ko": "라디카는 에어컨을 쓰기 전에 먼저 시도해야 할 것들이 있다고 해. 물론 에어컨도 여전히 중요하지만."
+  },
+  {
+   "s": 247.08,
+   "e": 250.52,
+   "en": "Here she is again talking to The Climate Question.",
+   "ko": "다시 'The Climate Question'에서 라디카의 이야기를 들어보자."
+  },
+  {
+   "s": 250.52,
+   "e": 255.4,
+   "en": "So, one of the most important things is to do passive cooling first.",
+   "ko": "\"가장 중요한 것 중 하나는 먼저 패시브 쿨링을 하는 거예요."
+  },
+  {
+   "s": 255.4,
+   "e": 263.68,
+   "en": "Now, passive cooling is when we take steps to provide thermal comfort that are not energy intensive.",
+   "ko": "패시브 쿨링은 에너지를 많이 쓰지 않고 온도를 쾌적하게 만드는 조치를 하는 거예요."
+  },
+  {
+   "s": 263.68,
+   "e": 270.0,
+   "en": "Some of the most important ones are first to cut solar gain, which is through things like shading.",
+   "ko": "가장 중요한 것 중 하나는 먼저 햇볕으로 들어오는 열을 줄이는 건데, 그늘을 만드는 것 같은 방법이 있어요.\""
+  },
+  {
+   "s": 270.0,
+   "e": 274.96,
+   "en": "Passive cooling is where you cool your house down without using a lot of energy.",
+   "ko": "패시브 쿨링(passive cooling)은 에너지를 많이 쓰지 않고 집을 시원하게 만드는 거야."
+  },
+  {
+   "s": 274.96,
+   "e": 281.28,
+   "en": "Yes, heat from the sun can be blocked by shading, which could be with trees, curtains or blinds.",
+   "ko": "맞아, 햇볕의 열은 그늘(shading)로 막을 수 있는데, 나무나 커튼이나 블라인드로 만들 수 있어."
+  },
+  {
+   "s": 281.28,
+   "e": 285.28,
+   "en": "OK Georgie. So, passive cooling and shading – that sounds really easy.",
+   "ko": "좋아, 조지. 패시브 쿨링이랑 그늘이라, 정말 쉬워 보이는데."
+  },
+  {
+   "s": 285.28,
+   "e": 286.56,
+   "en": "Is it that simple?",
+   "ko": "그렇게 간단한 거야?"
+  },
+  {
+   "s": 286.56,
+   "e": 288.48,
+   "en": "No, that's not all we have to do.",
+   "ko": "아니, 그게 다가 아니야."
+  },
+  {
+   "s": 288.48,
+   "e": 296.0,
+   "en": "Radhika also talks about the importance of using sustainable energy to power the air conditioning that we still will need.",
+   "ko": "라디카는 우리가 여전히 필요로 할 에어컨을 돌리는 데 지속 가능한 에너지를 쓰는 것의 중요성도 이야기해."
+  },
+  {
+   "s": 296.0,
+   "e": 300.84,
+   "en": "OK Georgie. It's time, I think, for you to give the answer to the question you asked us.",
+   "ko": "좋아, 조지. 이제 우리한테 낸 문제의 정답을 알려줄 시간인 것 같아."
+  },
+  {
+   "s": 300.84,
+   "e": 301.88,
+   "en": "Yes, Neil.",
+   "ko": "그래, 닐."
+  },
+  {
+   "s": 301.88,
+   "e": 307.48,
+   "en": "I asked you what modern air conditioning was used for when it was first invented in 1902.",
+   "ko": "1902년에 처음 발명됐을 때 현대식 에어컨이 어디에 쓰였는지 물었지."
+  },
+  {
+   "s": 307.48,
+   "e": 310.12,
+   "en": "And I had a wild guess.",
+   "ko": "나는 막 찍었지."
+  },
+  {
+   "s": 310.12,
+   "e": 312.84,
+   "en": "I said c) to clean air. But you know what?",
+   "ko": "c) 공기 정화라고 했어. 그런데 있잖아?"
+  },
+  {
+   "s": 312.84,
+   "e": 314.96,
+   "en": "I'm feeling pretty confident now.",
+   "ko": "지금은 꽤 자신 있어."
+  },
+  {
+   "s": 314.96,
+   "e": 316.72,
+   "en": "Sadly, you are incorrect.",
+   "ko": "아쉽게도 틀렸어."
+  },
+  {
+   "s": 316.72,
+   "e": 319.16,
+   "en": "The correct answer was b) to dry ink.",
+   "ko": "정답은 b) 잉크 말리기였어."
+  },
+  {
+   "s": 319.16,
+   "e": 324.32,
+   "en": "It was invented by Willis Carrier at a printing company in Brooklyn, New York.",
+   "ko": "뉴욕 브루클린의 한 인쇄 회사에서 윌리스 캐리어가 발명했어."
+  },
+  {
+   "s": 324.32,
+   "e": 332.68,
+   "en": "OK. Let's recap the vocabulary we learned in this programme, starting with 'life-saving', which describes something that stops people from dying.",
+   "ko": "좋아. 이번 프로그램에서 배운 어휘를 복습해 보자. 먼저 'life-saving'은 사람들이 죽지 않게 막아주는 것을 묘사해."
+  },
+  {
+   "s": 332.68,
+   "e": 336.84,
+   "en": "If it's possible to inhabit somewhere, that means it's possible to live there.",
+   "ko": "어딘가에 'inhabit'할 수 있다는 건 거기서 살 수 있다는 뜻이야."
+  },
+  {
+   "s": 336.84,
+   "e": 343.72,
+   "en": "The grid is the system or network that distributes electricity across towns, cities, and countries.",
+   "ko": "'grid'는 마을, 도시, 나라 전체에 전기를 나눠 보내는 시스템이나 네트워크야."
+  },
+  {
+   "s": 343.72,
+   "e": 352.28,
+   "en": "A 'vicious cycle' is where a solution to a problem also makes it worse, meaning the problem just keeps getting even worse as you try to fix it.",
+   "ko": "'vicious cycle'은 문제를 해결하려던 방법이 오히려 문제를 악화시켜서, 고치려 할수록 문제가 계속 더 나빠지는 거야."
+  },
+  {
+   "s": 352.28,
+   "e": 357.68,
+   "en": "'Passive cooling' is where you make a building cooler without using a lot of power.",
+   "ko": "'passive cooling'은 전력을 많이 쓰지 않고 건물을 더 시원하게 만드는 거야."
+  },
+  {
+   "s": 357.68,
+   "e": 360.88,
+   "en": "And 'shading' is blocking the sun's light and heat.",
+   "ko": "그리고 'shading'은 햇빛과 열을 막는 거야."
+  },
+  {
+   "s": 360.88,
+   "e": 362.8,
+   "en": "Once again, our six minutes are up.",
+   "ko": "이번에도 6분이 다 됐네요."
+  },
+  {
+   "s": 362.8,
+   "e": 367.36,
+   "en": "Test what you've learned with the worksheet on our website, bbclearningenglish.com.",
+   "ko": "저희 웹사이트 bbclearningenglish.com의 워크시트로 배운 내용을 테스트해 보세요."
+  },
+  {
+   "s": 367.36,
+   "e": 368.44,
+   "en": "Thank you for joining us.",
+   "ko": "함께해 주셔서 고마워요."
+  },
+  {
+   "s": 368.44,
+   "e": 369.36,
+   "en": "Goodbye.",
+   "ko": "안녕히 계세요."
+  },
+  {
+   "s": 369.36,
+   "e": 370.28,
+   "en": "Goodbye!",
+   "ko": "안녕!"
+  }
+ ]
+}

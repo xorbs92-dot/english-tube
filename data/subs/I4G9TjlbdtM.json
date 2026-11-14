@@ -1,0 +1,555 @@
+{
+ "videoId": "I4G9TjlbdtM",
+ "title": "Films at home or at the cinema - which is better? 🍿 | Improve your listening with Real Easy English",
+ "channel": "BBC Learning English",
+ "enSource": "manual",
+ "koSource": "claude",
+ "sentences": [
+  {
+   "s": 0.12,
+   "e": 1.08,
+   "en": "Hi Phil.",
+   "ko": "안녕, 필."
+  },
+  {
+   "s": 1.08,
+   "e": 2.0,
+   "en": "Hi Georgie.",
+   "ko": "안녕, 조지."
+  },
+  {
+   "s": 2.0,
+   "e": 3.44,
+   "en": "How's your week going?",
+   "ko": "이번 주는 어떻게 지내고 있어?"
+  },
+  {
+   "s": 3.44,
+   "e": 5.4,
+   "en": "It's going very well, thank you.",
+   "ko": "아주 잘 지내고 있어, 고마워."
+  },
+  {
+   "s": 5.4,
+   "e": 7.2,
+   "en": "I watched a really good film last night.",
+   "ko": "어젯밤에 정말 좋은 영화를 봤어."
+  },
+  {
+   "s": 7.2,
+   "e": 9.96,
+   "en": "Did you watch it at home or at the cinema?",
+   "ko": "집에서 봤어, 아니면 영화관에서 봤어?"
+  },
+  {
+   "s": 9.96,
+   "e": 14.36,
+   "en": "I watched it at home on my sofa with my housemates.",
+   "ko": "집에서 하우스메이트들이랑 소파에 앉아서 봤어."
+  },
+  {
+   "s": 14.36,
+   "e": 15.68,
+   "en": "Oh, was it good?",
+   "ko": "오, 좋았어?"
+  },
+  {
+   "s": 15.68,
+   "e": 17.36,
+   "en": "It was very good.",
+   "ko": "아주 좋았어."
+  },
+  {
+   "s": 17.36,
+   "e": 25.88,
+   "en": "Now, I told you I watched a film last night at home, but in this episode of Real Easy English, we're talking about cinema.",
+   "ko": "어젯밤에 집에서 영화를 봤다고 했는데, 이번 Real Easy English에서는 영화관에 대해 이야기할 거야."
+  },
+  {
+   "s": 25.88,
+   "e": 31.56,
+   "en": "So, the cinema is where you watch films, or in American English they're sometimes called movies.",
+   "ko": "영화관(cinema)은 영화(films)를 보는 곳인데, 미국 영어에서는 영화를 'movies'라고 부르기도 해."
+  },
+  {
+   "s": 31.56,
+   "e": 44.52,
+   "en": "And before we get started, let's just remind everyone that if you go to bbclearningenglish.com, there's a worksheet where you can practise all the language that you'll hear in this episode.",
+   "ko": "그리고 시작하기 전에 다시 알려드릴게요. bbclearningenglish.com에 가면 이번 에피소드에서 듣게 될 표현들을 모두 연습할 수 있는 워크시트가 있어요."
+  },
+  {
+   "s": 49.16,
+   "e": 54.04,
+   "en": "So, Phil, do you go to the cinema often?",
+   "ko": "그래서 필, 영화관에 자주 가?"
+  },
+  {
+   "s": 54.04,
+   "e": 59.0,
+   "en": "No. No, I don't go very often at all.",
+   "ko": "아니. 아니, 전혀 자주 안 가."
+  },
+  {
+   "s": 59.0,
+   "e": 60.04,
+   "en": "What about you?",
+   "ko": "너는?"
+  },
+  {
+   "s": 60.04,
+   "e": 63.84,
+   "en": "I don't go often, but I did go a couple of weeks ago.",
+   "ko": "자주는 안 가는데, 2주 전쯤에 갔었어."
+  },
+  {
+   "s": 63.84,
+   "e": 70.4,
+   "en": "I went to see an action film, a recent action film, and it was really spectacular.",
+   "ko": "최근에 나온 액션 영화를 보러 갔는데, 정말 장관이었어."
+  },
+  {
+   "s": 70.4,
+   "e": 74.6,
+   "en": "And I'm not a big fan of action movies – action films.",
+   "ko": "나는 액션 영화를 그렇게 좋아하진 않아."
+  },
+  {
+   "s": 74.6,
+   "e": 90.28,
+   "en": "I prefer films that are a bit less stressful, so I wouldn't usually watch action films at home, but in the cinema it was really an amazing experience because you have the big screen.",
+   "ko": "좀 덜 스트레스 받는 영화를 더 좋아해서, 집에서는 보통 액션 영화를 안 보는데, 영화관에서는 큰 화면이 있으니까 정말 놀라운 경험이었어."
+  },
+  {
+   "s": 90.28,
+   "e": 92.72,
+   "en": "You have amazing sound.",
+   "ko": "음향도 엄청나고."
+  },
+  {
+   "s": 92.72,
+   "e": 94.84,
+   "en": "And I really enjoyed it!",
+   "ko": "정말 재밌었어!"
+  },
+  {
+   "s": 94.84,
+   "e": 100.6,
+   "en": "I've not actually been to the cinema for maybe two years, I think.",
+   "ko": "나는 사실 영화관에 안 간 지 2년쯤 된 것 같아."
+  },
+  {
+   "s": 100.6,
+   "e": 102.84,
+   "en": "Wow, Phil! Why don't you go to the cinema?",
+   "ko": "와, 필! 왜 영화관에 안 가?"
+  },
+  {
+   "s": 102.84,
+   "e": 104.0,
+   "en": "Do you not like it?",
+   "ko": "영화관 안 좋아해?"
+  },
+  {
+   "s": 104.0,
+   "e": 110.8,
+   "en": "I like... I like the cinema as an event, so the last time I went, I went with my kids.",
+   "ko": "좋아해... 하나의 이벤트로서는 좋아해. 그래서 마지막으로 갔을 때는 아이들이랑 갔어."
+  },
+  {
+   "s": 110.8,
+   "e": 118.56,
+   "en": "I can't remember what film, but it was a big thing for them to go and they were excited about it, but I don't know...",
+   "ko": "무슨 영화였는지는 기억 안 나지만, 아이들한테는 큰 이벤트라서 엄청 신나 했어. 그런데 잘 모르겠어..."
+  },
+  {
+   "s": 118.56,
+   "e": 120.32,
+   "en": "I like the big screen.",
+   "ko": "큰 화면은 좋아."
+  },
+  {
+   "s": 120.32,
+   "e": 121.8,
+   "en": "I like the sound.",
+   "ko": "음향도 좋아."
+  },
+  {
+   "s": 121.8,
+   "e": 123.28,
+   "en": "I like the event.",
+   "ko": "이벤트 같은 느낌도 좋고."
+  },
+  {
+   "s": 123.28,
+   "e": 131.2,
+   "en": "But if you want to spend time with people, I think in a cinema you can't talk to anyone.",
+   "ko": "그런데 사람들이랑 시간을 보내고 싶을 때, 영화관에서는 아무하고도 얘기를 못 하잖아."
+  },
+  {
+   "s": 131.2,
+   "e": 132.52,
+   "en": "You sit in the dark.",
+   "ko": "어두운 데 앉아 있고."
+  },
+  {
+   "s": 132.52,
+   "e": 135.12,
+   "en": "You can't talk.",
+   "ko": "말을 할 수 없지."
+  },
+  {
+   "s": 135.12,
+   "e": 144.36,
+   "en": "And it's not the best when you want to talk to people, when you want to get to know people, so I tend to watch films more at home, to be honest.",
+   "ko": "사람들이랑 얘기하고 싶을 때, 서로 알아가고 싶을 때는 별로야. 그래서 솔직히 말하면 영화는 집에서 더 많이 보는 편이야."
+  },
+  {
+   "s": 144.36,
+   "e": 152.36,
+   "en": "Yeah, but what about if you go to the cinema with people that you see very often and you don't need to catch up or find out about their lives?",
+   "ko": "응, 그런데 자주 만나서 근황을 나눌 필요가 없는 사람들이랑 영화관에 가는 건 어때?"
+  },
+  {
+   "s": 152.36,
+   "e": 155.56,
+   "en": "You're just going to watch a film and to relax.",
+   "ko": "그냥 영화 보고 쉬러 가는 거지."
+  },
+  {
+   "s": 155.56,
+   "e": 158.36,
+   "en": "Yeah. I mean, yeah, that makes sense because it is...",
+   "ko": "응. 그건, 그래, 말이 되네. 왜냐하면..."
+  },
+  {
+   "s": 158.36,
+   "e": 159.96,
+   "en": "it is nice to get out.",
+   "ko": "밖에 나가는 건 좋으니까."
+  },
+  {
+   "s": 159.96,
+   "e": 163.84,
+   "en": "It is nice to get out of the house and see it on a big screen.",
+   "ko": "집 밖에 나가서 큰 화면으로 보는 건 좋지."
+  },
+  {
+   "s": 163.84,
+   "e": 167.08,
+   "en": "There are also other downsides to going to the cinema.",
+   "ko": "영화관에 가는 데는 다른 단점들도 있어."
+  },
+  {
+   "s": 167.08,
+   "e": 172.36,
+   "en": "My big thing with the cinema is that the seats are not very comfortable.",
+   "ko": "나한테 영화관의 제일 큰 문제는 좌석이 별로 편하지 않다는 거야."
+  },
+  {
+   "s": 172.36,
+   "e": 180.8,
+   "en": "It's much more comfortable to watch a film at home because you might have a sofa, blankets – you can lie down.",
+   "ko": "집에서 영화를 보는 게 훨씬 편해. 소파도 있고 담요도 있고, 누울 수도 있잖아."
+  },
+  {
+   "s": 180.8,
+   "e": 186.6,
+   "en": "You don't have to sit like we are now in a chair upright.",
+   "ko": "지금 우리처럼 의자에 똑바로 앉아 있을 필요가 없지."
+  },
+  {
+   "s": 186.6,
+   "e": 188.52,
+   "en": "Yeah, it's really nice at home.",
+   "ko": "응, 집이 정말 좋아."
+  },
+  {
+   "s": 188.52,
+   "e": 189.72,
+   "en": "You have your snacks.",
+   "ko": "간식도 있고."
+  },
+  {
+   "s": 189.72,
+   "e": 191.76,
+   "en": "You don't have to pay for them as well.",
+   "ko": "간식값을 낼 필요도 없고."
+  },
+  {
+   "s": 191.76,
+   "e": 196.24,
+   "en": "I also think TVs that people have at home now are much better than they used to be.",
+   "ko": "그리고 요즘 사람들이 집에 두는 TV가 예전보다 훨씬 좋아진 것 같아."
+  },
+  {
+   "s": 196.24,
+   "e": 201.92,
+   "en": "When I was a kid, you had a tiny little TV and it was so different to watching something at the cinema.",
+   "ko": "내가 어렸을 땐 TV가 아주 작아서 영화관에서 보는 거랑 완전히 달랐어."
+  },
+  {
+   "s": 201.92,
+   "e": 203.8,
+   "en": "But now I've got quite a nice telly.",
+   "ko": "그런데 지금은 꽤 좋은 TV가 있어."
+  },
+  {
+   "s": 203.8,
+   "e": 207.8,
+   "en": "So, Phil, you talked about going to the cinema as, like, an event.",
+   "ko": "필, 영화관에 가는 걸 이벤트 같은 거라고 했잖아."
+  },
+  {
+   "s": 207.8,
+   "e": 210.32,
+   "en": "So, something we do for special occasions.",
+   "ko": "그러니까 특별한 날에 하는 거."
+  },
+  {
+   "s": 210.32,
+   "e": 211.56,
+   "en": "I really feel that.",
+   "ko": "정말 공감해."
+  },
+  {
+   "s": 211.56,
+   "e": 216.64,
+   "en": "I love going to the cinema because you can buy snacks that you wouldn't normally eat.",
+   "ko": "나는 평소엔 안 먹는 간식을 살 수 있어서 영화관 가는 게 너무 좋아."
+  },
+  {
+   "s": 216.64,
+   "e": 221.32,
+   "en": "Like, popcorn is something I don't eat at home, but I eat at the cinema.",
+   "ko": "팝콘 같은 건 집에서는 안 먹는데 영화관에서는 먹어."
+  },
+  {
+   "s": 221.32,
+   "e": 230.84,
+   "en": "And then going in a little bit early and watching the film trailers, which are short adverts for films that are coming up soon that are shown at the cinema.",
+   "ko": "그리고 조금 일찍 들어가서 예고편을 보는 것도 좋아. 예고편(trailers)은 영화관에서 보여주는, 곧 개봉할 영화의 짧은 광고야."
+  },
+  {
+   "s": 230.84,
+   "e": 233.56,
+   "en": "Is there anything else you like about the cinema?",
+   "ko": "영화관에서 또 좋아하는 건 없어?"
+  },
+  {
+   "s": 233.56,
+   "e": 238.84,
+   "en": "What is nice about the cinema is that you can have no distractions.",
+   "ko": "영화관의 좋은 점은 방해 요소가 없다는 거야."
+  },
+  {
+   "s": 238.84,
+   "e": 240.24,
+   "en": "You just have the film.",
+   "ko": "영화만 있는 거지."
+  },
+  {
+   "s": 240.24,
+   "e": 242.16,
+   "en": "You put your phone away.",
+   "ko": "휴대폰은 치워 두고."
+  },
+  {
+   "s": 242.16,
+   "e": 244.24,
+   "en": "At least you should put your phone away!",
+   "ko": "적어도 휴대폰은 치워 둬야 하지!"
+  },
+  {
+   "s": 244.24,
+   "e": 245.32,
+   "en": "Some people...",
+   "ko": "어떤 사람들은..."
+  },
+  {
+   "s": 245.32,
+   "e": 251.48,
+   "en": "some people in the cinema don't follow the rules, but hopefully everyone watching puts their phone away.",
+   "ko": "영화관에서 규칙을 안 지키는 사람들도 있지만, 보는 사람 모두 휴대폰을 치워 두길 바라."
+  },
+  {
+   "s": 251.48,
+   "e": 253.4,
+   "en": "There's no distractions.",
+   "ko": "방해 요소가 없어."
+  },
+  {
+   "s": 253.4,
+   "e": 258.48,
+   "en": "You can just relax and get involved in the film.",
+   "ko": "그냥 편하게 영화에 빠져들 수 있어."
+  },
+  {
+   "s": 258.48,
+   "e": 266.76,
+   "en": "It's really nice. It is really annoying when people in front of you or next to you are talking really loudly throughout the film.",
+   "ko": "정말 좋아. 앞이나 옆에 앉은 사람이 영화 내내 크게 떠들면 정말 짜증 나."
+  },
+  {
+   "s": 266.76,
+   "e": 268.52,
+   "en": "It's OK to whisper.",
+   "ko": "속삭이는 건 괜찮아."
+  },
+  {
+   "s": 268.52,
+   "e": 270.8,
+   "en": "So, that's when you whisper like that.",
+   "ko": "그러니까 이렇게 속삭이는 거."
+  },
+  {
+   "s": 270.8,
+   "e": 277.92,
+   "en": "It's OK to do that every now and again, but if they're talking all the way through the film, that is really annoying.",
+   "ko": "가끔 그러는 건 괜찮은데, 영화 내내 떠들면 정말 짜증 나."
+  },
+  {
+   "s": 277.92,
+   "e": 279.44,
+   "en": "Yeah, I can't stand that.",
+   "ko": "응, 그건 못 참겠어."
+  },
+  {
+   "s": 279.44,
+   "e": 282.96,
+   "en": "Phil, what kind of films do you like to watch at the cinema?",
+   "ko": "필, 영화관에서는 어떤 영화를 보고 싶어?"
+  },
+  {
+   "s": 282.96,
+   "e": 289.12,
+   "en": "I think a film that takes you to a different place.",
+   "ko": "다른 곳으로 데려가 주는 영화인 것 같아."
+  },
+  {
+   "s": 289.12,
+   "e": 294.04,
+   "en": "So, something that's quite spectacular – there's a lot happening.",
+   "ko": "그러니까 꽤 장관이고 많은 일이 벌어지는 거."
+  },
+  {
+   "s": 294.04,
+   "e": 295.6,
+   "en": "There's a lot to see.",
+   "ko": "볼 게 많은 거."
+  },
+  {
+   "s": 295.6,
+   "e": 302.04,
+   "en": "Or maybe a film that shows you a bit of the world that's interesting that you don't know that well.",
+   "ko": "아니면 잘 모르는 흥미로운 세상의 한 부분을 보여주는 영화."
+  },
+  {
+   "s": 302.04,
+   "e": 309.84,
+   "en": "I kind of like films like that – films that take you somewhere, that show you something you wouldn't normally see.",
+   "ko": "그런 영화를 좋아하는 편이야. 어딘가로 데려가 주고, 평소에는 볼 수 없는 걸 보여주는 영화."
+  },
+  {
+   "s": 309.84,
+   "e": 312.56,
+   "en": "That's definitely good to watch on a big screen.",
+   "ko": "그런 건 확실히 큰 화면으로 보면 좋지."
+  },
+  {
+   "s": 312.56,
+   "e": 313.4,
+   "en": "Yeah, I agree.",
+   "ko": "응, 동의해."
+  },
+  {
+   "s": 313.4,
+   "e": 317.4,
+   "en": "I wouldn't go to the cinema to watch a romantic comedy, a romcom.",
+   "ko": "로맨틱 코미디, 그러니까 '롬콤'을 보러 영화관에 가진 않을 것 같아."
+  },
+  {
+   "s": 317.4,
+   "e": 318.4,
+   "en": "I agree with you.",
+   "ko": "나도 동의해."
+  },
+  {
+   "s": 318.4,
+   "e": 321.64,
+   "en": "I'd like to watch something, yeah, spectacular.",
+   "ko": "나는 그래, 장관인 걸 보고 싶어."
+  },
+  {
+   "s": 328.4,
+   "e": 338.64,
+   "en": "OK. Phil, it's time to look at some of the vocabulary we heard in this conversation, starting with 'trailers', which are short adverts for new films shown at the cinema.",
+   "ko": "좋아. 필, 이번 대화에서 들은 어휘를 살펴볼 시간이야. 먼저 'trailers'는 영화관에서 보여주는 새 영화의 짧은 광고야."
+  },
+  {
+   "s": 338.64,
+   "e": 341.44,
+   "en": "And we also talked about popcorn.",
+   "ko": "그리고 팝콘 얘기도 했지."
+  },
+  {
+   "s": 341.44,
+   "e": 344.24,
+   "en": "Now, popcorn – it's a snack.",
+   "ko": "팝콘은 간식이야."
+  },
+  {
+   "s": 344.24,
+   "e": 353.24,
+   "en": "It's made of corn, and it's usually either sweet or salty, and it's very nice and you get it at the cinema.",
+   "ko": "옥수수로 만들고, 보통 달거나 짭짤한데, 아주 맛있고 영화관에서 사 먹지."
+  },
+  {
+   "s": 353.24,
+   "e": 360.6,
+   "en": "We also heard 'spectacular', which is a very strong adjective to describe something that is very exciting to look at.",
+   "ko": "'spectacular'도 들었는데, 보기에 아주 신나는 것을 묘사하는 아주 강한 형용사야."
+  },
+  {
+   "s": 360.6,
+   "e": 364.28,
+   "en": "And we talked about 'distractions'.",
+   "ko": "그리고 'distractions'에 대해서도 얘기했지."
+  },
+  {
+   "s": 364.28,
+   "e": 373.6,
+   "en": "Things that are distractions are things that make you look at something you might not have wanted to look at, like someone's phone screen instead of the film.",
+   "ko": "'distractions'는 영화 대신 누군가의 휴대폰 화면처럼, 보고 싶지 않았던 걸 보게 만드는 것들이야."
+  },
+  {
+   "s": 373.6,
+   "e": 378.8,
+   "en": "And the things that you watch in the cinema are called 'films', or sometimes called 'movies' as well.",
+   "ko": "그리고 영화관에서 보는 건 'films'라고 하고, 'movies'라고도 해."
+  },
+  {
+   "s": 378.8,
+   "e": 388.92,
+   "en": "OK. And that's it for this week's episode of Real Easy English, but don't worry – we'll be back next week with another episode in easy English.",
+   "ko": "좋아. 이번 주 Real Easy English는 여기까지예요. 걱정 마세요, 다음 주에 쉬운 영어로 된 새 에피소드로 돌아올게요."
+  },
+  {
+   "s": 388.92,
+   "e": 395.28,
+   "en": "And don't forget to download a free worksheet to test what you've learned at bbclearningenglish.com.",
+   "ko": "그리고 bbclearningenglish.com에서 배운 걸 테스트할 수 있는 무료 워크시트도 꼭 받아 가세요."
+  },
+  {
+   "s": 395.28,
+   "e": 396.36,
+   "en": "Goodbye for now.",
+   "ko": "그럼 이만."
+  },
+  {
+   "s": 396.36,
+   "e": 397.2,
+   "en": "Bye.",
+   "ko": "안녕."
+  }
+ ]
+}

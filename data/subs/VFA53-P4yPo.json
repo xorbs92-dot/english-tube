@@ -1,0 +1,393 @@
+{
+ "videoId": "VFA53-P4yPo",
+ "title": "Tips for feeling confident in job interviews 🤝 | Improve your listening with Real Easy English",
+ "channel": "BBC Learning English",
+ "enSource": "manual",
+ "koSource": "claude",
+ "sentences": [
+  {
+   "s": 0.24,
+   "e": 1.56,
+   "en": "Hi Neil. How are you?",
+   "ko": "안녕, 닐. 잘 지내?"
+  },
+  {
+   "s": 1.56,
+   "e": 3.28,
+   "en": "I'm very well, Becca. How are you?",
+   "ko": "아주 잘 지내, 베카. 너는?"
+  },
+  {
+   "s": 3.28,
+   "e": 5.72,
+   "en": "Yeah, I'm very well as well, thank you.",
+   "ko": "응, 나도 아주 잘 지내, 고마워."
+  },
+  {
+   "s": 5.72,
+   "e": 10.32,
+   "en": "Today on Real Easy English, we're talking about job interviews.",
+   "ko": "오늘 Real Easy English에서는 취업 면접에 대해 이야기할 거야."
+  },
+  {
+   "s": 10.32,
+   "e": 13.2,
+   "en": "Job interviews... they're quite hard, aren't they?",
+   "ko": "취업 면접... 꽤 힘들지, 그렇지?"
+  },
+  {
+   "s": 13.2,
+   "e": 15.52,
+   "en": "They are. They're a little bit stressful.",
+   "ko": "맞아. 좀 스트레스 받지."
+  },
+  {
+   "s": 15.52,
+   "e": 16.4,
+   "en": "Very stressful.",
+   "ko": "엄청 스트레스 받아."
+  },
+  {
+   "s": 16.4,
+   "e": 29.16,
+   "en": "But first, before we get started, we need to remind our listeners and our watchers that there is a transcript and a worksheet and activities over on our website, bbclearningenglish.com.",
+   "ko": "그런데 시작하기 전에, 청취자와 시청자 여러분께 알려드릴 게 있어요. 저희 웹사이트 bbclearningenglish.com에 대본, 워크시트, 활동이 있어요."
+  },
+  {
+   "s": 34.4,
+   "e": 38.8,
+   "en": "So, Becca, job interviews – how do they make you feel?",
+   "ko": "그래서 베카, 취업 면접은 어떤 기분이 들게 해?"
+  },
+  {
+   "s": 38.8,
+   "e": 43.08,
+   "en": "Ooh, they make me feel a little bit nervous, Neil.",
+   "ko": "음, 좀 긴장돼, 닐."
+  },
+  {
+   "s": 43.08,
+   "e": 52.52,
+   "en": "Nervous? Is that because it's an important thing and you really want it to go well, so it's that feeling of being worried that it won't go well?",
+   "ko": "긴장된다고? 중요한 일이고 정말 잘되길 바라니까, 잘 안 될까 봐 걱정되는 그런 기분이야?"
+  },
+  {
+   "s": 52.52,
+   "e": 61.52,
+   "en": "Exactly. And I think it is natural to be nervous and natural to worry a little bit, because if you're not worried, it means that you don't care.",
+   "ko": "바로 그거야. 그리고 긴장하는 것도, 조금 걱정하는 것도 자연스러운 것 같아. 걱정이 안 된다는 건 신경을 안 쓴다는 뜻이니까."
+  },
+  {
+   "s": 61.52,
+   "e": 63.6,
+   "en": "That's true, yeah. And it's actually...",
+   "ko": "맞아, 그렇지. 그리고 사실..."
+  },
+  {
+   "s": 63.6,
+   "e": 79.04,
+   "en": "it's a really strange situation, a job interview, because you meet these people, who you don't know, and you have to be friendly and smiley and show that you're a nice person, but also that you are serious and you can do the job.",
+   "ko": "취업 면접은 정말 이상한 상황이야. 모르는 사람들을 만나서 친절하게 웃으면서 좋은 사람이라는 걸 보여줘야 하는데, 동시에 진지하고 일을 잘할 수 있다는 것도 보여줘야 하잖아."
+  },
+  {
+   "s": 79.04,
+   "e": 87.84,
+   "en": "And it is difficult to find that balance between being very friendly and also seeming very confident in yourself.",
+   "ko": "그리고 아주 친절하면서도 자신감 있어 보이는, 그 균형을 찾는 게 어려워."
+  },
+  {
+   "s": 87.84,
+   "e": 92.84,
+   "en": "What are some common questions that you might be asked in an interview?",
+   "ko": "면접에서 받을 수 있는 흔한 질문에는 어떤 게 있을까?"
+  },
+  {
+   "s": 92.84,
+   "e": 98.4,
+   "en": "So, a really common interview question is, Why do you want this job?",
+   "ko": "아주 흔한 면접 질문은 \"왜 이 일을 하고 싶으세요?\"야."
+  },
+  {
+   "s": 98.4,
+   "e": 107.88,
+   "en": "and it's a good question because if you don't want the job, it means that you're lying immediately and that's not a good sign.",
+   "ko": "좋은 질문이야. 그 일을 원하지 않는다면 바로 거짓말을 하게 되는 거고, 그건 좋은 신호가 아니니까."
+  },
+  {
+   "s": 107.88,
+   "e": 118.88,
+   "en": "So, I think that's a really good question, but it can be difficult to answer so you should probably be prepared and think about it before the interview.",
+   "ko": "그래서 정말 좋은 질문이라고 생각하지만 대답하기 어려울 수 있으니까, 면접 전에 미리 생각해서 준비하는 게 좋을 거야."
+  },
+  {
+   "s": 118.88,
+   "e": 130.08,
+   "en": "I think with that question as well, it's really important to be confident in your answer, because there will be lots of people who are answering that same question as well.",
+   "ko": "그 질문에서도 대답할 때 자신감을 갖는 게 정말 중요한 것 같아. 같은 질문에 대답하는 사람이 많을 테니까."
+  },
+  {
+   "s": 130.08,
+   "e": 131.16,
+   "en": "Yeah, absolutely.",
+   "ko": "응, 정말 그래."
+  },
+  {
+   "s": 131.16,
+   "e": 146.68,
+   "en": "And also, it's a little bit false when you are talking in an interview because you are answering the questions, but you're also trying to display lots of things, so you're trying to tell someone about your skills",
+   "ko": "그리고 면접에서 말할 때는 좀 부자연스러워. 질문에 대답하면서 동시에 많은 걸 보여주려고 하니까. 예를 들면 자기 기술(skills)이나"
+  },
+  {
+   "s": 146.68,
+   "e": 148.52,
+   "en": "and your experience, for example.",
+   "ko": "경험(experience)에 대해 말하려고 하지."
+  },
+  {
+   "s": 148.52,
+   "e": 149.08,
+   "en": "Yeah.",
+   "ko": "맞아."
+  },
+  {
+   "s": 149.08,
+   "e": 153.68,
+   "en": "Your skills are the things that you can do that will make you good for the job.",
+   "ko": "'skills'는 그 일을 잘하게 해주는, 내가 할 수 있는 것들이야."
+  },
+  {
+   "s": 153.68,
+   "e": 160.48,
+   "en": "And the experience, of course, is if you have done this kind of thing before.",
+   "ko": "그리고 'experience'는 물론 전에 이런 일을 해본 적이 있는지를 말하지."
+  },
+  {
+   "s": 160.48,
+   "e": 177.56,
+   "en": "Yeah. And usually you'll give the interviewer your CV, your cover letter, which is a piece of paper that has your skills and experiences, but they'll still ask you about these things, and they'll want a little bit of a more detailed explanation",
+   "ko": "응. 보통 면접관에게 이력서(CV)랑 자기소개서를 주는데, 거기에 기술과 경험이 적혀 있어. 그래도 면접관은 이런 것들에 대해 물어보고, 좀 더 자세한 설명을 원해."
+  },
+  {
+   "s": 177.56,
+   "e": 180.04,
+   "en": "so that they can get to know you a bit more.",
+   "ko": "그래야 너를 좀 더 알 수 있으니까."
+  },
+  {
+   "s": 180.04,
+   "e": 183.48,
+   "en": "Yeah. And what they really want is examples.",
+   "ko": "맞아. 그리고 그들이 진짜 원하는 건 예시야."
+  },
+  {
+   "s": 183.48,
+   "e": 192.6,
+   "en": "So, I think it's very easy to say, Oh, you should do this or you should do this in this situation.",
+   "ko": "\"이런 상황에서는 이렇게 해야 해요\"라고 말하는 건 아주 쉬운 것 같아."
+  },
+  {
+   "s": 192.6,
+   "e": 197.04,
+   "en": "But if you can say, I did this in a previous job.",
+   "ko": "그런데 \"전 직장에서 이렇게 했어요."
+  },
+  {
+   "s": 197.04,
+   "e": 205.08,
+   "en": "I did this and then it was a successful result, then that is what people want to hear.",
+   "ko": "이렇게 해서 좋은 결과가 나왔어요\"라고 말할 수 있다면, 그게 사람들이 듣고 싶어 하는 거야."
+  },
+  {
+   "s": 205.08,
+   "e": 206.24,
+   "en": "Absolutely, yeah.",
+   "ko": "정말 그래."
+  },
+  {
+   "s": 206.24,
+   "e": 220.88,
+   "en": "And on top of that, another way to prepare for a job interview is to research the company or wherever it is that you're interviewing because if you can give them examples that fit,",
+   "ko": "그리고 거기에 더해서, 면접을 준비하는 또 다른 방법은 면접 보는 회사나 기관에 대해 조사하는 거야. 잘 맞는 예시를 들 수 있다면,"
+  },
+  {
+   "s": 220.88,
+   "e": 226.08,
+   "en": "maybe with the job that you're interviewing for, then they'll really like that.",
+   "ko": "지원하는 그 일과 관련된 예시라면 정말 좋아할 거야."
+  },
+  {
+   "s": 226.08,
+   "e": 230.6,
+   "en": "Yeah, that's really good advice on how to prepare for a job interview.",
+   "ko": "응, 면접 준비 방법에 대한 정말 좋은 조언이다."
+  },
+  {
+   "s": 230.6,
+   "e": 234.68,
+   "en": "Now, job interviews don't always go well.",
+   "ko": "그런데 면접이 항상 잘 되는 건 아니잖아."
+  },
+  {
+   "s": 234.68,
+   "e": 238.84,
+   "en": "Can you think of a time you've had a really bad question?",
+   "ko": "정말 곤란한 질문을 받았던 적 있어?"
+  },
+  {
+   "s": 238.84,
+   "e": 240.84,
+   "en": "What's the worst question you've had?",
+   "ko": "지금까지 받은 최악의 질문은 뭐야?"
+  },
+  {
+   "s": 240.84,
+   "e": 248.16,
+   "en": "Ooh... often the interviewer will ask what your weakness is.",
+   "ko": "음... 면접관이 단점이 뭐냐고 자주 물어봐."
+  },
+  {
+   "s": 248.16,
+   "e": 253.36,
+   "en": "So, you have your strengths – those are the things that you're really good at – so, like, your skills.",
+   "ko": "장점(strengths)은 정말 잘하는 것들, 그러니까 기술 같은 거고."
+  },
+  {
+   "s": 253.36,
+   "e": 263.24,
+   "en": "And then your weaknesses are the things that you might not be so good at, so you don't really want to tell the interviewer what you're not good at!",
+   "ko": "단점(weaknesses)은 잘 못하는 것들인데, 면접관한테 내가 뭘 못하는지 굳이 말하고 싶진 않잖아!"
+  },
+  {
+   "s": 263.24,
+   "e": 266.44,
+   "en": "But it is important, I think, to be honest.",
+   "ko": "그래도 솔직한 게 중요하다고 생각해."
+  },
+  {
+   "s": 266.44,
+   "e": 267.16,
+   "en": "Yeah.",
+   "ko": "맞아."
+  },
+  {
+   "s": 267.16,
+   "e": 278.52,
+   "en": "Maybe it's difficult to balance me saying what my weaknesses are, but also, you know, kind of making that good for the job.",
+   "ko": "단점을 말하면서도, 그걸 그 일에 도움이 되는 쪽으로 풀어내는 균형을 잡기가 어려울 수 있어."
+  },
+  {
+   "s": 278.52,
+   "e": 279.6,
+   "en": "Yeah, it's really...",
+   "ko": "응, 정말..."
+  },
+  {
+   "s": 279.6,
+   "e": 292.88,
+   "en": "it's really tricky to answer because you don't want to be completely honest and say, Oh well, my weakness is I really hate working and I can't get up on time.",
+   "ko": "대답하기 정말 까다로워. 너무 솔직하게 \"제 단점은 일하는 걸 정말 싫어하고 제시간에 못 일어나는 거예요\"라고 말하고 싶진 않으니까."
+  },
+  {
+   "s": 292.88,
+   "e": 294.12,
+   "en": "Yeah...!",
+   "ko": "맞아...!"
+  },
+  {
+   "s": 294.12,
+   "e": 300.68,
+   "en": "But you also don't want to pretend that you're perfect because nobody believes that somebody is perfect.",
+   "ko": "그렇다고 완벽한 척하고 싶지도 않지. 완벽한 사람이 있다고 믿는 사람은 없으니까."
+  },
+  {
+   "s": 300.68,
+   "e": 302.52,
+   "en": "Absolutely, yeah.",
+   "ko": "정말 그래."
+  },
+  {
+   "s": 308.56,
+   "e": 313.6,
+   "en": "Alright Neil, it's time to recap some of the vocabulary that we used in this conversation.",
+   "ko": "좋아, 닐. 이번 대화에서 쓴 어휘를 복습할 시간이야."
+  },
+  {
+   "s": 313.6,
+   "e": 319.84,
+   "en": "And the first is an adjective that we all probably might feel in a job interview and that is 'nervous'.",
+   "ko": "첫 번째는 면접에서 아마 다들 느낄 형용사, 바로 'nervous'야."
+  },
+  {
+   "s": 319.84,
+   "e": 323.88,
+   "en": "So, 'nervous' is when you feel worried about something.",
+   "ko": "'nervous'는 무언가가 걱정되는 기분이야."
+  },
+  {
+   "s": 323.88,
+   "e": 328.52,
+   "en": "Yeah, we also heard, or we used, the word 'confident'.",
+   "ko": "응, 'confident'라는 단어도 들었지, 아니 우리가 썼지."
+  },
+  {
+   "s": 328.52,
+   "e": 335.24,
+   "en": "If you are confident, it means that you are fairly sure that you're going to do well at something.",
+   "ko": "'confident'하다는 건 무언가를 잘할 거라고 꽤 확신한다는 뜻이야."
+  },
+  {
+   "s": 335.24,
+   "e": 338.88,
+   "en": "And you can be confident in your skills, for example.",
+   "ko": "예를 들어 자기 기술에 자신감을 가질 수 있지."
+  },
+  {
+   "s": 338.88,
+   "e": 342.08,
+   "en": "So, your skills are the things that you can do.",
+   "ko": "'skills'는 내가 할 수 있는 것들이야."
+  },
+  {
+   "s": 342.08,
+   "e": 349.0,
+   "en": "And when you're in a job interview, you need to tell the person interviewing you which skills you're good at.",
+   "ko": "면접에서는 면접관에게 어떤 기술을 잘하는지 말해야 해."
+  },
+  {
+   "s": 349.0,
+   "e": 363.92,
+   "en": "Yes, and it's best if you use examples – examples of real things that you've done that you can tell people, so it doesn't sound like you just took these examples from the internet.",
+   "ko": "맞아, 그리고 예시를 드는 게 가장 좋아. 실제로 해본 일의 예시를 말하면, 인터넷에서 그냥 가져온 예시처럼 들리지 않으니까."
+  },
+  {
+   "s": 363.92,
+   "e": 369.48,
+   "en": "Well, that's it for this episode of Real Easy English, but we have a worksheet on our website.",
+   "ko": "이번 Real Easy English는 여기까지예요. 웹사이트에 워크시트가 있어요."
+  },
+  {
+   "s": 369.48,
+   "e": 372.4,
+   "en": "That's at bbclearningenglish.com.",
+   "ko": "bbclearningenglish.com이에요."
+  },
+  {
+   "s": 372.4,
+   "e": 375.4,
+   "en": "Join us again next week for another easy conversation.",
+   "ko": "다음 주에 또 다른 쉬운 대화로 만나요."
+  },
+  {
+   "s": 375.4,
+   "e": 375.96,
+   "en": "Bye for now.",
+   "ko": "그럼 이만."
+  },
+  {
+   "s": 375.96,
+   "e": 377.16,
+   "en": "Bye!",
+   "ko": "안녕!"
+  }
+ ]
+}

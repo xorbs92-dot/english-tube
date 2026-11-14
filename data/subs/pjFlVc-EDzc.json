@@ -1,0 +1,405 @@
+{
+ "videoId": "pjFlVc-EDzc",
+ "title": "What should you eat for a better night’s sleep? ⏲️ 6 Minute English",
+ "channel": "BBC Learning English",
+ "enSource": "manual",
+ "koSource": "claude",
+ "sentences": [
+  {
+   "s": 0.0,
+   "e": 0.92,
+   "en": "Hi Georgie.",
+   "ko": "안녕, 조지."
+  },
+  {
+   "s": 0.92,
+   "e": 1.8,
+   "en": "Hi Phil.",
+   "ko": "안녕, 필."
+  },
+  {
+   "s": 1.8,
+   "e": 5.4,
+   "en": "Now, Phil, do you ever struggle to get a good night's sleep?",
+   "ko": "그런데 필, 밤에 푹 자는 게 힘들 때가 있어?"
+  },
+  {
+   "s": 5.4,
+   "e": 6.88,
+   "en": "You know, I do sometimes.",
+   "ko": "있지, 가끔 그래."
+  },
+  {
+   "s": 6.88,
+   "e": 17.04,
+   "en": "If I've been thinking about something a lot, or even worse, if I've had a cup of coffee later than I should, sometimes I can lie there for hours.",
+   "ko": "뭔가를 많이 생각했거나, 더 나쁜 건 커피를 늦게 마셨을 때는 가끔 몇 시간씩 그냥 누워 있어."
+  },
+  {
+   "s": 17.04,
+   "e": 29.76,
+   "en": "Yes. Well, many of us will be familiar with that feeling of lying in bed, feeling really tired, but just not being able to go to sleep, but what causes us to struggle to sleep and is there anything we can do about it?",
+   "ko": "맞아. 너무 피곤한데 침대에 누워서 잠이 안 오는 그 느낌, 많은 사람들이 잘 알 거야. 그런데 왜 잠들기가 힘든 걸까, 그리고 그걸 해결할 방법이 있을까?"
+  },
+  {
+   "s": 29.76,
+   "e": 35.84,
+   "en": "Well, researchers have for a while been interested in the link between what we eat and how we sleep.",
+   "ko": "음, 연구자들은 한동안 우리가 먹는 것과 자는 방식 사이의 관계에 관심을 가져왔어."
+  },
+  {
+   "s": 35.84,
+   "e": 43.12,
+   "en": "Today on 6 Minute English, we'll be talking about this and asking, What should you eat for a better night's sleep?",
+   "ko": "오늘 6 Minute English에서는 이 이야기를 하면서 이런 질문을 던져볼 거예요. 잠을 더 잘 자려면 무엇을 먹어야 할까요?"
+  },
+  {
+   "s": 45.28,
+   "e": 48.28,
+   "en": "OK. Phil, let's start with a quiz question.",
+   "ko": "좋아. 필, 퀴즈 문제부터 시작하자."
+  },
+  {
+   "s": 48.28,
+   "e": 58.96,
+   "en": "So, adults need between 7–9 hours sleep a night to stay healthy, according to experts, but what percentage of people in the UK say they get less than this?",
+   "ko": "전문가들에 따르면 성인은 건강을 유지하려면 하룻밤에 7~9시간을 자야 하는데, 영국 사람 중 몇 퍼센트가 그보다 적게 잔다고 말할까?"
+  },
+  {
+   "s": 58.96,
+   "e": 64.92,
+   "en": "Is it: a) 15%, b) 25%, or c) 35%?",
+   "ko": "a) 15%, b) 25%, c) 35% 중 뭘까?"
+  },
+  {
+   "s": 64.92,
+   "e": 72.04,
+   "en": "OK. I think people find sleeping hard, so I think it's going to be c) 35%.",
+   "ko": "좋아. 사람들이 잠드는 걸 힘들어하는 것 같으니까 c) 35%일 것 같아."
+  },
+  {
+   "s": 72.04,
+   "e": 75.12,
+   "en": "OK. Well, we'll find out the answer later in the programme.",
+   "ko": "좋아. 정답은 프로그램 뒷부분에서 알아보자."
+  },
+  {
+   "s": 75.12,
+   "e": 78.2,
+   "en": "Georgie, you've been looking at the research on this.",
+   "ko": "조지, 이에 대한 연구를 살펴봤잖아."
+  },
+  {
+   "s": 78.2,
+   "e": 82.64,
+   "en": "Do scientists think that what we eat affects how we sleep?",
+   "ko": "과학자들은 우리가 먹는 게 수면에 영향을 준다고 생각해?"
+  },
+  {
+   "s": 82.64,
+   "e": 83.72,
+   "en": "Yes, they do.",
+   "ko": "응, 그렇게 생각해."
+  },
+  {
+   "s": 83.72,
+   "e": 85.96,
+   "en": "Scientists have done some long-term studies.",
+   "ko": "과학자들이 장기 연구를 몇 가지 했어."
+  },
+  {
+   "s": 85.96,
+   "e": 94.88,
+   "en": "So, looking at large groups of people over a long period of time, and they found that a healthier diet is associated with better quality sleep.",
+   "ko": "그러니까 많은 사람들을 오랜 기간 지켜봤는데, 더 건강한 식단이 더 질 좋은 수면과 관련이 있다는 걸 발견했어."
+  },
+  {
+   "s": 94.88,
+   "e": 103.2,
+   "en": "They've also done some smaller studies looking in more detail at exactly what people are eating and then studying how they sleep in a laboratory.",
+   "ko": "또 사람들이 정확히 뭘 먹는지 더 자세히 살펴보고, 실험실에서 그 사람들이 어떻게 자는지 연구한 소규모 연구들도 있어."
+  },
+  {
+   "s": 103.2,
+   "e": 110.76,
+   "en": "OK. And in these studies, have they found that particular foods are better for our sleep than others?",
+   "ko": "그렇구나. 그 연구들에서 특정 음식이 다른 음식보다 잠에 더 좋다는 걸 발견했어?"
+  },
+  {
+   "s": 110.76,
+   "e": 115.4,
+   "en": "Well, it's less about particular foods and more about particular nutrients.",
+   "ko": "음, 특정 음식이라기보다는 특정 영양소에 관한 거야."
+  },
+  {
+   "s": 115.4,
+   "e": 120.2,
+   "en": "So, nutrients means important things your body needs to survive and be healthy.",
+   "ko": "'nutrients(영양소)'는 몸이 살아가고 건강하기 위해 필요한 중요한 것들을 말해."
+  },
+  {
+   "s": 120.2,
+   "e": 122.56,
+   "en": "For example, protein is a nutrient.",
+   "ko": "예를 들어 단백질이 영양소야."
+  },
+  {
+   "s": 122.56,
+   "e": 131.8,
+   "en": "BBC World Service programme The Food Chain has been speaking to researcher Professor Marie-Pierre St-Onge about which nutrients are important for sleep.",
+   "ko": "BBC 월드 서비스 프로그램 'The Food Chain'에서 연구자 마리피에르 생옹주 교수와 수면에 중요한 영양소에 대해 이야기를 나눴어."
+  },
+  {
+   "s": 131.8,
+   "e": 144.0,
+   "en": "So, diets that look more like a Mediterranean pattern – higher in fruits and vegetables, whole grains, lower in animal-based foods, lower in sugar.",
+   "ko": "\"지중해식 패턴에 더 가까운 식단, 그러니까 과일과 채소, 통곡물이 많고 동물성 식품과 설탕이 적은 식단이요."
+  },
+  {
+   "s": 144.0,
+   "e": 152.24,
+   "en": "But then from our own research, where we evaluate food intakes in the lab, we see different... similar patterns, really.",
+   "ko": "그리고 실험실에서 음식 섭취를 평가한 저희 연구에서도 사실 비슷한 패턴이 보여요."
+  },
+  {
+   "s": 152.24,
+   "e": 167.8,
+   "en": "But when we talk about nutrients, diets that are higher in fibre, which we find in fruits and vegetables and whole grains, and lower in saturated fats, which we find in more plant-based types of foods, are associated with more deep sleep at night.",
+   "ko": "영양소로 말하자면, 과일과 채소, 통곡물에 들어 있는 식이섬유가 많고, 식물성 위주의 식단처럼 포화지방이 적은 식단이 밤에 더 깊은 잠과 관련이 있어요.\""
+  },
+  {
+   "s": 167.8,
+   "e": 172.92,
+   "en": "Marie-Pierre says that Mediterranean-style diets are associated with good sleep.",
+   "ko": "마리피에르는 지중해식 식단이 좋은 수면과 관련이 있다고 말해."
+  },
+  {
+   "s": 172.92,
+   "e": 179.16,
+   "en": "A Mediterranean diet includes lots of vegetables and less animal-based foods such as meat and dairy.",
+   "ko": "지중해식 식단은 채소가 많고 고기나 유제품 같은 동물성 식품이 적어."
+  },
+  {
+   "s": 179.16,
+   "e": 189.8,
+   "en": "Yes, and Marie-Pierre's own research shows that some nutrients, such as fibre, are important for sleep and others, such as saturated fats, are less important.",
+   "ko": "맞아, 그리고 마리피에르의 연구에 따르면 식이섬유 같은 일부 영양소는 수면에 중요하고, 포화지방 같은 것들은 덜 중요해."
+  },
+  {
+   "s": 189.8,
+   "e": 196.2,
+   "en": "Saturated fat is a type of fat mainly found in meat and dairy that's thought to be bad for your health.",
+   "ko": "포화지방은 주로 고기와 유제품에 들어 있는 지방의 한 종류로, 건강에 나쁘다고 여겨져."
+  },
+  {
+   "s": 196.2,
+   "e": 205.4,
+   "en": "Right. And according to Marie-Pierre, eating less saturated fat and more nutrients, like fibre, is associated with more deep sleep at night.",
+   "ko": "맞아. 그리고 마리피에르에 따르면 포화지방을 덜 먹고 식이섬유 같은 영양소를 더 먹으면 밤에 더 깊은 잠과 관련이 있대."
+  },
+  {
+   "s": 205.4,
+   "e": 210.72,
+   "en": "A deep sleep is when you are more fully asleep and your body is able to rest.",
+   "ko": "'deep sleep(깊은 잠)'은 더 완전히 잠들어서 몸이 쉴 수 있는 상태야."
+  },
+  {
+   "s": 210.72,
+   "e": 217.56,
+   "en": "So, Georgie, it sounds like thinking about our diets is important if we want to improve our sleep.",
+   "ko": "그러니까 조지, 잠을 개선하고 싶다면 식단을 생각하는 게 중요한 것 같네."
+  },
+  {
+   "s": 217.56,
+   "e": 224.32,
+   "en": "And now I've heard that certain foods have a lot of nutrients that can be helpful for sleep. Is that true?",
+   "ko": "그런데 어떤 음식에는 수면에 도움이 되는 영양소가 많다고 들었는데, 사실이야?"
+  },
+  {
+   "s": 224.32,
+   "e": 229.16,
+   "en": "Well, there is some limited research on specific foods and their impact on sleep.",
+   "ko": "음, 특정 음식과 그게 수면에 미치는 영향에 대한 연구는 좀 제한적이야."
+  },
+  {
+   "s": 229.16,
+   "e": 234.48,
+   "en": "So, for example, scientists have been studying kiwi fruits and also tart cherry juice.",
+   "ko": "예를 들어 과학자들은 키위와 타트 체리 주스를 연구해 왔어."
+  },
+  {
+   "s": 234.48,
+   "e": 238.32,
+   "en": "And you may also see adverts for supplements that claim to improve sleep.",
+   "ko": "그리고 수면을 개선해 준다고 주장하는 영양제 광고도 볼 수 있을 거야."
+  },
+  {
+   "s": 238.32,
+   "e": 244.72,
+   "en": "Supplements are tablets you take, which contain particular nutrients that you might not get in your everyday diet.",
+   "ko": "'supplements(영양제)'는 평소 식단에서 얻지 못할 수도 있는 특정 영양소가 들어 있는 알약이야."
+  },
+  {
+   "s": 244.72,
+   "e": 252.72,
+   "en": "But experts say that focusing on our whole diet, rather than one particular fruit or supplement, is going to be the most effective.",
+   "ko": "하지만 전문가들은 특정 과일 하나나 영양제 하나보다 식단 전체에 집중하는 게 가장 효과적일 거라고 말해."
+  },
+  {
+   "s": 252.72,
+   "e": 258.56,
+   "en": "Here's sleep doctor Allie Hare explaining more to BBC World Service programme The Food Chain.",
+   "ko": "수면 전문의 앨리 헤어가 BBC 월드 서비스 프로그램 'The Food Chain'에서 더 설명해 줬어."
+  },
+  {
+   "s": 258.56,
+   "e": 263.12,
+   "en": "I think people are looking for the one supplement often or the...",
+   "ko": "\"사람들은 종종 딱 하나의 영양제나..."
+  },
+  {
+   "s": 263.12,
+   "e": 266.0,
+   "en": "you know, we're fed a lot of these things, aren't we, on social media?",
+   "ko": "있잖아요, 소셜 미디어에서 이런 걸 엄청 많이 접하게 되잖아요?"
+  },
+  {
+   "s": 266.0,
+   "e": 275.0,
+   "en": "This magical powder or this magical tablet that you can take that will, you know, help you sleep better immediately from tonight.",
+   "ko": "먹으면 오늘 밤부터 바로 잠을 더 잘 자게 해준다는 마법의 가루나 마법의 알약 같은 거요."
+  },
+  {
+   "s": 275.0,
+   "e": 280.84,
+   "en": "And of course, you know, Marie-Pierre and I know that there is no such magic bullet, unfortunately.",
+   "ko": "그리고 물론 마리피에르와 저는 안타깝게도 그런 만능 해결책은 없다는 걸 알죠."
+  },
+  {
+   "s": 280.84,
+   "e": 284.48,
+   "en": "And if there was, I'm sure, you know, we would be...",
+   "ko": "만약 있었다면, 분명 저희는..."
+  },
+  {
+   "s": 284.48,
+   "e": 287.32,
+   "en": "we would be doing very well for ourselves.",
+   "ko": "저희는 아주 잘 나가고 있었을 거예요.\""
+  },
+  {
+   "s": 287.32,
+   "e": 292.2,
+   "en": "Allie says people are looking for a supplement that can help them sleep.",
+   "ko": "앨리는 사람들이 잠을 잘 자게 도와줄 영양제를 찾고 있다고 말해."
+  },
+  {
+   "s": 292.2,
+   "e": 297.36,
+   "en": "Yes. She says we are fed information on social media about magical tablets.",
+   "ko": "맞아. 소셜 미디어에서 마법의 알약에 대한 정보를 계속 접하게 된다고(fed) 말하지."
+  },
+  {
+   "s": 297.36,
+   "e": 301.72,
+   "en": "If you are fed information, you are given lots of it in a continuous way.",
+   "ko": "정보를 'be fed'한다는 건 정보를 계속해서 많이 받는다는 뜻이야."
+  },
+  {
+   "s": 301.72,
+   "e": 315.12,
+   "en": "But Allie argues that experts know there's no magic bullet to help you sleep, and a magic bullet refers to a simple and effective solution to a problem that's usually one that doesn't exist.",
+   "ko": "하지만 앨리는 잠을 잘 자게 도와줄 'magic bullet'은 없다는 걸 전문가들은 안다고 주장해. 'magic bullet'은 문제에 대한 간단하고 효과적인 해결책을 말하는데, 보통 존재하지 않는 거야."
+  },
+  {
+   "s": 315.12,
+   "e": 320.36,
+   "en": "OK. Well, now I think it's time to find out the answer to your quiz question, Georgie.",
+   "ko": "좋아. 이제 퀴즈 정답을 알아볼 시간인 것 같아, 조지."
+  },
+  {
+   "s": 320.36,
+   "e": 326.56,
+   "en": "Yes. I asked you what percentage of UK adults say they get less than seven hours sleep a night.",
+   "ko": "응. 영국 성인 중 몇 퍼센트가 하룻밤에 7시간보다 적게 잔다고 말하는지 물었지."
+  },
+  {
+   "s": 326.56,
+   "e": 330.12,
+   "en": "And I said I thought it was c) 35%.",
+   "ko": "나는 c) 35%라고 했어."
+  },
+  {
+   "s": 330.12,
+   "e": 332.12,
+   "en": "You are correct, Phil.",
+   "ko": "맞았어, 필."
+  },
+  {
+   "s": 332.12,
+   "e": 339.04,
+   "en": "Yes, 35% of adults say they get six hours or less sleep a night, according to a study by YouGov.",
+   "ko": "응, 유고브(YouGov) 조사에 따르면 성인의 35%가 하룻밤에 6시간 이하로 잔다고 말한대."
+  },
+  {
+   "s": 339.04,
+   "e": 348.24,
+   "en": "OK. Let's recap the vocabulary we learned in this programme, starting with nutrients, which are important things your body needs to survive and be healthy.",
+   "ko": "좋아. 이번 프로그램에서 배운 어휘를 복습해 보자. 먼저 'nutrients'는 몸이 살아가고 건강하기 위해 필요한 중요한 것들이야."
+  },
+  {
+   "s": 348.24,
+   "e": 355.4,
+   "en": "Saturated fats are fats mainly found in meat and dairy products that are thought to be bad for our health.",
+   "ko": "'Saturated fats'는 주로 고기와 유제품에 들어 있는, 건강에 나쁘다고 여겨지는 지방이야."
+  },
+  {
+   "s": 355.4,
+   "e": 359.6,
+   "en": "A deep sleep is when your body is fully asleep and able to rest.",
+   "ko": "'deep sleep'은 몸이 완전히 잠들어서 쉴 수 있는 상태야."
+  },
+  {
+   "s": 359.6,
+   "e": 366.48,
+   "en": "Supplements are tablets or other things which contain particular nutrients you might not get in your everyday diet.",
+   "ko": "'Supplements'는 평소 식단에서 얻지 못할 수도 있는 특정 영양소가 들어 있는 알약 같은 것들이야."
+  },
+  {
+   "s": 366.48,
+   "e": 370.52,
+   "en": "To feed information means to give lots of it in a continuous way.",
+   "ko": "정보를 'feed'한다는 건 정보를 계속해서 많이 준다는 뜻이야."
+  },
+  {
+   "s": 370.52,
+   "e": 376.8,
+   "en": "And a magic bullet is a simple and effective solution, and it's often one that doesn't exist.",
+   "ko": "그리고 'magic bullet'은 간단하고 효과적인 해결책인데, 존재하지 않는 경우가 많아."
+  },
+  {
+   "s": 376.8,
+   "e": 382.48,
+   "en": "Once again, our six minutes are up, but don't forget you can test what you've learned with the worksheet on our website.",
+   "ko": "이번에도 6분이 다 됐네요. 저희 웹사이트의 워크시트로 배운 내용을 테스트할 수 있다는 것도 잊지 마세요."
+  },
+  {
+   "s": 382.48,
+   "e": 385.0,
+   "en": "Go to bbclearningenglish.com.",
+   "ko": "bbclearningenglish.com으로 가세요."
+  },
+  {
+   "s": 385.0,
+   "e": 387.48,
+   "en": "Thanks for joining us and goodbye.",
+   "ko": "함께해 주셔서 고마워요. 안녕히 계세요."
+  },
+  {
+   "s": 387.48,
+   "e": 388.72,
+   "en": "Goodbye!",
+   "ko": "안녕!"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+#!/bin/sh
+# 인터넷(GitHub Pages)에 올리기. 강의를 추가하거나 번역을 채운 뒤 실행하세요.
+set -e
+cd "$(dirname "$0")"
+REPO=english-tube
+if ! gh auth status >/dev/null 2>&1; then
+  echo "먼저 GitHub 로그인이 필요해요:  gh auth login --web"; exit 1
+fi
+[ -d .git ] || git init -q -b main
+git add -A
+git diff --cached --quiet || git commit -q -m "update $(date '+%Y-%m-%d %H:%M')"
+USER=$(gh api user --jq .login)
+if ! gh repo view "$USER/$REPO" >/dev/null 2>&1; then
+  echo "▶ GitHub 저장소 만드는 중..."
+  gh repo create "$REPO" --public --source=. --remote=origin --push --description "개인 영어 공부용 English Tube"
+  gh api -X POST "repos/$USER/$REPO/pages" -f "source[branch]=main" -f "source[path]=/" >/dev/null
+else
+  git remote get-url origin >/dev/null 2>&1 || git remote add origin "https://github.com/$USER/$REPO.git"
+  git push -q -u origin main
+fi
+URL="https://$USER.github.io/$REPO/"
+echo ""
+echo "✓ 올리기 완료 (반영까지 1~2분 걸려요)"
+echo "  휴대폰 주소: $URL"
+.venv/bin/python -c "import qrcode,sys; q=qrcode.QRCode(border=1); q.add_data(sys.argv[1]); q.make(); q.print_ascii(invert=True)" "$URL" 2>/dev/null || true

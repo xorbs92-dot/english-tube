@@ -1,0 +1,459 @@
+{
+ "videoId": "GDwLjLHsGGg",
+ "title": "What can science tell us about the pain of a broken heart? ⏲️ 6 Minute English",
+ "channel": "BBC Learning English",
+ "enSource": "manual",
+ "koSource": "claude",
+ "sentences": [
+  {
+   "s": 0.0,
+   "e": 0.88,
+   "en": "Hi Georgie.",
+   "ko": "안녕, 조지."
+  },
+  {
+   "s": 0.88,
+   "e": 1.76,
+   "en": "Hi Neil.",
+   "ko": "안녕, 닐."
+  },
+  {
+   "s": 1.76,
+   "e": 6.6,
+   "en": "Now, I want you to think back to the last time you had your heart broken.",
+   "ko": "마지막으로 실연했을 때를 한번 떠올려 봐."
+  },
+  {
+   "s": 6.6,
+   "e": 7.8,
+   "en": "How did it feel?",
+   "ko": "어떤 기분이었어?"
+  },
+  {
+   "s": 7.8,
+   "e": 9.28,
+   "en": "It was a couple of years ago.",
+   "ko": "2년쯤 전이었어."
+  },
+  {
+   "s": 9.28,
+   "e": 13.08,
+   "en": "And I just remember a really intense, sad emotion.",
+   "ko": "정말 강렬하고 슬픈 감정만 기억나."
+  },
+  {
+   "s": 13.08,
+   "e": 17.32,
+   "en": "But it also sometimes feels like a physical pain in your stomach, doesn't it?",
+   "ko": "그런데 가끔 배가 실제로 아픈 것처럼 느껴지기도 하잖아, 그렇지?"
+  },
+  {
+   "s": 17.32,
+   "e": 19.68,
+   "en": "It does. It's like real pain, isn't it?",
+   "ko": "그렇지. 진짜 통증 같아, 그렇지?"
+  },
+  {
+   "s": 19.68,
+   "e": 23.08,
+   "en": "And today, in 6 Minute English, we're talking about heartbreak.",
+   "ko": "그래서 오늘 6 Minute English에서는 실연(heartbreak)에 대해 이야기할 거야."
+  },
+  {
+   "s": 23.08,
+   "e": 27.92,
+   "en": "Now, heartbreak is the feeling of sadness we get when we lose someone we love.",
+   "ko": "'heartbreak'는 사랑하는 사람을 잃었을 때 느끼는 슬픔이야."
+  },
+  {
+   "s": 27.92,
+   "e": 31.64,
+   "en": "And that pain you feel, it's not just imaginary.",
+   "ko": "그리고 그때 느끼는 아픔은 그냥 상상이 아니야."
+  },
+  {
+   "s": 31.64,
+   "e": 40.76,
+   "en": "In this podcast, we'll be understanding how our brains change when we fall in love and asking the question, why does heartbreak hurt so much?",
+   "ko": "이번 팟캐스트에서는 사랑에 빠졌을 때 뇌가 어떻게 변하는지 알아보고, 실연은 왜 그렇게 아플까 하는 질문을 던져볼 거예요."
+  },
+  {
+   "s": 40.76,
+   "e": 44.52,
+   "en": "And as usual, we'll be learning some useful new vocabulary.",
+   "ko": "그리고 늘 그렇듯 유용한 새 어휘도 배울 거예요."
+  },
+  {
+   "s": 44.52,
+   "e": 49.24,
+   "en": "You can find the full list and the definitions at bbclearningenglish.com.",
+   "ko": "전체 목록과 뜻은 bbclearningenglish.com에서 찾을 수 있어요."
+  },
+  {
+   "s": 51.28,
+   "e": 54.08,
+   "en": "Georgie, we're going to start with a quiz question. Are you ready?",
+   "ko": "조지, 퀴즈 문제로 시작할게. 준비됐어?"
+  },
+  {
+   "s": 54.08,
+   "e": 55.8,
+   "en": "I am very ready.",
+   "ko": "완전 준비됐어."
+  },
+  {
+   "s": 55.8,
+   "e": 68.16,
+   "en": "So, in the 1950s, psychologists noticed a link between children's early bonds with their parents and their romantic relationships as adults, but what is this theory called?",
+   "ko": "1950년대에 심리학자들은 어린 시절 부모와의 유대가 어른이 된 후의 연애 관계와 연결되어 있다는 걸 발견했는데, 이 이론을 뭐라고 할까?"
+  },
+  {
+   "s": 68.16,
+   "e": 75.0,
+   "en": "Is it: a) contraction theory, b) attachment theory, or c) superstition theory?",
+   "ko": "a) 수축 이론, b) 애착 이론, c) 미신 이론 중 뭘까?"
+  },
+  {
+   "s": 75.0,
+   "e": 77.76,
+   "en": "I think it's b) attachment theory.",
+   "ko": "b) 애착 이론인 것 같아."
+  },
+  {
+   "s": 77.76,
+   "e": 80.96,
+   "en": "OK. Well, we will find out at the end of the programme.",
+   "ko": "좋아. 프로그램 끝에서 알아보자."
+  },
+  {
+   "s": 80.96,
+   "e": 84.32,
+   "en": "What's going on in our brains when we fall in love?",
+   "ko": "사랑에 빠지면 뇌에서는 무슨 일이 일어날까?"
+  },
+  {
+   "s": 84.32,
+   "e": 90.32,
+   "en": "Well, scientists have scanned people's brains while they're looking at a photo of their romantic partner.",
+   "ko": "음, 과학자들이 사람들이 연인 사진을 보고 있을 때 뇌를 스캔했어."
+  },
+  {
+   "s": 90.32,
+   "e": 98.96,
+   "en": "And they found that looking at someone you're in love with activates a part of the brain that also reminds us to eat and drink.",
+   "ko": "그리고 사랑하는 사람을 보면 먹고 마시라고 알려주는 뇌 부위가 활성화된다는 걸 발견했어."
+  },
+  {
+   "s": 98.96,
+   "e": 103.32,
+   "en": "And do scientists know why being in love impacts our brain in this way?",
+   "ko": "과학자들은 사랑에 빠지는 게 왜 뇌에 이런 영향을 주는지 알아?"
+  },
+  {
+   "s": 103.32,
+   "e": 105.24,
+   "en": "So, it's all about survival.",
+   "ko": "결국 다 생존에 관한 거야."
+  },
+  {
+   "s": 105.24,
+   "e": 107.92,
+   "en": "Our brains have evolved to be this way.",
+   "ko": "우리 뇌가 이렇게 진화한 거지."
+  },
+  {
+   "s": 107.92,
+   "e": 112.36,
+   "en": "Dr Lucy Brown explains more to the BBC World Service.",
+   "ko": "루시 브라운 박사가 BBC 월드 서비스에서 더 설명해 줬어."
+  },
+  {
+   "s": 112.36,
+   "e": 114.04,
+   "en": "This is a survival system.",
+   "ko": "\"이건 생존 시스템이에요."
+  },
+  {
+   "s": 114.04,
+   "e": 122.48,
+   "en": "Nature gave us these systems to be addicted to each other – for reproduction, for protection.",
+   "ko": "자연은 번식과 보호를 위해 우리가 서로에게 중독되도록 이런 시스템을 줬어요."
+  },
+  {
+   "s": 122.48,
+   "e": 125.96,
+   "en": "You're oriented completely toward the other person.",
+   "ko": "완전히 상대방에게로 향하게 되죠."
+  },
+  {
+   "s": 125.96,
+   "e": 128.76,
+   "en": "It's like hunger or thirst.",
+   "ko": "배고픔이나 목마름 같은 거예요.\""
+  },
+  {
+   "s": 128.76,
+   "e": 132.96,
+   "en": "Lucy says our brains make us addicted to our romantic partners.",
+   "ko": "루시는 우리 뇌가 연인에게 중독되게(addicted) 만든다고 말해."
+  },
+  {
+   "s": 132.96,
+   "e": 135.88,
+   "en": "If you're addicted to something, you want more of it.",
+   "ko": "무언가에 'addicted'되면, 그걸 더 원하게 돼."
+  },
+  {
+   "s": 135.88,
+   "e": 143.76,
+   "en": "You can literally be addicted to things like drugs or alcohol, but we also use it metaphorically to talk about things we love.",
+   "ko": "말 그대로 약물이나 술 같은 것에 중독될 수도 있지만, 좋아하는 것을 이야기할 때 비유적으로도 써."
+  },
+  {
+   "s": 143.76,
+   "e": 153.04,
+   "en": "She says that romantic partners are oriented to each other, which in British English we say 'orientated', and it means they are pointed towards each other.",
+   "ko": "그녀는 연인들이 서로에게 'oriented'되어 있다고 하는데, 영국 영어로는 'orientated'라고 하고, 서로를 향해 있다는 뜻이야."
+  },
+  {
+   "s": 153.04,
+   "e": 155.96,
+   "en": "They think of each other before other people.",
+   "ko": "다른 사람보다 서로를 먼저 생각하는 거지."
+  },
+  {
+   "s": 155.96,
+   "e": 161.36,
+   "en": "Neil, is there anything else scientists have discovered from scanning the brains of people in love?",
+   "ko": "닐, 사랑에 빠진 사람들의 뇌를 스캔해서 과학자들이 발견한 다른 건 없어?"
+  },
+  {
+   "s": 161.36,
+   "e": 164.92,
+   "en": "Well, being in love doesn't just change the way we think.",
+   "ko": "음, 사랑에 빠지는 건 생각하는 방식만 바꾸는 게 아니야."
+  },
+  {
+   "s": 164.92,
+   "e": 168.12,
+   "en": "It changes our whole identity.",
+   "ko": "정체성 전체를 바꿔."
+  },
+  {
+   "s": 168.12,
+   "e": 171.4,
+   "en": "A 2013 study showed us more about this.",
+   "ko": "2013년 연구가 이에 대해 더 보여줬어."
+  },
+  {
+   "s": 171.4,
+   "e": 181.2,
+   "en": "People were shown statements about themselves – for example, Neil is kind – and the part of the brain we use to think about ourselves lit up.",
+   "ko": "사람들에게 자신에 대한 문장, 예를 들어 '닐은 친절하다' 같은 걸 보여줬더니 우리가 자기 자신을 생각할 때 쓰는 뇌 부위가 활성화됐어."
+  },
+  {
+   "s": 181.2,
+   "e": 191.44,
+   "en": "When showing the same statements about their partner, the same part of the brain was active – not the part of the brain we generally use to think about others.",
+   "ko": "같은 문장을 연인에 대해 보여줬을 때도 같은 뇌 부위가 활성화됐어. 보통 다른 사람을 생각할 때 쓰는 부위가 아니라."
+  },
+  {
+   "s": 191.44,
+   "e": 196.76,
+   "en": "So, Neil, are all of these brain changes that come with being in love actually good for us?",
+   "ko": "그럼 닐, 사랑에 빠지면서 생기는 이런 뇌의 변화들이 실제로 우리에게 좋은 거야?"
+  },
+  {
+   "s": 196.76,
+   "e": 203.36,
+   "en": "Well, studies suggest that good social connections help manage stress and support our immune system.",
+   "ko": "음, 연구에 따르면 좋은 사회적 관계는 스트레스를 관리하고 면역 체계를 돕는대."
+  },
+  {
+   "s": 203.36,
+   "e": 207.88,
+   "en": "Professor Zoe Donaldson explained more to the BBC World Service.",
+   "ko": "조이 도널드슨 교수가 BBC 월드 서비스에서 더 설명했어."
+  },
+  {
+   "s": 207.88,
+   "e": 216.24,
+   "en": "Having really strong social bonds increases your likelihood that you'll survive from just about anything, whether that be cancer, depression, etc.",
+   "ko": "\"아주 강한 사회적 유대가 있으면 암이든 우울증이든 거의 모든 것에서 살아남을 가능성이 높아져요."
+  },
+  {
+   "s": 216.24,
+   "e": 219.92,
+   "en": "And it overall is the number one predictor of longevity.",
+   "ko": "그리고 전반적으로 장수를 예측하는 가장 중요한 요인이에요."
+  },
+  {
+   "s": 219.92,
+   "e": 228.2,
+   "en": "So, if you are lonely and you don't have bonds, then your mortality risk goes up in a way that's equivalent to being obese or smoking.",
+   "ko": "그러니까 외롭고 유대 관계가 없으면, 비만이나 흡연과 맞먹는 수준으로 사망 위험이 높아져요.\""
+  },
+  {
+   "s": 228.2,
+   "e": 236.72,
+   "en": "So, having strong social bonds or close relationships with other people makes you more likely to survive disease, according to Zoe.",
+   "ko": "조이에 따르면 강한 사회적 유대, 즉 다른 사람들과의 가까운 관계가 있으면 병에서 살아남을 가능성이 더 높아."
+  },
+  {
+   "s": 236.72,
+   "e": 241.4,
+   "en": "Yes, it's an important factor in our longevity, which means how long we live.",
+   "ko": "맞아, 그건 우리의 'longevity', 그러니까 얼마나 오래 사는지에 중요한 요소야."
+  },
+  {
+   "s": 241.4,
+   "e": 251.92,
+   "en": "In fact, Zoe says, being lonely and not having good social bonds increases your mortality risk, your risk of dying, by as much as being obese or smoking.",
+   "ko": "실제로 조이는 외롭고 좋은 사회적 유대가 없으면 사망 위험, 즉 죽을 위험이 비만이나 흡연만큼 높아진다고 말해."
+  },
+  {
+   "s": 251.92,
+   "e": 256.24,
+   "en": "OK. So, what happens when these bonds are broken, when we experience heartbreak?",
+   "ko": "좋아. 그럼 이런 유대가 깨질 때, 실연을 겪을 때는 어떻게 될까?"
+  },
+  {
+   "s": 256.24,
+   "e": 264.84,
+   "en": "Well, scientists have been looking at this by asking people to look at photos of their exes, their former partners, and scanning their brains.",
+   "ko": "음, 과학자들은 사람들에게 전 연인(ex)의 사진을 보여주고 뇌를 스캔하는 방식으로 이걸 연구해 왔어."
+  },
+  {
+   "s": 264.84,
+   "e": 270.92,
+   "en": "They found that heartbreak activates parts of the brain we use when we're in danger or in pain.",
+   "ko": "그리고 실연은 우리가 위험에 처하거나 아플 때 쓰는 뇌 부위를 활성화한다는 걸 발견했어."
+  },
+  {
+   "s": 270.92,
+   "e": 273.84,
+   "en": "Professor Zoe Donaldson explains more.",
+   "ko": "조이 도널드슨 교수가 더 설명해 줘."
+  },
+  {
+   "s": 273.84,
+   "e": 275.92,
+   "en": "It's literal pain in your brain.",
+   "ko": "\"말 그대로 뇌에서 느끼는 통증이에요."
+  },
+  {
+   "s": 275.92,
+   "e": 287.2,
+   "en": "So, if you look at the parts of the brain that light up, they overlap with the same brain regions that are activated when you feel visceral pain – when you feel actual, you know... like you get a burn, or you break a...",
+   "ko": "활성화되는 뇌 부위를 보면, 몸이 직접 아플 때, 그러니까 화상을 입거나"
+  },
+  {
+   "s": 287.2,
+   "e": 288.6,
+   "en": "you break a bone.",
+   "ko": "뼈가 부러졌을 때 활성화되는 부위와 겹쳐요.\""
+  },
+  {
+   "s": 288.6,
+   "e": 293.24,
+   "en": "OK. So, now it's time for the answer to the quiz question I asked you.",
+   "ko": "좋아. 이제 내가 낸 퀴즈의 정답을 알려줄 시간이야."
+  },
+  {
+   "s": 293.24,
+   "e": 304.56,
+   "en": "It was about a theory developed by psychologists in the 1950s, which says that children's early relationships with their parents impact their relationships as adults.",
+   "ko": "1950년대 심리학자들이 만든 이론으로, 어린 시절 부모와의 관계가 어른이 된 후의 관계에 영향을 준다는 내용이었지."
+  },
+  {
+   "s": 304.56,
+   "e": 306.2,
+   "en": "What's the name of the theory?",
+   "ko": "그 이론의 이름은 뭘까?"
+  },
+  {
+   "s": 306.2,
+   "e": 308.68,
+   "en": "I was quite confident about this, wasn't I, Neil?",
+   "ko": "나 꽤 자신 있었잖아, 그렇지 닐?"
+  },
+  {
+   "s": 308.68,
+   "e": 310.52,
+   "en": "I said attachment theory.",
+   "ko": "애착 이론이라고 했어."
+  },
+  {
+   "s": 310.52,
+   "e": 314.24,
+   "en": "Well, you had a reason to be confident because you are correct.",
+   "ko": "음, 자신 있을 만했어. 정답이니까."
+  },
+  {
+   "s": 314.24,
+   "e": 315.44,
+   "en": "Yay! OK.",
+   "ko": "야호! 좋아."
+  },
+  {
+   "s": 315.44,
+   "e": 323.92,
+   "en": "Let's recap the vocabulary we learnt in this programme, starting with 'heartbreak', which is the feeling you experience after you lose someone you love.",
+   "ko": "이번 프로그램에서 배운 어휘를 복습해 보자. 먼저 'heartbreak'는 사랑하는 사람을 잃은 뒤에 느끼는 감정이야."
+  },
+  {
+   "s": 323.92,
+   "e": 328.36,
+   "en": "If you're addicted to someone or something, you want more of it all the time.",
+   "ko": "누군가나 무언가에 'addicted'되면, 항상 그걸 더 원하게 돼."
+  },
+  {
+   "s": 328.36,
+   "e": 336.48,
+   "en": "'Oriented' or 'orientated towards' is used metaphorically to mean that someone or something is your main focus.",
+   "ko": "'Oriented' 또는 'orientated towards'는 비유적으로 누군가나 무언가가 나의 주된 관심사라는 뜻으로 써."
+  },
+  {
+   "s": 336.48,
+   "e": 342.24,
+   "en": "Social bonds are the close relationships we have with family, friends and romantic partners.",
+   "ko": "'Social bonds'는 가족, 친구, 연인과 맺는 가까운 관계야."
+  },
+  {
+   "s": 342.24,
+   "e": 344.72,
+   "en": "'Longevity' means how long you'll live.",
+   "ko": "'Longevity'는 얼마나 오래 사는지를 뜻해."
+  },
+  {
+   "s": 344.72,
+   "e": 350.44,
+   "en": "And an ex is a past romantic partner that you are no longer in a relationship with.",
+   "ko": "그리고 'ex'는 더 이상 사귀지 않는 예전 연인이야."
+  },
+  {
+   "s": 350.44,
+   "e": 355.44,
+   "en": "Once again, our six minutes are up, but you can test what you've learned with the worksheet on our website.",
+   "ko": "이번에도 6분이 다 됐네요. 저희 웹사이트의 워크시트로 배운 내용을 테스트할 수 있어요."
+  },
+  {
+   "s": 355.44,
+   "e": 358.24,
+   "en": "Go to bbclearningenglish.com.",
+   "ko": "bbclearningenglish.com으로 가세요."
+  },
+  {
+   "s": 358.24,
+   "e": 359.92,
+   "en": "Thanks for joining us and goodbye.",
+   "ko": "함께해 주셔서 고마워요. 안녕히 계세요."
+  },
+  {
+   "s": 359.92,
+   "e": 361.44,
+   "en": "Goodbye.",
+   "ko": "안녕히 계세요."
+  }
+ ]
+}

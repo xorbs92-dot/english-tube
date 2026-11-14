@@ -1,0 +1,477 @@
+{
+ "videoId": "UcfT3qOhyF0",
+ "title": "\"I love autumn!\" 🍁🍄🎃 | Improve your listening with Real Easy English",
+ "channel": "BBC Learning English",
+ "enSource": "manual",
+ "koSource": "claude",
+ "sentences": [
+  {
+   "s": 0.29,
+   "e": 2.08,
+   "en": "Hi Neil. How are you?",
+   "ko": "안녕, 닐. 잘 지내?"
+  },
+  {
+   "s": 2.08,
+   "e": 4.8,
+   "en": "Hi Becca. I'm very well, thank you very much.",
+   "ko": "안녕, 베카. 아주 잘 지내, 정말 고마워."
+  },
+  {
+   "s": 4.8,
+   "e": 7.92,
+   "en": "Have you noticed that it's not summer anymore?",
+   "ko": "이제 여름이 아니라는 거 눈치챘어?"
+  },
+  {
+   "s": 7.92,
+   "e": 9.09,
+   "en": "It's autumn.",
+   "ko": "가을이야."
+  },
+  {
+   "s": 9.09,
+   "e": 10.34,
+   "en": "How do you feel about that?",
+   "ko": "가을이 오니까 어때?"
+  },
+  {
+   "s": 10.34,
+   "e": 11.8,
+   "en": "What do you notice?",
+   "ko": "뭐가 느껴져?"
+  },
+  {
+   "s": 11.8,
+   "e": 21.06,
+   "en": "Yes, it is autumn in the UK and the weather's getting a little bit cooler, and the leaves are starting to fall from the trees.",
+   "ko": "응, 영국은 가을이고 날씨가 조금씩 선선해지고, 나뭇잎이 떨어지기 시작했어."
+  },
+  {
+   "s": 21.06,
+   "e": 23.23,
+   "en": "You like autumn, don't you? I love autumn!",
+   "ko": "너 가을 좋아하지, 그렇지? 나 가을 너무 좋아!"
+  },
+  {
+   "s": 23.23,
+   "e": 27.61,
+   "en": "I'm excited for this episode because we're talking all about autumn today.",
+   "ko": "오늘은 가을에 대해서만 이야기하니까 이번 에피소드가 기대돼."
+  },
+  {
+   "s": 27.61,
+   "e": 38.79,
+   "en": "We are. And people need to know that they can go to our website, bbclearningenglish.com, to get a transcript and a worksheet to help them improve their English.",
+   "ko": "그렇지. 그리고 영어 실력 향상에 도움이 되는 대본과 워크시트는 저희 웹사이트 bbclearningenglish.com에서 받을 수 있어요."
+  },
+  {
+   "s": 45.42,
+   "e": 49.42,
+   "en": "So, right now it is autumn in the UK.",
+   "ko": "지금 영국은 가을이야."
+  },
+  {
+   "s": 49.42,
+   "e": 54.97,
+   "en": "You might hear it as 'fall' in other English-speaking countries.",
+   "ko": "다른 영어권 나라에서는 'fall'이라고 하는 걸 들을 수도 있어."
+  },
+  {
+   "s": 54.97,
+   "e": 58.56,
+   "en": "What changes happen in the UK during autumn?",
+   "ko": "영국에서는 가을에 어떤 변화가 생겨?"
+  },
+  {
+   "s": 58.56,
+   "e": 60.44,
+   "en": "The leaves fall.",
+   "ko": "나뭇잎이 떨어져."
+  },
+  {
+   "s": 60.44,
+   "e": 65.94,
+   "en": "The leaves fall off the trees and they are crunchy on the ground.",
+   "ko": "나무에서 잎이 떨어져서 바닥에서 바스락거려."
+  },
+  {
+   "s": 65.94,
+   "e": 69.15,
+   "en": "You can make big piles of leaves and jump into them.",
+   "ko": "낙엽을 크게 쌓아서 그 위로 뛰어들 수도 있어."
+  },
+  {
+   "s": 69.15,
+   "e": 70.7,
+   "en": "It's so much fun.",
+   "ko": "정말 재밌어."
+  },
+  {
+   "s": 70.7,
+   "e": 77.29,
+   "en": "And I love also the crunching sound when you walk over those autumn leaves.",
+   "ko": "그리고 가을 낙엽 위를 걸을 때 나는 바스락 소리도 정말 좋아."
+  },
+  {
+   "s": 77.29,
+   "e": 84.96,
+   "en": "Before the leaves fall off the trees, they turn into this beautiful orange-reddish colour.",
+   "ko": "잎이 떨어지기 전에는 아름다운 주황빛 빨간색으로 변해."
+  },
+  {
+   "s": 84.96,
+   "e": 94.14,
+   "en": "And I love all of these autumnal colours – so, 'autumnal' being the adjective to describe something that relates to autumn.",
+   "ko": "그리고 이런 가을 색들이 다 좋아. 'autumnal'은 가을과 관련된 것을 묘사하는 형용사야."
+  },
+  {
+   "s": 94.14,
+   "e": 97.56,
+   "en": "Yeah. You really like autumnal things, don't you?",
+   "ko": "응. 너는 가을 느낌 나는 것들을 정말 좋아하지, 그렇지?"
+  },
+  {
+   "s": 97.56,
+   "e": 98.52,
+   "en": "I do.",
+   "ko": "좋아해."
+  },
+  {
+   "s": 98.52,
+   "e": 100.56,
+   "en": "You like to wear different clothes?",
+   "ko": "옷도 다르게 입는 걸 좋아하지?"
+  },
+  {
+   "s": 100.56,
+   "e": 101.56,
+   "en": "I do, yeah.",
+   "ko": "응, 맞아."
+  },
+  {
+   "s": 101.56,
+   "e": 107.32,
+   "en": "I'm very excited to start wearing jumpers and big boots.",
+   "ko": "스웨터랑 큰 부츠를 신기 시작할 생각에 너무 설레."
+  },
+  {
+   "s": 107.32,
+   "e": 113.7,
+   "en": "And, as you mentioned, it's getting colder now so I want to be warm and cosy.",
+   "ko": "그리고 네 말처럼 이제 추워지니까 따뜻하고 포근하게(cosy) 지내고 싶어."
+  },
+  {
+   "s": 113.7,
+   "e": 116.74,
+   "en": "Cosy. That's a fantastic word.",
+   "ko": "'Cosy'. 정말 멋진 단어야."
+  },
+  {
+   "s": 116.74,
+   "e": 124.75,
+   "en": "Cosy is that feeling you have of being warm when things around you are probably a bit cold.",
+   "ko": "'cosy'는 주변은 좀 추운데 나는 따뜻한, 그런 기분이야."
+  },
+  {
+   "s": 124.75,
+   "e": 133.05,
+   "en": "So, it feels cosy if you go into a house on a cold day and there's a big fire, for example.",
+   "ko": "예를 들어 추운 날 집에 들어갔는데 큰 벽난로에 불이 피어 있으면 포근한 느낌이 들지."
+  },
+  {
+   "s": 133.05,
+   "e": 137.05,
+   "en": "Yeah. So, I obviously love autumn.",
+   "ko": "응. 그러니까 나는 가을을 정말 좋아해."
+  },
+  {
+   "s": 137.05,
+   "e": 140.64,
+   "en": "How does the changing of the seasons feel to you?",
+   "ko": "너는 계절이 바뀌는 게 어때?"
+  },
+  {
+   "s": 140.64,
+   "e": 145.48,
+   "en": "Well, usually... usually I'm not a big fan.",
+   "ko": "음, 보통은... 보통은 별로야."
+  },
+  {
+   "s": 145.48,
+   "e": 152.94,
+   "en": "I don't really like autumn because it means that the summer is over and I love summer and the long, late evenings.",
+   "ko": "가을은 여름이 끝났다는 뜻이라 별로 안 좋아해. 나는 여름이랑 길고 늦은 저녁이 정말 좋거든."
+  },
+  {
+   "s": 152.94,
+   "e": 161.95,
+   "en": "But this year it was so hot, I've had enough of summer, so I'm very happy that it's autumn.",
+   "ko": "그런데 올해는 너무 더워서 여름이 지긋지긋했어. 그래서 가을이 와서 아주 기뻐."
+  },
+  {
+   "s": 161.95,
+   "e": 162.54,
+   "en": "Yeah.",
+   "ko": "그렇구나."
+  },
+  {
+   "s": 162.54,
+   "e": 163.21,
+   "en": "How about you?",
+   "ko": "너는 어때?"
+  },
+  {
+   "s": 163.21,
+   "e": 164.08,
+   "en": "I feel the same.",
+   "ko": "나도 같은 마음이야."
+  },
+  {
+   "s": 164.08,
+   "e": 170.63,
+   "en": "I've always loved autumn, but I am a really big lover of summer.",
+   "ko": "가을을 늘 좋아했지만, 나는 여름도 정말 좋아해."
+  },
+  {
+   "s": 170.63,
+   "e": 177.18,
+   "en": "But yeah, it has been far too hot this summer, so I welcome the autumn this year.",
+   "ko": "그래도 올여름은 너무 더웠어. 그래서 올해는 가을이 반가워."
+  },
+  {
+   "s": 177.18,
+   "e": 183.06,
+   "en": "OK Becca. So, what kind of things do we do in the UK in autumn?",
+   "ko": "좋아, 베카. 영국에서는 가을에 어떤 걸 해?"
+  },
+  {
+   "s": 183.06,
+   "e": 186.81,
+   "en": "Well, I am excited for Halloween.",
+   "ko": "음, 나는 핼러윈이 기대돼."
+  },
+  {
+   "s": 186.81,
+   "e": 200.53,
+   "en": "It's not as popular in the UK as it is in the USA, for example, but I do love Halloween because I love things that are a little bit scary, and that's at the end of October.",
+   "ko": "예를 들어 미국만큼 영국에서 인기 있진 않지만, 나는 좀 무서운 걸 좋아해서 핼러윈이 정말 좋아. 10월 말에 있어."
+  },
+  {
+   "s": 200.53,
+   "e": 206.12,
+   "en": "But on the 5th of November is when we have Bonfire Night.",
+   "ko": "그리고 11월 5일에는 '본파이어 나이트'가 있지."
+  },
+  {
+   "s": 206.12,
+   "e": 216.43,
+   "en": "Yes, Bonfire Night is when we make a big fire, an outside fire, to celebrate and we stand around the fire.",
+   "ko": "맞아, 본파이어 나이트는 축하하려고 밖에서 큰불을 피우고 그 주위에 둘러서는 날이야."
+  },
+  {
+   "s": 216.43,
+   "e": 221.14,
+   "en": "And actually it's more about fireworks these days.",
+   "ko": "사실 요즘은 불꽃놀이가 더 중심이야."
+  },
+  {
+   "s": 221.14,
+   "e": 232.31,
+   "en": "So, fireworks are those very pretty explosions in the sky that we look at on special occasions like New Year and that kind of thing.",
+   "ko": "불꽃놀이(fireworks)는 새해 같은 특별한 날에 보는, 하늘에서 터지는 아주 예쁜 폭발이야."
+  },
+  {
+   "s": 232.31,
+   "e": 239.53,
+   "en": "Yeah. So, it's usually quite noisy on the 5th of November, but the sky is lit up with beautiful fireworks.",
+   "ko": "응. 그래서 11월 5일은 보통 꽤 시끄럽지만, 하늘이 아름다운 불꽃으로 환해져."
+  },
+  {
+   "s": 239.53,
+   "e": 243.33,
+   "en": "I can't remember the last time I did a bonfire.",
+   "ko": "마지막으로 모닥불을 피운 게 언제였는지 기억도 안 나."
+  },
+  {
+   "s": 243.33,
+   "e": 247.54,
+   "en": "Do you celebrate Bonfire Night every year?",
+   "ko": "너는 매년 본파이어 나이트를 챙겨?"
+  },
+  {
+   "s": 247.54,
+   "e": 264.01,
+   "en": "Well, I don't have a bonfire because I live in a city and it's not very nice for my neighbours, but when I was younger and lived more in the countryside, we would go to a Bonfire Night and",
+   "ko": "음, 나는 도시에 살아서 이웃들한테 별로 안 좋으니까 모닥불은 안 피워. 그래도 어렸을 때 시골 쪽에 살았을 때는 본파이어 나이트에 가서"
+  },
+  {
+   "s": 264.01,
+   "e": 270.6,
+   "en": "we would stand around the bonfire and maybe even cook food in the bonfire.",
+   "ko": "모닥불 주위에 서 있기도 하고, 모닥불에 음식을 굽기도 했어."
+  },
+  {
+   "s": 270.6,
+   "e": 276.74,
+   "en": "Oh, OK. So, like toasting marshmallows or melting chocolate?",
+   "ko": "아, 그렇구나. 마시멜로 굽거나 초콜릿 녹이는 거 같은 거?"
+  },
+  {
+   "s": 276.74,
+   "e": 278.28,
+   "en": "Baked potatoes.",
+   "ko": "구운 감자."
+  },
+  {
+   "s": 278.28,
+   "e": 279.74,
+   "en": "Baked potatoes...?",
+   "ko": "구운 감자...?"
+  },
+  {
+   "s": 279.74,
+   "e": 280.53,
+   "en": "Yeah.",
+   "ko": "응."
+  },
+  {
+   "s": 280.53,
+   "e": 282.03,
+   "en": "I've never...",
+   "ko": "나는 한 번도..."
+  },
+  {
+   "s": 282.03,
+   "e": 285.45,
+   "en": "I've never cooked a baked potato on a bonfire before.",
+   "ko": "모닥불에 감자를 구워본 적이 한 번도 없어."
+  },
+  {
+   "s": 285.45,
+   "e": 292.67,
+   "en": "Yeah, you wrap the potato in foil and then you put it in the fire, and then you wait.",
+   "ko": "응, 감자를 호일로 싸서 불에 넣고 기다리는 거야."
+  },
+  {
+   "s": 292.67,
+   "e": 297.05,
+   "en": "And then you open it and it's completely black.",
+   "ko": "그리고 열어보면 완전히 새까매."
+  },
+  {
+   "s": 297.05,
+   "e": 300.88,
+   "en": "That doesn't sound very tasty to me!",
+   "ko": "별로 맛있을 것 같지 않은데!"
+  },
+  {
+   "s": 300.88,
+   "e": 303.89,
+   "en": "It's difficult to get it right.",
+   "ko": "제대로 굽기가 어려워."
+  },
+  {
+   "s": 303.89,
+   "e": 306.51,
+   "en": "Right... OK.",
+   "ko": "그렇구나... 알겠어."
+  },
+  {
+   "s": 306.51,
+   "e": 308.39,
+   "en": "That's a whole new thing.",
+   "ko": "완전히 새로운 얘기네."
+  },
+  {
+   "s": 316.36,
+   "e": 321.95,
+   "en": "Alright, Neil, it's time to recap some of the vocabulary that we used during this conversation.",
+   "ko": "좋아, 닐. 이번 대화에서 쓴 어휘를 복습할 시간이야."
+  },
+  {
+   "s": 321.95,
+   "e": 326.91,
+   "en": "And we'll start with one of my favourite adjectives, which is 'cosy'.",
+   "ko": "내가 제일 좋아하는 형용사 중 하나인 'cosy'부터 시작할게."
+  },
+  {
+   "s": 326.91,
+   "e": 336.38,
+   "en": "And that's the feeling of being comfortable and warm, especially when perhaps outside it's not so comfortable and warm.",
+   "ko": "특히 밖은 그렇게 편하고 따뜻하지 않을 때, 편안하고 따뜻한 느낌을 말해."
+  },
+  {
+   "s": 336.38,
+   "e": 338.96,
+   "en": "Yeah. And we also heard 'bonfire'.",
+   "ko": "응. 그리고 'bonfire'도 들었지."
+  },
+  {
+   "s": 338.96,
+   "e": 341.93,
+   "en": "A bonfire might make you feel cosy.",
+   "ko": "모닥불은 포근한 기분이 들게 할 수도 있어."
+  },
+  {
+   "s": 341.93,
+   "e": 348.97,
+   "en": "A bonfire is a large fire we build outside for festivals and celebrations.",
+   "ko": "'bonfire'는 축제나 기념일에 밖에서 피우는 큰불이야."
+  },
+  {
+   "s": 348.97,
+   "e": 355.86,
+   "en": "Yes, I remember celebrating Bonfire Night as a child and we also saw fireworks.",
+   "ko": "맞아, 어렸을 때 본파이어 나이트를 축하했던 기억이 나는데, 불꽃놀이도 봤어."
+  },
+  {
+   "s": 355.86,
+   "e": 362.74,
+   "en": "Fireworks are explosions in the sky, which make bright, colourful lights for everyone to watch.",
+   "ko": "'Fireworks'는 하늘에서 터지면서 모두가 볼 수 있게 밝고 화려한 빛을 내는 거야."
+  },
+  {
+   "s": 362.74,
+   "e": 371.54,
+   "en": "We were also talking about the leaves that fall on the ground, and when you walk on those leaves when they're dry, it's crunchy.",
+   "ko": "땅에 떨어진 나뭇잎 얘기도 했는데, 마른 잎 위를 걸으면 바스락거려(crunchy)."
+  },
+  {
+   "s": 371.54,
+   "e": 379.3,
+   "en": "And 'crunchy' describes the sound that those leaves make and also the sound when you bite into an apple.",
+   "ko": "'crunchy'는 그 나뭇잎이 내는 소리, 그리고 사과를 베어 물 때 나는 소리를 묘사해."
+  },
+  {
+   "s": 379.3,
+   "e": 391.77,
+   "en": "And before the leaves fall, they are orange, and orange and red can be described as autumnal colours, 'autumnal' being the adjective that describes things that are from autumn.",
+   "ko": "그리고 잎이 떨어지기 전엔 주황색인데, 주황색과 빨간색은 'autumnal colours(가을 색)'라고 할 수 있어. 'autumnal'은 가을에 속하는 것들을 묘사하는 형용사야."
+  },
+  {
+   "s": 391.77,
+   "e": 398.19,
+   "en": "That's it for this episode of Real Easy English, but join us again next week for another episode.",
+   "ko": "이번 Real Easy English는 여기까지예요. 다음 주에 새 에피소드로 다시 만나요."
+  },
+  {
+   "s": 398.19,
+   "e": 406.87,
+   "en": "Yes, and you can find more episodes, plus this one and a free worksheet on our website, bbclearningenglish.com.",
+   "ko": "네, 이번 에피소드와 다른 에피소드들, 그리고 무료 워크시트는 웹사이트 bbclearningenglish.com에서 찾을 수 있어요."
+  },
+  {
+   "s": 406.87,
+   "e": 407.49,
+   "en": "Bye for now.",
+   "ko": "그럼 이만."
+  },
+  {
+   "s": 407.49,
+   "e": 408.57,
+   "en": "Bye!",
+   "ko": "안녕!"
+  }
+ ]
+}

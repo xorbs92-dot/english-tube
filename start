@@ -1,0 +1,4 @@
+#!/bin/sh
+# 학습 앱 실행 (휴대폰 접속용 주소와 QR코드도 표시). 종료: Ctrl+C
+cd "$(dirname "$0")"
+exec .venv/bin/python -W ignore serve.py "$@"

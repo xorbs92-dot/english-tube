@@ -1,0 +1,441 @@
+{
+ "videoId": "9ZdPuQtQyUU",
+ "title": "Is this the end of British drinking culture? ⏲️ 6 Minute English",
+ "channel": "BBC Learning English",
+ "enSource": "manual",
+ "koSource": "claude",
+ "sentences": [
+  {
+   "s": 0.04,
+   "e": 0.9,
+   "en": "Hi Neil.",
+   "ko": "안녕, 닐."
+  },
+  {
+   "s": 0.9,
+   "e": 1.76,
+   "en": "Hi Georgie.",
+   "ko": "안녕, 조지."
+  },
+  {
+   "s": 1.76,
+   "e": 4.46,
+   "en": "Do you want to hear something quite unusual for me?",
+   "ko": "나한테는 꽤 특이한 얘기 하나 들어볼래?"
+  },
+  {
+   "s": 4.46,
+   "e": 5.48,
+   "en": "Err, yes!",
+   "ko": "어, 응!"
+  },
+  {
+   "s": 5.48,
+   "e": 9.72,
+   "en": "I haven't had an alcoholic drink this year.",
+   "ko": "나 올해 술을 한 잔도 안 마셨어."
+  },
+  {
+   "s": 9.72,
+   "e": 12.48,
+   "en": "Wow! That is really impressive. How do you feel?",
+   "ko": "와! 정말 대단하다. 기분이 어때?"
+  },
+  {
+   "s": 12.48,
+   "e": 13.68,
+   "en": "Like a new person?",
+   "ko": "새사람이 된 것 같아?"
+  },
+  {
+   "s": 13.68,
+   "e": 16.2,
+   "en": "I do feel very good, I have to say.",
+   "ko": "솔직히 기분은 아주 좋아."
+  },
+  {
+   "s": 16.2,
+   "e": 21.96,
+   "en": "I can't say the same – I did have a few alcoholic drinks at the weekend with my friends.",
+   "ko": "나는 그렇다고 못 하겠다. 주말에 친구들이랑 술을 몇 잔 마셨거든."
+  },
+  {
+   "s": 21.96,
+   "e": 25.72,
+   "en": "But in many parts of the world, people don't drink alcohol at all.",
+   "ko": "그런데 세계 많은 곳에서는 사람들이 술을 아예 안 마셔."
+  },
+  {
+   "s": 25.72,
+   "e": 30.04,
+   "en": "In the UK it's very common – that is until recently.",
+   "ko": "영국에서는 아주 흔한 일이었지. 최근까지는."
+  },
+  {
+   "s": 30.04,
+   "e": 43.6,
+   "en": "Today on 6 Minute English, we're going to find out why many people are choosing to give up or cut down on alcohol, and we'll be asking, Is this the end of British drinking culture?",
+   "ko": "오늘 6 Minute English에서는 왜 많은 사람들이 술을 끊거나 줄이기로 하는지 알아보고, 영국 음주 문화는 이제 끝나는 걸까 하는 질문을 던져볼 거예요."
+  },
+  {
+   "s": 43.6,
+   "e": 46.68,
+   "en": "OK. Neil, let's start with a quiz question.",
+   "ko": "좋아. 닐, 퀴즈 문제로 시작하자."
+  },
+  {
+   "s": 46.68,
+   "e": 57.24,
+   "en": "Many people in the UK and other countries choose to give up alcohol in the new year for the whole of the month of January, but what is the challenge called?",
+   "ko": "영국을 비롯한 여러 나라에서 많은 사람들이 새해에 1월 한 달 내내 술을 끊기로 하는데, 이 도전을 뭐라고 부를까?"
+  },
+  {
+   "s": 57.24,
+   "e": 64.62,
+   "en": "Is it: a) No-drink New Year b) Alcohol-free January, or c) Dry January?",
+   "ko": "a) No-drink New Year, b) Alcohol-free January, c) Dry January 중 뭘까?"
+  },
+  {
+   "s": 64.62,
+   "e": 68.92,
+   "en": "Well, I know the answer to this, but I'm not going to give it away.",
+   "ko": "음, 나는 정답을 아는데, 말하지 않을게."
+  },
+  {
+   "s": 68.92,
+   "e": 72.7,
+   "en": "OK. Well, then our listeners can find out the answer at the end of the programme.",
+   "ko": "좋아. 그럼 청취자분들은 프로그램 끝에서 정답을 알 수 있겠네."
+  },
+  {
+   "s": 72.7,
+   "e": 81.38,
+   "en": "Yes, they can. So, Georgie, I hear all the time that younger people don't drink as much alcohol today as they used to in the past.",
+   "ko": "그렇지. 그런데 조지, 요즘 젊은 사람들이 예전만큼 술을 안 마신다는 얘기를 자주 들어."
+  },
+  {
+   "s": 81.38,
+   "e": 82.7,
+   "en": "Is that true?",
+   "ko": "사실이야?"
+  },
+  {
+   "s": 82.7,
+   "e": 91.94,
+   "en": "Well, in the UK, surveys suggest that 16 to 24-year-olds are more likely to be non-drinkers than the older generations.",
+   "ko": "음, 영국에서는 설문 조사에 따르면 16~24세가 윗세대보다 술을 안 마시는 사람일 가능성이 더 높대."
+  },
+  {
+   "s": 91.94,
+   "e": 95.98,
+   "en": "OK. So, why are more young people choosing to be sober?",
+   "ko": "그렇구나. 그럼 왜 더 많은 젊은이들이 'sober'로 지내기로 하는 걸까?"
+  },
+  {
+   "s": 95.98,
+   "e": 98.26,
+   "en": "That means not to drink alcohol.",
+   "ko": "'sober'는 술을 마시지 않는다는 뜻이야."
+  },
+  {
+   "s": 98.26,
+   "e": 103.18,
+   "en": "Well, the BBC World Service podcast What in the World have been investigating this.",
+   "ko": "BBC 월드 서비스 팟캐스트 'What in the World'에서 이걸 조사했어."
+  },
+  {
+   "s": 103.18,
+   "e": 110.82,
+   "en": "Presenter Hannah Gelbart met three young people who choose to be sober for some alcohol-free drinks to find out more.",
+   "ko": "진행자 해나 겔바트가 술을 안 마시기로 한 젊은이 세 명을 만나 무알코올 음료를 마시면서 더 알아봤어."
+  },
+  {
+   "s": 110.82,
+   "e": 122.9,
+   "en": "Here's Daniel's story: Yeah. So, today I don't drink at all, but when I was in my early 20s, I think I felt maybe a bit of, like, societal pressure – you know, work drinks or being at uni, where it was the norm to just join in.",
+   "ko": "대니얼의 이야기를 들어보자. \"네. 지금은 술을 전혀 안 마시는데, 20대 초반에는 사회적 압박 같은 걸 좀 느꼈던 것 같아요. 회사 회식이나 대학 생활 같은 데서는 그냥 같이 마시는 게 당연했거든요."
+  },
+  {
+   "s": 122.9,
+   "e": 126.06,
+   "en": "I think you'd probably get a few weird glances if you're like, Yeah, I'm not going to join in at all.",
+   "ko": "'아니, 나는 전혀 안 마실래'라고 하면 아마 이상하게 쳐다보는 시선을 좀 받았을 거예요."
+  },
+  {
+   "s": 126.06,
+   "e": 132.1,
+   "en": "So, I did that and I think Covid lockdown just gave me a bit of confidence to say, OK, let me step away from this.",
+   "ko": "그래서 저도 마셨는데, 코로나 봉쇄 기간이 '좋아, 여기서 좀 물러나 보자'라고 말할 자신감을 준 것 같아요."
+  },
+  {
+   "s": 132.1,
+   "e": 134.86,
+   "en": "It's not necessarily something I want to do moving forward.",
+   "ko": "앞으로 꼭 하고 싶은 일은 아니었으니까요.\""
+  },
+  {
+   "s": 134.86,
+   "e": 137.1,
+   "en": "So, how many years have you been sober for?",
+   "ko": "\"그럼 술을 끊은 지 몇 년 됐어요?\""
+  },
+  {
+   "s": 137.1,
+   "e": 139.14,
+   "en": "I would say it's been six years now.",
+   "ko": "\"이제 6년 된 것 같아요.\""
+  },
+  {
+   "s": 139.14,
+   "e": 140.1,
+   "en": "Six years?",
+   "ko": "\"6년이요?\""
+  },
+  {
+   "s": 140.1,
+   "e": 145.82,
+   "en": "So, Daniel says that when he was younger, he felt societal pressure to drink alcohol.",
+   "ko": "대니얼은 어렸을 때 술을 마셔야 한다는 사회적 압박을 느꼈다고 말해."
+  },
+  {
+   "s": 145.82,
+   "e": 152.02,
+   "en": "'Societal pressure' is feeling like you need to do something because lots of people around you are doing it.",
+   "ko": "'Societal pressure'는 주변 사람들이 많이 하니까 나도 해야 할 것 같은 느낌이야."
+  },
+  {
+   "s": 152.02,
+   "e": 157.18,
+   "en": "Right. So, Daniel says drinking was the norm at university and after work.",
+   "ko": "맞아. 대니얼은 대학에서도, 퇴근 후에도 술 마시는 게 'the norm'이었다고 말하지."
+  },
+  {
+   "s": 157.18,
+   "e": 160.82,
+   "en": "'The norm' is a way of saying that something is normal or common.",
+   "ko": "'The norm'은 어떤 게 정상적이거나 흔하다는 걸 말하는 방식이야."
+  },
+  {
+   "s": 160.82,
+   "e": 171.14,
+   "en": "But during the Covid-19 pandemic, when people in the UK were unable to socialise and visit pubs and bars, Daniel's attitude to alcohol changed.",
+   "ko": "그런데 영국 사람들이 사람을 만나지도, 펍이나 바에 가지도 못했던 코로나19 팬데믹 동안 술에 대한 대니얼의 태도가 바뀌었어."
+  },
+  {
+   "s": 171.14,
+   "e": 176.58,
+   "en": "After that, he decided to be sober and he hasn't had a drink for about six years.",
+   "ko": "그 뒤로 그는 술을 안 마시기로 했고, 6년 정도 한 잔도 안 마셨어."
+  },
+  {
+   "s": 176.58,
+   "e": 185.34,
+   "en": "So, Georgie, it seems like many young people don't drink at all and lots of them share their experience of being sober on social media.",
+   "ko": "그러니까 조지, 많은 젊은이들이 술을 아예 안 마시고, 그중 많은 사람이 금주 경험을 소셜 미디어에 공유하는 것 같아."
+  },
+  {
+   "s": 185.34,
+   "e": 188.76,
+   "en": "But recently there's been a bit of a change, hasn't there?",
+   "ko": "그런데 최근엔 좀 변화가 있었지, 그렇지?"
+  },
+  {
+   "s": 188.76,
+   "e": 201.32,
+   "en": "Yes. Whilst many people use social media to share their experience of drinking less alcohol or no alcohol at all, some people have been saying that they want to go out more and drink and have fun with friends.",
+   "ko": "맞아. 많은 사람들이 술을 덜 마시거나 아예 안 마시는 경험을 소셜 미디어에 공유하지만, 어떤 사람들은 더 많이 나가서 술도 마시고 친구들이랑 즐기고 싶다고 말하고 있어."
+  },
+  {
+   "s": 201.32,
+   "e": 208.28,
+   "en": "They argue we're too worried about fitness and wellness, and that drinking some alcohol to have a good time is fine.",
+   "ko": "그들은 우리가 운동과 웰빙을 너무 걱정한다고 주장하고, 즐거운 시간을 보내려고 술을 조금 마시는 건 괜찮다고 해."
+  },
+  {
+   "s": 208.28,
+   "e": 217.28,
+   "en": "Here's Millie talking more about this to BBC World Service podcast What in the World: I think we had this, like, rise of self-optimisation content.",
+   "ko": "밀리가 BBC 월드 서비스 팟캐스트 'What in the World'에서 이에 대해 더 이야기한 걸 들어보자. \"자기 최적화 콘텐츠가 엄청 늘어났던 것 같아요."
+  },
+  {
+   "s": 217.28,
+   "e": 223.68,
+   "en": "I think unfortunately sobriety, kind of, got swept in with that and it got touted as this way to, you know, get up at 5am, do a HYROX.",
+   "ko": "안타깝게도 금주가 그 흐름에 휩쓸려서, 새벽 5시에 일어나 하이록스를 하는 방법처럼 홍보됐어요."
+  },
+  {
+   "s": 223.68,
+   "e": 226.6,
+   "en": "And, you know, for many of us, that's probably not our reality with not drinking.",
+   "ko": "그런데 우리 대부분에게 술을 안 마시는 현실은 아마 그런 게 아닐 거예요."
+  },
+  {
+   "s": 226.6,
+   "e": 230.08,
+   "en": "It's that we do it to feel a bit more sane or, you know, things like that.",
+   "ko": "좀 더 정신이 건강해지려고, 뭐 그런 이유로 하는 거죠."
+  },
+  {
+   "s": 230.08,
+   "e": 235.96,
+   "en": "And so I think now we are entering this, like, almost pushback era of that content and you're seeing celebrities...",
+   "ko": "그래서 이제 그런 콘텐츠에 대한 일종의 반발 시대로 들어서고 있는 것 같고, 유명인들이..."
+  },
+  {
+   "s": 235.96,
+   "e": 241.74,
+   "en": "Like, it's not just alcohol – you're seeing more celebrities smoking and, like, posting that on their Instagram and not worrying if it's brand-friendly.",
+   "ko": "술만이 아니라, 담배 피우는 유명인들도 더 많이 보이고, 그걸 인스타그램에 올리면서 브랜드 이미지에 괜찮을지 걱정하지 않아요.\""
+  },
+  {
+   "s": 241.74,
+   "e": 252.96,
+   "en": "OK. So, Millie thinks that being sober is associated with certain kinds of self-optimisation content, where people talk about fitness, diet and having big goals for themselves.",
+   "ko": "그러니까 밀리는 금주가 운동, 식단, 큰 목표에 대해 이야기하는 일종의 '자기 최적화 콘텐츠'와 연결되어 있다고 생각해."
+  },
+  {
+   "s": 252.96,
+   "e": 259.32,
+   "en": "Yes, and Millie says being sober gets touted as a way to get up at 5am to exercise.",
+   "ko": "맞아, 그리고 밀리는 금주가 새벽 5시에 일어나 운동하는 방법으로 'touted'된다고 말해."
+  },
+  {
+   "s": 259.32,
+   "e": 263.92,
+   "en": "In other words, people talk about it a lot and try to encourage people to do it.",
+   "ko": "다시 말해 사람들이 그걸 많이 이야기하면서 다른 사람들도 하도록 부추긴다는 거야."
+  },
+  {
+   "s": 263.92,
+   "e": 268.76,
+   "en": "But Millie says that being sober isn't always about being super fit and healthy.",
+   "ko": "그런데 밀리는 금주가 항상 엄청 건강하고 몸 좋아지는 것에 관한 건 아니라고 말해."
+  },
+  {
+   "s": 268.76,
+   "e": 271.24,
+   "en": "For her, it's about being sane.",
+   "ko": "그녀에게는 정신을 건강하게 지키는 것에 관한 거야."
+  },
+  {
+   "s": 271.24,
+   "e": 276.58,
+   "en": "But still, Millie thinks there's a pushback against self-optimisation content.",
+   "ko": "그래도 밀리는 자기 최적화 콘텐츠에 대한 반발이 있다고 생각해."
+  },
+  {
+   "s": 276.58,
+   "e": 282.44,
+   "en": "'Pushback' means a criticism of the content, and people are pushing back by doing the opposite.",
+   "ko": "'Pushback'은 그런 콘텐츠에 대한 비판을 뜻하고, 사람들은 정반대로 행동하면서 반발하고 있어."
+  },
+  {
+   "s": 282.44,
+   "e": 287.36,
+   "en": "For example, lots of celebrities post about themselves drinking and smoking.",
+   "ko": "예를 들어 많은 유명인들이 술 마시고 담배 피우는 모습을 올려."
+  },
+  {
+   "s": 287.36,
+   "e": 294.88,
+   "en": "Well, Georgie, I've decided to try to give up alcohol for a whole year, but I don't think everybody should do that if they don't want to.",
+   "ko": "음, 조지, 나는 1년 내내 술을 끊어보기로 했는데, 원하지 않는다면 모두가 그래야 한다고는 생각하지 않아."
+  },
+  {
+   "s": 294.88,
+   "e": 297.14,
+   "en": "It's really up to the individual.",
+   "ko": "그건 정말 개인에게 달린 거야."
+  },
+  {
+   "s": 297.14,
+   "e": 300.08,
+   "en": "Yeah, I still enjoy having a few drinks with my friends.",
+   "ko": "응, 나는 여전히 친구들이랑 술 몇 잔 마시는 게 좋아."
+  },
+  {
+   "s": 300.08,
+   "e": 302.48,
+   "en": "I think it's just all about balance, really.",
+   "ko": "결국 다 균형의 문제인 것 같아."
+  },
+  {
+   "s": 302.48,
+   "e": 306.32,
+   "en": "OK. Neil, it's time to reveal the answer to this week's question.",
+   "ko": "좋아. 닐, 이번 주 퀴즈 정답을 공개할 시간이야."
+  },
+  {
+   "s": 306.32,
+   "e": 312.4,
+   "en": "I asked, What was the name given for when people give up alcohol in January?",
+   "ko": "사람들이 1월에 술을 끊는 걸 뭐라고 부르는지 물었지."
+  },
+  {
+   "s": 312.4,
+   "e": 315.64,
+   "en": "Yes. And the answer is Dry January.",
+   "ko": "응. 정답은 'Dry January'야."
+  },
+  {
+   "s": 315.64,
+   "e": 317.16,
+   "en": "That is correct. Well done!",
+   "ko": "맞아. 잘했어!"
+  },
+  {
+   "s": 317.16,
+   "e": 326.96,
+   "en": "Let's recap the vocabulary we learned in this programme, starting with 'sober', which describes someone who doesn't drink alcohol or take recreational drugs.",
+   "ko": "이번 프로그램에서 배운 어휘를 복습해 보자. 먼저 'sober'는 술을 마시지 않거나 기호용 약물을 하지 않는 사람을 묘사해."
+  },
+  {
+   "s": 326.96,
+   "e": 333.32,
+   "en": "Societal pressure is the feeling that you should do something because lots of other people expect you to.",
+   "ko": "'Societal pressure'는 다른 많은 사람들이 기대하니까 무언가를 해야 할 것 같은 느낌이야."
+  },
+  {
+   "s": 333.32,
+   "e": 338.92,
+   "en": "Saying something is 'the norm' is a way to say it's usual or common.",
+   "ko": "어떤 게 'the norm'이라고 하면, 그게 보통이거나 흔하다는 뜻이야."
+  },
+  {
+   "s": 338.92,
+   "e": 345.76,
+   "en": "'Self-optimisation content' means videos and posts about being fit, healthy and achieving big goals.",
+   "ko": "'Self-optimisation content'는 몸 관리, 건강, 큰 목표 달성에 관한 영상과 게시물을 뜻해."
+  },
+  {
+   "s": 345.76,
+   "e": 352.08,
+   "en": "If somebody touts an idea or lifestyle, they talk about it a lot and try to convince people to do it.",
+   "ko": "누군가 어떤 생각이나 생활 방식을 'tout'한다면, 그걸 많이 이야기하면서 사람들이 따라 하도록 설득하는 거야."
+  },
+  {
+   "s": 352.08,
+   "e": 358.28,
+   "en": "And pushback is strong criticism of a trend, and people doing the opposite.",
+   "ko": "그리고 'pushback'은 어떤 유행에 대한 강한 비판, 그리고 사람들이 정반대로 행동하는 걸 말해."
+  },
+  {
+   "s": 358.28,
+   "e": 366.2,
+   "en": "Once again, our six minutes are up, but don't forget to test what you've learned with the worksheet on our website, bbclearningenglish.com.",
+   "ko": "이번에도 6분이 다 됐네요. 저희 웹사이트 bbclearningenglish.com의 워크시트로 배운 내용을 테스트해 보는 것도 잊지 마세요."
+  },
+  {
+   "s": 366.2,
+   "e": 368.0,
+   "en": "Thank you for joining us and goodbye.",
+   "ko": "함께해 주셔서 고마워요. 안녕히 계세요."
+  },
+  {
+   "s": 368.0,
+   "e": 369.18,
+   "en": "Goodbye!",
+   "ko": "안녕!"
+  }
+ ]
+}

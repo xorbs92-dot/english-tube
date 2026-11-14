@@ -1,0 +1,423 @@
+{
+ "videoId": "HHLfkHkUc14",
+ "title": "Neil's difficult summer job in Canada 🫛 | Practise your listening with Real Easy English",
+ "channel": "BBC Learning English",
+ "enSource": "manual",
+ "koSource": "claude",
+ "sentences": [
+  {
+   "s": 0.12,
+   "e": 0.68,
+   "en": "Hello Neil.",
+   "ko": "안녕, 닐."
+  },
+  {
+   "s": 0.68,
+   "e": 2.08,
+   "en": "Hi Georgie. How are you?",
+   "ko": "안녕, 조지. 잘 지내?"
+  },
+  {
+   "s": 2.08,
+   "e": 3.68,
+   "en": "I'm very well, thank you. How are you?",
+   "ko": "아주 잘 지내, 고마워. 너는?"
+  },
+  {
+   "s": 3.68,
+   "e": 4.92,
+   "en": "I'm excellent, thank you.",
+   "ko": "최고야, 고마워."
+  },
+  {
+   "s": 4.92,
+   "e": 9.16,
+   "en": "Good. Neil, have you ever had a bad or difficult job?",
+   "ko": "좋아. 닐, 힘들거나 별로였던 일을 해본 적 있어?"
+  },
+  {
+   "s": 9.16,
+   "e": 14.0,
+   "en": "Oh yes. There's one in particular that I remember.",
+   "ko": "아, 있지. 특히 기억나는 게 하나 있어."
+  },
+  {
+   "s": 14.0,
+   "e": 15.56,
+   "en": "Ooh, that's intriguing.",
+   "ko": "오, 궁금한데."
+  },
+  {
+   "s": 15.56,
+   "e": 24.48,
+   "en": "I'm sure we're going to hear about it a bit later because that's what we're talking about today in Real Easy English – bad or difficult jobs we've had.",
+   "ko": "조금 있다가 듣게 되겠지. 오늘 Real Easy English에서 우리가 해봤던 별로였거나 힘들었던 일에 대해 이야기할 거니까."
+  },
+  {
+   "s": 24.48,
+   "e": 32.12,
+   "en": "Yes, and people should remember that they can get a free worksheet for this podcast at bbclearningenglish.com.",
+   "ko": "맞아, 그리고 이 팟캐스트의 무료 워크시트를 bbclearningenglish.com에서 받을 수 있다는 것도 기억해 주세요."
+  },
+  {
+   "s": 32.12,
+   "e": 33.64,
+   "en": "That's right.",
+   "ko": "맞아."
+  },
+  {
+   "s": 40.16,
+   "e": 44.76,
+   "en": "So Neil, tell us all about your bad or difficult job.",
+   "ko": "그럼 닐, 그 별로였던, 힘들었던 일에 대해 전부 얘기해 줘."
+  },
+  {
+   "s": 44.76,
+   "e": 57.6,
+   "en": "Well, what happened was I found a job picking beans on a student holiday while I was in Canada.",
+   "ko": "음, 어떻게 된 거냐면, 캐나다에 있을 때 학생 방학 동안 콩 따는 일을 구했어."
+  },
+  {
+   "s": 57.6,
+   "e": 59.48,
+   "en": "Ooh. On a farm?",
+   "ko": "오. 농장에서?"
+  },
+  {
+   "s": 59.48,
+   "e": 62.6,
+   "en": "Yeah, but we had to travel a long way.",
+   "ko": "응, 그런데 엄청 멀리까지 가야 했어."
+  },
+  {
+   "s": 62.6,
+   "e": 69.88,
+   "en": "And when we got there, we discovered that you got paid by the amount that you picked.",
+   "ko": "그리고 도착해서 보니까, 딴 양만큼 돈을 받는 거였어."
+  },
+  {
+   "s": 69.88,
+   "e": 71.24,
+   "en": "OK.",
+   "ko": "그렇구나."
+  },
+  {
+   "s": 71.24,
+   "e": 76.88,
+   "en": "And it cost $10 to get to this place on the coach and we worked really hard all day.",
+   "ko": "그곳까지 버스 타고 가는 데 10달러가 들었는데, 하루 종일 정말 열심히 일했어."
+  },
+  {
+   "s": 76.88,
+   "e": 79.8,
+   "en": "And then I got my beans and weighed them.",
+   "ko": "그다음에 딴 콩을 가져가서 무게를 쟀지."
+  },
+  {
+   "s": 79.8,
+   "e": 82.72,
+   "en": "And I got paid $8.",
+   "ko": "그랬더니 8달러를 받았어."
+  },
+  {
+   "s": 82.72,
+   "e": 83.56,
+   "en": "Oh wow.",
+   "ko": "와, 세상에."
+  },
+  {
+   "s": 83.56,
+   "e": 84.96,
+   "en": "Was it a full day's work?",
+   "ko": "하루 종일 일한 거였어?"
+  },
+  {
+   "s": 84.96,
+   "e": 89.48,
+   "en": "Oh yeah. Hard, hard work in the heat, in a field.",
+   "ko": "그럼. 더위 속에서 밭에서 정말, 정말 힘들게 일했어."
+  },
+  {
+   "s": 89.48,
+   "e": 90.92,
+   "en": "Was it fun, at least?",
+   "ko": "적어도 재미는 있었어?"
+  },
+  {
+   "s": 90.92,
+   "e": 92.2,
+   "en": "Were you with friends?",
+   "ko": "친구들이랑 같이 있었어?"
+  },
+  {
+   "s": 92.2,
+   "e": 93.96,
+   "en": "It's a good story now...",
+   "ko": "지금은 좋은 이야깃거리지..."
+  },
+  {
+   "s": 93.96,
+   "e": 95.36,
+   "en": "OK.",
+   "ko": "그렇구나."
+  },
+  {
+   "s": 95.36,
+   "e": 99.76,
+   "en": "...but at the time, it was very annoying.",
+   "ko": "...그런데 그때는 정말 짜증 났어."
+  },
+  {
+   "s": 99.76,
+   "e": 100.72,
+   "en": "Exhausting, it sounds.",
+   "ko": "지칠 것 같다."
+  },
+  {
+   "s": 100.72,
+   "e": 101.68,
+   "en": "It was exhausting.",
+   "ko": "완전 지쳤어."
+  },
+  {
+   "s": 101.68,
+   "e": 104.04,
+   "en": "All day in the heat.",
+   "ko": "하루 종일 더위 속에서."
+  },
+  {
+   "s": 104.04,
+   "e": 108.52,
+   "en": "I had quite a difficult job – it was just a temporary one.",
+   "ko": "나는 꽤 힘든 일을 했었어. 그냥 임시직이었지만."
+  },
+  {
+   "s": 108.52,
+   "e": 120.52,
+   "en": "I was working in customer service, so I had to pick up calls from customers who were needing help or were unhappy about the service they had.",
+   "ko": "고객 서비스 일을 했는데, 도움이 필요하거나 받은 서비스에 불만이 있는 고객들의 전화를 받아야 했어."
+  },
+  {
+   "s": 120.52,
+   "e": 122.08,
+   "en": "OK. That sounds interesting.",
+   "ko": "그렇구나. 흥미로운데."
+  },
+  {
+   "s": 122.08,
+   "e": 125.08,
+   "en": "What didn't you like about this job?",
+   "ko": "그 일의 어떤 점이 싫었어?"
+  },
+  {
+   "s": 125.08,
+   "e": 140.76,
+   "en": "Well, the company was having a difficult time, so many or most of the customers that were calling were unhappy about the service, and so I had to talk to people who were very angry,",
+   "ko": "음, 회사가 힘든 시기를 겪고 있어서, 전화하는 고객들 대부분이 서비스에 불만이 있었어. 그래서 아주 화난 사람들이랑 얘기해야 했는데,"
+  },
+  {
+   "s": 140.76,
+   "e": 148.36,
+   "en": "and it felt like they were angry with me, even though it wasn't my fault.",
+   "ko": "내 잘못이 아닌데도 나한테 화를 내는 것처럼 느껴졌어."
+  },
+  {
+   "s": 148.36,
+   "e": 160.8,
+   "en": "The company changed the warehouse where they kept the products and the delivery company at the same time, so it was just all a big mess and I found it really stressful.",
+   "ko": "회사가 제품을 보관하는 창고와 배송 회사를 동시에 바꿔서 전부 엉망진창이었고, 나는 그게 정말 스트레스였어."
+  },
+  {
+   "s": 160.8,
+   "e": 163.04,
+   "en": "Yeah, you say stressful.",
+   "ko": "응, 스트레스라고 했지."
+  },
+  {
+   "s": 163.04,
+   "e": 165.8,
+   "en": "How else did it make you feel?",
+   "ko": "그 밖에 어떤 기분이 들었어?"
+  },
+  {
+   "s": 165.8,
+   "e": 173.04,
+   "en": "It made me feel very anxious because I took it too personally.",
+   "ko": "너무 개인적으로 받아들여서 아주 불안했어."
+  },
+  {
+   "s": 173.04,
+   "e": 177.88,
+   "en": "Like I said, it felt like they were angry with me, even though I had nothing to do with it.",
+   "ko": "말했듯이, 나랑은 아무 상관이 없는데도 나한테 화를 내는 것처럼 느껴졌거든."
+  },
+  {
+   "s": 177.88,
+   "e": 185.64,
+   "en": "If you heard somebody else talking about this kind of job, what advice would you give them?",
+   "ko": "누가 이런 일을 한다는 얘기를 들으면, 어떤 조언을 해주고 싶어?"
+  },
+  {
+   "s": 185.64,
+   "e": 189.56,
+   "en": "Ooh, I would say, don't take it to heart.",
+   "ko": "음, 마음에 담아두지 말라고 할 거야."
+  },
+  {
+   "s": 189.56,
+   "e": 197.12,
+   "en": "As I said, I was taking it too personally, but you need to realise that you can only do your best.",
+   "ko": "말했듯이 나는 너무 개인적으로 받아들였는데, 내가 할 수 있는 건 최선을 다하는 것뿐이라는 걸 깨달아야 해."
+  },
+  {
+   "s": 197.12,
+   "e": 205.2,
+   "en": "And at the end of the day, you can go home and enjoy yourself, relax, and tomorrow is a new day.",
+   "ko": "그리고 결국 하루가 끝나면 집에 가서 즐기고 쉴 수 있고, 내일은 새로운 날이니까."
+  },
+  {
+   "s": 205.2,
+   "e": 207.0,
+   "en": "That's a very positive attitude.",
+   "ko": "아주 긍정적인 태도네."
+  },
+  {
+   "s": 207.0,
+   "e": 207.84,
+   "en": "Yes.",
+   "ko": "응."
+  },
+  {
+   "s": 207.84,
+   "e": 213.76,
+   "en": "What advice would you give to people doing the job that you had in Canada?",
+   "ko": "네가 캐나다에서 했던 일을 하는 사람들에게는 어떤 조언을 해주고 싶어?"
+  },
+  {
+   "s": 213.76,
+   "e": 224.68,
+   "en": "I think it's really important to do some research before you say yes to a job, if you're lucky to be able to choose.",
+   "ko": "운 좋게 일을 고를 수 있다면, 일을 수락하기 전에 조사를 좀 해보는 게 정말 중요한 것 같아."
+  },
+  {
+   "s": 224.68,
+   "e": 236.52,
+   "en": "So, probably find out how much you're going to get paid, what it means, and how much you have to pay to get to the place to do the job.",
+   "ko": "그러니까 돈을 얼마나 받는지, 그게 무슨 뜻인지, 일하러 가는 데 얼마가 드는지 알아보는 거지."
+  },
+  {
+   "s": 236.52,
+   "e": 237.64,
+   "en": "Yeah, that's very important.",
+   "ko": "응, 그거 정말 중요해."
+  },
+  {
+   "s": 237.64,
+   "e": 239.6,
+   "en": "And that's some good advice.",
+   "ko": "좋은 조언이야."
+  },
+  {
+   "s": 246.12,
+   "e": 250.88,
+   "en": "OK. So, let's recap the vocabulary that we used in the conversation.",
+   "ko": "좋아. 그럼 대화에서 쓴 어휘를 복습해 보자."
+  },
+  {
+   "s": 250.88,
+   "e": 251.92,
+   "en": "Good idea.",
+   "ko": "좋은 생각이야."
+  },
+  {
+   "s": 251.92,
+   "e": 255.44,
+   "en": "We had a few adjectives to describe work.",
+   "ko": "일을 묘사하는 형용사가 몇 개 나왔지."
+  },
+  {
+   "s": 255.44,
+   "e": 258.12,
+   "en": "You said that your job was stressful.",
+   "ko": "너는 네 일이 'stressful'했다고 했어."
+  },
+  {
+   "s": 258.12,
+   "e": 266.2,
+   "en": "I did. So, you can describe something as 'stressful', and the emotion that you feel is 'stressed'.",
+   "ko": "맞아. 어떤 것을 'stressful'하다고 묘사할 수 있고, 그때 느끼는 감정은 'stressed'야."
+  },
+  {
+   "s": 266.2,
+   "e": 273.32,
+   "en": "You said that your job was exhausting, so it was very hard work, so you got very tired doing it.",
+   "ko": "너는 네 일이 'exhausting'했다고 했지. 정말 힘든 일이라서 하다 보면 엄청 피곤해졌다는 거야."
+  },
+  {
+   "s": 273.32,
+   "e": 277.8,
+   "en": "That's 'exhausting' and the feeling is 'exhausted'.",
+   "ko": "그게 'exhausting'이고, 그 기분은 'exhausted'야."
+  },
+  {
+   "s": 277.8,
+   "e": 281.52,
+   "en": "Yeah. And I think I also said my job was annoying.",
+   "ko": "응. 그리고 내 일이 'annoying'했다고도 말한 것 같아."
+  },
+  {
+   "s": 281.52,
+   "e": 283.12,
+   "en": "Yes.",
+   "ko": "맞아."
+  },
+  {
+   "s": 283.12,
+   "e": 288.36,
+   "en": "And if something is annoying, it makes you feel annoyed.",
+   "ko": "어떤 게 'annoying'하면, 'annoyed'한 기분이 들게 하지."
+  },
+  {
+   "s": 288.36,
+   "e": 298.6,
+   "en": "Yes, that's right. I also used the expression 'take something personally', which is when you feel that someone is angry with you when they're actually angry at the situation.",
+   "ko": "맞아. 나는 'take something personally'라는 표현도 썼는데, 사실은 상황에 화가 난 건데 상대가 나한테 화를 낸다고 느끼는 거야."
+  },
+  {
+   "s": 298.6,
+   "e": 305.04,
+   "en": "Yeah. And you used another expression with a similar meaning – 'take something to heart'.",
+   "ko": "응. 그리고 비슷한 뜻의 다른 표현도 썼지. 'take something to heart'."
+  },
+  {
+   "s": 305.04,
+   "e": 309.6,
+   "en": "If you take something to heart, just as you explained, you feel bad.",
+   "ko": "'take something to heart'하면, 네가 설명한 것처럼 기분이 나빠지는 거야."
+  },
+  {
+   "s": 309.6,
+   "e": 313.64,
+   "en": "You feel someone is attacking you, but it's just the job.",
+   "ko": "누가 나를 공격한다고 느끼지만, 그냥 일일 뿐인 거지."
+  },
+  {
+   "s": 313.64,
+   "e": 319.64,
+   "en": "OK. Well, that is the end of this episode of Real Easy English, but Neil we'll be back next week, won't we?",
+   "ko": "좋아. 이번 Real Easy English는 여기서 끝인데, 닐, 다음 주에 돌아오지?"
+  },
+  {
+   "s": 319.64,
+   "e": 321.64,
+   "en": "We will. Thank you for listening and goodbye.",
+   "ko": "그럼. 들어주셔서 고마워요. 안녕히 계세요."
+  },
+  {
+   "s": 321.64,
+   "e": 323.04,
+   "en": "Goodbye!",
+   "ko": "안녕!"
+  }
+ ]
+}
