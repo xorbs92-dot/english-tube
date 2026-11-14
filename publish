@@ -6,6 +6,7 @@ REPO=english-tube
 if ! gh auth status >/dev/null 2>&1; then
   echo "먼저 GitHub 로그인이 필요해요:  gh auth login --web"; exit 1
 fi
+gh auth setup-git >/dev/null 2>&1 || true
 [ -d .git ] || git init -q -b main
 git add -A
 git diff --cached --quiet || git commit -q -m "update $(date '+%Y-%m-%d %H:%M')"
