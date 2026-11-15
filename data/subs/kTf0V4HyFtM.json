@@ -3,505 +3,505 @@
  "title": "Talk about what you did last weekend: Easy English Conversations 💬 Episode 13",
  "channel": "BBC Learning English",
  "enSource": "manual",
- "koSource": "none",
+ "koSource": "claude",
  "sentences": [
   {
    "s": 2.56,
    "e": 4.4,
    "en": "Easy English Conversations.",
-   "ko": ""
+   "ko": "쉬운 영어 회화."
   },
   {
    "s": 6.84,
    "e": 8.6,
    "en": "What did you do at the weekend?",
-   "ko": ""
+   "ko": "주말에 뭐 했어요?"
   },
   {
    "s": 10.6,
    "e": 11.68,
    "en": "Hi, Buli.",
-   "ko": ""
+   "ko": "안녕, 불리."
   },
   {
    "s": 11.68,
    "e": 13.68,
    "en": "Hi, Tim.",
-   "ko": ""
+   "ko": "안녕, 팀."
   },
   {
    "s": 13.68,
    "e": 14.88,
    "en": "Where are you?",
-   "ko": ""
+   "ko": "어디예요?"
   },
   {
    "s": 14.88,
    "e": 17.12,
    "en": "I'm at work.",
-   "ko": ""
+   "ko": "회사에 있어요."
   },
   {
    "s": 17.12,
    "e": 19.08,
    "en": "What did you do at the weekend?",
-   "ko": ""
+   "ko": "주말에 뭐 했어요?"
   },
   {
    "s": 19.08,
    "e": 22.6,
    "en": "Ah, the weekend.",
-   "ko": ""
+   "ko": "아, 주말이요."
   },
   {
    "s": 22.6,
    "e": 24.92,
    "en": "I went hiking.",
-   "ko": ""
+   "ko": "하이킹 갔어요."
   },
   {
    "s": 26.8,
    "e": 29.32,
    "en": "Do you usually go hiking?",
-   "ko": ""
+   "ko": "보통 하이킹 가요?"
   },
   {
    "s": 29.32,
    "e": 32.48,
    "en": "Yes, I often go hiking.",
-   "ko": ""
+   "ko": "네, 자주 가요."
   },
   {
    "s": 32.48,
    "e": 34.48,
    "en": "What else did you do?",
-   "ko": ""
+   "ko": "또 뭐 했어요?"
   },
   {
    "s": 34.48,
    "e": 39.16,
    "en": "I ate dinner with my friends.",
-   "ko": ""
+   "ko": "친구들이랑 저녁 먹었어요."
   },
   {
    "s": 39.16,
    "e": 40.96,
    "en": "What did you eat?",
-   "ko": ""
+   "ko": "뭐 먹었어요?"
   },
   {
    "s": 40.96,
    "e": 45.12,
    "en": "We ate pasta.",
-   "ko": ""
+   "ko": "파스타 먹었어요."
   },
   {
    "s": 45.12,
    "e": 49.12,
    "en": "I also watched a film at home.",
-   "ko": ""
+   "ko": "집에서 영화도 봤어요."
   },
   {
    "s": 49.12,
    "e": 51.36,
    "en": "What film did you watch?",
-   "ko": ""
+   "ko": "무슨 영화 봤어요?"
   },
   {
    "s": 51.36,
    "e": 55.24,
    "en": "I watched a horror film.",
-   "ko": ""
+   "ko": "공포 영화 봤어요."
   },
   {
    "s": 55.24,
    "e": 57.44,
    "en": "How was your weekend, Buli?",
-   "ko": ""
+   "ko": "불리, 주말 어땠어요?"
   },
   {
    "s": 57.44,
    "e": 60.08,
    "en": "It was great. Thanks.",
-   "ko": ""
+   "ko": "정말 좋았어요. 고마워요."
   },
   {
    "s": 60.08,
    "e": 61.88,
    "en": "What did you do?",
-   "ko": ""
+   "ko": "뭐 했어요?"
   },
   {
    "s": 61.88,
    "e": 64.56,
    "en": "I went to the beach.",
-   "ko": ""
+   "ko": "해변에 갔어요."
   },
   {
    "s": 64.96,
    "e": 67.08,
    "en": "Do you usually go to the beach?",
-   "ko": ""
+   "ko": "보통 해변에 가요?"
   },
   {
    "s": 67.08,
    "e": 70.6,
    "en": "No, it's usually too cold.",
-   "ko": ""
+   "ko": "아니요, 보통은 너무 추워요."
   },
   {
    "s": 70.6,
    "e": 73.2,
    "en": "What did you do at the beach?",
-   "ko": ""
+   "ko": "해변에서 뭐 했어요?"
   },
   {
    "s": 73.2,
    "e": 76.64,
    "en": "I had an ice cream.",
-   "ko": ""
+   "ko": "아이스크림 먹었어요."
   },
   {
    "s": 76.64,
    "e": 79.64,
    "en": "What flavour ice cream did you have?",
-   "ko": ""
+   "ko": "무슨 맛 아이스크림 먹었어요?"
   },
   {
    "s": 79.64,
    "e": 83.32,
    "en": "I had a strawberry ice cream.",
-   "ko": ""
+   "ko": "딸기 아이스크림 먹었어요."
   },
   {
    "s": 83.32,
    "e": 86.0,
    "en": "Sian? Are you there?",
-   "ko": ""
+   "ko": "시안? 거기 있어요?"
   },
   {
    "s": 86.0,
    "e": 87.48,
    "en": "Yes I am.",
-   "ko": ""
+   "ko": "네, 있어요."
   },
   {
    "s": 87.48,
    "e": 88.88,
    "en": "How was your weekend?",
-   "ko": ""
+   "ko": "주말 어땠어요?"
   },
   {
    "s": 88.88,
    "e": 91.04,
    "en": "It was fun, thanks.",
-   "ko": ""
+   "ko": "재밌었어요, 고마워요."
   },
   {
    "s": 91.04,
    "e": 92.4,
    "en": "What did you do?",
-   "ko": ""
+   "ko": "뭐 했어요?"
   },
   {
    "s": 92.4,
    "e": 95.24,
    "en": "I made a cake.",
-   "ko": ""
+   "ko": "케이크를 만들었어요."
   },
   {
    "s": 95.24,
    "e": 98.4,
    "en": "What kind of cake did you make?",
-   "ko": ""
+   "ko": "무슨 케이크 만들었어요?"
   },
   {
    "s": 98.4,
    "e": 101.08,
    "en": "I made a chocolate cake.",
-   "ko": ""
+   "ko": "초콜릿 케이크 만들었어요."
   },
   {
    "s": 101.08,
    "e": 103.04,
    "en": "Sounds delicious!",
-   "ko": ""
+   "ko": "맛있겠다!"
   },
   {
    "s": 103.04,
    "e": 104.28,
    "en": "Can I have some?",
-   "ko": ""
+   "ko": "나도 좀 먹어도 돼요?"
   },
   {
    "s": 104.28,
    "e": 107.52,
    "en": "Sorry, Tim. My family ate it all.",
-   "ko": ""
+   "ko": "미안해요, 팀. 가족이 다 먹었어요."
   },
   {
    "s": 108.36,
    "e": 111.68,
    "en": "What else did you do?",
-   "ko": ""
+   "ko": "또 뭐 했어요?"
   },
   {
    "s": 111.68,
    "e": 115.64,
    "en": "I went to the park and played frisbee.",
-   "ko": ""
+   "ko": "공원에 가서 프리스비를 했어요."
   },
   {
    "s": 115.64,
    "e": 116.6,
    "en": "Hello!",
-   "ko": ""
+   "ko": "안녕하세요!"
   },
   {
    "s": 116.6,
    "e": 117.6,
    "en": "Hi, Georgie.",
-   "ko": ""
+   "ko": "안녕, 조지."
   },
   {
    "s": 117.6,
    "e": 119.92,
    "en": "What did you do at the weekend?",
-   "ko": ""
+   "ko": "주말에 뭐 했어요?"
   },
   {
    "s": 119.92,
    "e": 122.88,
    "en": "I went swimming.",
-   "ko": ""
+   "ko": "수영하러 갔어요."
   },
   {
    "s": 122.88,
    "e": 124.0,
    "en": "Where did you go swimming?",
-   "ko": ""
+   "ko": "어디로 수영하러 갔어요?"
   },
   {
    "s": 125.0,
    "e": 128.2,
    "en": "I went swimming at the swimming pool.",
-   "ko": ""
+   "ko": "수영장에 수영하러 갔어요."
   },
   {
    "s": 128.2,
    "e": 129.84,
    "en": "What else did you do?",
-   "ko": ""
+   "ko": "또 뭐 했어요?"
   },
   {
    "s": 129.84,
    "e": 131.88,
    "en": "I read a book.",
-   "ko": ""
+   "ko": "책을 읽었어요."
   },
   {
    "s": 131.88,
    "e": 134.4,
    "en": "What book did you read?",
-   "ko": ""
+   "ko": "무슨 책 읽었어요?"
   },
   {
    "s": 134.4,
    "e": 138.12,
    "en": "I read a detective story.",
-   "ko": ""
+   "ko": "탐정 소설을 읽었어요."
   },
   {
    "s": 138.12,
    "e": 143.56,
    "en": "Click on the link to download a free worksheet.",
-   "ko": ""
+   "ko": "무료 학습지를 받으려면 링크를 클릭하세요."
   },
   {
    "s": 143.56,
    "e": 146.6,
    "en": "Now, back to the lesson.",
-   "ko": ""
+   "ko": "자, 다시 수업으로 돌아가요."
   },
   {
    "s": 146.6,
    "e": 148.32,
    "en": "How was your weekend?",
-   "ko": ""
+   "ko": "주말 어땠어요?"
   },
   {
    "s": 148.32,
    "e": 150.4,
    "en": "What did you do?",
-   "ko": ""
+   "ko": "뭐 했어요?"
   },
   {
    "s": 157.12,
    "e": 160.08,
    "en": "I went to the cinema.",
-   "ko": ""
+   "ko": "영화관에 갔어요."
   },
   {
    "s": 160.08,
    "e": 162.56,
    "en": "What else did you do?",
-   "ko": ""
+   "ko": "또 뭐 했어요?"
   },
   {
    "s": 168.12,
    "e": 171.84,
    "en": "I had lunch with my friends.",
-   "ko": ""
+   "ko": "친구들이랑 점심 먹었어요."
   },
   {
    "s": 171.84,
    "e": 174.16,
    "en": "What did you eat?",
-   "ko": ""
+   "ko": "뭐 먹었어요?"
   },
   {
    "s": 180.0,
    "e": 183.24,
    "en": "We ate pasta.",
-   "ko": ""
+   "ko": "파스타 먹었어요."
   },
   {
    "s": 183.24,
    "e": 185.48,
    "en": "What else did you do?",
-   "ko": ""
+   "ko": "또 뭐 했어요?"
   },
   {
    "s": 191.68,
    "e": 194.0,
    "en": "I made a cake.",
-   "ko": ""
+   "ko": "케이크를 만들었어요."
   },
   {
    "s": 198.0,
    "e": 200.92,
    "en": "How is Georgie feeling?",
-   "ko": ""
+   "ko": "조지는 기분이 어떨까요?"
   },
   {
    "s": 203.64,
    "e": 206.72,
    "en": "Find out in the next episode.",
-   "ko": ""
+   "ko": "다음 에피소드에서 알아보세요."
   },
   {
    "s": 206.72,
    "e": 209.56,
    "en": "Now, back to the lesson.",
-   "ko": ""
+   "ko": "자, 다시 수업으로 돌아가요."
   },
   {
    "s": 212.8,
    "e": 216.68,
    "en": "What did Tim do at the weekend?",
-   "ko": ""
+   "ko": "팀은 주말에 뭘 했죠?"
   },
   {
    "s": 224.36,
    "e": 226.92,
    "en": "He went hiking.",
-   "ko": ""
+   "ko": "하이킹 갔어요."
   },
   {
    "s": 226.92,
    "e": 228.2,
    "en": "That's right.",
-   "ko": ""
+   "ko": "맞아요."
   },
   {
    "s": 228.2,
    "e": 231.96,
    "en": "What did Sian do at the weekend?",
-   "ko": ""
+   "ko": "시안은 주말에 뭘 했죠?"
   },
   {
    "s": 238.4,
    "e": 242.0,
    "en": "She made a chocolate cake.",
-   "ko": ""
+   "ko": "초콜릿 케이크를 만들었어요."
   },
   {
    "s": 242.0,
    "e": 243.56,
    "en": "Correct.",
-   "ko": ""
+   "ko": "정답."
   },
   {
    "s": 243.56,
    "e": 245.56,
    "en": "What did Buli do at the weekend?",
-   "ko": ""
+   "ko": "불리는 주말에 뭘 했죠?"
   },
   {
    "s": 252.08,
    "e": 255.4,
    "en": "He went to the beach.",
-   "ko": ""
+   "ko": "해변에 갔어요."
   },
   {
    "s": 255.4,
    "e": 256.72,
    "en": "That's right.",
-   "ko": ""
+   "ko": "맞아요."
   },
   {
    "s": 256.72,
    "e": 260.0,
    "en": "What did Georgie do at the weekend?",
-   "ko": ""
+   "ko": "조지는 주말에 뭘 했죠?"
   },
   {
    "s": 265.92,
    "e": 269.52,
    "en": "She read a book.",
-   "ko": ""
+   "ko": "책을 읽었어요."
   },
   {
    "s": 269.52,
    "e": 270.64,
    "en": "Correct!",
-   "ko": ""
+   "ko": "정답!"
   },
   {
    "s": 270.64,
    "e": 272.97,
    "en": "What did you do at the weekend?",
-   "ko": ""
+   "ko": "당신은 주말에 뭐 했어요?"
   },
   {
    "s": 273.64,
    "e": 275.96,
    "en": "Let us know in the comments.",
-   "ko": ""
+   "ko": "댓글로 알려 주세요."
   },
   {
    "s": 275.96,
    "e": 280.36,
    "en": "Click here to find out what we do every day.",
-   "ko": ""
+   "ko": "우리가 매일 뭘 하는지 알아보려면 여기를 클릭하세요."
   },
   {
    "s": 280.36,
    "e": 283.68,
    "en": "And click here to subscribe to our channel!",
-   "ko": ""
+   "ko": "그리고 채널을 구독하려면 여기를 클릭하세요!"
   },
   {
    "s": 283.68,
    "e": 285.0,
    "en": "See you in the next video.",
-   "ko": ""
+   "ko": "다음 영상에서 만나요."
   },
   {
    "s": 287.0,
    "e": 288.0,
    "en": "Bye!",
-   "ko": ""
+   "ko": "안녕!"
   }
  ]
 }

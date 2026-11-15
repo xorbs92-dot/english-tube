@@ -3,577 +3,577 @@
  "title": "Describing your home: Easy English Conversations Episode 20",
  "channel": "BBC Learning English",
  "enSource": "manual",
- "koSource": "none",
+ "koSource": "claude",
  "sentences": [
   {
    "s": 2.56,
    "e": 4.4,
    "en": "Easy English Conversations.",
-   "ko": ""
+   "ko": "쉬운 영어 회화."
   },
   {
    "s": 7.04,
    "e": 9.0,
    "en": "What's in your house?",
-   "ko": ""
+   "ko": "집에 뭐가 있어요?"
   },
   {
    "s": 10.4,
    "e": 11.84,
    "en": "Hello, Buli.",
-   "ko": ""
+   "ko": "안녕, 불리."
   },
   {
    "s": 11.84,
    "e": 13.64,
    "en": "Hi, Georgie.",
-   "ko": ""
+   "ko": "안녕, 조지."
   },
   {
    "s": 13.64,
    "e": 16.8,
    "en": "Look at my new house.",
-   "ko": ""
+   "ko": "제 새 집 좀 봐요."
   },
   {
    "s": 16.8,
    "e": 17.92,
    "en": "Great.",
-   "ko": ""
+   "ko": "좋네요."
   },
   {
    "s": 17.92,
    "e": 19.92,
    "en": "This is the living room.",
-   "ko": ""
+   "ko": "여기가 거실이에요."
   },
   {
    "s": 20.92,
    "e": 21.96,
    "en": "Is it?",
-   "ko": ""
+   "ko": "그래요?"
   },
   {
    "s": 21.96,
    "e": 23.96,
    "en": "What?",
-   "ko": ""
+   "ko": "뭐요?"
   },
   {
    "s": 23.96,
    "e": 26.16,
    "en": "Why aren't you excited?",
-   "ko": ""
+   "ko": "왜 안 신나 해요?"
   },
   {
    "s": 26.16,
    "e": 29.2,
    "en": "Well, it's a bit empty.",
-   "ko": ""
+   "ko": "음, 좀 텅 비었어요."
   },
   {
    "s": 29.2,
    "e": 32.32,
    "en": "Yeah. I think you need some furniture.",
-   "ko": ""
+   "ko": "네. 가구가 좀 필요할 것 같아요."
   },
   {
    "s": 32.32,
    "e": 35.2,
    "en": "Yes. You're right.",
-   "ko": ""
+   "ko": "네. 맞는 말이에요."
   },
   {
    "s": 35.2,
    "e": 38.48,
    "en": "What do I need?",
-   "ko": ""
+   "ko": "뭐가 필요하지?"
   },
   {
    "s": 38.48,
    "e": 40.92,
    "en": "I need a sofa.",
-   "ko": ""
+   "ko": "소파가 필요해요."
   },
   {
    "s": 42.6,
    "e": 44.04,
    "en": "What else do I need?",
-   "ko": ""
+   "ko": "또 뭐가 필요하지?"
   },
   {
    "s": 44.04,
    "e": 47.12,
    "en": "I need a bookshelf.",
-   "ko": ""
+   "ko": "책장이 필요해요."
   },
   {
    "s": 48.68,
    "e": 51.24,
    "en": "I need a TV.",
-   "ko": ""
+   "ko": "TV가 필요해요."
   },
   {
    "s": 52.24,
    "e": 54.4,
    "en": "And I need a rug.",
-   "ko": ""
+   "ko": "그리고 러그가 필요해요."
   },
   {
    "s": 56.24,
    "e": 57.88,
    "en": "That's perfect!",
-   "ko": ""
+   "ko": "완벽해요!"
   },
   {
    "s": 57.88,
    "e": 61.04,
    "en": "So I've got a sofa,",
-   "ko": ""
+   "ko": "그러니까 거실에 소파,"
   },
   {
    "s": 62.72,
    "e": 67.22,
    "en": "a bookshelf, a TV,",
-   "ko": ""
+   "ko": "책장, TV,"
   },
   {
    "s": 68.84,
    "e": 72.16,
    "en": "and a rug in my living room.",
-   "ko": ""
+   "ko": "그리고 러그가 있어요."
   },
   {
    "s": 72.16,
    "e": 74.68,
    "en": "That looks much better!",
-   "ko": ""
+   "ko": "훨씬 나아 보여요!"
   },
   {
    "s": 74.68,
    "e": 75.52,
    "en": "I agree.",
-   "ko": ""
+   "ko": "동감이에요."
   },
   {
    "s": 75.52,
    "e": 77.52,
    "en": "Thanks!",
-   "ko": ""
+   "ko": "고마워요!"
   },
   {
    "s": 77.52,
    "e": 82.68,
    "en": "Click on the link to download a free worksheet for this episode.",
-   "ko": ""
+   "ko": "이 에피소드의 무료 학습지를 받으려면 링크를 클릭하세요."
   },
   {
    "s": 87.52,
    "e": 89.4,
    "en": "Now, back to the lesson!",
-   "ko": ""
+   "ko": "자, 다시 수업으로 돌아가요!"
   },
   {
    "s": 90.36,
    "e": 93.32,
    "en": "This is the bedroom.",
-   "ko": ""
+   "ko": "여기가 침실이에요."
   },
   {
    "s": 93.32,
    "e": 96.08,
    "en": "What furniture do I need?",
-   "ko": ""
+   "ko": "어떤 가구가 필요할까요?"
   },
   {
    "s": 96.08,
    "e": 99.08,
    "en": "You need a bed.",
-   "ko": ""
+   "ko": "침대가 필요해요."
   },
   {
    "s": 99.08,
    "e": 102.0,
    "en": "A bed.",
-   "ko": ""
+   "ko": "침대."
   },
   {
    "s": 102.0,
    "e": 104.4,
    "en": "You need a lamp.",
-   "ko": ""
+   "ko": "스탠드가 필요해요."
   },
   {
    "s": 104.4,
    "e": 107.2,
    "en": "A lamp.",
-   "ko": ""
+   "ko": "스탠드."
   },
   {
    "s": 107.76,
    "e": 110.48,
    "en": "You need a bedside table.",
-   "ko": ""
+   "ko": "침대 옆 협탁이 필요해요."
   },
   {
    "s": 110.48,
    "e": 113.36,
    "en": "A bedside table.",
-   "ko": ""
+   "ko": "협탁."
   },
   {
    "s": 113.36,
    "e": 116.84,
    "en": "And you need a wardrobe.",
-   "ko": ""
+   "ko": "그리고 옷장이 필요해요."
   },
   {
    "s": 116.84,
    "e": 118.0,
    "en": "A wardrobe.",
-   "ko": ""
+   "ko": "옷장."
   },
   {
    "s": 119.0,
    "e": 120.0,
    "en": "Thanks.",
-   "ko": ""
+   "ko": "고마워요."
   },
   {
    "s": 121.0,
    "e": 131.34,
    "en": "So, I've got a bed, a lamp, a table, and a wardrobe in my bedroom.",
-   "ko": ""
+   "ko": "그러니까 침실에 침대, 스탠드, 협탁, 그리고 옷장이 있어요."
   },
   {
    "s": 133.2,
    "e": 136.08,
    "en": "This is the dining room.",
-   "ko": ""
+   "ko": "여기가 식당이에요."
   },
   {
    "s": 136.08,
    "e": 139.16,
    "en": "What furniture do I need here?",
-   "ko": ""
+   "ko": "여기엔 어떤 가구가 필요할까요?"
   },
   {
    "s": 139.16,
    "e": 141.2,
    "en": "You need a table.",
-   "ko": ""
+   "ko": "식탁이 필요해요."
   },
   {
    "s": 141.2,
    "e": 143.2,
    "en": "A table.",
-   "ko": ""
+   "ko": "식탁."
   },
   {
    "s": 143.2,
    "e": 146.0,
    "en": "You need four chairs.",
-   "ko": ""
+   "ko": "의자 네 개가 필요해요."
   },
   {
    "s": 146.0,
    "e": 148.12,
    "en": "Four chairs.",
-   "ko": ""
+   "ko": "의자 네 개."
   },
   {
    "s": 148.12,
    "e": 151.4,
    "en": "And you need some drawers.",
-   "ko": ""
+   "ko": "그리고 서랍장이 필요해요."
   },
   {
    "s": 151.4,
    "e": 154.08,
    "en": "Drawers. Thanks!",
-   "ko": ""
+   "ko": "서랍장. 고마워요!"
   },
   {
    "s": 154.08,
    "e": 165.36,
    "en": "So, I've got a table, four chairs, and some drawers in my dining room.",
-   "ko": ""
+   "ko": "그러니까 식당에 식탁, 의자 네 개, 그리고 서랍장이 있어요."
   },
   {
    "s": 165.36,
    "e": 168.24,
    "en": "This is the kitchen.",
-   "ko": ""
+   "ko": "여기가 부엌이에요."
   },
   {
    "s": 168.24,
    "e": 170.36,
    "en": "What do I need here?",
-   "ko": ""
+   "ko": "여기엔 뭐가 필요할까요?"
   },
   {
    "s": 170.36,
    "e": 172.08,
    "en": "You need a fridge.",
-   "ko": ""
+   "ko": "냉장고가 필요해요."
   },
   {
    "s": 172.08,
    "e": 174.08,
    "en": "A fridge.",
-   "ko": ""
+   "ko": "냉장고."
   },
   {
    "s": 175.08,
    "e": 176.72,
    "en": "You need some cupboards.",
-   "ko": ""
+   "ko": "찬장이 필요해요."
   },
   {
    "s": 176.72,
    "e": 179.08,
    "en": "Cupboards.",
-   "ko": ""
+   "ko": "찬장."
   },
   {
    "s": 179.08,
    "e": 180.68,
    "en": "You need an oven.",
-   "ko": ""
+   "ko": "오븐이 필요해요."
   },
   {
    "s": 180.68,
    "e": 182.68,
    "en": "An oven.",
-   "ko": ""
+   "ko": "오븐."
   },
   {
    "s": 182.68,
    "e": 186.44,
    "en": "And you need a microwave.",
-   "ko": ""
+   "ko": "그리고 전자레인지가 필요해요."
   },
   {
    "s": 186.44,
    "e": 188.12,
    "en": "A microwave.",
-   "ko": ""
+   "ko": "전자레인지."
   },
   {
    "s": 188.12,
    "e": 200.0,
    "en": "So, I've got a fridge, some cupboards, an oven, and a microwave in my kitchen.",
-   "ko": ""
+   "ko": "그러니까 부엌에 냉장고, 찬장, 오븐, 그리고 전자레인지가 있어요."
   },
   {
    "s": 203.48,
    "e": 208.96,
    "en": "You can see all the episodes of Easy English Conversations in this playlist.",
-   "ko": ""
+   "ko": "이 재생목록에서 쉬운 영어 회화 전체 에피소드를 볼 수 있어요."
   },
   {
    "s": 214.68,
    "e": 217.36,
    "en": "Now back to the episode.",
-   "ko": ""
+   "ko": "자, 다시 에피소드로 돌아가요."
   },
   {
    "s": 219.44,
    "e": 223.64,
    "en": "Can you remember the rooms in Georgie's house?",
-   "ko": ""
+   "ko": "조지 집의 방들을 기억할 수 있어요?"
   },
   {
    "s": 223.64,
    "e": 226.2,
    "en": "What's this room?",
-   "ko": ""
+   "ko": "이 방은 뭐예요?"
   },
   {
    "s": 231.16,
    "e": 233.6,
    "en": "This is the living room.",
-   "ko": ""
+   "ko": "거실이에요."
   },
   {
    "s": 233.6,
    "e": 235.32,
    "en": "That's right!",
-   "ko": ""
+   "ko": "맞아요!"
   },
   {
    "s": 235.32,
    "e": 237.96,
    "en": "How about this room?",
-   "ko": ""
+   "ko": "이 방은요?"
   },
   {
    "s": 242.88,
    "e": 246.08,
    "en": "This is the bedroom.",
-   "ko": ""
+   "ko": "침실이에요."
   },
   {
    "s": 246.08,
    "e": 247.36,
    "en": "Correct!",
-   "ko": ""
+   "ko": "정답!"
   },
   {
    "s": 247.36,
    "e": 249.88,
    "en": "What's this room?",
-   "ko": ""
+   "ko": "이 방은 뭐예요?"
   },
   {
    "s": 255.12,
    "e": 257.48,
    "en": "This is the dining room.",
-   "ko": ""
+   "ko": "식당이에요."
   },
   {
    "s": 257.48,
    "e": 258.84,
    "en": "That's right.",
-   "ko": ""
+   "ko": "맞아요."
   },
   {
    "s": 258.84,
    "e": 261.48,
    "en": "And what's this room?",
-   "ko": ""
+   "ko": "그리고 이 방은 뭐예요?"
   },
   {
    "s": 266.76,
    "e": 269.52,
    "en": "This is the kitchen.",
-   "ko": ""
+   "ko": "부엌이에요."
   },
   {
    "s": 269.52,
    "e": 273.08,
    "en": "What has Georgie got in her living room?",
-   "ko": ""
+   "ko": "조지 거실에는 뭐가 있죠?"
   },
   {
    "s": 277.64,
    "e": 282.12,
    "en": "She's got a sofa, a bookshelf,",
-   "ko": ""
+   "ko": "소파, 책장,"
   },
   {
    "s": 287.2,
    "e": 291.4,
    "en": "a TV and a rug.",
-   "ko": ""
+   "ko": "TV, 그리고 러그가 있어요."
   },
   {
    "s": 291.4,
    "e": 293.04,
    "en": "That's right.",
-   "ko": ""
+   "ko": "맞아요."
   },
   {
    "s": 293.04,
    "e": 296.64,
    "en": "What's Georgie got in her bedroom?",
-   "ko": ""
+   "ko": "조지 침실에는 뭐가 있죠?"
   },
   {
    "s": 301.68,
    "e": 305.44,
    "en": "She's got a bed, a lamp,",
-   "ko": ""
+   "ko": "침대, 스탠드,"
   },
   {
    "s": 310.88,
    "e": 315.56,
    "en": "a bedside table and a wardrobe.",
-   "ko": ""
+   "ko": "협탁, 그리고 옷장이 있어요."
   },
   {
    "s": 315.56,
    "e": 316.92,
    "en": "Correct!",
-   "ko": ""
+   "ko": "정답!"
   },
   {
    "s": 316.92,
    "e": 320.92,
    "en": "What's Georgie got in her dining room?",
-   "ko": ""
+   "ko": "조지 식당에는 뭐가 있죠?"
   },
   {
    "s": 325.76,
    "e": 330.2,
    "en": "She's got a table, four chairs,",
-   "ko": ""
+   "ko": "식탁, 의자 네 개,"
   },
   {
    "s": 335.24,
    "e": 338.48,
    "en": "and some drawers.",
-   "ko": ""
+   "ko": "그리고 서랍장이 있어요."
   },
   {
    "s": 338.48,
    "e": 339.96,
    "en": "That's right!",
-   "ko": ""
+   "ko": "맞아요!"
   },
   {
    "s": 339.96,
    "e": 343.32,
    "en": "What have I got in my kitchen?",
-   "ko": ""
+   "ko": "제 부엌에는 뭐가 있죠?"
   },
   {
    "s": 348.04,
    "e": 351.96,
    "en": "You've got a fridge, some cupboards,",
-   "ko": ""
+   "ko": "냉장고, 찬장,"
   },
   {
    "s": 357.36,
    "e": 361.52,
    "en": "an oven, and a microwave.",
-   "ko": ""
+   "ko": "오븐, 그리고 전자레인지가 있어요."
   },
   {
    "s": 361.52,
    "e": 366.28,
    "en": "Correct! What rooms have you got in your house?",
-   "ko": ""
+   "ko": "정답! 당신 집에는 어떤 방들이 있어요?"
   },
   {
    "s": 366.28,
    "e": 369.24,
    "en": "And what have you got in those rooms?",
-   "ko": ""
+   "ko": "그리고 그 방들에는 뭐가 있어요?"
   },
   {
    "s": 369.24,
    "e": 370.72,
    "en": "Tell us in the comments.",
-   "ko": ""
+   "ko": "댓글로 알려 주세요."
   },
   {
    "s": 370.72,
    "e": 374.08,
    "en": "Click here for ten easy furniture words.",
-   "ko": ""
+   "ko": "쉬운 가구 단어 열 개를 배우려면 여기를 클릭하세요."
   },
   {
    "s": 374.48,
    "e": 378.0,
    "en": "And click here to subscribe to our channel.",
-   "ko": ""
+   "ko": "그리고 채널을 구독하려면 여기를 클릭하세요."
   },
   {
    "s": 378.4,
    "e": 380.0,
    "en": "Bye!",
-   "ko": ""
+   "ko": "안녕!"
   }
  ]
 }
