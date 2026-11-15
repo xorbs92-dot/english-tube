@@ -1,0 +1,531 @@
+{
+ "videoId": "ceOhxZjDt-g",
+ "title": "Learn how to describe things: Easy English Conversations 💬 Episode 10",
+ "channel": "BBC Learning English",
+ "enSource": "manual",
+ "koSource": "claude",
+ "sentences": [
+  {
+   "s": 3.44,
+   "e": 5.76,
+   "en": "Easy English Conversations.",
+   "ko": "쉬운 영어 회화."
+  },
+  {
+   "s": 7.2,
+   "e": 8.56,
+   "en": "What's this?",
+   "ko": "이게 뭐예요?"
+  },
+  {
+   "s": 11.16,
+   "e": 13.12,
+   "en": "I'm bored.",
+   "ko": "심심해요."
+  },
+  {
+   "s": 13.24,
+   "e": 14.56,
+   "en": "Hi, Georgie!",
+   "ko": "안녕, 조지!"
+  },
+  {
+   "s": 14.68,
+   "e": 17.72,
+   "en": "Hi, Tim. I'm bored.",
+   "ko": "안녕, 팀. 심심해요."
+  },
+  {
+   "s": 17.84,
+   "e": 19.12,
+   "en": "Oh dear.",
+   "ko": "아이고."
+  },
+  {
+   "s": 20.4,
+   "e": 21.96,
+   "en": "Let's play a game!",
+   "ko": "게임 하자!"
+  },
+  {
+   "s": 22.08,
+   "e": 23.28,
+   "en": "Sounds great!",
+   "ko": "좋아요!"
+  },
+  {
+   "s": 23.4,
+   "e": 26.8,
+   "en": "Can you remember these things?",
+   "ko": "이것들을 기억할 수 있어요?"
+  },
+  {
+   "s": 26.92,
+   "e": 31.4,
+   "en": "We have a big cuddly toy,",
+   "ko": "큰 봉제 인형,"
+  },
+  {
+   "s": 33.16,
+   "e": 35.84,
+   "en": "a small cuddly toy,",
+   "ko": "작은 봉제 인형,"
+  },
+  {
+   "s": 37.12,
+   "e": 39.52,
+   "en": "an expensive computer,",
+   "ko": "비싼 컴퓨터,"
+  },
+  {
+   "s": 41.68,
+   "e": 43.72,
+   "en": "a cheap computer,",
+   "ko": "싼 컴퓨터,"
+  },
+  {
+   "s": 45.56,
+   "e": 47.92,
+   "en": "a heavy box,",
+   "ko": "무거운 상자,"
+  },
+  {
+   "s": 49.76,
+   "e": 51.92,
+   "en": "a light box,",
+   "ko": "가벼운 상자,"
+  },
+  {
+   "s": 53.76,
+   "e": 55.88,
+   "en": "a new TV,",
+   "ko": "새 TV,"
+  },
+  {
+   "s": 57.88,
+   "e": 60.28,
+   "en": "an old TV.",
+   "ko": "오래된 TV가 있어요."
+  },
+  {
+   "s": 64.12,
+   "e": 65.88,
+   "en": "— Hello! — Hi!",
+   "ko": "— 안녕하세요! — 안녕!"
+  },
+  {
+   "s": 66.0,
+   "e": 69.08,
+   "en": "— Hello! — What are you doing?",
+   "ko": "— 안녕하세요! — 뭐 하고 있어요?"
+  },
+  {
+   "s": 69.2,
+   "e": 70.84,
+   "en": "We're playing a game.",
+   "ko": "게임하고 있어요."
+  },
+  {
+   "s": 70.96,
+   "e": 72.72,
+   "en": "Ooh! Can I play?",
+   "ko": "오! 나도 해도 돼요?"
+  },
+  {
+   "s": 73.56,
+   "e": 77.76,
+   "en": "Well, you're late.",
+   "ko": "음, 늦었네요."
+  },
+  {
+   "s": 77.88,
+   "e": 79.28,
+   "en": "Very late.",
+   "ko": "아주 늦었어요."
+  },
+  {
+   "s": 79.4,
+   "e": 82.96,
+   "en": "But OK.",
+   "ko": "하지만 좋아요."
+  },
+  {
+   "s": 83.08,
+   "e": 86.52,
+   "en": "Can you remember these things?",
+   "ko": "이것들을 기억할 수 있어요?"
+  },
+  {
+   "s": 86.64,
+   "e": 90.08,
+   "en": "We have a big cuddly toy,",
+   "ko": "큰 봉제 인형,"
+  },
+  {
+   "s": 91.36,
+   "e": 106.16,
+   "en": "a small cuddly toy, an expensive computer, a cheap computer, a heavy box, a light box,",
+   "ko": "작은 봉제 인형, 비싼 컴퓨터, 싼 컴퓨터, 무거운 상자, 가벼운 상자,"
+  },
+  {
+   "s": 107.04,
+   "e": 108.56,
+   "en": "a new TV,",
+   "ko": "새 TV,"
+  },
+  {
+   "s": 110.0,
+   "e": 111.84,
+   "en": "an old TV.",
+   "ko": "오래된 TV가 있어요."
+  },
+  {
+   "s": 117.96,
+   "e": 125.0,
+   "en": "You can watch more episodes of Easy English Conversations with our YouTube playlist.",
+   "ko": "유튜브 재생목록에서 쉬운 영어 회화 에피소드를 더 볼 수 있어요."
+  },
+  {
+   "s": 129.28,
+   "e": 134.88,
+   "en": "OK, so there was a big cuddly toy, and a small cuddly toy.",
+   "ko": "좋아요, 그러니까 큰 봉제 인형과 작은 봉제 인형이 있었어요."
+  },
+  {
+   "s": 135.0,
+   "e": 136.36,
+   "en": "That's right!",
+   "ko": "맞아요!"
+  },
+  {
+   "s": 136.48,
+   "e": 141.68,
+   "en": "An expensive computer, — and a cheap computer. — Yep!",
+   "ko": "비싼 컴퓨터, — 그리고 싼 컴퓨터. — 네!"
+  },
+  {
+   "s": 141.8,
+   "e": 144.72,
+   "en": "A heavy box, and a light box.",
+   "ko": "무거운 상자, 그리고 가벼운 상자."
+  },
+  {
+   "s": 145.68,
+   "e": 146.68,
+   "en": "Correct!",
+   "ko": "정답!"
+  },
+  {
+   "s": 146.8,
+   "e": 150.68,
+   "en": "And a new TV, and an old TV.",
+   "ko": "그리고 새 TV, 그리고 오래된 TV."
+  },
+  {
+   "s": 150.8,
+   "e": 152.92,
+   "en": "That's right! Well done.",
+   "ko": "맞아요! 잘했어요."
+  },
+  {
+   "s": 153.04,
+   "e": 154.6,
+   "en": "What's the prize?",
+   "ko": "상품은 뭐예요?"
+  },
+  {
+   "s": 154.72,
+   "e": 157.08,
+   "en": "The prize is...",
+   "ko": "상품은..."
+  },
+  {
+   "s": 157.2,
+   "e": 158.88,
+   "en": "er...",
+   "ko": "어..."
+  },
+  {
+   "s": 160.0,
+   "e": 162.16,
+   "en": "this box.",
+   "ko": "이 상자예요."
+  },
+  {
+   "s": 162.96,
+   "e": 164.16,
+   "en": "What's in the box?",
+   "ko": "상자 안에 뭐가 있어요?"
+  },
+  {
+   "s": 164.28,
+   "e": 166.8,
+   "en": "A round of applause.",
+   "ko": "박수갈채요."
+  },
+  {
+   "s": 167.88,
+   "e": 169.52,
+   "en": "Well done!",
+   "ko": "잘했어요!"
+  },
+  {
+   "s": 169.64,
+   "e": 170.76,
+   "en": "Well done!",
+   "ko": "잘했어요!"
+  },
+  {
+   "s": 170.88,
+   "e": 172.6,
+   "en": "Hi, guys!",
+   "ko": "안녕, 얘들아!"
+  },
+  {
+   "s": 172.72,
+   "e": 174.52,
+   "en": "— Hello. — Hi!",
+   "ko": "— 안녕. — 안녕!"
+  },
+  {
+   "s": 174.64,
+   "e": 177.08,
+   "en": "— Hey! — What are you doing?",
+   "ko": "— 안녕! — 뭐 하고 있어요?"
+  },
+  {
+   "s": 177.2,
+   "e": 178.72,
+   "en": "We're playing a game.",
+   "ko": "게임하고 있어요."
+  },
+  {
+   "s": 178.84,
+   "e": 180.24,
+   "en": "Do you want to play?",
+   "ko": "같이 할래요?"
+  },
+  {
+   "s": 180.36,
+   "e": 185.08,
+   "en": "— Yes, please. — OK, can you remember these things?",
+   "ko": "— 네, 좋아요. — 좋아요, 이것들을 기억할 수 있어요?"
+  },
+  {
+   "s": 186.0,
+   "e": 189.16,
+   "en": "We have a big pencil,",
+   "ko": "큰 연필,"
+  },
+  {
+   "s": 190.72,
+   "e": 192.64,
+   "en": "a small pencil,",
+   "ko": "작은 연필,"
+  },
+  {
+   "s": 194.76,
+   "e": 196.8,
+   "en": "an expensive watch,",
+   "ko": "비싼 시계,"
+  },
+  {
+   "s": 198.48,
+   "e": 200.28,
+   "en": "a cheap watch,",
+   "ko": "싼 시계,"
+  },
+  {
+   "s": 201.8,
+   "e": 203.32,
+   "en": "a heavy bag,",
+   "ko": "무거운 가방,"
+  },
+  {
+   "s": 205.08,
+   "e": 207.12,
+   "en": "a light bag,",
+   "ko": "가벼운 가방,"
+  },
+  {
+   "s": 208.92,
+   "e": 210.52,
+   "en": "a new phone,",
+   "ko": "새 휴대폰,"
+  },
+  {
+   "s": 212.32,
+   "e": 214.24,
+   "en": "an old phone.",
+   "ko": "오래된 휴대폰이 있어요."
+  },
+  {
+   "s": 216.24,
+   "e": 217.56,
+   "en": "I can't remember!",
+   "ko": "기억이 안 나요!"
+  },
+  {
+   "s": 217.68,
+   "e": 219.4,
+   "en": "Can I have them one more time, please?",
+   "ko": "한 번만 더 말해 줄래요?"
+  },
+  {
+   "s": 219.52,
+   "e": 221.12,
+   "en": "Of course.",
+   "ko": "물론이죠."
+  },
+  {
+   "s": 221.24,
+   "e": 224.52,
+   "en": "We have a big pencil,",
+   "ko": "큰 연필,"
+  },
+  {
+   "s": 225.92,
+   "e": 227.68,
+   "en": "a small pencil,",
+   "ko": "작은 연필,"
+  },
+  {
+   "s": 229.28,
+   "e": 234.6,
+   "en": "an expensive watch, a cheap watch,",
+   "ko": "비싼 시계, 싼 시계,"
+  },
+  {
+   "s": 236.32,
+   "e": 240.48,
+   "en": "a heavy bag, a light bag,",
+   "ko": "무거운 가방, 가벼운 가방,"
+  },
+  {
+   "s": 241.68,
+   "e": 246.2,
+   "en": "a new phone, an old phone.",
+   "ko": "새 휴대폰, 오래된 휴대폰이 있어요."
+  },
+  {
+   "s": 249.48,
+   "e": 250.96,
+   "en": "Can you help me?",
+   "ko": "저 좀 도와줄래요?"
+  },
+  {
+   "s": 255.44,
+   "e": 257.44,
+   "en": "A big pencil,",
+   "ko": "큰 연필,"
+  },
+  {
+   "s": 263.68,
+   "e": 265.36,
+   "en": "and a small pencil.",
+   "ko": "그리고 작은 연필."
+  },
+  {
+   "s": 266.16,
+   "e": 269.32,
+   "en": "A big pencil, and a small pencil.",
+   "ko": "큰 연필, 그리고 작은 연필."
+  },
+  {
+   "s": 273.76,
+   "e": 275.76,
+   "en": "An expensive watch,",
+   "ko": "비싼 시계,"
+  },
+  {
+   "s": 281.36,
+   "e": 283.16,
+   "en": "and a cheap watch.",
+   "ko": "그리고 싼 시계."
+  },
+  {
+   "s": 284.6,
+   "e": 288.36,
+   "en": "Ah, an expensive watch, and a cheap watch.",
+   "ko": "아, 비싼 시계, 그리고 싼 시계."
+  },
+  {
+   "s": 292.84,
+   "e": 294.6,
+   "en": "A heavy bag,",
+   "ko": "무거운 가방,"
+  },
+  {
+   "s": 300.44,
+   "e": 302.04,
+   "en": "and a light bag.",
+   "ko": "그리고 가벼운 가방."
+  },
+  {
+   "s": 303.68,
+   "e": 306.72,
+   "en": "Right! A heavy bag, and a light bag.",
+   "ko": "맞아요! 무거운 가방, 그리고 가벼운 가방."
+  },
+  {
+   "s": 311.2,
+   "e": 312.92,
+   "en": "A new phone,",
+   "ko": "새 휴대폰,"
+  },
+  {
+   "s": 318.76,
+   "e": 320.64,
+   "en": "and an old phone.",
+   "ko": "그리고 오래된 휴대폰."
+  },
+  {
+   "s": 322.04,
+   "e": 324.92,
+   "en": "A new phone and an old phone.",
+   "ko": "새 휴대폰과 오래된 휴대폰."
+  },
+  {
+   "s": 325.04,
+   "e": 327.96,
+   "en": "Well done if you answered those correctly!",
+   "ko": "다 맞혔다면 잘했어요!"
+  },
+  {
+   "s": 329.16,
+   "e": 330.76,
+   "en": "What's this?",
+   "ko": "이게 뭐예요?"
+  },
+  {
+   "s": 332.04,
+   "e": 335.56,
+   "en": "Oh, that's our subscribe button!",
+   "ko": "아, 그건 우리 구독 버튼이에요!"
+  },
+  {
+   "s": 335.68,
+   "e": 337.68,
+   "en": "What's this?",
+   "ko": "이건 뭐예요?"
+  },
+  {
+   "s": 339.24,
+   "e": 341.92,
+   "en": "That's a playlist for this series.",
+   "ko": "이 시리즈의 재생목록이에요."
+  },
+  {
+   "s": 342.04,
+   "e": 343.8,
+   "en": "Click here to watch more videos.",
+   "ko": "영상을 더 보려면 여기를 클릭하세요."
+  },
+  {
+   "s": 343.92,
+   "e": 345.56,
+   "en": "— Bye! — Bye!",
+   "ko": "— 안녕! — 안녕!"
+  }
+ ]
+}

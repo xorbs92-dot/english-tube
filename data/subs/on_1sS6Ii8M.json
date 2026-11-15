@@ -1,0 +1,507 @@
+{
+ "videoId": "on_1sS6Ii8M",
+ "title": "How to talk about your home town: Easy English Conversations 💬 Episode 3",
+ "channel": "BBC Learning English",
+ "enSource": "manual",
+ "koSource": "claude",
+ "sentences": [
+  {
+   "s": 2.75,
+   "e": 5.7,
+   "en": "Easy English Conversations.",
+   "ko": "쉬운 영어 회화."
+  },
+  {
+   "s": 7.28,
+   "e": 9.29,
+   "en": "What is in your town?",
+   "ko": "당신 동네에는 뭐가 있어요?"
+  },
+  {
+   "s": 10.57,
+   "e": 11.07,
+   "en": "Hello!",
+   "ko": "안녕하세요!"
+  },
+  {
+   "s": 11.39,
+   "e": 12.15,
+   "en": "Hi!",
+   "ko": "안녕!"
+  },
+  {
+   "s": 12.72,
+   "e": 13.75,
+   "en": "How are you?",
+   "ko": "잘 지내요?"
+  },
+  {
+   "s": 13.75,
+   "e": 15.51,
+   "en": "I'm good, thanks. How about you?",
+   "ko": "잘 지내요, 고마워요. 당신은요?"
+  },
+  {
+   "s": 16.15,
+   "e": 17.74,
+   "en": "I'm very well, thank you.",
+   "ko": "아주 잘 지내요, 고마워요."
+  },
+  {
+   "s": 17.74,
+   "e": 19.4,
+   "en": "Where do you live?",
+   "ko": "어디에 살아요?"
+  },
+  {
+   "s": 19.4,
+   "e": 21.07,
+   "en": "I live in Brighton.",
+   "ko": "브라이턴에 살아요."
+  },
+  {
+   "s": 21.07,
+   "e": 23.07,
+   "en": "What is there in Brighton?",
+   "ko": "브라이턴에는 뭐가 있어요?"
+  },
+  {
+   "s": 23.32,
+   "e": 39.04,
+   "en": "Well, there's a beach, a university, a train station and a football stadium.",
+   "ko": "음, 해변, 대학교, 기차역, 그리고 축구 경기장이 있어요."
+  },
+  {
+   "s": 39.42,
+   "e": 41.42,
+   "en": "What else is there?",
+   "ko": "또 뭐가 있어요?"
+  },
+  {
+   "s": 42.17,
+   "e": 45.15,
+   "en": "There's a cinema.",
+   "ko": "영화관이 하나 있어요."
+  },
+  {
+   "s": 45.15,
+   "e": 51.62,
+   "en": "Actually, no, there are two - three cinemas!",
+   "ko": "아, 아니다, 두 개 - 세 개 있어요!"
+  },
+  {
+   "s": 52.46,
+   "e": 55.63,
+   "en": "And there are lots of shops and restaurants.",
+   "ko": "그리고 가게와 식당이 많아요."
+  },
+  {
+   "s": 58.15,
+   "e": 61.55,
+   "en": "There are some schools and gyms too.",
+   "ko": "학교와 헬스장도 몇 개 있어요."
+  },
+  {
+   "s": 61.55,
+   "e": 64.9,
+   "en": "Is there an airport in Brighton?",
+   "ko": "브라이턴에 공항이 있어요?"
+  },
+  {
+   "s": 64.9,
+   "e": 71.06,
+   "en": "No, there isn't. Where are you from?",
+   "ko": "아니요, 없어요. 당신은 어디 출신이에요?"
+  },
+  {
+   "s": 71.06,
+   "e": 72.43,
+   "en": "I'm from Petworth.",
+   "ko": "저는 펫워스 출신이에요."
+  },
+  {
+   "s": 72.66,
+   "e": 74.94,
+   "en": "What is there in Petworth?",
+   "ko": "펫워스에는 뭐가 있어요?"
+  },
+  {
+   "s": 75.0,
+   "e": 80.66,
+   "en": "Well, there's a school, a park and a market.",
+   "ko": "음, 학교, 공원, 그리고 시장이 있어요."
+  },
+  {
+   "s": 80.66,
+   "e": 82.32,
+   "en": "What else is there?",
+   "ko": "또 뭐가 있어요?"
+  },
+  {
+   "s": 82.32,
+   "e": 86.11,
+   "en": "There are some restaurants and shops.",
+   "ko": "식당과 가게가 몇 개 있어요."
+  },
+  {
+   "s": 86.11,
+   "e": 88.7,
+   "en": "And there are lots of houses.",
+   "ko": "그리고 집이 많아요."
+  },
+  {
+   "s": 88.7,
+   "e": 91.46,
+   "en": "Is there a train station?",
+   "ko": "기차역이 있어요?"
+  },
+  {
+   "s": 91.46,
+   "e": 93.21,
+   "en": "No, there isn't.",
+   "ko": "아니요, 없어요."
+  },
+  {
+   "s": 97.42,
+   "e": 99.0,
+   "en": "What do you do every day?",
+   "ko": "매일 뭘 해요?"
+  },
+  {
+   "s": 99.0,
+   "e": 101.1,
+   "en": "I wake up.",
+   "ko": "잠에서 깨요."
+  },
+  {
+   "s": 101.1,
+   "e": 103.08,
+   "en": "I swim in the sea.",
+   "ko": "바다에서 수영해요."
+  },
+  {
+   "s": 103.08,
+   "e": 104.92,
+   "en": "I do some exercise.",
+   "ko": "운동을 좀 해요."
+  },
+  {
+   "s": 104.92,
+   "e": 106.9,
+   "en": "I drive to work.",
+   "ko": "차를 운전해서 출근해요."
+  },
+  {
+   "s": 110.3,
+   "e": 111.19,
+   "en": "Hi!",
+   "ko": "안녕하세요!"
+  },
+  {
+   "s": 111.19,
+   "e": 113.79,
+   "en": "Hello, what's your name?",
+   "ko": "안녕하세요, 이름이 뭐예요?"
+  },
+  {
+   "s": 113.79,
+   "e": 116.0,
+   "en": "I'm George. What's your name?",
+   "ko": "저는 조지예요. 이름이 뭐예요?"
+  },
+  {
+   "s": 116.0,
+   "e": 119.14,
+   "en": "I'm Sian. Nice to meet you.",
+   "ko": "저는 시안이에요. 만나서 반가워요."
+  },
+  {
+   "s": 119.14,
+   "e": 122.03,
+   "en": "Great to meet you too.",
+   "ko": "저도 만나서 정말 반가워요."
+  },
+  {
+   "s": 122.03,
+   "e": 123.26,
+   "en": "Where do you live?",
+   "ko": "어디에 살아요?"
+  },
+  {
+   "s": 123.26,
+   "e": 127.26,
+   "en": "I live in London, What is there in London?",
+   "ko": "런던에 살아요. 런던에는 뭐가 있어요?"
+  },
+  {
+   "s": 127.7,
+   "e": 135.41,
+   "en": "There are lots of museums, restaurants and shops.",
+   "ko": "박물관, 식당, 가게가 많아요."
+  },
+  {
+   "s": 135.41,
+   "e": 139.32,
+   "en": "And there are some theatres.",
+   "ko": "그리고 극장도 몇 개 있어요."
+  },
+  {
+   "s": 140.13,
+   "e": 141.57,
+   "en": "What else is there?",
+   "ko": "또 뭐가 있어요?"
+  },
+  {
+   "s": 141.57,
+   "e": 148.93,
+   "en": "There's the London Eye, Buckingham Palace and the BBC.",
+   "ko": "런던 아이, 버킹엄 궁전, 그리고 BBC가 있어요."
+  },
+  {
+   "s": 149.5,
+   "e": 150.27,
+   "en": "Hello!",
+   "ko": "안녕하세요!"
+  },
+  {
+   "s": 150.34,
+   "e": 151.04,
+   "en": "Hello!",
+   "ko": "안녕하세요!"
+  },
+  {
+   "s": 151.04,
+   "e": 151.56,
+   "en": "Hi!",
+   "ko": "안녕!"
+  },
+  {
+   "s": 151.56,
+   "e": 153.79,
+   "en": "Hello. Where do you live, Buli?",
+   "ko": "안녕하세요. 불리, 어디에 살아요?"
+  },
+  {
+   "s": 153.79,
+   "e": 155.54,
+   "en": "I live in Cambridge.",
+   "ko": "케임브리지에 살아요."
+  },
+  {
+   "s": 155.54,
+   "e": 158.55,
+   "en": "What is there in Cambridge?",
+   "ko": "케임브리지에는 뭐가 있어요?"
+  },
+  {
+   "s": 158.55,
+   "e": 166.51,
+   "en": "There's a river, a market, and there are two universities.",
+   "ko": "강과 시장이 있고, 대학교가 두 개 있어요."
+  },
+  {
+   "s": 166.51,
+   "e": 168.51,
+   "en": "What else is there?",
+   "ko": "또 뭐가 있어요?"
+  },
+  {
+   "s": 169.22,
+   "e": 180.34,
+   "en": "There are lots of churches and libraries, and there are also some museums and bookshops too.",
+   "ko": "교회와 도서관이 많고, 박물관과 서점도 몇 개 있어요."
+  },
+  {
+   "s": 180.52,
+   "e": 186.45,
+   "en": "Remember, you can improve your English at BBC Learning English dot com.",
+   "ko": "기억하세요, BBC Learning English 닷컴에서 영어 실력을 키울 수 있어요."
+  },
+  {
+   "s": 186.45,
+   "e": 188.16,
+   "en": "See you there soon!",
+   "ko": "곧 거기서 만나요!"
+  },
+  {
+   "s": 188.29,
+   "e": 189.41,
+   "en": "Hello!",
+   "ko": "안녕하세요!"
+  },
+  {
+   "s": 189.72,
+   "e": 190.78,
+   "en": "Hi!",
+   "ko": "안녕!"
+  },
+  {
+   "s": 190.78,
+   "e": 192.19,
+   "en": "Hello!",
+   "ko": "안녕하세요!"
+  },
+  {
+   "s": 192.19,
+   "e": 193.26,
+   "en": "Hey!",
+   "ko": "안녕!"
+  },
+  {
+   "s": 193.26,
+   "e": 194.57,
+   "en": "Where are you from?",
+   "ko": "어디 출신이에요?"
+  },
+  {
+   "s": 194.57,
+   "e": 196.65,
+   "en": "I'm from Oxford.",
+   "ko": "저는 옥스퍼드 출신이에요."
+  },
+  {
+   "s": 196.65,
+   "e": 198.88,
+   "en": "What is there in Oxford?",
+   "ko": "옥스퍼드에는 뭐가 있어요?"
+  },
+  {
+   "s": 198.88,
+   "e": 207.0,
+   "en": "Hmm. There are some cinemas and theatres.",
+   "ko": "음. 영화관과 극장이 몇 개 있어요."
+  },
+  {
+   "s": 207.0,
+   "e": 212.31,
+   "en": "There are lots of shops and parks too.",
+   "ko": "가게와 공원도 많아요."
+  },
+  {
+   "s": 212.31,
+   "e": 214.13,
+   "en": "What else is there?",
+   "ko": "또 뭐가 있어요?"
+  },
+  {
+   "s": 214.13,
+   "e": 223.8,
+   "en": "There's a cathedral and there are two universities.",
+   "ko": "대성당이 하나 있고, 대학교가 두 개 있어요."
+  },
+  {
+   "s": 223.8,
+   "e": 226.78,
+   "en": "Is there a university in your town, Georgie?",
+   "ko": "조지, 당신 동네에 대학교가 있어요?"
+  },
+  {
+   "s": 226.78,
+   "e": 228.93,
+   "en": "No, there isn't.",
+   "ko": "아니요, 없어요."
+  },
+  {
+   "s": 228.93,
+   "e": 231.57,
+   "en": "Is there a cathedral in Brighton, Sian?",
+   "ko": "시안, 브라이턴에 대성당이 있어요?"
+  },
+  {
+   "s": 231.57,
+   "e": 234.8,
+   "en": "No, there isn't.",
+   "ko": "아니요, 없어요."
+  },
+  {
+   "s": 234.8,
+   "e": 237.31,
+   "en": "Is there a theme park in Oxford?",
+   "ko": "옥스퍼드에 놀이공원이 있어요?"
+  },
+  {
+   "s": 237.31,
+   "e": 243.2,
+   "en": "No, there isn't. Is there a beach in London?",
+   "ko": "아니요, 없어요. 런던에 해변이 있어요?"
+  },
+  {
+   "s": 243.2,
+   "e": 247.66,
+   "en": "No there isn't. Is there a water park in Cambridge?",
+   "ko": "아니요, 없어요. 케임브리지에 워터파크가 있어요?"
+  },
+  {
+   "s": 247.66,
+   "e": 250.25,
+   "en": "No, there isn't.",
+   "ko": "아니요, 없어요."
+  },
+  {
+   "s": 250.25,
+   "e": 253.13,
+   "en": "What is there in your town?",
+   "ko": "당신 동네에는 뭐가 있어요?"
+  },
+  {
+   "s": 258.24,
+   "e": 260.04,
+   "en": "There's a park.",
+   "ko": "공원이 있어요."
+  },
+  {
+   "s": 260.04,
+   "e": 262.18,
+   "en": "What else is there?",
+   "ko": "또 뭐가 있어요?"
+  },
+  {
+   "s": 267.23,
+   "e": 269.62,
+   "en": "There are some shops.",
+   "ko": "가게가 몇 개 있어요."
+  },
+  {
+   "s": 269.62,
+   "e": 271.62,
+   "en": "What isn't there in your town?",
+   "ko": "당신 동네에 없는 건 뭐예요?"
+  },
+  {
+   "s": 276.59,
+   "e": 278.91,
+   "en": "There isn't a cinema.",
+   "ko": "영화관이 없어요."
+  },
+  {
+   "s": 278.91,
+   "e": 282.0,
+   "en": "What else isn't there in your town?",
+   "ko": "동네에 또 없는 건 뭐예요?"
+  },
+  {
+   "s": 287.61,
+   "e": 289.61,
+   "en": "Write your answer in the comments.",
+   "ko": "댓글로 답을 적어 주세요."
+  },
+  {
+   "s": 290.21,
+   "e": 293.62,
+   "en": "Click here for a vocabulary video on transport.",
+   "ko": "교통 어휘 영상을 보려면 여기를 클릭하세요."
+  },
+  {
+   "s": 293.62,
+   "e": 297.68,
+   "en": "And click here to subscribe to our channel.",
+   "ko": "그리고 채널을 구독하려면 여기를 클릭하세요."
+  },
+  {
+   "s": 298.22,
+   "e": 299.57,
+   "en": "Bye!",
+   "ko": "안녕!"
+  }
+ ]
+}

@@ -1,0 +1,345 @@
+{
+ "videoId": "I_tRSrPru94",
+ "title": "How to introduce yourself: Easy English Conversations 💬 Episode 1",
+ "channel": "BBC Learning English",
+ "enSource": "manual",
+ "koSource": "claude",
+ "sentences": [
+  {
+   "s": 2.79,
+   "e": 4.8,
+   "en": "Easy English Conversations.",
+   "ko": "쉬운 영어 회화."
+  },
+  {
+   "s": 6.8,
+   "e": 8.43,
+   "en": "Hello, what's your name?",
+   "ko": "안녕하세요, 이름이 뭐예요?"
+  },
+  {
+   "s": 9.47,
+   "e": 10.72,
+   "en": "Hi, I'm Tim.",
+   "ko": "안녕하세요, 저는 팀이에요."
+  },
+  {
+   "s": 12.67,
+   "e": 13.59,
+   "en": "What's your name?",
+   "ko": "이름이 뭐예요?"
+  },
+  {
+   "s": 14.04,
+   "e": 15.66,
+   "en": "Hello, I'm Sian.",
+   "ko": "안녕하세요, 저는 시안이에요."
+  },
+  {
+   "s": 16.2,
+   "e": 17.2,
+   "en": "What's your name?",
+   "ko": "이름이 뭐예요?"
+  },
+  {
+   "s": 17.58,
+   "e": 18.66,
+   "en": "My name's Tim.",
+   "ko": "제 이름은 팀이에요."
+  },
+  {
+   "s": 18.66,
+   "e": 19.73,
+   "en": "It's nice to meet you.",
+   "ko": "만나서 반가워요."
+  },
+  {
+   "s": 19.73,
+   "e": 21.94,
+   "en": "Lovely to meet you too.",
+   "ko": "저도 만나서 정말 반가워요."
+  },
+  {
+   "s": 22.29,
+   "e": 24.33,
+   "en": "Hello, how's it going?",
+   "ko": "안녕, 잘 지내?"
+  },
+  {
+   "s": 24.33,
+   "e": 25.45,
+   "en": "Hi.",
+   "ko": "안녕."
+  },
+  {
+   "s": 25.45,
+   "e": 26.62,
+   "en": "Hey.",
+   "ko": "안녕."
+  },
+  {
+   "s": 27.05,
+   "e": 28.06,
+   "en": "What are your names?",
+   "ko": "이름이 뭐예요?"
+  },
+  {
+   "s": 28.55,
+   "e": 29.43,
+   "en": "I'm Tim.",
+   "ko": "저는 팀이에요."
+  },
+  {
+   "s": 29.43,
+   "e": 30.74,
+   "en": "And I'm Sian.",
+   "ko": "그리고 저는 시안이에요."
+  },
+  {
+   "s": 30.96,
+   "e": 32.38,
+   "en": "What's your name?",
+   "ko": "이름이 뭐예요?"
+  },
+  {
+   "s": 32.38,
+   "e": 33.7,
+   "en": "My name's Georgie.",
+   "ko": "제 이름은 조지예요."
+  },
+  {
+   "s": 33.7,
+   "e": 34.91,
+   "en": "Nice to meet you.",
+   "ko": "만나서 반가워요."
+  },
+  {
+   "s": 34.91,
+   "e": 36.64,
+   "en": "Yeah, great to meet you too.",
+   "ko": "네, 저도 만나서 정말 반가워요."
+  },
+  {
+   "s": 38.3,
+   "e": 39.11,
+   "en": "Hello!",
+   "ko": "안녕하세요!"
+  },
+  {
+   "s": 39.11,
+   "e": 39.89,
+   "en": "Hiya.",
+   "ko": "안녕."
+  },
+  {
+   "s": 40.18,
+   "e": 40.83,
+   "en": "Hey.",
+   "ko": "안녕."
+  },
+  {
+   "s": 40.83,
+   "e": 42.45,
+   "en": "Hi. What's your name?",
+   "ko": "안녕하세요. 이름이 뭐예요?"
+  },
+  {
+   "s": 43.39,
+   "e": 45.35,
+   "en": "I'm Buli. What's your name?",
+   "ko": "저는 불리예요. 이름이 뭐예요?"
+  },
+  {
+   "s": 45.35,
+   "e": 46.62,
+   "en": "I'm Georgie.",
+   "ko": "저는 조지예요."
+  },
+  {
+   "s": 47.5,
+   "e": 49.18,
+   "en": "Nice to meet you, Georgie!",
+   "ko": "만나서 반가워요, 조지!"
+  },
+  {
+   "s": 53.55,
+   "e": 54.95,
+   "en": "Where are they from?",
+   "ko": "이 사람들은 어디 출신일까요?"
+  },
+  {
+   "s": 55.33,
+   "e": 55.98,
+   "en": "I'm from...",
+   "ko": "저는 ... 출신이에요."
+  },
+  {
+   "s": 56.6,
+   "e": 58.5,
+   "en": "And where do they live?",
+   "ko": "그리고 어디에 살까요?"
+  },
+  {
+   "s": 58.8,
+   "e": 59.67,
+   "en": "I live...",
+   "ko": "저는 ...에 살아요."
+  },
+  {
+   "s": 59.88,
+   "e": 61.65,
+   "en": "Find out in the next video!",
+   "ko": "다음 영상에서 알아보세요!"
+  },
+  {
+   "s": 65.63,
+   "e": 66.86,
+   "en": "What's his name?",
+   "ko": "이 남자 이름이 뭐예요?"
+  },
+  {
+   "s": 67.03,
+   "e": 68.25,
+   "en": "His name's Tim.",
+   "ko": "그의 이름은 팀이에요."
+  },
+  {
+   "s": 68.65,
+   "e": 70.26,
+   "en": "Lovely to meet you, Tim.",
+   "ko": "만나서 반가워요, 팀."
+  },
+  {
+   "s": 70.99,
+   "e": 72.82,
+   "en": "Now, what's her name?",
+   "ko": "자, 이 여자 이름은 뭐예요?"
+  },
+  {
+   "s": 72.93,
+   "e": 74.32,
+   "en": "Her name's Sian.",
+   "ko": "그녀의 이름은 시안이에요."
+  },
+  {
+   "s": 75.16,
+   "e": 76.92,
+   "en": "Oh, she's Sian.",
+   "ko": "아, 시안이군요."
+  },
+  {
+   "s": 77.37,
+   "e": 78.44,
+   "en": "Hello, Sian.",
+   "ko": "안녕하세요, 시안."
+  },
+  {
+   "s": 78.44,
+   "e": 80.2,
+   "en": "Hello. Nice to meet you.",
+   "ko": "안녕하세요. 만나서 반가워요."
+  },
+  {
+   "s": 80.2,
+   "e": 81.83,
+   "en": "Great to meet you too.",
+   "ko": "저도 만나서 정말 반가워요."
+  },
+  {
+   "s": 81.83,
+   "e": 91.01,
+   "en": "So, I'm Buli, her name's Sian, her name's Georgie, and his name's Tim.",
+   "ko": "그러니까, 저는 불리, 이분은 시안, 이분은 조지, 그리고 이분은 팀이에요."
+  },
+  {
+   "s": 91.01,
+   "e": 92.25,
+   "en": "That's right.",
+   "ko": "맞아요."
+  },
+  {
+   "s": 92.61,
+   "e": 95.19,
+   "en": "Oh, hello! What's your name?",
+   "ko": "어, 안녕하세요! 이름이 뭐예요?"
+  },
+  {
+   "s": 99.61,
+   "e": 102.01,
+   "en": "I'm Sian. Nice to meet you.",
+   "ko": "저는 시안이에요. 만나서 반가워요."
+  },
+  {
+   "s": 107.69,
+   "e": 109.69,
+   "en": "Her name's Georgie.",
+   "ko": "이분 이름은 조지예요."
+  },
+  {
+   "s": 112.52,
+   "e": 114.77,
+   "en": "His name's Tim.",
+   "ko": "이분 이름은 팀이에요."
+  },
+  {
+   "s": 115.87,
+   "e": 117.72,
+   "en": "But what's his name?",
+   "ko": "그런데 이 사람 이름은 뭐죠?"
+  },
+  {
+   "s": 123.74,
+   "e": 125.07,
+   "en": "That's right.",
+   "ko": "맞아요."
+  },
+  {
+   "s": 127.1,
+   "e": 128.16,
+   "en": "Bye, Buli!",
+   "ko": "안녕, 불리!"
+  },
+  {
+   "s": 128.16,
+   "e": 129.52,
+   "en": "Goodbye!",
+   "ko": "잘 가요!"
+  },
+  {
+   "s": 129.84,
+   "e": 130.71,
+   "en": "Bye!",
+   "ko": "안녕!"
+  },
+  {
+   "s": 131.04,
+   "e": 132.07,
+   "en": "Bye!",
+   "ko": "안녕!"
+  },
+  {
+   "s": 134.0,
+   "e": 136.46,
+   "en": "Oh, bye!",
+   "ko": "아, 안녕!"
+  },
+  {
+   "s": 139.95,
+   "e": 144.8,
+   "en": "Click here to learn eight different ways to say 'How are you?'",
+   "ko": "'How are you?'를 말하는 여덟 가지 방법을 배우려면 여기를 클릭하세요."
+  },
+  {
+   "s": 145.01,
+   "e": 148.51,
+   "en": "And click here to subscribe to our channel.",
+   "ko": "그리고 채널을 구독하려면 여기를 클릭하세요."
+  },
+  {
+   "s": 150.57,
+   "e": 152.38,
+   "en": "Bye!",
+   "ko": "안녕!"
+  }
+ ]
+}

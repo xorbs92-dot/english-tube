@@ -1,0 +1,327 @@
+{
+ "videoId": "31y2Bq1RYQA",
+ "title": "Saying where you're from: Easy English Conversations 💬 Episode 2",
+ "channel": "BBC Learning English",
+ "enSource": "manual",
+ "koSource": "claude",
+ "sentences": [
+  {
+   "s": 2.74,
+   "e": 4.99,
+   "en": "Easy English Conversations.",
+   "ko": "쉬운 영어 회화."
+  },
+  {
+   "s": 7.22,
+   "e": 8.54,
+   "en": "Where are you from?",
+   "ko": "어디 출신이에요?"
+  },
+  {
+   "s": 9.58,
+   "e": 13.75,
+   "en": "Hi, I'm Tim. I'm from Oxford.",
+   "ko": "안녕하세요, 저는 팀이에요. 옥스퍼드 출신이에요."
+  },
+  {
+   "s": 20.13,
+   "e": 21.84,
+   "en": "Where are you from, Sian?",
+   "ko": "시안, 어디 출신이에요?"
+  },
+  {
+   "s": 22.7,
+   "e": 26.36,
+   "en": "I'm from Swansea.",
+   "ko": "저는 스완지 출신이에요."
+  },
+  {
+   "s": 32.03,
+   "e": 33.73,
+   "en": "Hello!",
+   "ko": "안녕하세요!"
+  },
+  {
+   "s": 33.8,
+   "e": 35.88,
+   "en": "Where are you from, Buli?",
+   "ko": "불리, 어디 출신이에요?"
+  },
+  {
+   "s": 36.0,
+   "e": 38.67,
+   "en": "I'm from Beijing.",
+   "ko": "저는 베이징 출신이에요."
+  },
+  {
+   "s": 46.53,
+   "e": 47.69,
+   "en": "Hi!",
+   "ko": "안녕하세요!"
+  },
+  {
+   "s": 47.69,
+   "e": 49.22,
+   "en": "Where are you from, Georgie?",
+   "ko": "조지, 어디 출신이에요?"
+  },
+  {
+   "s": 49.22,
+   "e": 51.07,
+   "en": "I'm from Petworth.",
+   "ko": "저는 펫워스 출신이에요."
+  },
+  {
+   "s": 61.04,
+   "e": 66.41,
+   "en": "Watch our next episode to find out what is in our hometowns.",
+   "ko": "다음 에피소드에서 우리 고향에 뭐가 있는지 알아보세요."
+  },
+  {
+   "s": 66.41,
+   "e": 73.62,
+   "en": "There are some cinemas and theatres.",
+   "ko": "영화관과 극장이 몇 개 있어요."
+  },
+  {
+   "s": 76.67,
+   "e": 79.96,
+   "en": "Who is from Swansea?",
+   "ko": "누가 스완지 출신이죠?"
+  },
+  {
+   "s": 86.6,
+   "e": 89.27,
+   "en": "Who is from Petworth?",
+   "ko": "누가 펫워스 출신이죠?"
+  },
+  {
+   "s": 95.38,
+   "e": 97.02,
+   "en": "Who is from Beijing?",
+   "ko": "누가 베이징 출신이죠?"
+  },
+  {
+   "s": 104.04,
+   "e": 105.97,
+   "en": "Who is from Oxford?",
+   "ko": "누가 옥스퍼드 출신이죠?"
+  },
+  {
+   "s": 114.51,
+   "e": 118.08,
+   "en": "Where are you from?",
+   "ko": "당신은 어디 출신이에요?"
+  },
+  {
+   "s": 121.74,
+   "e": 123.23,
+   "en": "Okay so far?",
+   "ko": "여기까지 괜찮아요?"
+  },
+  {
+   "s": 123.23,
+   "e": 127.93,
+   "en": "Visit BBC Learning English dot com for more English lessons.",
+   "ko": "더 많은 영어 수업은 BBC Learning English 닷컴에서 보세요."
+  },
+  {
+   "s": 127.93,
+   "e": 130.03,
+   "en": "Now, back to the lesson.",
+   "ko": "자, 다시 수업으로 돌아가요."
+  },
+  {
+   "s": 135.77,
+   "e": 139.35,
+   "en": "Where does everybody live?",
+   "ko": "다들 어디에 살아요?"
+  },
+  {
+   "s": 139.68,
+   "e": 143.41,
+   "en": "I live in a house in London.",
+   "ko": "저는 런던의 주택에 살아요."
+  },
+  {
+   "s": 145.95,
+   "e": 150.22,
+   "en": "And I live with my housemates.",
+   "ko": "그리고 하우스메이트들과 같이 살아요."
+  },
+  {
+   "s": 150.22,
+   "e": 152.22,
+   "en": "Where do you live, Sian?",
+   "ko": "시안, 어디에 살아요?"
+  },
+  {
+   "s": 153.24,
+   "e": 156.45,
+   "en": "I live in a house in Brighton.",
+   "ko": "저는 브라이턴의 주택에 살아요."
+  },
+  {
+   "s": 158.48,
+   "e": 160.14,
+   "en": "Who do you live with?",
+   "ko": "누구랑 같이 살아요?"
+  },
+  {
+   "s": 160.14,
+   "e": 162.14,
+   "en": "I live with my family.",
+   "ko": "가족이랑 같이 살아요."
+  },
+  {
+   "s": 164.08,
+   "e": 166.34,
+   "en": "Where do you live, Buli?",
+   "ko": "불리, 어디에 살아요?"
+  },
+  {
+   "s": 166.65,
+   "e": 169.85,
+   "en": "I live in a flat in Cambridge.",
+   "ko": "저는 케임브리지의 아파트에 살아요."
+  },
+  {
+   "s": 169.85,
+   "e": 172.27,
+   "en": "Who do you live with?",
+   "ko": "누구랑 같이 살아요?"
+  },
+  {
+   "s": 172.27,
+   "e": 175.68,
+   "en": "I live on my own.",
+   "ko": "혼자 살아요."
+  },
+  {
+   "s": 175.68,
+   "e": 179.24,
+   "en": "Where do you live, Georgie?",
+   "ko": "조지, 어디에 살아요?"
+  },
+  {
+   "s": 179.24,
+   "e": 181.83,
+   "en": "I live in a flat in London.",
+   "ko": "저는 런던의 아파트에 살아요."
+  },
+  {
+   "s": 182.24,
+   "e": 184.15,
+   "en": "Who do you live with?",
+   "ko": "누구랑 같이 살아요?"
+  },
+  {
+   "s": 184.15,
+   "e": 186.98,
+   "en": "I live with my flatmates.",
+   "ko": "플랫메이트들과 같이 살아요."
+  },
+  {
+   "s": 188.05,
+   "e": 189.94,
+   "en": "Who lives in London?",
+   "ko": "누가 런던에 살죠?"
+  },
+  {
+   "s": 197.62,
+   "e": 201.62,
+   "en": "Tim and Georgie live in London.",
+   "ko": "팀과 조지가 런던에 살아요."
+  },
+  {
+   "s": 201.62,
+   "e": 204.19,
+   "en": "Who lives in Brighton?",
+   "ko": "누가 브라이턴에 살죠?"
+  },
+  {
+   "s": 210.0,
+   "e": 212.78,
+   "en": "Sian lives in Brighton.",
+   "ko": "시안이 브라이턴에 살아요."
+  },
+  {
+   "s": 212.78,
+   "e": 216.52,
+   "en": "Who lives in Cambridge?",
+   "ko": "누가 케임브리지에 살죠?"
+  },
+  {
+   "s": 221.86,
+   "e": 224.27,
+   "en": "Buli lives in Cambridge.",
+   "ko": "불리가 케임브리지에 살아요."
+  },
+  {
+   "s": 224.27,
+   "e": 226.11,
+   "en": "Who lives in a house?",
+   "ko": "누가 주택에 살죠?"
+  },
+  {
+   "s": 241.63,
+   "e": 245.14,
+   "en": "Sian lives in a house, and Tim lives in a house.",
+   "ko": "시안이 주택에 살고, 팀도 주택에 살아요."
+  },
+  {
+   "s": 245.14,
+   "e": 247.42,
+   "en": "Who lives in a flat?",
+   "ko": "누가 아파트에 살죠?"
+  },
+  {
+   "s": 261.0,
+   "e": 266.24,
+   "en": "Buli lives in a flat, and Georgie lives in a flat.",
+   "ko": "불리가 아파트에 살고, 조지도 아파트에 살아요."
+  },
+  {
+   "s": 268.49,
+   "e": 270.79,
+   "en": "Where do you live?",
+   "ko": "당신은 어디에 살아요?"
+  },
+  {
+   "s": 270.79,
+   "e": 273.37,
+   "en": "And who do you live with?",
+   "ko": "그리고 누구랑 같이 살아요?"
+  },
+  {
+   "s": 280.54,
+   "e": 283.38,
+   "en": "Write your answer in the comments.",
+   "ko": "댓글로 답을 적어 주세요."
+  },
+  {
+   "s": 283.38,
+   "e": 288.19,
+   "en": "Click here to learn some furniture vocabulary.",
+   "ko": "가구 어휘를 배우려면 여기를 클릭하세요."
+  },
+  {
+   "s": 288.19,
+   "e": 294.57,
+   "en": "And click here to listen to people from London talk about where they live.",
+   "ko": "런던 사람들이 사는 곳에 대해 이야기하는 걸 들으려면 여기를 클릭하세요."
+  },
+  {
+   "s": 295.3,
+   "e": 296.56,
+   "en": "Goodbye.",
+   "ko": "잘 가요."
+  },
+  {
+   "s": 296.56,
+   "e": 298.56,
+   "en": "Bye!",
+   "ko": "안녕!"
+  }
+ ]
+}

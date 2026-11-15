@@ -1,0 +1,417 @@
+{
+ "videoId": "SHXPpsIJTb0",
+ "title": "Asking for and giving directions: Easy English Conversations 💬 Episode 5",
+ "channel": "BBC Learning English",
+ "enSource": "manual",
+ "koSource": "claude",
+ "sentences": [
+  {
+   "s": 2.48,
+   "e": 4.8,
+   "en": "Easy English Conversations.",
+   "ko": "쉬운 영어 회화."
+  },
+  {
+   "s": 6.72,
+   "e": 9.04,
+   "en": "Where is the train station?",
+   "ko": "기차역이 어디예요?"
+  },
+  {
+   "s": 9.16,
+   "e": 10.48,
+   "en": "Hello, Sian!",
+   "ko": "안녕, 시안!"
+  },
+  {
+   "s": 10.6,
+   "e": 11.6,
+   "en": "Hi!",
+   "ko": "안녕!"
+  },
+  {
+   "s": 12.84,
+   "e": 14.12,
+   "en": "Where are you?",
+   "ko": "어디예요?"
+  },
+  {
+   "s": 14.24,
+   "e": 15.72,
+   "en": "I'm in Oxford.",
+   "ko": "옥스퍼드에 있어요."
+  },
+  {
+   "s": 15.84,
+   "e": 17.4,
+   "en": "I'm from Oxford!",
+   "ko": "저 옥스퍼드 출신이잖아요!"
+  },
+  {
+   "s": 17.52,
+   "e": 19.96,
+   "en": "I know, but I'm lost.",
+   "ko": "알아요, 그런데 길을 잃었어요."
+  },
+  {
+   "s": 20.08,
+   "e": 21.84,
+   "en": "Where is the train station?",
+   "ko": "기차역이 어디예요?"
+  },
+  {
+   "s": 23.24,
+   "e": 25.32,
+   "en": "Go straight.",
+   "ko": "직진하세요."
+  },
+  {
+   "s": 25.44,
+   "e": 27.08,
+   "en": "Go straight.",
+   "ko": "직진하세요."
+  },
+  {
+   "s": 30.12,
+   "e": 35.84,
+   "en": "Go past the school, Go past the school,",
+   "ko": "학교를 지나가세요, 학교를 지나가세요,"
+  },
+  {
+   "s": 38.12,
+   "e": 40.96,
+   "en": "and turn left.",
+   "ko": "그리고 왼쪽으로 도세요."
+  },
+  {
+   "s": 41.08,
+   "e": 43.32,
+   "en": "Turn left.",
+   "ko": "왼쪽으로 도세요."
+  },
+  {
+   "s": 44.88,
+   "e": 48.2,
+   "en": "Oh - no, no, no! Sorry. Turn right.",
+   "ko": "아, 아니, 아니, 아니에요! 미안해요. 오른쪽으로 도세요."
+  },
+  {
+   "s": 48.84,
+   "e": 50.48,
+   "en": "Turn right.",
+   "ko": "오른쪽으로 도세요."
+  },
+  {
+   "s": 50.6,
+   "e": 53.44,
+   "en": "It's next to the pub.",
+   "ko": "펍 옆에 있어요."
+  },
+  {
+   "s": 53.56,
+   "e": 56.2,
+   "en": "It's next to the pub.",
+   "ko": "펍 옆에 있어요."
+  },
+  {
+   "s": 56.32,
+   "e": 57.96,
+   "en": "Aha! Thank you.",
+   "ko": "아하! 고마워요."
+  },
+  {
+   "s": 58.08,
+   "e": 59.08,
+   "en": "You're welcome.",
+   "ko": "천만에요."
+  },
+  {
+   "s": 61.32,
+   "e": 62.84,
+   "en": "Hey, Georgie!",
+   "ko": "안녕, 조지!"
+  },
+  {
+   "s": 62.96,
+   "e": 65.2,
+   "en": "Hello! Where are you?",
+   "ko": "안녕하세요! 어디예요?"
+  },
+  {
+   "s": 65.32,
+   "e": 69.16,
+   "en": "I'm in Petworth, but I'm lost.",
+   "ko": "펫워스에 있는데, 길을 잃었어요."
+  },
+  {
+   "s": 69.28,
+   "e": 72.04,
+   "en": "Where is the supermarket?",
+   "ko": "슈퍼마켓이 어디예요?"
+  },
+  {
+   "s": 72.16,
+   "e": 74.28,
+   "en": "Go straight.",
+   "ko": "직진하세요."
+  },
+  {
+   "s": 74.4,
+   "e": 76.48,
+   "en": "Go straight.",
+   "ko": "직진하세요."
+  },
+  {
+   "s": 78.36,
+   "e": 79.36,
+   "en": "Turn right.",
+   "ko": "오른쪽으로 도세요."
+  },
+  {
+   "s": 79.48,
+   "e": 82.32,
+   "en": "Turn right.",
+   "ko": "오른쪽으로 도세요."
+  },
+  {
+   "s": 84.24,
+   "e": 85.64,
+   "en": "Go past the school.",
+   "ko": "학교를 지나가세요."
+  },
+  {
+   "s": 85.76,
+   "e": 89.04,
+   "en": "Go past the school.",
+   "ko": "학교를 지나가세요."
+  },
+  {
+   "s": 90.6,
+   "e": 92.12,
+   "en": "It's next to the park.",
+   "ko": "공원 옆에 있어요."
+  },
+  {
+   "s": 92.24,
+   "e": 95.72,
+   "en": "It's next to the park.",
+   "ko": "공원 옆에 있어요."
+  },
+  {
+   "s": 95.84,
+   "e": 97.72,
+   "en": "Oh, no. Sorry!",
+   "ko": "아, 아니에요. 미안해요!"
+  },
+  {
+   "s": 97.84,
+   "e": 100.0,
+   "en": "It's opposite the park.",
+   "ko": "공원 맞은편에 있어요."
+  },
+  {
+   "s": 100.12,
+   "e": 102.08,
+   "en": "It's opposite the park.",
+   "ko": "공원 맞은편에 있어요."
+  },
+  {
+   "s": 102.2,
+   "e": 104.04,
+   "en": "Aha! Thank you.",
+   "ko": "아하! 고마워요."
+  },
+  {
+   "s": 104.16,
+   "e": 105.68,
+   "en": "You're welcome.",
+   "ko": "천만에요."
+  },
+  {
+   "s": 105.8,
+   "e": 111.84,
+   "en": "Remember, you can improve your English at BBC Learning English dot com.",
+   "ko": "기억하세요, BBC Learning English 닷컴에서 영어 실력을 키울 수 있어요."
+  },
+  {
+   "s": 111.96,
+   "e": 113.4,
+   "en": "See you there soon.",
+   "ko": "곧 거기서 만나요."
+  },
+  {
+   "s": 113.52,
+   "e": 114.52,
+   "en": "Hi, Buli!",
+   "ko": "안녕, 불리!"
+  },
+  {
+   "s": 114.64,
+   "e": 116.08,
+   "en": "Hello, Georgie.",
+   "ko": "안녕하세요, 조지."
+  },
+  {
+   "s": 116.2,
+   "e": 117.36,
+   "en": "Where are you?",
+   "ko": "어디예요?"
+  },
+  {
+   "s": 117.48,
+   "e": 119.88,
+   "en": "I'm in Beijing, but I'm lost!",
+   "ko": "베이징에 있는데, 길을 잃었어요!"
+  },
+  {
+   "s": 120.0,
+   "e": 121.76,
+   "en": "Where is the hospital?",
+   "ko": "병원이 어디예요?"
+  },
+  {
+   "s": 121.88,
+   "e": 124.0,
+   "en": "The hospital. Hmm.",
+   "ko": "병원이라. 음."
+  },
+  {
+   "s": 124.12,
+   "e": 131.36,
+   "en": "Go past the museum, Go past the museum, and turn left.",
+   "ko": "박물관을 지나가세요, 박물관을 지나서 왼쪽으로 도세요."
+  },
+  {
+   "s": 131.48,
+   "e": 132.92,
+   "en": "Turn left.",
+   "ko": "왼쪽으로 도세요."
+  },
+  {
+   "s": 135.08,
+   "e": 136.6,
+   "en": "Go straight.",
+   "ko": "직진하세요."
+  },
+  {
+   "s": 137.4,
+   "e": 139.4,
+   "en": "Go straight.",
+   "ko": "직진하세요."
+  },
+  {
+   "s": 139.52,
+   "e": 142.16,
+   "en": "And it's opposite the hotel.",
+   "ko": "그러면 호텔 맞은편에 있어요."
+  },
+  {
+   "s": 142.28,
+   "e": 144.08,
+   "en": "It's opposite the hotel.",
+   "ko": "호텔 맞은편에 있어요."
+  },
+  {
+   "s": 144.2,
+   "e": 146.32,
+   "en": "Aha! Thank you.",
+   "ko": "아하! 고마워요."
+  },
+  {
+   "s": 146.44,
+   "e": 147.56,
+   "en": "You're welcome.",
+   "ko": "천만에요."
+  },
+  {
+   "s": 148.8,
+   "e": 152.28,
+   "en": "Hmm. Where is the cinema?",
+   "ko": "음. 영화관이 어디예요?"
+  },
+  {
+   "s": 153.12,
+   "e": 154.52,
+   "en": "Can you tell me?",
+   "ko": "알려 줄 수 있어요?"
+  },
+  {
+   "s": 154.64,
+   "e": 156.36,
+   "en": "Where is the cinema?",
+   "ko": "영화관이 어디예요?"
+  },
+  {
+   "s": 169.48,
+   "e": 172.12,
+   "en": "All right. Go straight,",
+   "ko": "좋아요. 직진해서,"
+  },
+  {
+   "s": 173.6,
+   "e": 176.04,
+   "en": "and turn left.",
+   "ko": "왼쪽으로 도세요."
+  },
+  {
+   "s": 187.92,
+   "e": 189.6,
+   "en": "Go past the park.",
+   "ko": "공원을 지나가세요."
+  },
+  {
+   "s": 199.52,
+   "e": 202.72,
+   "en": "It's next to the shop.",
+   "ko": "가게 옆에 있어요."
+  },
+  {
+   "s": 202.84,
+   "e": 204.08,
+   "en": "Thank you!",
+   "ko": "고마워요!"
+  },
+  {
+   "s": 207.84,
+   "e": 210.2,
+   "en": "What is Tim doing?",
+   "ko": "팀은 뭘 하고 있을까요?"
+  },
+  {
+   "s": 212.56,
+   "e": 215.24,
+   "en": "Find out in the next video!",
+   "ko": "다음 영상에서 알아보세요!"
+  },
+  {
+   "s": 215.88,
+   "e": 218.76,
+   "en": "Where is the park in this photo?",
+   "ko": "이 사진에서 공원은 어디에 있나요?"
+  },
+  {
+   "s": 223.44,
+   "e": 225.48,
+   "en": "Write a comment below.",
+   "ko": "아래에 댓글을 남겨 주세요."
+  },
+  {
+   "s": 225.6,
+   "e": 228.84,
+   "en": "And click here to subscribe to our channel.",
+   "ko": "그리고 채널을 구독하려면 여기를 클릭하세요."
+  },
+  {
+   "s": 229.36,
+   "e": 231.28,
+   "en": "See you in the next video.",
+   "ko": "다음 영상에서 만나요."
+  },
+  {
+   "s": 231.4,
+   "e": 232.6,
+   "en": "Bye!",
+   "ko": "안녕!"
+  }
+ ]
+}

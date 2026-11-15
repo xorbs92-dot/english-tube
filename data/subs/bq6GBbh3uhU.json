@@ -1,0 +1,483 @@
+{
+ "videoId": "bq6GBbh3uhU",
+ "title": "How to talk about your daily routine: Easy English Conversations 💬 Episode 4",
+ "channel": "BBC Learning English",
+ "enSource": "manual",
+ "koSource": "claude",
+ "sentences": [
+  {
+   "s": 2.48,
+   "e": 4.76,
+   "en": "Easy English Conversations.",
+   "ko": "쉬운 영어 회화."
+  },
+  {
+   "s": 6.68,
+   "e": 9.0,
+   "en": "What do you do every day?",
+   "ko": "매일 뭘 해요?"
+  },
+  {
+   "s": 9.96,
+   "e": 11.04,
+   "en": "Hello, Sian.",
+   "ko": "안녕, 시안."
+  },
+  {
+   "s": 11.8,
+   "e": 13.76,
+   "en": "Hi, Buli. How are you?",
+   "ko": "안녕, 불리. 잘 지내요?"
+  },
+  {
+   "s": 13.88,
+   "e": 15.32,
+   "en": "I'm well, thanks.",
+   "ko": "잘 지내요, 고마워요."
+  },
+  {
+   "s": 15.44,
+   "e": 17.72,
+   "en": "— How are you? — I'm good too.",
+   "ko": "— 당신은요? — 저도 잘 지내요."
+  },
+  {
+   "s": 18.96,
+   "e": 20.92,
+   "en": "What do you do every day?",
+   "ko": "매일 뭘 해요?"
+  },
+  {
+   "s": 21.04,
+   "e": 22.24,
+   "en": "I wake up.",
+   "ko": "잠에서 깨요."
+  },
+  {
+   "s": 24.16,
+   "e": 25.56,
+   "en": "I eat breakfast.",
+   "ko": "아침을 먹어요."
+  },
+  {
+   "s": 27.36,
+   "e": 28.76,
+   "en": "I go jogging.",
+   "ko": "조깅을 해요."
+  },
+  {
+   "s": 30.84,
+   "e": 33.28,
+   "en": "I get the bus to work.",
+   "ko": "버스를 타고 출근해요."
+  },
+  {
+   "s": 35.32,
+   "e": 37.48,
+   "en": "I read a book on the bus.",
+   "ko": "버스에서 책을 읽어요."
+  },
+  {
+   "s": 40.08,
+   "e": 41.56,
+   "en": "I eat lunch.",
+   "ko": "점심을 먹어요."
+  },
+  {
+   "s": 43.92,
+   "e": 47.48,
+   "en": "After I finish work, I swim in the sea.",
+   "ko": "퇴근하고 나서 바다에서 수영해요."
+  },
+  {
+   "s": 49.64,
+   "e": 50.84,
+   "en": "I eat dinner.",
+   "ko": "저녁을 먹어요."
+  },
+  {
+   "s": 52.56,
+   "e": 54.24,
+   "en": "I have a shower.",
+   "ko": "샤워를 해요."
+  },
+  {
+   "s": 55.92,
+   "e": 58.24,
+   "en": "Then I go to sleep.",
+   "ko": "그리고 잠자리에 들어요."
+  },
+  {
+   "s": 59.72,
+   "e": 61.24,
+   "en": "How about you?",
+   "ko": "당신은요?"
+  },
+  {
+   "s": 61.36,
+   "e": 63.36,
+   "en": "What do you do every day?",
+   "ko": "매일 뭘 해요?"
+  },
+  {
+   "s": 63.48,
+   "e": 64.64,
+   "en": "I wake up.",
+   "ko": "잠에서 깨요."
+  },
+  {
+   "s": 66.64,
+   "e": 67.88,
+   "en": "I have a shower.",
+   "ko": "샤워를 해요."
+  },
+  {
+   "s": 69.56,
+   "e": 71.08,
+   "en": "I eat breakfast.",
+   "ko": "아침을 먹어요."
+  },
+  {
+   "s": 73.16,
+   "e": 74.64,
+   "en": "I drive to work.",
+   "ko": "차를 운전해서 출근해요."
+  },
+  {
+   "s": 76.4,
+   "e": 77.92,
+   "en": "I listen to a podcast.",
+   "ko": "팟캐스트를 들어요."
+  },
+  {
+   "s": 78.04,
+   "e": 80.56,
+   "en": "Welcome to Real Easy English.",
+   "ko": "Real Easy English에 오신 걸 환영해요."
+  },
+  {
+   "s": 80.68,
+   "e": 83.08,
+   "en": "— I'm Beth. — And I'm Neil.",
+   "ko": "— 저는 베스예요. — 그리고 저는 닐이에요."
+  },
+  {
+   "s": 83.2,
+   "e": 84.52,
+   "en": "I eat lunch.",
+   "ko": "점심을 먹어요."
+  },
+  {
+   "s": 85.88,
+   "e": 88.4,
+   "en": "After work, I go to the park.",
+   "ko": "퇴근 후에 공원에 가요."
+  },
+  {
+   "s": 90.16,
+   "e": 92.4,
+   "en": "I go home and cook dinner.",
+   "ko": "집에 가서 저녁을 요리해요."
+  },
+  {
+   "s": 94.36,
+   "e": 97.2,
+   "en": "After dinner, I play video games.",
+   "ko": "저녁을 먹고 나서 비디오 게임을 해요."
+  },
+  {
+   "s": 99.28,
+   "e": 101.44,
+   "en": "Lastly, I go to sleep.",
+   "ko": "마지막으로 잠자리에 들어요."
+  },
+  {
+   "s": 105.88,
+   "e": 109.36,
+   "en": "Learn how to give directions in the next video.",
+   "ko": "다음 영상에서 길 안내하는 법을 배워요."
+  },
+  {
+   "s": 109.48,
+   "e": 111.4,
+   "en": "Go straight.",
+   "ko": "직진하세요."
+  },
+  {
+   "s": 111.52,
+   "e": 113.24,
+   "en": "Go straight.",
+   "ko": "직진하세요."
+  },
+  {
+   "s": 113.36,
+   "e": 115.36,
+   "en": "Now, back to the lesson!",
+   "ko": "자, 다시 수업으로 돌아가요!"
+  },
+  {
+   "s": 116.24,
+   "e": 118.48,
+   "en": "— Tim? — Yes?",
+   "ko": "— 팀? — 네?"
+  },
+  {
+   "s": 118.6,
+   "e": 120.12,
+   "en": "What do you do every day?",
+   "ko": "매일 뭘 해요?"
+  },
+  {
+   "s": 121.12,
+   "e": 122.96,
+   "en": "I wake up.",
+   "ko": "잠에서 깨요."
+  },
+  {
+   "s": 125.12,
+   "e": 127.2,
+   "en": "I eat breakfast.",
+   "ko": "아침을 먹어요."
+  },
+  {
+   "s": 129.48,
+   "e": 131.36,
+   "en": "I have a shower.",
+   "ko": "샤워를 해요."
+  },
+  {
+   "s": 134.2,
+   "e": 136.16,
+   "en": "I walk to work.",
+   "ko": "걸어서 출근해요."
+  },
+  {
+   "s": 138.56,
+   "e": 140.92,
+   "en": "I listen to music.",
+   "ko": "음악을 들어요."
+  },
+  {
+   "s": 143.68,
+   "e": 145.92,
+   "en": "I eat lunch.",
+   "ko": "점심을 먹어요."
+  },
+  {
+   "s": 147.8,
+   "e": 151.2,
+   "en": "I go home and watch a film.",
+   "ko": "집에 가서 영화를 봐요."
+  },
+  {
+   "s": 153.68,
+   "e": 156.24,
+   "en": "I eat dinner.",
+   "ko": "저녁을 먹어요."
+  },
+  {
+   "s": 158.28,
+   "e": 163.88,
+   "en": "Then, I read a book and go to sleep.",
+   "ko": "그다음에 책을 읽고 잠자리에 들어요."
+  },
+  {
+   "s": 166.56,
+   "e": 169.0,
+   "en": "Georgie? Are you there?",
+   "ko": "조지? 거기 있어요?"
+  },
+  {
+   "s": 169.12,
+   "e": 170.2,
+   "en": "Yep?",
+   "ko": "네?"
+  },
+  {
+   "s": 170.32,
+   "e": 172.76,
+   "en": "What do you do every day?",
+   "ko": "매일 뭘 해요?"
+  },
+  {
+   "s": 172.88,
+   "e": 174.08,
+   "en": "I wake up.",
+   "ko": "잠에서 깨요."
+  },
+  {
+   "s": 176.08,
+   "e": 177.32,
+   "en": "I have a shower.",
+   "ko": "샤워를 해요."
+  },
+  {
+   "s": 179.6,
+   "e": 181.2,
+   "en": "I eat breakfast.",
+   "ko": "아침을 먹어요."
+  },
+  {
+   "s": 183.6,
+   "e": 185.44,
+   "en": "I get the train to work.",
+   "ko": "기차를 타고 출근해요."
+  },
+  {
+   "s": 187.68,
+   "e": 189.64,
+   "en": "I read the news on the train.",
+   "ko": "기차에서 뉴스를 읽어요."
+  },
+  {
+   "s": 191.96,
+   "e": 193.04,
+   "en": "I eat lunch.",
+   "ko": "점심을 먹어요."
+  },
+  {
+   "s": 195.84,
+   "e": 198.88,
+   "en": "After I finish work, I do some exercise.",
+   "ko": "퇴근하고 나서 운동을 좀 해요."
+  },
+  {
+   "s": 201.24,
+   "e": 202.48,
+   "en": "I eat dinner.",
+   "ko": "저녁을 먹어요."
+  },
+  {
+   "s": 204.52,
+   "e": 206.84,
+   "en": "And then, I go to sleep.",
+   "ko": "그리고 잠자리에 들어요."
+  },
+  {
+   "s": 207.96,
+   "e": 211.28,
+   "en": "What about you? What do you do every day?",
+   "ko": "당신은요? 매일 뭘 해요?"
+  },
+  {
+   "s": 214.72,
+   "e": 215.96,
+   "en": "I wake up.",
+   "ko": "잠에서 깨요."
+  },
+  {
+   "s": 221.72,
+   "e": 223.12,
+   "en": "I eat breakfast.",
+   "ko": "아침을 먹어요."
+  },
+  {
+   "s": 229.12,
+   "e": 230.52,
+   "en": "I eat lunch.",
+   "ko": "점심을 먹어요."
+  },
+  {
+   "s": 236.12,
+   "e": 237.44,
+   "en": "I eat dinner.",
+   "ko": "저녁을 먹어요."
+  },
+  {
+   "s": 241.56,
+   "e": 243.36,
+   "en": "I go to sleep.",
+   "ko": "잠자리에 들어요."
+  },
+  {
+   "s": 245.28,
+   "e": 247.48,
+   "en": "What do you eat for breakfast, Tim?",
+   "ko": "팀, 아침으로 뭘 먹어요?"
+  },
+  {
+   "s": 248.36,
+   "e": 251.76,
+   "en": "I eat toast for breakfast.",
+   "ko": "아침으로 토스트를 먹어요."
+  },
+  {
+   "s": 251.88,
+   "e": 254.24,
+   "en": "What about you, Georgie?",
+   "ko": "조지, 당신은요?"
+  },
+  {
+   "s": 254.36,
+   "e": 256.12,
+   "en": "What do you eat for breakfast?",
+   "ko": "아침으로 뭘 먹어요?"
+  },
+  {
+   "s": 256.72,
+   "e": 259.36,
+   "en": "I eat cereal for breakfast.",
+   "ko": "아침으로 시리얼을 먹어요."
+  },
+  {
+   "s": 259.92,
+   "e": 261.88,
+   "en": "What do you eat for breakfast, Sian?",
+   "ko": "시안, 아침으로 뭘 먹어요?"
+  },
+  {
+   "s": 262.0,
+   "e": 265.32,
+   "en": "I eat fruit and yoghurt for breakfast.",
+   "ko": "아침으로 과일과 요거트를 먹어요."
+  },
+  {
+   "s": 265.44,
+   "e": 267.6,
+   "en": "What do you eat for breakfast, Buli?",
+   "ko": "불리, 아침으로 뭘 먹어요?"
+  },
+  {
+   "s": 267.72,
+   "e": 269.68,
+   "en": "I eat porridge for breakfast.",
+   "ko": "아침으로 죽(포리지)을 먹어요."
+  },
+  {
+   "s": 270.76,
+   "e": 272.68,
+   "en": "What do you eat for breakfast?",
+   "ko": "당신은 아침으로 뭘 먹어요?"
+  },
+  {
+   "s": 280.8,
+   "e": 282.68,
+   "en": "What do you do every day?",
+   "ko": "매일 뭘 해요?"
+  },
+  {
+   "s": 282.8,
+   "e": 285.24,
+   "en": "Write your answer in the comments.",
+   "ko": "댓글로 답을 적어 주세요."
+  },
+  {
+   "s": 285.36,
+   "e": 289.2,
+   "en": "Click this subscribe button and see you in the next video.",
+   "ko": "이 구독 버튼을 누르고 다음 영상에서 만나요."
+  },
+  {
+   "s": 289.32,
+   "e": 290.68,
+   "en": "Bye!",
+   "ko": "안녕!"
+  },
+  {
+   "s": 290.8,
+   "e": 292.04,
+   "en": "Bye!",
+   "ko": "안녕!"
+  }
+ ]
+}

@@ -1,0 +1,447 @@
+{
+ "videoId": "wUF33157hYI",
+ "title": "How to talk about likes and dislikes: Easy English Conversations 💬 Episode 7",
+ "channel": "BBC Learning English",
+ "enSource": "manual",
+ "koSource": "claude",
+ "sentences": [
+  {
+   "s": 3.44,
+   "e": 5.76,
+   "en": "Easy English Conversations.",
+   "ko": "쉬운 영어 회화."
+  },
+  {
+   "s": 7.32,
+   "e": 8.64,
+   "en": "What do you like?",
+   "ko": "뭘 좋아해요?"
+  },
+  {
+   "s": 10.0,
+   "e": 14.16,
+   "en": "Mmm, let's talk about food today!",
+   "ko": "음, 오늘은 음식 얘기를 해 봐요!"
+  },
+  {
+   "s": 14.28,
+   "e": 16.6,
+   "en": "I like pasta.",
+   "ko": "저는 파스타를 좋아해요."
+  },
+  {
+   "s": 17.48,
+   "e": 20.48,
+   "en": "What food do you like, Sian?",
+   "ko": "시안, 어떤 음식을 좋아해요?"
+  },
+  {
+   "s": 20.6,
+   "e": 22.76,
+   "en": "I like fish.",
+   "ko": "저는 생선을 좋아해요."
+  },
+  {
+   "s": 22.88,
+   "e": 24.04,
+   "en": "What food do you like, Buli?",
+   "ko": "불리, 어떤 음식을 좋아해요?"
+  },
+  {
+   "s": 24.16,
+   "e": 26.04,
+   "en": "I like pizza.",
+   "ko": "저는 피자를 좋아해요."
+  },
+  {
+   "s": 26.16,
+   "e": 27.84,
+   "en": "What food do you like, Georgie?",
+   "ko": "조지, 어떤 음식을 좋아해요?"
+  },
+  {
+   "s": 27.96,
+   "e": 30.6,
+   "en": "I like chocolate and fruit.",
+   "ko": "저는 초콜릿과 과일을 좋아해요."
+  },
+  {
+   "s": 30.72,
+   "e": 33.0,
+   "en": "What fruit do you like, Sian?",
+   "ko": "시안, 어떤 과일을 좋아해요?"
+  },
+  {
+   "s": 33.12,
+   "e": 35.12,
+   "en": "I like apples.",
+   "ko": "저는 사과를 좋아해요."
+  },
+  {
+   "s": 35.24,
+   "e": 37.92,
+   "en": "What fruit do you like, Tim?",
+   "ko": "팀, 어떤 과일을 좋아해요?"
+  },
+  {
+   "s": 39.0,
+   "e": 41.0,
+   "en": "I like grapes.",
+   "ko": "저는 포도를 좋아해요."
+  },
+  {
+   "s": 41.12,
+   "e": 44.04,
+   "en": "What fruit do you like, Buli?",
+   "ko": "불리, 어떤 과일을 좋아해요?"
+  },
+  {
+   "s": 44.16,
+   "e": 46.04,
+   "en": "I like bananas.",
+   "ko": "저는 바나나를 좋아해요."
+  },
+  {
+   "s": 46.16,
+   "e": 48.16,
+   "en": "What fruit do you like, Georgie?",
+   "ko": "조지, 어떤 과일을 좋아해요?"
+  },
+  {
+   "s": 48.28,
+   "e": 50.24,
+   "en": "I like oranges.",
+   "ko": "저는 오렌지를 좋아해요."
+  },
+  {
+   "s": 54.48,
+   "e": 58.36,
+   "en": "Learn how to talk about the weather in the next video.",
+   "ko": "다음 영상에서 날씨에 대해 말하는 법을 배워요."
+  },
+  {
+   "s": 58.48,
+   "e": 59.96,
+   "en": "It's raining.",
+   "ko": "비가 오고 있어요."
+  },
+  {
+   "s": 60.92,
+   "e": 63.68,
+   "en": "It's windy and cold.",
+   "ko": "바람이 불고 추워요."
+  },
+  {
+   "s": 63.8,
+   "e": 65.48,
+   "en": "It's hot and sunny.",
+   "ko": "덥고 화창해요."
+  },
+  {
+   "s": 68.48,
+   "e": 70.36,
+   "en": "What food don't you like, Sian?",
+   "ko": "시안, 어떤 음식을 안 좋아해요?"
+  },
+  {
+   "s": 70.48,
+   "e": 73.28,
+   "en": "I don't like rice.",
+   "ko": "저는 밥을 안 좋아해요."
+  },
+  {
+   "s": 73.4,
+   "e": 75.72,
+   "en": "What food don't you like, Georgie?",
+   "ko": "조지, 어떤 음식을 안 좋아해요?"
+  },
+  {
+   "s": 76.64,
+   "e": 78.84,
+   "en": "I don't like nuts.",
+   "ko": "저는 견과류를 안 좋아해요."
+  },
+  {
+   "s": 78.96,
+   "e": 80.84,
+   "en": "What food don't you like, Buli?",
+   "ko": "불리, 어떤 음식을 안 좋아해요?"
+  },
+  {
+   "s": 81.8,
+   "e": 83.8,
+   "en": "I don't like steak.",
+   "ko": "저는 스테이크를 안 좋아해요."
+  },
+  {
+   "s": 83.92,
+   "e": 86.12,
+   "en": "What food don't you like, Tim?",
+   "ko": "팀, 어떤 음식을 안 좋아해요?"
+  },
+  {
+   "s": 86.84,
+   "e": 88.64,
+   "en": "I don't like jelly.",
+   "ko": "저는 젤리를 안 좋아해요."
+  },
+  {
+   "s": 89.6,
+   "e": 93.68,
+   "en": "Hmm. What food do you like?",
+   "ko": "음. 당신은 어떤 음식을 좋아해요?"
+  },
+  {
+   "s": 98.8,
+   "e": 100.28,
+   "en": "I like pizza.",
+   "ko": "저는 피자를 좋아해요."
+  },
+  {
+   "s": 101.48,
+   "e": 104.76,
+   "en": "What food don't you like?",
+   "ko": "어떤 음식을 안 좋아해요?"
+  },
+  {
+   "s": 109.92,
+   "e": 112.44,
+   "en": "I don't like jelly.",
+   "ko": "저는 젤리를 안 좋아해요."
+  },
+  {
+   "s": 112.56,
+   "e": 114.68,
+   "en": "— Great! — Have you got that?",
+   "ko": "— 좋아요! — 이해했나요?"
+  },
+  {
+   "s": 114.8,
+   "e": 119.24,
+   "en": "Learn more English at BBC Learning English dot com.",
+   "ko": "BBC Learning English 닷컴에서 영어를 더 배워 보세요."
+  },
+  {
+   "s": 119.36,
+   "e": 120.84,
+   "en": "Let's continue.",
+   "ko": "계속해 볼까요."
+  },
+  {
+   "s": 120.96,
+   "e": 124.0,
+   "en": "What do you like doing, Sian?",
+   "ko": "시안, 뭐 하는 걸 좋아해요?"
+  },
+  {
+   "s": 124.12,
+   "e": 125.92,
+   "en": "I like dancing.",
+   "ko": "저는 춤추는 걸 좋아해요."
+  },
+  {
+   "s": 126.72,
+   "e": 128.56,
+   "en": "What do you like doing, Buli?",
+   "ko": "불리, 뭐 하는 걸 좋아해요?"
+  },
+  {
+   "s": 128.68,
+   "e": 131.04,
+   "en": "I like playing video games.",
+   "ko": "저는 비디오 게임 하는 걸 좋아해요."
+  },
+  {
+   "s": 131.16,
+   "e": 133.0,
+   "en": "What do you like doing, Tim?",
+   "ko": "팀, 뭐 하는 걸 좋아해요?"
+  },
+  {
+   "s": 133.84,
+   "e": 136.44,
+   "en": "I like hiking.",
+   "ko": "저는 하이킹을 좋아해요."
+  },
+  {
+   "s": 136.56,
+   "e": 139.0,
+   "en": "What do you like doing, Georgie?",
+   "ko": "조지, 뭐 하는 걸 좋아해요?"
+  },
+  {
+   "s": 139.12,
+   "e": 141.24,
+   "en": "I like swimming in the sea.",
+   "ko": "저는 바다에서 수영하는 걸 좋아해요."
+  },
+  {
+   "s": 141.36,
+   "e": 143.0,
+   "en": "What do you like doing?",
+   "ko": "당신은 뭐 하는 걸 좋아해요?"
+  },
+  {
+   "s": 149.0,
+   "e": 150.16,
+   "en": "I like singing.",
+   "ko": "저는 노래하는 걸 좋아해요."
+  },
+  {
+   "s": 151.28,
+   "e": 152.48,
+   "en": "Nice!",
+   "ko": "멋져요!"
+  },
+  {
+   "s": 152.6,
+   "e": 156.2,
+   "en": "Hmm... What food does Sian like?",
+   "ko": "음... 시안은 어떤 음식을 좋아하죠?"
+  },
+  {
+   "s": 157.32,
+   "e": 160.76,
+   "en": "She likes fish.",
+   "ko": "그녀는 생선을 좋아해요."
+  },
+  {
+   "s": 161.88,
+   "e": 164.76,
+   "en": "What food does Buli like?",
+   "ko": "불리는 어떤 음식을 좋아하죠?"
+  },
+  {
+   "s": 164.88,
+   "e": 167.2,
+   "en": "He likes pizza.",
+   "ko": "그는 피자를 좋아해요."
+  },
+  {
+   "s": 168.28,
+   "e": 171.24,
+   "en": "What food does Georgie like?",
+   "ko": "조지는 어떤 음식을 좋아하죠?"
+  },
+  {
+   "s": 176.6,
+   "e": 178.24,
+   "en": "She likes chocolate.",
+   "ko": "그녀는 초콜릿을 좋아해요."
+  },
+  {
+   "s": 179.28,
+   "e": 180.44,
+   "en": "That's right!",
+   "ko": "맞아요!"
+  },
+  {
+   "s": 180.56,
+   "e": 182.04,
+   "en": "She likes chocolate.",
+   "ko": "그녀는 초콜릿을 좋아해요."
+  },
+  {
+   "s": 182.16,
+   "e": 184.52,
+   "en": "What food does Tim like?",
+   "ko": "팀은 어떤 음식을 좋아하죠?"
+  },
+  {
+   "s": 189.84,
+   "e": 191.4,
+   "en": "He likes pasta.",
+   "ko": "그는 파스타를 좋아해요."
+  },
+  {
+   "s": 192.48,
+   "e": 195.24,
+   "en": "Correct! He likes pasta.",
+   "ko": "정답! 그는 파스타를 좋아해요."
+  },
+  {
+   "s": 195.36,
+   "e": 199.2,
+   "en": "Hmm... What does Sian like doing?",
+   "ko": "음... 시안은 뭐 하는 걸 좋아하죠?"
+  },
+  {
+   "s": 199.32,
+   "e": 202.8,
+   "en": "She likes dancing.",
+   "ko": "그녀는 춤추는 걸 좋아해요."
+  },
+  {
+   "s": 202.92,
+   "e": 205.96,
+   "en": "What does Buli like doing?",
+   "ko": "불리는 뭐 하는 걸 좋아하죠?"
+  },
+  {
+   "s": 206.08,
+   "e": 209.48,
+   "en": "He likes playing video games.",
+   "ko": "그는 비디오 게임 하는 걸 좋아해요."
+  },
+  {
+   "s": 210.44,
+   "e": 213.36,
+   "en": "What does Georgie like doing?",
+   "ko": "조지는 뭐 하는 걸 좋아하죠?"
+  },
+  {
+   "s": 218.44,
+   "e": 220.68,
+   "en": "She likes swimming in the sea.",
+   "ko": "그녀는 바다에서 수영하는 걸 좋아해요."
+  },
+  {
+   "s": 220.8,
+   "e": 223.92,
+   "en": "That's right. She likes swimming in the sea.",
+   "ko": "맞아요. 그녀는 바다에서 수영하는 걸 좋아해요."
+  },
+  {
+   "s": 224.04,
+   "e": 225.84,
+   "en": "What does Tim like doing?",
+   "ko": "팀은 뭐 하는 걸 좋아하죠?"
+  },
+  {
+   "s": 231.72,
+   "e": 233.16,
+   "en": "He likes hiking.",
+   "ko": "그는 하이킹을 좋아해요."
+  },
+  {
+   "s": 234.36,
+   "e": 237.12,
+   "en": "Correct! He likes hiking.",
+   "ko": "정답! 그는 하이킹을 좋아해요."
+  },
+  {
+   "s": 237.24,
+   "e": 240.64,
+   "en": "What food do you like?",
+   "ko": "당신은 어떤 음식을 좋아해요?"
+  },
+  {
+   "s": 240.76,
+   "e": 243.16,
+   "en": "And what do you like doing?",
+   "ko": "그리고 뭐 하는 걸 좋아해요?"
+  },
+  {
+   "s": 243.28,
+   "e": 245.28,
+   "en": "Let us know in the comments.",
+   "ko": "댓글로 알려 주세요."
+  },
+  {
+   "s": 245.92,
+   "e": 246.92,
+   "en": "Bye!",
+   "ko": "안녕!"
+  }
+ ]
+}

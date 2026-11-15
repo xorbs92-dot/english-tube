@@ -1,6 +1,172 @@
 {
   "courses": [
     {
+      "id": "생활영어-bbc-easy-english-conversations",
+      "title": "생활영어 · BBC Easy English Conversations",
+      "lessons": [
+        {
+          "videoId": "I_tRSrPru94",
+          "title": "How to introduce yourself: Easy English Conversations 💬 Episode 1",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 56,
+          "ko": "claude"
+        },
+        {
+          "videoId": "31y2Bq1RYQA",
+          "title": "Saying where you're from: Easy English Conversations 💬 Episode 2",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 53,
+          "ko": "claude"
+        },
+        {
+          "videoId": "on_1sS6Ii8M",
+          "title": "How to talk about your home town: Easy English Conversations 💬 Episode 3",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 83,
+          "ko": "claude"
+        },
+        {
+          "videoId": "bq6GBbh3uhU",
+          "title": "How to talk about your daily routine: Easy English Conversations 💬 Episode 4",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 79,
+          "ko": "claude"
+        },
+        {
+          "videoId": "SHXPpsIJTb0",
+          "title": "Asking for and giving directions: Easy English Conversations 💬 Episode 5",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 68,
+          "ko": "claude"
+        },
+        {
+          "videoId": "aiUGN3TDvw4",
+          "title": "How to talk about activities: Easy English Conversations 💬 Episode 6",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 52,
+          "ko": "claude"
+        },
+        {
+          "videoId": "wUF33157hYI",
+          "title": "How to talk about likes and dislikes: Easy English Conversations 💬 Episode 7",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 73,
+          "ko": "claude"
+        },
+        {
+          "videoId": "sMg4vj6ugSs",
+          "title": "Describing the weather where you are: Easy English Conversations 💬 Episode 8",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 65,
+          "ko": "claude"
+        },
+        {
+          "videoId": "1vUTq-Pd4Vs",
+          "title": "Talking about ability: Easy English Conversations 💬 Episode 9",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 60,
+          "ko": "claude"
+        },
+        {
+          "videoId": "ceOhxZjDt-g",
+          "title": "Learn how to describe things: Easy English Conversations 💬 Episode 10",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 87,
+          "ko": "claude"
+        },
+        {
+          "videoId": "81MmK177K_c",
+          "title": "Learn to talk about the time! Easy English Conversations 💬 Episode 11",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 74,
+          "ko": "none"
+        },
+        {
+          "videoId": "gCs4knrlnD4",
+          "title": "Talk about your habits with Easy English Conversations 💬 Episode 12",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 78,
+          "ko": "none"
+        },
+        {
+          "videoId": "kTf0V4HyFtM",
+          "title": "Talk about what you did last weekend: Easy English Conversations 💬 Episode 13",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 83,
+          "ko": "none"
+        },
+        {
+          "videoId": "yyClpj_GJDc",
+          "title": "How to talk about your feelings! Easy English Conversations 💬 Episode 14",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 74,
+          "ko": "none"
+        },
+        {
+          "videoId": "v9EU41cuhHY",
+          "title": "How to describe your family: Easy English Conversations 💬 Episode 15",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 92,
+          "ko": "none"
+        },
+        {
+          "videoId": "osDr7To4Ml4",
+          "title": "How to talk about personality in English! Easy English Conversations 💬 Episode 16",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 97,
+          "ko": "none"
+        },
+        {
+          "videoId": "9OzIMC6XCiE",
+          "title": "How to describe people in English! Easy English Conversations Episode 17",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 110,
+          "ko": "none"
+        },
+        {
+          "videoId": "5VGtCbFclgk",
+          "title": "How to compare things in English - Easy English Conversations 💬 Episode 18",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 101,
+          "ko": "none"
+        },
+        {
+          "videoId": "2mnL9jPVzsk",
+          "title": "Talking about clothes shopping: Easy English Conversations Episode 19",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 140,
+          "ko": "none"
+        },
+        {
+          "videoId": "Te-UyphkKRk",
+          "title": "Describing your home: Easy English Conversations Episode 20",
+          "channel": "BBC Learning English",
+          "duration": null,
+          "sentences": 95,
+          "ko": "none"
+        }
+      ]
+    },
+    {
       "id": "초중급-회화-bbc-real-easy-english",
       "title": "초중급 회화 · BBC Real Easy English",
       "lessons": [

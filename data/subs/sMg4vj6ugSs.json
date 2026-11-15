@@ -1,0 +1,399 @@
+{
+ "videoId": "sMg4vj6ugSs",
+ "title": "Describing the weather where you are: Easy English Conversations 💬 Episode 8",
+ "channel": "BBC Learning English",
+ "enSource": "manual",
+ "koSource": "claude",
+ "sentences": [
+  {
+   "s": 3.44,
+   "e": 5.76,
+   "en": "Easy English Conversations.",
+   "ko": "쉬운 영어 회화."
+  },
+  {
+   "s": 7.32,
+   "e": 8.84,
+   "en": "How's the weather?",
+   "ko": "날씨 어때요?"
+  },
+  {
+   "s": 10.48,
+   "e": 12.24,
+   "en": "Hello, Buli!",
+   "ko": "안녕, 불리!"
+  },
+  {
+   "s": 12.36,
+   "e": 13.6,
+   "en": "Where are you?",
+   "ko": "어디예요?"
+  },
+  {
+   "s": 13.72,
+   "e": 14.8,
+   "en": "I'm in Mumbai.",
+   "ko": "뭄바이에 있어요."
+  },
+  {
+   "s": 15.92,
+   "e": 18.2,
+   "en": "What are you doing in Mumbai?",
+   "ko": "뭄바이에서 뭐 하고 있어요?"
+  },
+  {
+   "s": 18.32,
+   "e": 19.72,
+   "en": "I'm taking some photos.",
+   "ko": "사진 좀 찍고 있어요."
+  },
+  {
+   "s": 21.32,
+   "e": 22.72,
+   "en": "How's the weather?",
+   "ko": "날씨 어때요?"
+  },
+  {
+   "s": 22.84,
+   "e": 24.56,
+   "en": "Ooh, it's hot and sunny.",
+   "ko": "오, 덥고 화창해요."
+  },
+  {
+   "s": 24.68,
+   "e": 26.24,
+   "en": "Where are you?",
+   "ko": "당신은 어디예요?"
+  },
+  {
+   "s": 26.36,
+   "e": 27.76,
+   "en": "I'm in London.",
+   "ko": "런던에 있어요."
+  },
+  {
+   "s": 27.88,
+   "e": 29.44,
+   "en": "What are you doing in London?",
+   "ko": "런던에서 뭐 하고 있어요?"
+  },
+  {
+   "s": 29.56,
+   "e": 31.64,
+   "en": "I'm working.",
+   "ko": "일하고 있어요."
+  },
+  {
+   "s": 32.28,
+   "e": 33.68,
+   "en": "How's the weather?",
+   "ko": "날씨 어때요?"
+  },
+  {
+   "s": 34.8,
+   "e": 36.24,
+   "en": "It's raining.",
+   "ko": "비가 오고 있어요."
+  },
+  {
+   "s": 36.36,
+   "e": 37.68,
+   "en": "Hello!",
+   "ko": "안녕하세요!"
+  },
+  {
+   "s": 37.8,
+   "e": 40.24,
+   "en": "— Hi! — Hiya! Where are you?",
+   "ko": "— 안녕! — 안녕! 어디예요?"
+  },
+  {
+   "s": 40.36,
+   "e": 42.0,
+   "en": "I'm in Japan.",
+   "ko": "일본에 있어요."
+  },
+  {
+   "s": 42.12,
+   "e": 43.36,
+   "en": "What are you doing?",
+   "ko": "뭐 하고 있어요?"
+  },
+  {
+   "s": 43.48,
+   "e": 44.92,
+   "en": "I'm skiing.",
+   "ko": "스키 타고 있어요."
+  },
+  {
+   "s": 45.04,
+   "e": 46.48,
+   "en": "How's the weather?",
+   "ko": "날씨 어때요?"
+  },
+  {
+   "s": 46.6,
+   "e": 48.0,
+   "en": "It's snowing.",
+   "ko": "눈이 오고 있어요."
+  },
+  {
+   "s": 48.12,
+   "e": 49.12,
+   "en": "Hello!",
+   "ko": "안녕하세요!"
+  },
+  {
+   "s": 49.24,
+   "e": 50.48,
+   "en": "Hi!",
+   "ko": "안녕!"
+  },
+  {
+   "s": 50.6,
+   "e": 51.72,
+   "en": "Hello!",
+   "ko": "안녕하세요!"
+  },
+  {
+   "s": 51.84,
+   "e": 53.8,
+   "en": "Hi. Where are you?",
+   "ko": "안녕. 어디예요?"
+  },
+  {
+   "s": 53.92,
+   "e": 55.08,
+   "en": "I'm in Beijing.",
+   "ko": "베이징에 있어요."
+  },
+  {
+   "s": 55.84,
+   "e": 57.12,
+   "en": "What are you doing?",
+   "ko": "뭐 하고 있어요?"
+  },
+  {
+   "s": 57.24,
+   "e": 58.32,
+   "en": "I'm shopping.",
+   "ko": "쇼핑하고 있어요."
+  },
+  {
+   "s": 58.44,
+   "e": 60.04,
+   "en": "How's the weather?",
+   "ko": "날씨 어때요?"
+  },
+  {
+   "s": 60.16,
+   "e": 63.04,
+   "en": "It's windy and cold.",
+   "ko": "바람이 불고 추워요."
+  },
+  {
+   "s": 63.16,
+   "e": 64.16,
+   "en": "Hello!",
+   "ko": "안녕하세요!"
+  },
+  {
+   "s": 64.28,
+   "e": 65.32,
+   "en": "— Hello! — Hi!",
+   "ko": "— 안녕하세요! — 안녕!"
+  },
+  {
+   "s": 65.44,
+   "e": 67.36,
+   "en": "Hello, where are you?",
+   "ko": "안녕하세요, 어디예요?"
+  },
+  {
+   "s": 67.48,
+   "e": 69.44,
+   "en": "I'm in Argentina.",
+   "ko": "아르헨티나에 있어요."
+  },
+  {
+   "s": 69.56,
+   "e": 71.24,
+   "en": "What are you doing?",
+   "ko": "뭐 하고 있어요?"
+  },
+  {
+   "s": 71.36,
+   "e": 73.16,
+   "en": "I'm eating lunch.",
+   "ko": "점심 먹고 있어요."
+  },
+  {
+   "s": 73.28,
+   "e": 74.56,
+   "en": "How's the weather?",
+   "ko": "날씨 어때요?"
+  },
+  {
+   "s": 75.2,
+   "e": 78.24,
+   "en": "It's cloudy and cold.",
+   "ko": "흐리고 추워요."
+  },
+  {
+   "s": 78.36,
+   "e": 80.84,
+   "en": "How's the weather in Mumbai?",
+   "ko": "뭄바이 날씨는 어때요?"
+  },
+  {
+   "s": 80.96,
+   "e": 83.0,
+   "en": "It's hot and sunny.",
+   "ko": "덥고 화창해요."
+  },
+  {
+   "s": 83.12,
+   "e": 84.68,
+   "en": "How's the weather in Japan?",
+   "ko": "일본 날씨는 어때요?"
+  },
+  {
+   "s": 85.72,
+   "e": 87.12,
+   "en": "It's snowing.",
+   "ko": "눈이 오고 있어요."
+  },
+  {
+   "s": 87.24,
+   "e": 88.8,
+   "en": "How's the weather in London?",
+   "ko": "런던 날씨는 어때요?"
+  },
+  {
+   "s": 88.92,
+   "e": 90.64,
+   "en": "It's raining.",
+   "ko": "비가 오고 있어요."
+  },
+  {
+   "s": 90.76,
+   "e": 93.04,
+   "en": "How's the weather in Argentina?",
+   "ko": "아르헨티나 날씨는 어때요?"
+  },
+  {
+   "s": 93.16,
+   "e": 95.76,
+   "en": "It's cloudy and cold.",
+   "ko": "흐리고 추워요."
+  },
+  {
+   "s": 95.88,
+   "e": 98.12,
+   "en": "How's the weather in Beijing?",
+   "ko": "베이징 날씨는 어때요?"
+  },
+  {
+   "s": 98.24,
+   "e": 100.72,
+   "en": "It's windy and cold.",
+   "ko": "바람이 불고 추워요."
+  },
+  {
+   "s": 104.48,
+   "e": 107.92,
+   "en": "What can Sian do?",
+   "ko": "시안은 뭘 할 수 있을까요?"
+  },
+  {
+   "s": 110.88,
+   "e": 113.32,
+   "en": "And what can't she do?",
+   "ko": "그리고 뭘 못 할까요?"
+  },
+  {
+   "s": 115.76,
+   "e": 118.0,
+   "en": "Find out in the next video.",
+   "ko": "다음 영상에서 알아보세요."
+  },
+  {
+   "s": 122.16,
+   "e": 124.4,
+   "en": "How's the weather in this picture?",
+   "ko": "이 사진 속 날씨는 어때요?"
+  },
+  {
+   "s": 131.2,
+   "e": 133.24,
+   "en": "It's hot and sunny.",
+   "ko": "덥고 화창해요."
+  },
+  {
+   "s": 135.52,
+   "e": 138.4,
+   "en": "And how's the weather in this picture?",
+   "ko": "그리고 이 사진 속 날씨는 어때요?"
+  },
+  {
+   "s": 144.08,
+   "e": 145.6,
+   "en": "It's snowing.",
+   "ko": "눈이 오고 있어요."
+  },
+  {
+   "s": 147.88,
+   "e": 150.12,
+   "en": "How's the weather in this picture?",
+   "ko": "이 사진 속 날씨는 어때요?"
+  },
+  {
+   "s": 156.72,
+   "e": 158.92,
+   "en": "It's windy and cold.",
+   "ko": "바람이 불고 추워요."
+  },
+  {
+   "s": 160.36,
+   "e": 163.08,
+   "en": "How's the weather in this picture?",
+   "ko": "이 사진 속 날씨는 어때요?"
+  },
+  {
+   "s": 168.96,
+   "e": 170.48,
+   "en": "It's cloudy.",
+   "ko": "흐려요."
+  },
+  {
+   "s": 172.6,
+   "e": 174.56,
+   "en": "How's the weather in this picture?",
+   "ko": "이 사진 속 날씨는 어때요?"
+  },
+  {
+   "s": 180.68,
+   "e": 181.8,
+   "en": "It's raining.",
+   "ko": "비가 오고 있어요."
+  },
+  {
+   "s": 186.16,
+   "e": 188.96,
+   "en": "How's the weather in your country now?",
+   "ko": "지금 당신 나라 날씨는 어때요?"
+  },
+  {
+   "s": 189.08,
+   "e": 191.0,
+   "en": "Let us know in the comments.",
+   "ko": "댓글로 알려 주세요."
+  },
+  {
+   "s": 191.12,
+   "e": 193.4,
+   "en": "— See you! — Bye!",
+   "ko": "— 또 봐요! — 안녕!"
+  }
+ ]
+}
