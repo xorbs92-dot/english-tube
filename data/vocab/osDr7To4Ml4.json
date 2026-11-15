@@ -11,7 +11,11 @@
     "새 상사는 어떤 사람이에요? — 친절해요."
    ],
    "find": "what's [\\w ]+ like|what is \\w+ like",
-   "i": 1
+   "i": 1,
+   "a": "32cb21218192.m4a",
+   "xa": "7dca33795f87.m4a",
+   "ab": "b8362fac5167.m4a",
+   "xab": "03d1b7356b7a.m4a"
   },
   {
    "w": "hardworking",
@@ -22,7 +26,11 @@
     "She's very hardworking and never late.",
     "그녀는 아주 성실하고 절대 지각하지 않아요."
    ],
-   "i": 9
+   "i": 9,
+   "a": "8ef7a781fb48.m4a",
+   "xa": "d144be03e3f5.m4a",
+   "ab": "c335679c47c9.m4a",
+   "xab": "305b80b35f21.m4a"
   },
   {
    "w": "talkative",
@@ -33,7 +41,11 @@
     "My friend is really talkative on the phone.",
     "제 친구는 통화할 때 정말 수다스러워요."
    ],
-   "i": 14
+   "i": 14,
+   "a": "67e39f3dde02.m4a",
+   "xa": "87473dabe861.m4a",
+   "ab": "32b0fd08b198.m4a",
+   "xab": "2c09886bdc8a.m4a"
   },
   {
    "w": "sporty",
@@ -44,7 +56,11 @@
     "He's sporty — he plays football and tennis.",
     "그는 운동을 좋아해요. 축구랑 테니스를 해요."
    ],
-   "i": 16
+   "i": 16,
+   "a": "4b7f0c25161e.m4a",
+   "xa": "9b05efb2cb7f.m4a",
+   "ab": "7d9ab30dadd2.m4a",
+   "xab": "15577dd73385.m4a"
   },
   {
    "w": "funny",
@@ -55,7 +71,11 @@
     "My dad is really funny.",
     "우리 아빠는 정말 웃겨요."
    ],
-   "i": 24
+   "i": 24,
+   "a": "c01a9e1eb5cd.m4a",
+   "xa": "0609e8e46b99.m4a",
+   "ab": "c47375f2df17.m4a",
+   "xab": "b9ede4841ea8.m4a"
   },
   {
    "w": "grumpy",
@@ -66,7 +86,11 @@
     "He's always grumpy in the morning.",
     "그는 아침엔 늘 투덜대요."
    ],
-   "i": 37
+   "i": 37,
+   "a": "2be3019ea9cc.m4a",
+   "xa": "c029ba4f9f51.m4a",
+   "ab": "93610b6039e9.m4a",
+   "xab": "1ddebca220f7.m4a"
   },
   {
    "w": "brave",
@@ -77,7 +101,11 @@
     "It was brave of you to speak first.",
     "먼저 말한 건 용감했어요."
    ],
-   "i": 39
+   "i": 39,
+   "a": "b485fbd37125.m4a",
+   "xa": "9f233a42c68e.m4a",
+   "ab": "e95f07badfb8.m4a",
+   "xab": "25b1a0a1e463.m4a"
   },
   {
    "w": "lazy / quiet",
@@ -89,7 +117,11 @@
     "일요일 아침엔 게을러져요."
    ],
    "find": "lazy",
-   "i": 56
+   "i": 56,
+   "a": "7ba3fd50dbde.m4a",
+   "xa": "42c258421b09.m4a",
+   "ab": "fbfbacd630fc.m4a",
+   "xab": "acb617013d42.m4a"
   }
  ]
 }

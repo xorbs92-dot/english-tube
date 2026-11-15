@@ -35,3 +35,7 @@ for vid, rows in batch.items():
         json.dump({"videoId": vid, "words": words}, f, ensure_ascii=False, indent=1)
     print(f"✓ {vid}: {len(words)}단어")
 print("못 찾은 단어:", bad)
+
+# 발음 파일도 이어서 만든다 (Mac 전용)
+import subprocess
+subprocess.run([sys.executable, os.path.join(APP, "tools", "mkaudio.py")])

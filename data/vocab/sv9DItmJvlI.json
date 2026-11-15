@@ -11,7 +11,11 @@
     "유럽 전역에 폭염이 왔어요."
    ],
    "find": "heatwaves?",
-   "i": 2
+   "i": 2,
+   "a": "86561179651e.m4a",
+   "xa": "6c30bf217655.m4a",
+   "ab": "8a13ee4106e5.m4a",
+   "xab": "bc47082aad48.m4a"
   },
   {
    "w": "prediction / projection",
@@ -23,7 +27,11 @@
     "그 모델은 예측이 아니라 전망을 해요."
    ],
    "find": "predictions?",
-   "i": 20
+   "i": 20,
+   "a": "fe01cb5e1bb8.m4a",
+   "xa": "db49612712c3.m4a",
+   "ab": "d275ec88790f.m4a",
+   "xab": "cf47c5aa5ce8.m4a"
   },
   {
    "w": "conditional",
@@ -34,7 +42,11 @@
     "The offer is conditional on passing the test.",
     "그 제안은 시험 통과가 조건이에요."
    ],
-   "i": 21
+   "i": 21,
+   "a": "31350382843a.m4a",
+   "xa": "6171610ab1a0.m4a",
+   "ab": "a669b63c4931.m4a",
+   "xab": "551c9ffd602a.m4a"
   },
   {
    "w": "the thing about ... is",
@@ -46,7 +58,11 @@
     "런던에 관해 중요한 건 너무 비싸다는 거예요."
    ],
    "find": "the thing about",
-   "i": 30
+   "i": 30,
+   "a": "f3accfb3c6a9.m4a",
+   "xa": "cd068da04bae.m4a",
+   "ab": "c2c2ccc96427.m4a",
+   "xab": "8ff5be5d1ce2.m4a"
   },
   {
    "w": "out of whack",
@@ -58,7 +74,11 @@
     "여행 후 수면 패턴이 엉망이에요."
    ],
    "find": "out of whack",
-   "i": 32
+   "i": 32,
+   "a": "8bc44c4b3dd1.m4a",
+   "xa": "99e39449e95e.m4a",
+   "ab": "3f6c7c9eaab3.m4a",
+   "xab": "2c6e86a2784e.m4a"
   },
   {
    "w": "pro-",
@@ -70,7 +90,11 @@
     "그녀는 과학을 아주 지지해요."
    ],
    "find": "pro-",
-   "i": 44
+   "i": 44,
+   "a": "59480bb98b27.m4a",
+   "xa": "6c051e7c3fcd.m4a",
+   "ab": "e2f84dcf2b5f.m4a",
+   "xab": "a35194f58cd4.m4a"
   },
   {
    "w": "not on the table",
@@ -82,7 +106,11 @@
     "해외 이사는 지금 선택지에 없어요."
    ],
    "find": "on the table",
-   "i": 45
+   "i": 45,
+   "a": "a39dab1aade4.m4a",
+   "xa": "804e5a1e9f71.m4a",
+   "ab": "e35654a7adf0.m4a",
+   "xab": "34567c39dbb0.m4a"
   }
  ]
 }

@@ -11,7 +11,11 @@
     "이 스웨터 정말 가려워요."
    ],
    "find": "itch",
-   "i": 4
+   "i": 4,
+   "a": "38084f98db22.m4a",
+   "xa": "6750c1d195f0.m4a",
+   "ab": "00272accc4b7.m4a",
+   "xab": "0116d99cd00f.m4a"
   },
   {
    "w": "scratch",
@@ -22,7 +26,11 @@
     "Try not to scratch the mosquito bite.",
     "모기 물린 데를 긁지 않도록 해요."
    ],
-   "i": 5
+   "i": 5,
+   "a": "5f64d490a517.m4a",
+   "xa": "ba373778fa58.m4a",
+   "ab": "34aea6e2ec21.m4a",
+   "xab": "05ac9f975330.m4a"
   },
   {
    "w": "unpack",
@@ -33,7 +41,11 @@
     "Let's unpack what that really means.",
     "그게 진짜 무슨 뜻인지 풀어 봐요."
    ],
-   "i": 27
+   "i": 27,
+   "a": "4a36d59dfb2a.m4a",
+   "xa": "1e2f04a42160.m4a",
+   "ab": "bdff25dd93b9.m4a",
+   "xab": "a73131e8be72.m4a"
   },
   {
    "w": "parasite",
@@ -45,7 +57,11 @@
     "어떤 기생충은 피부에 살아요."
    ],
    "find": "parasites?",
-   "i": 28
+   "i": 28,
+   "a": "3c85872d91ab.m4a",
+   "xa": "226e8dfd166a.m4a",
+   "ab": "85789169681c.m4a",
+   "xab": "a1e3bbd60fb5.m4a"
   },
   {
    "w": "spontaneously",
@@ -57,7 +73,11 @@
     "관중이 저절로 박수를 치기 시작했어요."
    ],
    "find": "spontaneous",
-   "i": 41
+   "i": 41,
+   "a": "6c3c69017a19.m4a",
+   "xa": "2e418dcd6fca.m4a",
+   "ab": "5bd44e9643b6.m4a",
+   "xab": "0ef5b8250380.m4a"
   },
   {
    "w": "catch",
@@ -69,7 +89,11 @@
     "아들한테 감기가 옮았어요."
    ],
    "find": "catch|caught",
-   "i": 42
+   "i": 42,
+   "a": "520d6bbb7b3b.m4a",
+   "xa": "76ed5520440f.m4a",
+   "ab": "8f169fa7da34.m4a",
+   "xab": "453c579b5d2f.m4a"
   }
  ]
 }

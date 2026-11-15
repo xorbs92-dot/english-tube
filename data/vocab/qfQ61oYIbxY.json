@@ -10,7 +10,11 @@
     "I'm grumpy when I'm hungry.",
     "저는 배고프면 짜증이 나요."
    ],
-   "i": 4
+   "i": 4,
+   "a": "2be3019ea9cc.m4a",
+   "xa": "1a75eec929e8.m4a",
+   "ab": "93610b6039e9.m4a",
+   "xab": "0de9391dfbaa.m4a"
   },
   {
    "w": "in a bad mood",
@@ -22,7 +26,11 @@
     "그한테 말 걸지 마요. 기분이 안 좋아요."
    ],
    "find": "bad mood",
-   "i": 6
+   "i": 6,
+   "a": "90b81148b158.m4a",
+   "xa": "c5e13ba00e32.m4a",
+   "ab": "252e11874100.m4a",
+   "xab": "e1a764815735.m4a"
   },
   {
    "w": "in a good mood",
@@ -34,7 +42,11 @@
     "오늘 기분 좋아 보이네요!"
    ],
    "find": "good mood|better mood",
-   "i": 39
+   "i": 39,
+   "a": "b4e9992eaf3f.m4a",
+   "xa": "146da90de32a.m4a",
+   "ab": "1c6ecd05b05a.m4a",
+   "xab": "2ba56d3f1927.m4a"
   },
   {
    "w": "cheerful",
@@ -45,7 +57,11 @@
     "She's always cheerful in the morning.",
     "그녀는 아침에 늘 밝아요."
    ],
-   "i": 18
+   "i": 18,
+   "a": "c61a4c5d33a9.m4a",
+   "xa": "6bfd9529fcfb.m4a",
+   "ab": "15960293206e.m4a",
+   "xab": "69802df8c572.m4a"
   },
   {
    "w": "cheer up",
@@ -57,7 +73,11 @@
     "힘내요! 곧 주말이에요."
    ],
    "find": "cheer (\\w+ )?up",
-   "i": 31
+   "i": 31,
+   "a": "6a4b7832ac33.m4a",
+   "xa": "2d1bf81de6ab.m4a",
+   "ab": "7b5f619e0220.m4a",
+   "xab": "0e5cf984a622.m4a"
   },
   {
    "w": "irritable",
@@ -68,7 +88,11 @@
     "I get irritable when I'm tired.",
     "피곤하면 예민해져요."
    ],
-   "i": 24
+   "i": 24,
+   "a": "ac5438d68e04.m4a",
+   "xa": "a768779a1eb7.m4a",
+   "ab": "04ad66b21739.m4a",
+   "xab": "54e55a28c468.m4a"
   }
  ]
 }

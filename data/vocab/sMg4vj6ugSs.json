@@ -11,7 +11,11 @@
     "오늘 서울 날씨 어때요?"
    ],
    "find": "how's the weather",
-   "i": 1
+   "i": 1,
+   "a": "a8784bbed024.m4a",
+   "xa": "783b8ee9f4a6.m4a",
+   "ab": "e4619b61f821.m4a",
+   "xab": "2d980a4f3dc5.m4a"
   },
   {
    "w": "hot and sunny",
@@ -22,7 +26,11 @@
     "It's hot and sunny, so let's go to the beach.",
     "덥고 화창하니까 해변에 가요."
    ],
-   "i": 8
+   "i": 8,
+   "a": "8ce17a424b07.m4a",
+   "xa": "8f08ddf7af3b.m4a",
+   "ab": "52d777f7ed3e.m4a",
+   "xab": "77eb7305f638.m4a"
   },
   {
    "w": "It's raining.",
@@ -34,7 +42,11 @@
     "우산 챙겨요. 비가 와요."
    ],
    "find": "raining",
-   "i": 14
+   "i": 14,
+   "a": "2a2db3f1a9f9.m4a",
+   "xa": "0b5929098c9e.m4a",
+   "ab": "1e6af53361f3.m4a",
+   "xab": "3be4bb53c908.m4a"
   },
   {
    "w": "It's snowing.",
@@ -46,7 +58,11 @@
     "밖에 봐요! 눈이 와요!"
    ],
    "find": "snowing",
-   "i": 21
+   "i": 21,
+   "a": "9d0ace90a336.m4a",
+   "xa": "aa3e476565f6.m4a",
+   "ab": "2571a6c8bcbe.m4a",
+   "xab": "b097febc1ca9.m4a"
   },
   {
    "w": "windy",
@@ -57,7 +73,11 @@
     "It's too windy to cycle today.",
     "오늘은 바람이 너무 불어서 자전거 타기 힘들어요."
    ],
-   "i": 30
+   "i": 30,
+   "a": "889ba11e069b.m4a",
+   "xa": "b20d68dad35a.m4a",
+   "ab": "2a0d198e743e.m4a",
+   "xab": "b679be175110.m4a"
   },
   {
    "w": "cloudy",
@@ -68,7 +88,11 @@
     "It's cloudy but it isn't cold.",
     "흐리지만 춥지는 않아요."
    ],
-   "i": 38
+   "i": 38,
+   "a": "2789729c6648.m4a",
+   "xa": "2dbfa43b322d.m4a",
+   "ab": "9a1bc08c4707.m4a",
+   "xab": "66a509710e9d.m4a"
   },
   {
    "w": "take photos",
@@ -80,7 +104,11 @@
     "도시 사진을 좀 찍고 있어요."
    ],
    "find": "taking some photos",
-   "i": 6
+   "i": 6,
+   "a": "411f0d8ede4d.m4a",
+   "xa": "efa3e518dbf7.m4a",
+   "ab": "4aca18fb47a0.m4a",
+   "xab": "4b6c969cacfb.m4a"
   }
  ]
 }

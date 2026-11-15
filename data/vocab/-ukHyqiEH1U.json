@@ -11,7 +11,11 @@
     "이 상은 진작 받았어야 했어요."
    ],
    "find": "long time coming",
-   "i": 21
+   "i": 21,
+   "a": "2ed0d7b570f0.m4a",
+   "xa": "66b1c1fea9dc.m4a",
+   "ab": "4a320bf4cfd9.m4a",
+   "xab": "c134bb330c84.m4a"
   },
   {
    "w": "false dawn",
@@ -23,7 +27,11 @@
     "초기 결과는 헛된 희망이었어요."
    ],
    "find": "false dawn",
-   "i": 22
+   "i": 22,
+   "a": "4af9ce6465a3.m4a",
+   "xa": "845b617d8ae7.m4a",
+   "ab": "a4684d3c0584.m4a",
+   "xab": "dc0441012ada.m4a"
   },
   {
    "w": "breakthrough",
@@ -34,7 +42,11 @@
     "Scientists have made a breakthrough in cancer research.",
     "과학자들이 암 연구에서 획기적 발전을 이뤘어요."
    ],
-   "i": 23
+   "i": 23,
+   "a": "1093d1bdd7ab.m4a",
+   "xa": "b0b550d35b58.m4a",
+   "ab": "01d2461aeece.m4a",
+   "xab": "5bcfb6d63674.m4a"
   },
   {
    "w": "prime",
@@ -46,7 +58,11 @@
     "백신은 면역 체계를 준비시켜요."
    ],
    "find": "prim(e|es|ed|ing)\\b",
-   "i": 39
+   "i": 39,
+   "a": "2ae4c55209e2.m4a",
+   "xa": "0538a90bda72.m4a",
+   "ab": "0c3fdb7f58d8.m4a",
+   "xab": "1ce2772fb7ab.m4a"
   },
   {
    "w": "promise",
@@ -58,7 +74,11 @@
     "이 새 치료법은 정말 가능성이 있어요."
    ],
    "find": "promis",
-   "i": 51
+   "i": 51,
+   "a": "7cfd31fcf4b4.m4a",
+   "xa": "6f1f90919b03.m4a",
+   "ab": "0fa5ad3aea0b.m4a",
+   "xab": "461f04b7975d.m4a"
   },
   {
    "w": "vaccine",
@@ -70,7 +90,11 @@
     "이 바이러스에 백신이 있어요?"
    ],
    "find": "vaccines?",
-   "i": 1
+   "i": 1,
+   "a": "60ab000644fa.m4a",
+   "xa": "812c21be037b.m4a",
+   "ab": "775ba614116d.m4a",
+   "xab": "9dc66e57b917.m4a"
   },
   {
    "w": "space",
@@ -82,7 +106,11 @@
     "그녀는 AI 분야 전문가예요."
    ],
    "find": "\\bspace\\b",
-   "i": 23
+   "i": 23,
+   "a": "07c34160be4f.m4a",
+   "xa": "2275ca0350d3.m4a",
+   "ab": "dc8cfa327cca.m4a",
+   "xab": "7d8bae51c842.m4a"
   }
  ]
 }

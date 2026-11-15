@@ -10,7 +10,11 @@
     "I do the housework at the weekend.",
     "주말에 집안일을 해요."
    ],
-   "i": 4
+   "i": 4,
+   "a": "7b8dca79f962.m4a",
+   "xa": "17b0b94199e2.m4a",
+   "ab": "55510e44e733.m4a",
+   "xab": "c987e19a772a.m4a"
   },
   {
    "w": "chores",
@@ -22,7 +26,11 @@
     "설거지가 제일 싫은 집안일이에요."
    ],
    "find": "chores?",
-   "i": 36
+   "i": 36,
+   "a": "714da55e4ed6.m4a",
+   "xa": "9f6a1a034072.m4a",
+   "ab": "7bc621f6069f.m4a",
+   "xab": "00682016d337.m4a"
   },
   {
    "w": "do the laundry / washing",
@@ -34,7 +42,11 @@
     "저는 일요일에 빨래해요."
    ],
    "find": "laundry",
-   "i": 66
+   "i": 66,
+   "a": "6e2c2f302fa6.m4a",
+   "xa": "986c562ad147.m4a",
+   "ab": "f568370e7029.m4a",
+   "xab": "6c0d73037194.m4a"
   },
   {
    "w": "hoover / vacuum",
@@ -46,7 +58,11 @@
     "거실 청소기 좀 돌려 줄래요?"
    ],
    "find": "hoover",
-   "i": 20
+   "i": 20,
+   "a": "fa7938d63d65.m4a",
+   "xa": "62ef486ac008.m4a",
+   "ab": "e3b415a9be3b.m4a",
+   "xab": "2317971ae408.m4a"
   },
   {
    "w": "sweep",
@@ -57,7 +73,11 @@
     "Please sweep the kitchen floor.",
     "부엌 바닥 좀 쓸어 주세요."
    ],
-   "i": 27
+   "i": 27,
+   "a": "77a4a91c897f.m4a",
+   "xa": "9866302e2441.m4a",
+   "ab": "a2d183a9ee66.m4a",
+   "xab": "d94629d091ee.m4a"
   },
   {
    "w": "mop",
@@ -69,7 +89,11 @@
     "일주일에 한 번 바닥을 닦아요."
    ],
    "find": "\\bmop",
-   "i": 28
+   "i": 28,
+   "a": "acdb92f5d4af.m4a",
+   "xa": "971a6d30f7dd.m4a",
+   "ab": "13db9d9a41d1.m4a",
+   "xab": "89a839d13201.m4a"
   },
   {
    "w": "crumbs",
@@ -80,7 +104,11 @@
     "There are crumbs all over the table.",
     "식탁에 부스러기가 잔뜩 있어요."
    ],
-   "i": 25
+   "i": 25,
+   "a": "48352c4abf66.m4a",
+   "xa": "bc8a2bc5cb17.m4a",
+   "ab": "87f40257539b.m4a",
+   "xab": "5f9248f32339.m4a"
   },
   {
    "w": "put off",
@@ -92,7 +120,11 @@
     "숙제 그만 미뤄!"
    ],
    "find": "put(ting)? (\\w+ )?off",
-   "i": 32
+   "i": 32,
+   "a": "24cf746d030f.m4a",
+   "xa": "19286cc5c164.m4a",
+   "ab": "d891216d8f1e.m4a",
+   "xab": "30126d27a5c9.m4a"
   }
  ]
 }

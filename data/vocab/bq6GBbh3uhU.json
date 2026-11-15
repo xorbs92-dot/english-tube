@@ -10,7 +10,11 @@
     "I usually wake up at seven.",
     "저는 보통 7시에 일어나요."
    ],
-   "i": 7
+   "i": 7,
+   "a": "92ca71e6335d.m4a",
+   "xa": "cb432689022d.m4a",
+   "ab": "fd64bbb31045.m4a",
+   "xab": "77d588ae78bf.m4a"
   },
   {
    "w": "have breakfast / eat breakfast",
@@ -22,7 +26,11 @@
     "출근 전에 집에서 아침을 먹어요."
    ],
    "find": "(eat|have) breakfast",
-   "i": 8
+   "i": 8,
+   "a": "540c6f4b5058.m4a",
+   "xa": "9ba6ed0b3131.m4a",
+   "ab": "2dc091ee3012.m4a",
+   "xab": "cffbaaf23ac0.m4a"
   },
   {
    "w": "get the bus",
@@ -33,7 +41,11 @@
     "I get the bus to school every day.",
     "저는 매일 버스를 타고 학교에 가요."
    ],
-   "i": 10
+   "i": 10,
+   "a": "96c457f81fbb.m4a",
+   "xa": "63665658c521.m4a",
+   "ab": "2a44b52d7148.m4a",
+   "xab": "a53044b486cd.m4a"
   },
   {
    "w": "go jogging",
@@ -45,7 +57,11 @@
     "그녀는 공원에서 조깅을 해요."
    ],
    "find": "go(es)? jogging",
-   "i": 9
+   "i": 9,
+   "a": "8730e60d9aca.m4a",
+   "xa": "0ab8fec4dc58.m4a",
+   "ab": "ce98ca1f8ff2.m4a",
+   "xab": "3c034439da72.m4a"
   },
   {
    "w": "have a shower",
@@ -56,7 +72,11 @@
     "I have a shower every morning.",
     "저는 매일 아침 샤워해요."
    ],
-   "i": 15
+   "i": 15,
+   "a": "f6b9182cdd99.m4a",
+   "xa": "0758998d12ce.m4a",
+   "ab": "a63ccd812bcb.m4a",
+   "xab": "48a0a21761c1.m4a"
   },
   {
    "w": "drive to work",
@@ -68,7 +88,11 @@
     "아빠는 차로 출근해요."
    ],
    "find": "drives? to work",
-   "i": 22
+   "i": 22,
+   "a": "4ac5c5b3ab48.m4a",
+   "xa": "eebc20f60f64.m4a",
+   "ab": "a38f7583482f.m4a",
+   "xab": "fa08e9ed3ca8.m4a"
   },
   {
    "w": "go to sleep",
@@ -79,7 +103,11 @@
     "I go to sleep at eleven.",
     "저는 11시에 자요."
    ],
-   "i": 16
+   "i": 16,
+   "a": "793316e8d7e4.m4a",
+   "xa": "93441bf58912.m4a",
+   "ab": "8bf66f821a89.m4a",
+   "xab": "d54909924015.m4a"
   },
   {
    "w": "porridge",
@@ -90,7 +118,11 @@
     "I eat porridge with honey in winter.",
     "겨울엔 포리지에 꿀을 넣어 먹어요."
    ],
-   "i": 72
+   "i": 72,
+   "a": "7f32e50c25de.m4a",
+   "xa": "d55d27293571.m4a",
+   "ab": "f401883f1510.m4a",
+   "xab": "d20ac4030fe5.m4a"
   }
  ]
 }

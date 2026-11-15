@@ -11,7 +11,11 @@
     "폭염에는 에어컨이 생명을 구할 수 있어요."
    ],
    "find": "life.saving",
-   "i": 25
+   "i": 25,
+   "a": "0e68bef82fe1.m4a",
+   "xa": "e11323dec2da.m4a",
+   "ab": "f1c085cd3a6d.m4a",
+   "xab": "967c2f5cdc0d.m4a"
   },
   {
    "w": "inhabit",
@@ -22,7 +26,11 @@
     "Few people inhabit the desert.",
     "사막에 사는 사람은 별로 없어요."
    ],
-   "i": 27
+   "i": 27,
+   "a": "8723ccada9da.m4a",
+   "xa": "cd4c4a86393a.m4a",
+   "ab": "c52449a007ff.m4a",
+   "xab": "f9ff9b40c3a6.m4a"
   },
   {
    "w": "the grid",
@@ -34,7 +42,11 @@
     "에어컨이 너무 많으면 전력망에 부담이 가요."
    ],
    "find": "\\bgrid\\b",
-   "i": 38
+   "i": 38,
+   "a": "9e34b7a4db05.m4a",
+   "xa": "63cfcc74cf68.m4a",
+   "ab": "ef8e0d9587d7.m4a",
+   "xab": "d1cd0e923cd2.m4a"
   },
   {
    "w": "vicious cycle",
@@ -46,7 +58,11 @@
     "스트레스와 수면 부족은 악순환을 만들어요."
    ],
    "find": "vicious (cycle|circle)",
-   "i": 41
+   "i": 41,
+   "a": "4bae39ee1981.m4a",
+   "xa": "c26ff5d28ec8.m4a",
+   "ab": "98f03663d808.m4a",
+   "xab": "433d86f98170.m4a"
   },
   {
    "w": "passive cooling",
@@ -58,7 +74,11 @@
     "두꺼운 벽은 간단한 패시브 쿨링이에요."
    ],
    "find": "passive cooling",
-   "i": 57
+   "i": 57,
+   "a": "9354285d604c.m4a",
+   "xa": "e630bc8e66c5.m4a",
+   "ab": "4645b1ad2d67.m4a",
+   "xab": "815332930739.m4a"
   },
   {
    "w": "shading",
@@ -70,7 +90,11 @@
     "나무는 자연 그늘을 만들어 줘요."
    ],
    "find": "shad(ing|e)",
-   "i": 59
+   "i": 59,
+   "a": "e53a94be7bfb.m4a",
+   "xa": "a3a540856042.m4a",
+   "ab": "689402bc7a07.m4a",
+   "xab": "183021cd6d73.m4a"
   }
  ]
 }

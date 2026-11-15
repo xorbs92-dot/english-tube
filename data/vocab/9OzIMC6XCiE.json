@@ -11,7 +11,11 @@
     "남동생은 어떻게 생겼어요?"
    ],
    "find": "look like",
-   "i": 1
+   "i": 1,
+   "a": "bd1c248a572b.m4a",
+   "xa": "28c0c3261826.m4a",
+   "ab": "965af08fd747.m4a",
+   "xab": "b8ee76f73b2f.m4a"
   },
   {
    "w": "short / long hair",
@@ -23,7 +27,11 @@
     "그녀는 길고 곧은 머리예요."
    ],
    "find": "(short|long)\\b",
-   "i": 13
+   "i": 13,
+   "a": "3cdea74daecc.m4a",
+   "xa": "7fbff18d7ec1.m4a",
+   "ab": "cac25952043c.m4a",
+   "xab": "e0f82b5c75fa.m4a"
   },
   {
    "w": "blond(e)",
@@ -35,7 +43,11 @@
     "금발 머리 남자아이가 제 아들이에요."
    ],
    "find": "blond",
-   "i": 16
+   "i": 16,
+   "a": "74a1e5edbab3.m4a",
+   "xa": "78b6852afca2.m4a",
+   "ab": "d86a56ecb330.m4a",
+   "xab": "a513409c17c9.m4a"
   },
   {
    "w": "curly / straight",
@@ -47,7 +59,11 @@
     "저는 엄마처럼 곱슬머리예요."
    ],
    "find": "curly",
-   "i": 18
+   "i": 18,
+   "a": "399d2cf2e075.m4a",
+   "xa": "ccc46f0020d6.m4a",
+   "ab": "55d5d45f51e0.m4a",
+   "xab": "b9819d3a6784.m4a"
   },
   {
    "w": "brown eyes",
@@ -59,7 +75,11 @@
     "그는 갈색 눈에 검은 머리예요."
    ],
    "find": "brown eyes",
-   "i": 22
+   "i": 22,
+   "a": "2b2a32c2d322.m4a",
+   "xa": "468321d924de.m4a",
+   "ab": "a4ba35886e4c.m4a",
+   "xab": "a7b4be45aaf8.m4a"
   },
   {
    "w": "tall / short",
@@ -71,7 +91,11 @@
     "언니는 저보다 키가 커요."
    ],
    "find": "\\btall(er)?\\b",
-   "i": 24
+   "i": 24,
+   "a": "00c89aa47c3d.m4a",
+   "xa": "550079aba932.m4a",
+   "ab": "68c2a56c799e.m4a",
+   "xab": "b795d84a98de.m4a"
   },
   {
    "w": "Is this him?",
@@ -83,7 +107,11 @@
     "이 사람이에요? — 네, 그 사람이에요!"
    ],
    "find": "is this him",
-   "i": 27
+   "i": 27,
+   "a": "9fc3b94f4559.m4a",
+   "xa": "1c03477872b0.m4a",
+   "ab": "d981e5aaf904.m4a",
+   "xab": "6b8c9c15839b.m4a"
   }
  ]
 }

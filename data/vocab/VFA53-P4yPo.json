@@ -11,7 +11,11 @@
     "내일 아침에 면접이 있어요."
    ],
    "find": "interview",
-   "i": 3
+   "i": 3,
+   "a": "03ec0034897c.m4a",
+   "xa": "85c662b3fb0f.m4a",
+   "ab": "97e943c944f5.m4a",
+   "xab": "85233b826e4f.m4a"
   },
   {
    "w": "nervous",
@@ -22,7 +26,11 @@
     "I always get nervous before exams.",
     "저는 시험 전에 늘 긴장해요."
    ],
-   "i": 9
+   "i": 9,
+   "a": "dd1666052f9a.m4a",
+   "xa": "76fff145aeb8.m4a",
+   "ab": "e6f23b0e2b71.m4a",
+   "xab": "a539f8a74eb1.m4a"
   },
   {
    "w": "confident",
@@ -33,7 +41,11 @@
     "She sounded confident in the interview.",
     "그녀는 면접에서 자신감 있어 보였어요."
    ],
-   "i": 14
+   "i": 14,
+   "a": "2f7c4733bce5.m4a",
+   "xa": "e0c90b7f6dc6.m4a",
+   "ab": "2f5e819ea60c.m4a",
+   "xab": "6b1193eb78c5.m4a"
   },
   {
    "w": "skills",
@@ -45,7 +57,11 @@
     "좋은 의사소통 능력은 중요해요."
    ],
    "find": "skills?",
-   "i": 21
+   "i": 21,
+   "a": "706e57185fe8.m4a",
+   "xa": "ac6519798704.m4a",
+   "ab": "30c02000c295.m4a",
+   "xab": "8c83ee3f19b3.m4a"
   },
   {
    "w": "example",
@@ -57,7 +73,11 @@
     "예를 하나 들어 줄래요?"
    ],
    "find": "examples?",
-   "i": 22
+   "i": 22,
+   "a": "c5f1ac6dc730.m4a",
+   "xa": "677d991867c5.m4a",
+   "ab": "69e61b21bf04.m4a",
+   "xab": "3713e170d55d.m4a"
   },
   {
    "w": "prepare",
@@ -69,7 +89,11 @@
     "자주 나오는 질문에 대한 답을 준비했어요."
    ],
    "find": "prepar",
-   "i": 18
+   "i": 18,
+   "a": "ac3d670f5d0b.m4a",
+   "xa": "6bf5be84885e.m4a",
+   "ab": "cffa41843fa7.m4a",
+   "xab": "0da00c60702c.m4a"
   }
  ]
 }

@@ -11,7 +11,11 @@
     "우리 집 근처에 카페가 하나 있고 공원이 두 개 있어요."
    ],
    "find": "there's|there are",
-   "i": 10
+   "i": 10,
+   "a": "126dbdfb1fb7.m4a",
+   "xa": "c2d56075e18d.m4a",
+   "ab": "e7722c950104.m4a",
+   "xab": "e235a4383c15.m4a"
   },
   {
    "w": "Is there ...?",
@@ -23,7 +27,11 @@
     "이 근처에 은행이 있어요?"
    ],
    "find": "is there",
-   "i": 9
+   "i": 9,
+   "a": "ae0ec06890a4.m4a",
+   "xa": "a4ea3777fff6.m4a",
+   "ab": "43187c4f3022.m4a",
+   "xab": "0ff3c0051877.m4a"
   },
   {
    "w": "No, there isn't.",
@@ -35,7 +43,11 @@
     "영화관 있어요? — 아니요, 없어요."
    ],
    "find": "there isn't",
-   "i": 17
+   "i": 17,
+   "a": "27b3c07bb441.m4a",
+   "xa": "7ab7d6f659d1.m4a",
+   "ab": "ba8f1ba3be28.m4a",
+   "xab": "4fba354ae129.m4a"
   },
   {
    "w": "What else is there?",
@@ -47,7 +59,11 @@
     "해변이 있네요. 또 뭐가 있어요?"
    ],
    "find": "what else",
-   "i": 11
+   "i": 11,
+   "a": "adef311fb201.m4a",
+   "xa": "9a2738e5a591.m4a",
+   "ab": "48474e8af0d1.m4a",
+   "xab": "527c9c10c9a4.m4a"
   },
   {
    "w": "lots of",
@@ -58,7 +74,11 @@
     "There are lots of restaurants in this street.",
     "이 거리에는 식당이 많아요."
    ],
-   "i": 14
+   "i": 14,
+   "a": "5edc4c9b511a.m4a",
+   "xa": "d016ff8acfdc.m4a",
+   "ab": "e3e49c7b57cf.m4a",
+   "xab": "c67e798fe3df.m4a"
   },
   {
    "w": "some",
@@ -70,7 +90,11 @@
     "가게 몇 개와 우체국이 있어요."
    ],
    "find": "\\bsome\\b",
-   "i": 15
+   "i": 15,
+   "a": "cd1a9356f590.m4a",
+   "xa": "036baafabfee.m4a",
+   "ab": "6d0855f7d092.m4a",
+   "xab": "8b352a4f1e39.m4a"
   },
   {
    "w": "cathedral",
@@ -81,7 +105,11 @@
     "The old cathedral is in the city centre.",
     "오래된 대성당은 도심에 있어요."
    ],
-   "i": 63
+   "i": 63,
+   "a": "2b5f0bc71c93.m4a",
+   "xa": "b3060ec60e4a.m4a",
+   "ab": "72413e517c2f.m4a",
+   "xab": "2f87e4b9759b.m4a"
   },
   {
    "w": "theme park",
@@ -92,7 +120,11 @@
     "We went to a theme park for my birthday.",
     "제 생일에 놀이공원에 갔어요."
    ],
-   "i": 68
+   "i": 68,
+   "a": "c61c4360013f.m4a",
+   "xa": "74c1c239e827.m4a",
+   "ab": "079fdbbb6d84.m4a",
+   "xab": "917ffcf80390.m4a"
   }
  ]
 }

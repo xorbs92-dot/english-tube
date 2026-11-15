@@ -10,7 +10,11 @@
     "He was banned for doping.",
     "그는 도핑으로 출전 정지를 받았어요."
    ],
-   "i": 4
+   "i": 4,
+   "a": "52e76a0757b1.m4a",
+   "xa": "832c8046355e.m4a",
+   "ab": "9fb3d95efcfb.m4a",
+   "xab": "f208a24b8719.m4a"
   },
   {
    "w": "performance-enhancing drugs",
@@ -22,7 +26,11 @@
     "올림픽에서는 경기력 향상 약물이 금지예요."
    ],
    "find": "performance-enhancing",
-   "i": 4
+   "i": 4,
+   "a": "deb4d86d88db.m4a",
+   "xa": "88471f3afc33.m4a",
+   "ab": "c36440656076.m4a",
+   "xab": "fc6789613073.m4a"
   },
   {
    "w": "it's fair to say",
@@ -34,7 +42,11 @@
     "그 영화는 성공했다고 해도 무리가 없어요."
    ],
    "find": "fair to say",
-   "i": 32
+   "i": 32,
+   "a": "cc181fdd44cb.m4a",
+   "xa": "fe8370e4f78d.m4a",
+   "ab": "21c6cb8ce6e7.m4a",
+   "xab": "79f3c5a82cf3.m4a"
   },
   {
    "w": "divisive",
@@ -45,7 +57,11 @@
     "Politics can be very divisive.",
     "정치는 의견이 크게 갈릴 수 있어요."
    ],
-   "i": 32
+   "i": 32,
+   "a": "fbc480d16819.m4a",
+   "xa": "4e042d34290a.m4a",
+   "ab": "51dbf0678548.m4a",
+   "xab": "814560190a65.m4a"
   },
   {
    "w": "cross the line",
@@ -57,7 +73,11 @@
     "그 농담은 선을 넘었어요."
    ],
    "find": "cross(es|ed)? (an ethical |the )?line",
-   "i": 40
+   "i": 40,
+   "a": "ee340eeec1de.m4a",
+   "xa": "268ea3ad169c.m4a",
+   "ab": "a45f005d1706.m4a",
+   "xab": "dcf122fa26d9.m4a"
   },
   {
    "w": "set a bad example",
@@ -69,7 +89,11 @@
     "담배 피우는 부모는 나쁜 본보기가 돼요."
    ],
    "find": "(dreadful|bad) example",
-   "i": 40
+   "i": 40,
+   "a": "dc54a4d5c21a.m4a",
+   "xa": "1db1b90ee22a.m4a",
+   "ab": "4b03bcab1742.m4a",
+   "xab": "d71f2eb2e2c0.m4a"
   },
   {
    "w": "normalise",
@@ -81,7 +105,11 @@
     "매일 야근하는 걸 당연하게 만들면 안 돼요."
    ],
    "find": "normalis",
-   "i": 40
+   "i": 40,
+   "a": "32b748397daa.m4a",
+   "xa": "770abfe7f3bd.m4a",
+   "ab": "c61976073622.m4a",
+   "xab": "839fd78c9a59.m4a"
   }
  ]
 }

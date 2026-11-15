@@ -11,7 +11,11 @@
     "주말에 뭐 했어요? — 쇼핑 갔어요."
    ],
    "find": "what did you do at the weekend",
-   "i": 1
+   "i": 1,
+   "a": "d3f5a6bdd0b6.m4a",
+   "xa": "5754d47698fc.m4a",
+   "ab": "fdc8759091b2.m4a",
+   "xab": "88f61eb7384a.m4a"
   },
   {
    "w": "went",
@@ -23,7 +27,11 @@
     "친구들이랑 하이킹 갔어요."
    ],
    "find": "\\bwent\\b",
-   "i": 8
+   "i": 8,
+   "a": "9d6205fa36be.m4a",
+   "xa": "d0341173e52c.m4a",
+   "ab": "07d322b893f8.m4a",
+   "xab": "792f4c8b6eae.m4a"
   },
   {
    "w": "ate",
@@ -35,7 +43,11 @@
     "저녁으로 피자를 먹었어요."
    ],
    "find": "\\bate\\b",
-   "i": 12
+   "i": 12,
+   "a": "4ae14e9ba9cd.m4a",
+   "xa": "00a4c020ed19.m4a",
+   "ab": "749a875fabeb.m4a",
+   "xab": "f7d9c7d92128.m4a"
   },
   {
    "w": "watched",
@@ -46,7 +58,11 @@
     "I watched a horror film last night.",
     "어젯밤에 공포 영화를 봤어요."
    ],
-   "i": 15
+   "i": 15,
+   "a": "ead96d489b7c.m4a",
+   "xa": "a91d1f5e4652.m4a",
+   "ab": "ed7cb6cb7db2.m4a",
+   "xab": "ba9c1a4eb518.m4a"
   },
   {
    "w": "made",
@@ -58,7 +74,11 @@
     "그녀는 초콜릿 케이크를 만들었어요."
    ],
    "find": "\\bmade\\b",
-   "i": 33
+   "i": 33,
+   "a": "c2108d8decc9.m4a",
+   "xa": "27dc4f69a19a.m4a",
+   "ab": "7972095188a9.m4a",
+   "xab": "0168089a2f4d.m4a"
   },
   {
    "w": "flavour",
@@ -69,7 +89,11 @@
     "What's your favourite ice cream flavour?",
     "제일 좋아하는 아이스크림 맛이 뭐예요?"
    ],
-   "i": 26
+   "i": 26,
+   "a": "45f01e414820.m4a",
+   "xa": "74360a2840ee.m4a",
+   "ab": "91f68cb55491.m4a",
+   "xab": "566ff825e4f4.m4a"
   },
   {
    "w": "How was your weekend?",
@@ -81,7 +105,11 @@
     "주말 어땠어요? — 정말 좋았어요!"
    ],
    "find": "how was your weekend",
-   "i": 18
+   "i": 18,
+   "a": "936eafe498c7.m4a",
+   "xa": "a5b19739a6c6.m4a",
+   "ab": "dedc36f3e232.m4a",
+   "xab": "b2bd13add1f3.m4a"
   }
  ]
 }

@@ -11,7 +11,11 @@
     "그녀의 머리는 길고 물결 모양이에요."
    ],
    "find": "wavy",
-   "i": 18
+   "i": 18,
+   "a": "68201d17b2d3.m4a",
+   "xa": "65605cde159f.m4a",
+   "ab": "cafe2d4c7f22.m4a",
+   "xab": "3b93ebe6e505.m4a"
   },
   {
    "w": "ginger",
@@ -22,7 +26,11 @@
     "He has ginger hair and freckles.",
     "그는 빨간 머리에 주근깨가 있어요."
    ],
-   "i": 15
+   "i": 15,
+   "a": "e3e92946feaa.m4a",
+   "xa": "02ac24bbe676.m4a",
+   "ab": "ed6299288de4.m4a",
+   "xab": "d346b411066b.m4a"
   },
   {
    "w": "blonde",
@@ -34,7 +42,11 @@
     "그녀는 머리를 금발로 염색했어요."
    ],
    "find": "blond",
-   "i": 56
+   "i": 56,
+   "a": "c5e5747b2215.m4a",
+   "xa": "2d6083d33328.m4a",
+   "ab": "d3d35297c669.m4a",
+   "xab": "1ae9b9541cb9.m4a"
   },
   {
    "w": "dye",
@@ -46,7 +58,11 @@
     "머리를 갈색으로 염색하고 싶어요."
    ],
    "find": "\\bdye",
-   "i": 46
+   "i": 46,
+   "a": "daba7abdd2d6.m4a",
+   "xa": "54abcdac970b.m4a",
+   "ab": "52c1743aabe8.m4a",
+   "xab": "c7454d66fa2e.m4a"
   },
   {
    "w": "get my hair cut",
@@ -58,7 +74,11 @@
     "머리 자르러 가야 해요."
    ],
    "find": "hair cut",
-   "i": 33
+   "i": 33,
+   "a": "ef67d4f0672d.m4a",
+   "xa": "de45487aa66f.m4a",
+   "ab": "a5472d6a523b.m4a",
+   "xab": "7477b9177331.m4a"
   },
   {
    "w": "hairdresser",
@@ -69,7 +89,11 @@
     "I go to the hairdresser every two months.",
     "두 달에 한 번 미용실에 가요."
    ],
-   "i": 35
+   "i": 35,
+   "a": "9d75341bf752.m4a",
+   "xa": "ecc4a24b541c.m4a",
+   "ab": "53793493357c.m4a",
+   "xab": "b768a22a97b8.m4a"
   },
   {
    "w": "bald",
@@ -80,7 +104,11 @@
     "My grandad went bald at forty.",
     "할아버지는 마흔에 대머리가 되셨어요."
    ],
-   "i": 68
+   "i": 68,
+   "a": "8b9c0e869de4.m4a",
+   "xa": "a6be037a500f.m4a",
+   "ab": "2f625b3fa511.m4a",
+   "xab": "921d056094f5.m4a"
   }
  ]
 }

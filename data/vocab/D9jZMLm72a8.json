@@ -11,7 +11,11 @@
     "우리는 집안일을 나눠서 해요."
    ],
    "find": "chores",
-   "i": 2
+   "i": 2,
+   "a": "fe83b83a92a4.m4a",
+   "xa": "0768ad3eec4d.m4a",
+   "ab": "5e6e97f2992f.m4a",
+   "xab": "b1eb1f55db9d.m4a"
   },
   {
    "w": "do your fair share",
@@ -23,7 +27,11 @@
     "모두가 청소를 공평하게 해야 해요."
    ],
    "find": "fair share",
-   "i": 10
+   "i": 10,
+   "a": "2a79d6fccbe1.m4a",
+   "xa": "067d21ace59e.m4a",
+   "ab": "feadd52961fd.m4a",
+   "xab": "49d1d6d32a94.m4a"
   },
   {
    "w": "women's work",
@@ -35,7 +43,11 @@
     "요리는 '여자 일'만이 아니에요."
    ],
    "find": "women's work",
-   "i": 31
+   "i": 31,
+   "a": "51db573d58e4.m4a",
+   "xa": "118607163c80.m4a",
+   "ab": "837fd54d93b5.m4a",
+   "xab": "f6945a77c035.m4a"
   },
   {
    "w": "division of labour",
@@ -47,7 +59,11 @@
     "우리 팀은 분업이 분명해요."
    ],
    "find": "division of labour",
-   "i": 32
+   "i": 32,
+   "a": "fb01388a1b5a.m4a",
+   "xa": "2c43191a22f2.m4a",
+   "ab": "113ebafcd418.m4a",
+   "xab": "c5201da9c9f3.m4a"
   },
   {
    "w": "take a breather",
@@ -59,7 +75,11 @@
     "계속하기 전에 잠깐 쉬어요."
    ],
    "find": "breather",
-   "i": 41
+   "i": 41,
+   "a": "b40ca96e59e3.m4a",
+   "xa": "4d8d531604fb.m4a",
+   "ab": "437e12f2ea87.m4a",
+   "xab": "2b9f083e5f4e.m4a"
   },
   {
    "w": "pull your weight",
@@ -71,7 +91,11 @@
     "그는 집에서 제 몫을 안 해요."
    ],
    "find": "pull(ing)? (your|their|his|her) weight",
-   "i": 43
+   "i": 43,
+   "a": "6e7085fce26b.m4a",
+   "xa": "1940e2402165.m4a",
+   "ab": "34a194dd986d.m4a",
+   "xab": "1425c5ca9f96.m4a"
   }
  ]
 }

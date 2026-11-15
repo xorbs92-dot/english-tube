@@ -11,7 +11,11 @@
     "자율주행차를 타 볼래요?"
    ],
    "find": "driverless cars?",
-   "i": 3
+   "i": 3,
+   "a": "a786b52bd8c8.m4a",
+   "xa": "21d8c0b82ff7.m4a",
+   "ab": "6d2fceb1bbc3.m4a",
+   "xab": "7d3e2305a0a8.m4a"
   },
   {
    "w": "eye contact",
@@ -22,7 +26,11 @@
     "Make eye contact when you speak.",
     "말할 때 눈을 마주치세요."
    ],
-   "i": 8
+   "i": 8,
+   "a": "87d1fb8cc565.m4a",
+   "xa": "5ffc6ee35571.m4a",
+   "ab": "5ddd2a35f66c.m4a",
+   "xab": "e6447161fe67.m4a"
   },
   {
    "w": "wave",
@@ -34,7 +42,11 @@
     "그녀가 버스에서 저한테 손을 흔들었어요."
    ],
    "find": "\\bwav",
-   "i": 8
+   "i": 8,
+   "a": "41dff6a95aa2.m4a",
+   "xa": "9c3db4662ea3.m4a",
+   "ab": "850ae6b84b2b.m4a",
+   "xab": "0ca4846aaa77.m4a"
   },
   {
    "w": "alert",
@@ -45,7 +57,11 @@
     "The app alerts you when it's going to rain.",
     "비가 올 때 앱이 알려 줘요."
    ],
-   "i": 31
+   "i": 31,
+   "a": "007ab393b084.m4a",
+   "xa": "bfe9a5ad144a.m4a",
+   "ab": "c2ef896fc97b.m4a",
+   "xab": "1db98efbdd99.m4a"
   },
   {
    "w": "animation",
@@ -57,7 +73,11 @@
     "화면에 걷는 사람 애니메이션이 나와요."
    ],
    "find": "animations?",
-   "i": 33
+   "i": 33,
+   "a": "28f96ea5f0bc.m4a",
+   "xa": "fadba48130e5.m4a",
+   "ab": "9285a7cad329.m4a",
+   "xab": "554498e126c7.m4a"
   },
   {
    "w": "glance",
@@ -68,7 +88,11 @@
     "She glanced at her watch.",
     "그녀는 시계를 힐끗 봤어요."
    ],
-   "i": 34
+   "i": 34,
+   "a": "ffa50b85339e.m4a",
+   "xa": "5116c6951051.m4a",
+   "ab": "4d048fa3c631.m4a",
+   "xab": "79feeb6758b7.m4a"
   },
   {
    "w": "jaywalking",
@@ -80,7 +104,11 @@
     "많은 나라에서 무단횡단은 불법이에요."
    ],
    "find": "jaywalk",
-   "i": 48
+   "i": 48,
+   "a": "918b27d37f95.m4a",
+   "xa": "2267a3b2ebd2.m4a",
+   "ab": "7b31c2631c59.m4a",
+   "xab": "6e5ce6abe65e.m4a"
   }
  ]
 }

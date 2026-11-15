@@ -10,7 +10,11 @@
     "My extended family meets every Chuseok.",
     "친척들은 추석마다 모여요."
    ],
-   "i": 26
+   "i": 26,
+   "a": "16a9c9a09bd3.m4a",
+   "xa": "9f12016c9018.m4a",
+   "ab": "7cba455509aa.m4a",
+   "xab": "d990ee1225d4.m4a"
   },
   {
    "w": "cousin",
@@ -22,7 +26,11 @@
     "사촌이 캐나다에 살아요."
    ],
    "find": "cousins?",
-   "i": 11
+   "i": 11,
+   "a": "cbe272c61a5e.m4a",
+   "xa": "758588bf2b1e.m4a",
+   "ab": "e52f07eee10a.m4a",
+   "xab": "bf554db8d857.m4a"
   },
   {
    "w": "be close to / with",
@@ -34,7 +42,11 @@
     "저는 할머니와 아주 가까워요."
    ],
    "find": "close (with|to)",
-   "i": 30
+   "i": 30,
+   "a": "d435d6899141.m4a",
+   "xa": "fcc597a1cfbe.m4a",
+   "ab": "8cf8c453cd76.m4a",
+   "xab": "a2220ffa103e.m4a"
   },
   {
    "w": "family tree",
@@ -45,7 +57,11 @@
     "Let's look at our family tree.",
     "우리 가계도를 보자."
    ],
-   "i": 42
+   "i": 42,
+   "a": "f5e0a3a86fb9.m4a",
+   "xa": "9e344f9d3a7c.m4a",
+   "ab": "cdf8687c6356.m4a",
+   "xab": "ef062d9b85c6.m4a"
   },
   {
    "w": "ancestors",
@@ -56,7 +72,11 @@
     "My ancestors came from Ireland.",
     "제 조상은 아일랜드에서 왔어요."
    ],
-   "i": 47
+   "i": 47,
+   "a": "cba059aa9096.m4a",
+   "xa": "e41627524c2d.m4a",
+   "ab": "fc888635b9f5.m4a",
+   "xab": "429cefb6a636.m4a"
   },
   {
    "w": "look up",
@@ -68,7 +88,11 @@
     "사전에서 그 단어를 찾아봤어요."
    ],
    "find": "look(ed)? (\\w+ )?up",
-   "i": 52
+   "i": 52,
+   "a": "65f23b27e3a8.m4a",
+   "xa": "46a472e0a08f.m4a",
+   "ab": "621d338d416f.m4a",
+   "xab": "86394c0b8de9.m4a"
   },
   {
    "w": "great-grandmother",
@@ -80,7 +104,11 @@
     "증조할머니는 1920년에 태어나셨어요."
    ],
    "find": "great.grand",
-   "i": 49
+   "i": 49,
+   "a": "73f7dce37631.m4a",
+   "xa": "7374d8da4154.m4a",
+   "ab": "cee5a3bdccb3.m4a",
+   "xab": "f64eea658c78.m4a"
   }
  ]
 }

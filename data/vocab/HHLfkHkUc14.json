@@ -11,7 +11,11 @@
     "간호는 힘든 일이에요."
    ],
    "find": "difficult job",
-   "i": 4
+   "i": 4,
+   "a": "0a22f73f44af.m4a",
+   "xa": "884de1825ccd.m4a",
+   "ab": "a8c2746dca8d.m4a",
+   "xab": "db9e99cda163.m4a"
   },
   {
    "w": "stressful / stressed",
@@ -23,7 +27,11 @@
     "일이 스트레스가 많아서 자주 스트레스를 받아요."
    ],
    "find": "stressful",
-   "i": 36
+   "i": 36,
+   "a": "f2742655e83d.m4a",
+   "xa": "352ba06c2809.m4a",
+   "ab": "1aede076d329.m4a",
+   "xab": "76961b2baa7f.m4a"
   },
   {
    "w": "exhausting / exhausted",
@@ -35,7 +43,11 @@
     "하이킹이 너무 힘들었어요. 녹초예요!"
    ],
    "find": "exhausting",
-   "i": 27
+   "i": 27,
+   "a": "e5f21cc86a3b.m4a",
+   "xa": "2d4d328e896b.m4a",
+   "ab": "acaa041a8e5b.m4a",
+   "xab": "288cffdaf2f9.m4a"
   },
   {
    "w": "annoying / annoyed",
@@ -47,7 +59,11 @@
     "저 소음 짜증 나요."
    ],
    "find": "annoying",
-   "i": 26
+   "i": 26,
+   "a": "39fba06850d9.m4a",
+   "xa": "4a06c104a139.m4a",
+   "ab": "8722d5ac5767.m4a",
+   "xab": "41683b1442e6.m4a"
   },
   {
    "w": "take something personally",
@@ -59,7 +75,11 @@
     "너무 마음에 담아 두지 마요. 그는 모두에게 무례해요."
    ],
    "find": "personally",
-   "i": 39
+   "i": 39,
+   "a": "3f646f24fce1.m4a",
+   "xa": "ce3671ce54a5.m4a",
+   "ab": "a3bb8ae0e1a4.m4a",
+   "xab": "5045741a0f28.m4a"
   },
   {
    "w": "take something to heart",
@@ -71,7 +91,11 @@
     "그녀는 그의 말을 마음에 담아 뒀어요."
    ],
    "find": "to heart",
-   "i": 42
+   "i": 42,
+   "a": "53ec52ab88b6.m4a",
+   "xa": "d208c5c3f824.m4a",
+   "ab": "cc3a960b82a4.m4a",
+   "xab": "57cfd1d4f6c5.m4a"
   }
  ]
 }

@@ -10,7 +10,11 @@
     "I drew my family tree for a school project.",
     "학교 과제로 가계도를 그렸어요."
    ],
-   "i": 5
+   "i": 5,
+   "a": "f5e0a3a86fb9.m4a",
+   "xa": "797ad3649572.m4a",
+   "ab": "cdf8687c6356.m4a",
+   "xab": "62dfe81e1181.m4a"
   },
   {
    "w": "daughter / son",
@@ -22,7 +26,11 @@
     "그들은 딸 하나, 아들 둘이 있어요."
    ],
    "find": "daughter",
-   "i": 7
+   "i": 7,
+   "a": "1d70c7cca84b.m4a",
+   "xa": "a0abd6635bee.m4a",
+   "ab": "a7202273f573.m4a",
+   "xab": "d8344f0a4467.m4a"
   },
   {
    "w": "husband / wife",
@@ -34,7 +42,11 @@
     "이쪽은 제 아내 사라예요."
    ],
    "find": "husband|wife",
-   "i": 11
+   "i": 11,
+   "a": "bda0d5bb3697.m4a",
+   "xa": "ff8f56f12bc9.m4a",
+   "ab": "225968171bfd.m4a",
+   "xab": "4e65043c603f.m4a"
   },
   {
    "w": "aunt / uncle",
@@ -46,7 +58,11 @@
     "이모는 호주에 살아요."
    ],
    "find": "aunt",
-   "i": 18
+   "i": 18,
+   "a": "9e9f772b005a.m4a",
+   "xa": "b449dcc8a1f8.m4a",
+   "ab": "523b50e3bc97.m4a",
+   "xab": "d80b643b7bf1.m4a"
   },
   {
    "w": "niece / nephew",
@@ -58,7 +74,11 @@
     "조카는 다섯 살이에요."
    ],
    "find": "niece|nephew",
-   "i": 17
+   "i": 17,
+   "a": "8b0509b57dc4.m4a",
+   "xa": "ec19d7b9af62.m4a",
+   "ab": "fa713761e912.m4a",
+   "xab": "784e17da39de.m4a"
   },
   {
    "w": "grandparents",
@@ -69,7 +89,11 @@
     "I visit my grandparents every summer.",
     "매년 여름 조부모님 댁에 가요."
    ],
-   "i": 22
+   "i": 22,
+   "a": "97120c966e05.m4a",
+   "xa": "a8bee547d289.m4a",
+   "ab": "79300838aa13.m4a",
+   "xab": "da7fa9335653.m4a"
   },
   {
    "w": "only child",
@@ -80,7 +104,11 @@
     "I'm an only child, so I have no brothers or sisters.",
     "저는 외동이라 형제자매가 없어요."
    ],
-   "i": 40
+   "i": 40,
+   "a": "a8ee552ec0e7.m4a",
+   "xa": "380a1b402382.m4a",
+   "ab": "80f337cdcdcc.m4a",
+   "xab": "362e36005970.m4a"
   },
   {
    "w": "Do you have any brothers or sisters?",
@@ -92,7 +120,11 @@
     "형제자매 있어요? — 여동생 한 명이요."
    ],
    "find": "brothers or sisters",
-   "i": 14
+   "i": 14,
+   "a": "3aef0ccd52fd.m4a",
+   "xa": "62b5b16ac541.m4a",
+   "ab": "ad892b5c780d.m4a",
+   "xab": "23db1096697b.m4a"
   }
  ]
 }

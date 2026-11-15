@@ -11,7 +11,11 @@
     "차 어떻게 드세요? — 우유 넣어 주세요."
    ],
    "find": "take (your|my|our) (coffee|tea)",
-   "i": 20
+   "i": 20,
+   "a": "56f472f0e2fd.m4a",
+   "xa": "6d0d19979aaf.m4a",
+   "ab": "89f92842b804.m4a",
+   "xab": "9e2a923c9f47.m4a"
   },
   {
    "w": "black / white coffee",
@@ -23,7 +27,11 @@
     "우유 넣은 커피, 설탕 없이 주세요."
    ],
    "find": "black|white coffee",
-   "i": 24
+   "i": 24,
+   "a": "b018b2f5e2fd.m4a",
+   "xa": "dc821d36f784.m4a",
+   "ab": "31682c0e9e7f.m4a",
+   "xab": "ddcd1efb94f8.m4a"
   },
   {
    "w": "caffeine",
@@ -34,7 +42,11 @@
     "Too much caffeine keeps me awake.",
     "카페인을 너무 많이 마시면 잠이 안 와요."
    ],
-   "i": 48
+   "i": 48,
+   "a": "9ce8d00b35e3.m4a",
+   "xa": "8f46b59248e8.m4a",
+   "ab": "78fb9adcd850.m4a",
+   "xab": "78ff3d281669.m4a"
   },
   {
    "w": "decaf",
@@ -45,7 +57,11 @@
     "Can I have a decaf latte?",
     "디카페인 라테 주실래요?"
    ],
-   "i": 65
+   "i": 65,
+   "a": "3d02def8af9a.m4a",
+   "xa": "7e03a091b6a4.m4a",
+   "ab": "a39ed7b622a3.m4a",
+   "xab": "43623dbebae9.m4a"
   },
   {
    "w": "cut down on",
@@ -56,7 +72,11 @@
     "I'm trying to cut down on sugar.",
     "설탕을 줄이려고 하고 있어요."
    ],
-   "i": 60
+   "i": 60,
+   "a": "9b7c75d8b9ab.m4a",
+   "xa": "40e86222539c.m4a",
+   "ab": "b7b446686743.m4a",
+   "xab": "b8296bd480ab.m4a"
   },
   {
    "w": "alert",
@@ -67,7 +87,11 @@
     "Coffee helps me stay alert.",
     "커피는 정신을 맑게 해 줘요."
    ],
-   "i": 18
+   "i": 18,
+   "a": "007ab393b084.m4a",
+   "xa": "8e236d0e44c8.m4a",
+   "ab": "c2ef896fc97b.m4a",
+   "xab": "9293afdfaf31.m4a"
   }
  ]
 }

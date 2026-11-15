@@ -11,7 +11,11 @@
     "실례합니다, 우체국이 어디예요?"
    ],
    "find": "where is",
-   "i": 1
+   "i": 1,
+   "a": "a229720608b6.m4a",
+   "xa": "a3f05f898882.m4a",
+   "ab": "ff24d172cf4f.m4a",
+   "xab": "32cc739939a6.m4a"
   },
   {
    "w": "lost",
@@ -22,7 +26,11 @@
     "I'm lost. Can you help me?",
     "길을 잃었어요. 도와주실래요?"
    ],
-   "i": 7
+   "i": 7,
+   "a": "8c3daa09767b.m4a",
+   "xa": "c77a1d957224.m4a",
+   "ab": "ca7b1287783c.m4a",
+   "xab": "2f26902d67be.m4a"
   },
   {
    "w": "go straight",
@@ -33,7 +41,11 @@
     "Go straight and you'll see the station.",
     "직진하면 역이 보여요."
    ],
-   "i": 9
+   "i": 9,
+   "a": "c74bd100c580.m4a",
+   "xa": "f561e71cecaf.m4a",
+   "ab": "b0bc604faa82.m4a",
+   "xab": "cfed3706e1fe.m4a"
   },
   {
    "w": "turn left / turn right",
@@ -45,7 +57,11 @@
     "신호등에서 오른쪽으로 도세요."
    ],
    "find": "turn (left|right)",
-   "i": 12
+   "i": 12,
+   "a": "c0ee3264362f.m4a",
+   "xa": "6687f3655d68.m4a",
+   "ab": "7678ef81b50d.m4a",
+   "xab": "7461adacb21f.m4a"
   },
   {
    "w": "go past",
@@ -56,7 +72,11 @@
     "Go past the church and turn left.",
     "교회를 지나서 왼쪽으로 도세요."
    ],
-   "i": 11
+   "i": 11,
+   "a": "702e3e9b48a1.m4a",
+   "xa": "9d9404376224.m4a",
+   "ab": "48656c55e4e2.m4a",
+   "xab": "f4f4ae548c47.m4a"
   },
   {
    "w": "next to",
@@ -67,7 +87,11 @@
     "The bank is next to the supermarket.",
     "은행은 슈퍼마켓 옆에 있어요."
    ],
-   "i": 16
+   "i": 16,
+   "a": "2dd6044af0f8.m4a",
+   "xa": "b71494b1540b.m4a",
+   "ab": "f0e31707d673.m4a",
+   "xab": "0aba6236ff3d.m4a"
   },
   {
    "w": "opposite",
@@ -78,7 +102,11 @@
     "The café is opposite the library.",
     "카페는 도서관 맞은편에 있어요."
    ],
-   "i": 33
+   "i": 33,
+   "a": "02d40a1f2eea.m4a",
+   "xa": "3bf8c97be14b.m4a",
+   "ab": "50c2671c0237.m4a",
+   "xab": "9e5484d4f6e7.m4a"
   },
   {
    "w": "You're welcome.",
@@ -90,7 +118,11 @@
     "고마워요! — 천만에요."
    ],
    "find": "you're welcome",
-   "i": 19
+   "i": 19,
+   "a": "24771cb06f65.m4a",
+   "xa": "211a421a8f27.m4a",
+   "ab": "c4f67aa54ab8.m4a",
+   "xab": "23dd85c33b77.m4a"
   }
  ]
 }

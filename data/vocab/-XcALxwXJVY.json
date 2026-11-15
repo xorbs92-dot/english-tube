@@ -10,7 +10,11 @@
     "There was an implicit criticism in his words.",
     "그의 말에는 은근한 비판이 담겨 있었어요."
    ],
-   "i": 15
+   "i": 15,
+   "a": "668a9b7f6687.m4a",
+   "xa": "6c12bdf7bff4.m4a",
+   "ab": "d3934ba145d9.m4a",
+   "xab": "3c02a665a07f.m4a"
   },
   {
    "w": "explicit",
@@ -21,7 +25,11 @@
     "The teacher gave explicit instructions.",
     "선생님이 분명한 지시를 줬어요."
    ],
-   "i": 22
+   "i": 22,
+   "a": "6445181d0fe6.m4a",
+   "xa": "d374fe02b463.m4a",
+   "ab": "7817536bac67.m4a",
+   "xab": "ec0a3b1e8083.m4a"
   },
   {
    "w": "immersion",
@@ -32,7 +40,11 @@
     "Language immersion is the fastest way to learn.",
     "언어 몰입이 가장 빨리 배우는 방법이에요."
    ],
-   "i": 23
+   "i": 23,
+   "a": "d67bc9658d14.m4a",
+   "xa": "4a88ab82b721.m4a",
+   "ab": "08f52f86c81f.m4a",
+   "xab": "1d3d0bc0ab68.m4a"
   },
   {
    "w": "key finding",
@@ -44,7 +56,11 @@
     "핵심 결과는 잠이 기억력을 높인다는 거였어요."
    ],
    "find": "key finding",
-   "i": 34
+   "i": 34,
+   "a": "f970d0036098.m4a",
+   "xa": "2f28f04ea580.m4a",
+   "ab": "1bbebcef202b.m4a",
+   "xab": "9f70516d38a9.m4a"
   },
   {
    "w": "one particular",
@@ -56,7 +72,11 @@
     "특정한 한 학생이 아주 좋은 질문을 했어요."
    ],
    "find": "particular",
-   "i": 35
+   "i": 35,
+   "a": "ec46eff8f399.m4a",
+   "xa": "2485c9725e71.m4a",
+   "ab": "e539ca102bb7.m4a",
+   "xab": "d2914fa8eef9.m4a"
   },
   {
    "w": "language app",
@@ -68,7 +88,11 @@
     "매일 언어 학습 앱으로 스페인어를 연습해요."
    ],
    "find": "\\bapps?\\b",
-   "i": 2
+   "i": 2,
+   "a": "20cb7fbce2e9.m4a",
+   "xa": "e61a4d8413a7.m4a",
+   "ab": "a07e915711c2.m4a",
+   "xab": "ab2b56b3b3c6.m4a"
   }
  ]
 }

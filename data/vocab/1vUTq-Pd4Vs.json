@@ -11,7 +11,11 @@
     "뭘 할 수 있어요? — 수영할 수 있어요."
    ],
    "find": "what can you do",
-   "i": 1
+   "i": 1,
+   "a": "0fc2a345b941.m4a",
+   "xa": "7db5210b0a7f.m4a",
+   "ab": "4aba1f3da3d6.m4a",
+   "xab": "9576e4f2f5f4.m4a"
   },
   {
    "w": "can",
@@ -23,7 +27,11 @@
     "저는 영어를 조금 할 수 있어요."
    ],
    "find": "\\bcan\\b",
-   "i": 1
+   "i": 1,
+   "a": "92c6b58afeee.m4a",
+   "xa": "3c9da1412e1d.m4a",
+   "ab": "0dd50f737ea5.m4a",
+   "xab": "946007801fe7.m4a"
   },
   {
    "w": "can't",
@@ -34,7 +42,11 @@
     "I can't drive, so I take the bus.",
     "저는 운전을 못 해서 버스를 타요."
    ],
-   "i": 7
+   "i": 7,
+   "a": "38b460df9865.m4a",
+   "xa": "2ef7531acf14.m4a",
+   "ab": "088dba887004.m4a",
+   "xab": "1b2f541c2dc2.m4a"
   },
   {
    "w": "play the trumpet",
@@ -46,7 +58,11 @@
     "그는 피아노와 트럼펫을 연주해요."
    ],
    "find": "trumpet",
-   "i": 5
+   "i": 5,
+   "a": "11dd981c27d3.m4a",
+   "xa": "8c5790c30d2a.m4a",
+   "ab": "82ba11573caf.m4a",
+   "xab": "a799614dc90d.m4a"
   },
   {
    "w": "rock-climb",
@@ -58,7 +74,11 @@
     "암벽 등반을 배워 보고 싶어요."
    ],
    "find": "rock-climb",
-   "i": 11
+   "i": 11,
+   "a": "98bd1561640e.m4a",
+   "xa": "f76fa32e22de.m4a",
+   "ab": "cb089e223ffd.m4a",
+   "xab": "5e5e5f8ba0b9.m4a"
   },
   {
    "w": "juggle",
@@ -69,7 +89,11 @@
     "Can you juggle three balls?",
     "공 세 개로 저글링할 수 있어요?"
    ],
-   "i": 22
+   "i": 22,
+   "a": "8be5d47950e6.m4a",
+   "xa": "6fe259b80984.m4a",
+   "ab": "3fc935970b7b.m4a",
+   "xab": "e36ac59c47e4.m4a"
   },
   {
    "w": "play guitar",
@@ -81,7 +105,11 @@
     "언니는 밴드에서 기타를 쳐요."
    ],
    "find": "guitar",
-   "i": 26
+   "i": 26,
+   "a": "d51fc6f1884e.m4a",
+   "xa": "c7eec165196d.m4a",
+   "ab": "55452c3aa167.m4a",
+   "xab": "04e14125d2b2.m4a"
   }
  ]
 }

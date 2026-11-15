@@ -10,7 +10,11 @@
     "The market was bustling with people.",
     "시장이 사람들로 북적였어요."
    ],
-   "i": 8
+   "i": 8,
+   "a": "9f2267b5edbe.m4a",
+   "xa": "a0ca9a91108c.m4a",
+   "ab": "2e5d80a44f80.m4a",
+   "xab": "575ddc310499.m4a"
   },
   {
    "w": "convenient",
@@ -21,7 +25,11 @@
     "The hotel is convenient for the station.",
     "호텔이 역에서 가까워 편리해요."
    ],
-   "i": 12
+   "i": 12,
+   "a": "45a5a9b059c0.m4a",
+   "xa": "b1a5ca3e619c.m4a",
+   "ab": "7d946eef719f.m4a",
+   "xab": "e782498f5498.m4a"
   },
   {
    "w": "public transport",
@@ -32,7 +40,11 @@
     "Seoul has excellent public transport.",
     "서울은 대중교통이 아주 좋아요."
    ],
-   "i": 14
+   "i": 14,
+   "a": "13876c163d75.m4a",
+   "xa": "52b9e7a8a369.m4a",
+   "ab": "f6262d79920a.m4a",
+   "xab": "5b70f0af8ea8.m4a"
   },
   {
    "w": "spontaneous",
@@ -43,7 +55,11 @@
     "We made a spontaneous trip to the beach.",
     "즉흥적으로 해변에 다녀왔어요."
    ],
-   "i": 21
+   "i": 21,
+   "a": "21b661f85c2c.m4a",
+   "xa": "b3711bb5a03e.m4a",
+   "ab": "59cf41581872.m4a",
+   "xab": "4e5cd585a0e3.m4a"
   },
   {
    "w": "capital city",
@@ -55,7 +71,11 @@
     "도쿄는 일본의 수도예요."
    ],
    "find": "capital",
-   "i": 31
+   "i": 31,
+   "a": "9fdfcd5e1356.m4a",
+   "xa": "2f43b6ed896d.m4a",
+   "ab": "c60f5610f1f2.m4a",
+   "xab": "5b34d7208b22.m4a"
   },
   {
    "w": "eat out",
@@ -67,7 +87,11 @@
     "우리는 금요일마다 외식해요."
    ],
    "find": "eat(ing)? out",
-   "i": 36
+   "i": 36,
+   "a": "482557c36a88.m4a",
+   "xa": "57c7d5409487.m4a",
+   "ab": "35b6e23b8294.m4a",
+   "xab": "53dc256f6d66.m4a"
   },
   {
    "w": "I'd like to ...",
@@ -79,7 +103,11 @@
     "내년에 일본에 가 보고 싶어요."
    ],
    "find": "I'd (like|love) to",
-   "i": 57
+   "i": 57,
+   "a": "098a118b8a0a.m4a",
+   "xa": "3a642c018979.m4a",
+   "ab": "f89f5a8c81da.m4a",
+   "xab": "5848e5185adf.m4a"
   }
  ]
 }

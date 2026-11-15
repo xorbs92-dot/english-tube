@@ -11,7 +11,11 @@
     "어디 출신이에요? — 서울 출신이에요."
    ],
    "find": "where are you from",
-   "i": 1
+   "i": 1,
+   "a": "983e9f27172d.m4a",
+   "xa": "4aa6dd69e6a8.m4a",
+   "ab": "b9e534f832c2.m4a",
+   "xab": "6d1d25c78243.m4a"
   },
   {
    "w": "live in",
@@ -22,7 +26,11 @@
     "I live in a small town near Busan.",
     "저는 부산 근처 작은 마을에 살아요."
    ],
-   "i": 22
+   "i": 22,
+   "a": "82cd005ddef2.m4a",
+   "xa": "5dbec45f95cc.m4a",
+   "ab": "ba2ef0f2b826.m4a",
+   "xab": "7e06d9549b51.m4a"
   },
   {
    "w": "house",
@@ -33,7 +41,11 @@
     "They live in a big house with a garden.",
     "그들은 정원이 있는 큰 집에 살아요."
    ],
-   "i": 22
+   "i": 22,
+   "a": "0799208a6515.m4a",
+   "xa": "04ac3847d273.m4a",
+   "ab": "7647b7058ccb.m4a",
+   "xab": "485a5f6c2053.m4a"
   },
   {
    "w": "flat",
@@ -44,7 +56,11 @@
     "My flat is on the third floor.",
     "제 아파트는 3층에 있어요."
    ],
-   "i": 29
+   "i": 29,
+   "a": "4d7d195ee1b9.m4a",
+   "xa": "36a6db195d0b.m4a",
+   "ab": "6c28bc18e231.m4a",
+   "xab": "d02a8828986a.m4a"
   },
   {
    "w": "housemate",
@@ -56,7 +72,11 @@
     "제 하우스메이트들은 정말 친절해요."
    ],
    "find": "housemates?",
-   "i": 23
+   "i": 23,
+   "a": "f31457508f91.m4a",
+   "xa": "6d590dcab185.m4a",
+   "ab": "088bb5f07ed5.m4a",
+   "xab": "2b1cf14249bd.m4a"
   },
   {
    "w": "live on my own",
@@ -68,7 +88,11 @@
     "스무 살 때부터 혼자 살았어요."
    ],
    "find": "on my own",
-   "i": 31
+   "i": 31,
+   "a": "d3b03b486317.m4a",
+   "xa": "4a8cc5966dd7.m4a",
+   "ab": "d4f46460d943.m4a",
+   "xab": "51294e4348d9.m4a"
   },
   {
    "w": "Who do you live with?",
@@ -80,7 +104,11 @@
     "누구랑 같이 살아요? — 부모님이랑요."
    ],
    "find": "who do you live with",
-   "i": 26
+   "i": 26,
+   "a": "3a9367933fbb.m4a",
+   "xa": "fa4305315be2.m4a",
+   "ab": "c00162253997.m4a",
+   "xab": "03cf69db246f.m4a"
   }
  ]
 }

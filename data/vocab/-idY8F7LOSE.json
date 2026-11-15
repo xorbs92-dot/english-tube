@@ -10,7 +10,11 @@
     "Every relationship has its ups and downs.",
     "모든 관계에는 기복이 있어요."
    ],
-   "i": 17
+   "i": 17,
+   "a": "3aff119246cb.m4a",
+   "xa": "fe54ebb79cda.m4a",
+   "ab": "af129d16f25f.m4a",
+   "xab": "51c1370e67f9.m4a"
   },
   {
    "w": "mood",
@@ -22,7 +26,11 @@
     "파티할 기분이 아니에요."
    ],
    "find": "\\bmood\\b",
-   "i": 19
+   "i": 19,
+   "a": "080034ece28b.m4a",
+   "xa": "847dea101308.m4a",
+   "ab": "4b68e28edea6.m4a",
+   "xab": "159a21ca3ec7.m4a"
   },
   {
    "w": "battleground",
@@ -33,7 +41,11 @@
     "Bedtime became a battleground.",
     "잠자는 시간이 전쟁터가 됐어요."
    ],
-   "i": 38
+   "i": 38,
+   "a": "0d6a5b32dc4d.m4a",
+   "xa": "5cf30f10c81b.m4a",
+   "ab": "4a17c3993e12.m4a",
+   "xab": "47c2616b64be.m4a"
   },
   {
    "w": "a big deal",
@@ -45,7 +57,11 @@
     "걱정 마요. 별일 아니에요."
    ],
    "find": "big deal",
-   "i": 41
+   "i": 41,
+   "a": "ec5e0e5b8a13.m4a",
+   "xa": "d5e6275b81f1.m4a",
+   "ab": "74a0df2604ec.m4a",
+   "xab": "986d1091993e.m4a"
   },
   {
    "w": "food allergy",
@@ -57,7 +73,11 @@
     "음식 알레르기 있어요?"
    ],
    "find": "allerg",
-   "i": 46
+   "i": 46,
+   "a": "324aae700fef.m4a",
+   "xa": "5790b38d9458.m4a",
+   "ab": "cf1b3d5f8ebf.m4a",
+   "xab": "b2bc86abb061.m4a"
   },
   {
    "w": "winning formula",
@@ -69,7 +89,11 @@
     "맛있는 음식과 싼 가격, 그게 성공 공식이에요."
    ],
    "find": "winning formula",
-   "i": 49
+   "i": 49,
+   "a": "d00a4040e210.m4a",
+   "xa": "dd85125b6483.m4a",
+   "ab": "6a2c24275920.m4a",
+   "xab": "d5f74cb97492.m4a"
   },
   {
    "w": "pressure",
@@ -81,7 +105,11 @@
     "아이들에게 다 먹으라고 압박하지 마세요."
    ],
    "find": "pressur",
-   "i": 31
+   "i": 31,
+   "a": "801c95f06a5f.m4a",
+   "xa": "f0d3c75c54db.m4a",
+   "ab": "33277d55b73b.m4a",
+   "xab": "35cd2f756f06.m4a"
   }
  ]
 }

@@ -11,7 +11,11 @@
     "안녕하세요, 저는 애나예요. 이름이 뭐예요?"
    ],
    "find": "what'?s your name",
-   "i": 1
+   "i": 1,
+   "a": "176c94a58409.m4a",
+   "xa": "dcd5e2521d1a.m4a",
+   "ab": "f4ff3b800cff.m4a",
+   "xab": "12684b70c47d.m4a"
   },
   {
    "w": "nice to meet you",
@@ -22,7 +26,11 @@
     "Nice to meet you. I'm Tom.",
     "만나서 반가워요. 저는 톰이에요."
    ],
-   "i": 7
+   "i": 7,
+   "a": "b964823535a0.m4a",
+   "xa": "dcd3af7dc970.m4a",
+   "ab": "5989dc53e1f1.m4a",
+   "xab": "1f599a2a32b4.m4a"
   },
   {
    "w": "lovely",
@@ -33,7 +41,11 @@
     "It was lovely to see you again.",
     "다시 봐서 정말 반가웠어요."
    ],
-   "i": 8
+   "i": 8,
+   "a": "84f92dc081a0.m4a",
+   "xa": "c83ff0d63054.m4a",
+   "ab": "73fdac4b05dc.m4a",
+   "xab": "e8c520094040.m4a"
   },
   {
    "w": "How's it going?",
@@ -45,7 +57,11 @@
     "안녕 샘! 잘 지내?"
    ],
    "find": "how's it going",
-   "i": 9
+   "i": 9,
+   "a": "2f0ee0328a59.m4a",
+   "xa": "992b6ccf6cdd.m4a",
+   "ab": "b2b845f48132.m4a",
+   "xab": "9eaac1dec8f6.m4a"
   },
   {
    "w": "Hiya",
@@ -56,7 +72,11 @@
     "Hiya! Are you coming to the party?",
     "안녕! 파티 올 거야?"
    ],
-   "i": 20
+   "i": 20,
+   "a": "884c580a6c95.m4a",
+   "xa": "d81872b49922.m4a",
+   "ab": "e2ed8a4b2ce6.m4a",
+   "xab": "45fd838be561.m4a"
   },
   {
    "w": "his / her",
@@ -68,7 +88,11 @@
     "그녀의 이름은 루시고, 그의 이름은 벤이에요."
    ],
    "find": "his name|her name",
-   "i": 31
+   "i": 31,
+   "a": "9fb5152ae75e.m4a",
+   "xa": "990f1b8d1684.m4a",
+   "ab": "1ca9c6d73401.m4a",
+   "xab": "a786dc38d82a.m4a"
   },
   {
    "w": "Goodbye",
@@ -79,7 +103,11 @@
     "Goodbye! See you tomorrow.",
     "안녕히 가세요! 내일 봬요."
    ],
-   "i": 49
+   "i": 49,
+   "a": "b34f7673f2dc.m4a",
+   "xa": "f998fdda4a58.m4a",
+   "ab": "6d0c4c91dacf.m4a",
+   "xab": "b1bb295ad1e9.m4a"
   }
  ]
 }

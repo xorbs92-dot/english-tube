@@ -11,7 +11,11 @@
     "창백해 보여요. 기분이 어때요?"
    ],
    "find": "how are you feeling",
-   "i": 1
+   "i": 1,
+   "a": "cbb3a1b0d714.m4a",
+   "xa": "67f97a67a13f.m4a",
+   "ab": "e0efb6c3c741.m4a",
+   "xab": "daa0396a70f2.m4a"
   },
   {
    "w": "excited",
@@ -22,7 +26,11 @@
     "I'm so excited about the trip!",
     "여행 때문에 너무 신나요!"
    ],
-   "i": 2
+   "i": 2,
+   "a": "8a292af45aca.m4a",
+   "xa": "c084defd9632.m4a",
+   "ab": "bbd0debe3a8f.m4a",
+   "xab": "61cf5dc43aeb.m4a"
   },
   {
    "w": "tired / sleepy",
@@ -34,7 +42,11 @@
     "늦게까지 일해서 피곤해요."
    ],
    "find": "tired",
-   "i": 5
+   "i": 5,
+   "a": "e9df16eda6e6.m4a",
+   "xa": "16c33c09ac66.m4a",
+   "ab": "663792b88c31.m4a",
+   "xab": "4882efed9c1d.m4a"
   },
   {
    "w": "scared",
@@ -45,7 +57,11 @@
     "My little brother is scared of dogs.",
     "남동생은 개를 무서워해요."
    ],
-   "i": 11
+   "i": 11,
+   "a": "8c6fdbbb4e2c.m4a",
+   "xa": "01d6d41bb342.m4a",
+   "ab": "121bf71d2311.m4a",
+   "xab": "bbb20dfba521.m4a"
   },
   {
    "w": "thirsty / hungry",
@@ -57,7 +73,11 @@
     "정말 배고파요. 먹어요!"
    ],
    "find": "thirsty|hungry",
-   "i": 49
+   "i": 49,
+   "a": "f444624ba379.m4a",
+   "xa": "eb93e1f59403.m4a",
+   "ab": "050dc0e6b87f.m4a",
+   "xab": "29471ef0bf14.m4a"
   },
   {
    "w": "angry",
@@ -68,7 +88,11 @@
     "He was angry because I was late.",
     "제가 늦어서 그가 화났어요."
    ],
-   "i": 59
+   "i": 59,
+   "a": "0c8f04d5def6.m4a",
+   "xa": "a6842a8cb9f3.m4a",
+   "ab": "03fffe2b1605.m4a",
+   "xab": "de22a4b8b1ae.m4a"
   },
   {
    "w": "full",
@@ -80,7 +104,11 @@
     "이제 됐어요, 고마워요. 배불러요."
    ],
    "find": "\\bfull\\b",
-   "i": 60
+   "i": 60,
+   "a": "fb4623daebeb.m4a",
+   "xa": "11f98461cac4.m4a",
+   "ab": "c244daa50aab.m4a",
+   "xab": "cbeb402df343.m4a"
   },
   {
    "w": "because",
@@ -91,7 +119,11 @@
     "I'm sad because it's raining.",
     "비가 와서 슬퍼요."
    ],
-   "i": 7
+   "i": 7,
+   "a": "750bf12a94af.m4a",
+   "xa": "3d24db88cb6d.m4a",
+   "ab": "982a8819ac14.m4a",
+   "xab": "17f688d132a6.m4a"
   }
  ]
 }

@@ -11,7 +11,11 @@
     "빅벤은 유명한 런던 명소예요."
    ],
    "find": "landmarks?",
-   "i": 3
+   "i": 3,
+   "a": "6e492248685f.m4a",
+   "xa": "be96fdda1df2.m4a",
+   "ab": "7b8857cb0739.m4a",
+   "xab": "25dc2ff9fbc4.m4a"
   },
   {
    "w": "sightseeing",
@@ -22,7 +26,11 @@
     "We spent the day sightseeing in Rome.",
     "우리는 로마에서 하루 종일 관광했어요."
    ],
-   "i": 62
+   "i": 62,
+   "a": "1e9a7989f49f.m4a",
+   "xa": "942bbc4f3b31.m4a",
+   "ab": "2e787afe5452.m4a",
+   "xab": "e34395f2eebe.m4a"
   },
   {
    "w": "guided tour",
@@ -33,7 +41,11 @@
     "We took a guided tour of the castle.",
     "성 가이드 투어를 했어요."
    ],
-   "i": 57
+   "i": 57,
+   "a": "281d8205e392.m4a",
+   "xa": "3c960910d153.m4a",
+   "ab": "4c1bf0f6b075.m4a",
+   "xab": "0dc9fce97220.m4a"
   },
   {
    "w": "recommend",
@@ -44,7 +56,11 @@
     "I'd really recommend this restaurant.",
     "이 식당 정말 추천해요."
    ],
-   "i": 79
+   "i": 79,
+   "a": "1e30752634f1.m4a",
+   "xa": "999ac3dc9ebd.m4a",
+   "ab": "9d88b5956560.m4a",
+   "xab": "647c8ce142bc.m4a"
   },
   {
    "w": "famous",
@@ -55,7 +71,11 @@
     "Paris is famous for the Eiffel Tower.",
     "파리는 에펠탑으로 유명해요."
    ],
-   "i": 3
+   "i": 3,
+   "a": "bdbc78362c72.m4a",
+   "xa": "208d0b91dec5.m4a",
+   "ab": "8af6b117d788.m4a",
+   "xab": "27e42bd939e6.m4a"
   },
   {
    "w": "tourist",
@@ -67,7 +87,11 @@
     "여름엔 박물관이 관광객으로 가득해요."
    ],
    "find": "tourists?",
-   "i": 49
+   "i": 49,
+   "a": "e59b963e9401.m4a",
+   "xa": "16fee3861e75.m4a",
+   "ab": "17d27400a66b.m4a",
+   "xab": "c653ad423672.m4a"
   }
  ]
 }

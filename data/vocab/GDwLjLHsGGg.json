@@ -10,7 +10,11 @@
     "Everyone experiences heartbreak at some point.",
     "누구나 언젠가는 실연의 아픔을 겪어요."
    ],
-   "i": 8
+   "i": 8,
+   "a": "ec03d650ae15.m4a",
+   "xa": "99c8517558dd.m4a",
+   "ab": "64a2a54f2518.m4a",
+   "xab": "23ec09788382.m4a"
   },
   {
    "w": "addicted to",
@@ -22,7 +26,11 @@
     "이 TV 쇼에 중독됐어요."
    ],
    "find": "addict",
-   "i": 28
+   "i": 28,
+   "a": "a9b27091a818.m4a",
+   "xa": "fb71e5d8ce02.m4a",
+   "ab": "e1c1361165df.m4a",
+   "xab": "4bbc66175c20.m4a"
   },
   {
    "w": "oriented towards",
@@ -34,7 +42,11 @@
     "이 과정은 초보자 대상이에요."
    ],
    "find": "orient",
-   "i": 29
+   "i": 29,
+   "a": "67a209038845.m4a",
+   "xa": "5dc4b2e9a057.m4a",
+   "ab": "1c09424a3133.m4a",
+   "xab": "71c670b4abac.m4a"
   },
   {
    "w": "social bonds",
@@ -46,7 +58,11 @@
     "강한 사회적 유대는 우리를 건강하게 해요."
    ],
    "find": "social bonds?",
-   "i": 45
+   "i": 45,
+   "a": "32c85b6bcf3f.m4a",
+   "xa": "70a30681048f.m4a",
+   "ab": "921f9f40ffc8.m4a",
+   "xab": "1118355e0b0d.m4a"
   },
   {
    "w": "longevity",
@@ -57,7 +73,11 @@
     "Exercise is linked to longevity.",
     "운동은 장수와 관련이 있어요."
    ],
-   "i": 46
+   "i": 46,
+   "a": "75c03311093b.m4a",
+   "xa": "74fa042796d6.m4a",
+   "ab": "b2842607fc41.m4a",
+   "xab": "91a471072548.m4a"
   },
   {
    "w": "ex",
@@ -69,7 +89,11 @@
     "슈퍼마켓에서 전 애인을 봤어요."
    ],
    "find": "\\bex\\b",
-   "i": 70
+   "i": 70,
+   "a": "5c925c6508b5.m4a",
+   "xa": "d71ca2fd8834.m4a",
+   "ab": "1c2b28952c21.m4a",
+   "xab": "f8bc8bc0e901.m4a"
   }
  ]
 }

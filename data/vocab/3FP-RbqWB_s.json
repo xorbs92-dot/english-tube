@@ -10,7 +10,11 @@
     "We need to reduce food waste.",
     "음식물 쓰레기를 줄여야 해요."
    ],
-   "i": 9
+   "i": 9,
+   "a": "9f0286ac76d2.m4a",
+   "xa": "115e0ea820b6.m4a",
+   "ab": "73840d9c8920.m4a",
+   "xab": "a6c21a832200.m4a"
   },
   {
    "w": "rubbish",
@@ -21,7 +25,11 @@
     "Please take the rubbish out.",
     "쓰레기 좀 내다 버려 줘요."
    ],
-   "i": 10
+   "i": 10,
+   "a": "69a2feba997d.m4a",
+   "xa": "e8b394a0bfee.m4a",
+   "ab": "c2a11cf05650.m4a",
+   "xab": "6e3f6d431e5e.m4a"
   },
   {
    "w": "recycle",
@@ -32,7 +40,11 @@
     "We recycle glass and paper.",
     "우리는 유리와 종이를 재활용해요."
    ],
-   "i": 13
+   "i": 13,
+   "a": "2cbc16e9a158.m4a",
+   "xa": "e8a0e0e83d46.m4a",
+   "ab": "37eb66c5d586.m4a",
+   "xab": "6d527648f141.m4a"
   },
   {
    "w": "single-use plastic",
@@ -44,7 +56,11 @@
     "일회용 비닐봉지는 피하도록 해요."
    ],
    "find": "single-use",
-   "i": 40
+   "i": 40,
+   "a": "ab3775aa2897.m4a",
+   "xa": "42278579fcd8.m4a",
+   "ab": "e728f307e237.m4a",
+   "xab": "c2bbfba39a4a.m4a"
   },
   {
    "w": "reusable",
@@ -55,7 +71,11 @@
     "I carry a reusable water bottle.",
     "저는 다회용 물병을 들고 다녀요."
    ],
-   "i": 31
+   "i": 31,
+   "a": "6ea18203c8a5.m4a",
+   "xa": "b7a04e6d8bd7.m4a",
+   "ab": "e4ee553bf9f7.m4a",
+   "xab": "06bce2e38a61.m4a"
   },
   {
    "w": "rely on",
@@ -67,7 +87,11 @@
     "우리는 휴대폰에 너무 의존해요."
    ],
    "find": "rely on",
-   "i": 29
+   "i": 29,
+   "a": "c4c8c688b7e2.m4a",
+   "xa": "86b116201c60.m4a",
+   "ab": "07fd12939d8a.m4a",
+   "xab": "b9a59cd636a0.m4a"
   },
   {
    "w": "cut back on",
@@ -79,7 +103,11 @@
     "플라스틱 사용을 줄이고 싶어요."
    ],
    "find": "cut (back|down) on",
-   "i": 51
+   "i": 51,
+   "a": "21103da976fa.m4a",
+   "xa": "c470e4a48ebc.m4a",
+   "ab": "e62cee9bc94b.m4a",
+   "xab": "217b9d8c0b9c.m4a"
   },
   {
    "w": "clingfilm",
@@ -90,7 +118,11 @@
     "Cover the bowl with clingfilm.",
     "그릇을 랩으로 덮으세요."
    ],
-   "i": 53
+   "i": 53,
+   "a": "287e88cce6f2.m4a",
+   "xa": "b49a0dbf40a8.m4a",
+   "ab": "e9957855527e.m4a",
+   "xab": "a57d8ce3a9c8.m4a"
   }
  ]
 }

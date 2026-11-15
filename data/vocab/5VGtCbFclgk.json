@@ -11,7 +11,11 @@
     "가족 중에 누가 제일 키가 커요?"
    ],
    "find": "the tallest",
-   "i": 1
+   "i": 1,
+   "a": "270f7953e4ee.m4a",
+   "xa": "a853e248e9f3.m4a",
+   "ab": "f2a40d3389bc.m4a",
+   "xab": "b45d7a9dfcba.m4a"
   },
   {
    "w": "taller than",
@@ -23,7 +27,11 @@
     "남동생은 아빠보다 키가 커요."
    ],
    "find": "taller than",
-   "i": 12
+   "i": 12,
+   "a": "60cd97a12005.m4a",
+   "xa": "f185b04f5431.m4a",
+   "ab": "bd5c5b5324af.m4a",
+   "xab": "60bb7aaff6cc.m4a"
   },
   {
    "w": "stronger / weaker",
@@ -35,7 +43,11 @@
     "저는 그보다 약하지만 더 빨라요."
    ],
    "find": "stronger|weaker",
-   "i": 19
+   "i": 19,
+   "a": "a23c3febe316.m4a",
+   "xa": "edb85d9f47b7.m4a",
+   "ab": "88ba661c01fd.m4a",
+   "xab": "d5cd018d721d.m4a"
   },
   {
    "w": "better / the best",
@@ -47,7 +59,11 @@
     "이 케이크가 지금까지 먹어 본 것 중 최고예요."
    ],
    "find": "better|the best",
-   "i": 24
+   "i": 24,
+   "a": "a6ada0095057.m4a",
+   "xa": "3cd997035f47.m4a",
+   "ab": "1762248d3515.m4a",
+   "xab": "fc3315461ada.m4a"
   },
   {
    "w": "worse / the worst",
@@ -59,7 +75,11 @@
     "오늘 날씨가 어제보다 더 나빠요."
    ],
    "find": "worse",
-   "i": 60
+   "i": 60,
+   "a": "0bbfb04580f4.m4a",
+   "xa": "56d29bb3e0ca.m4a",
+   "ab": "682dedf5d1b1.m4a",
+   "xab": "abe7386b022d.m4a"
   },
   {
    "w": "faster / slower",
@@ -71,7 +91,11 @@
     "기차가 버스보다 빨라요."
    ],
    "find": "faster",
-   "i": 70
+   "i": 70,
+   "a": "29025234ca73.m4a",
+   "xa": "e50a8ba845a9.m4a",
+   "ab": "e562f373b21a.m4a",
+   "xab": "5a4ef7fbc137.m4a"
   },
   {
    "w": "Whose ... is this?",
@@ -83,7 +107,11 @@
     "이거 누구 휴대폰이에요? — 제 거예요."
    ],
    "find": "whose",
-   "i": 30
+   "i": 30,
+   "a": "c74591cfe2af.m4a",
+   "xa": "05783bd05048.m4a",
+   "ab": "e50bccceeef5.m4a",
+   "xab": "bc220a04018d.m4a"
   },
   {
    "w": "On your marks, get set, go!",
@@ -95,7 +123,11 @@
     "제자리에, 준비, 출발! 달려!"
    ],
    "find": "on your marks",
-   "i": 25
+   "i": 25,
+   "a": "61a28f499c8a.m4a",
+   "xa": "bca618cb09f6.m4a",
+   "ab": "9581acbbaf97.m4a",
+   "xab": "d84dc17126b8.m4a"
   }
  ]
 }

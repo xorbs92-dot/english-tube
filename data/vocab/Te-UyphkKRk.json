@@ -10,7 +10,11 @@
     "We watch TV in the living room.",
     "우리는 거실에서 TV를 봐요."
    ],
-   "i": 6
+   "i": 6,
+   "a": "974668eeffcb.m4a",
+   "xa": "d078fa1a3f9a.m4a",
+   "ab": "93b7b4b7a4d2.m4a",
+   "xab": "aa48a808650b.m4a"
   },
   {
    "w": "furniture",
@@ -21,7 +25,11 @@
     "We need some new furniture.",
     "새 가구가 좀 필요해요."
    ],
-   "i": 11
+   "i": 11,
+   "a": "6d528593b1ef.m4a",
+   "xa": "b8b692a92d1d.m4a",
+   "ab": "1a581adbf172.m4a",
+   "xab": "1bcef5de25ed.m4a"
   },
   {
    "w": "bookshelf",
@@ -32,7 +40,11 @@
     "The bookshelf is full of novels.",
     "책장이 소설로 가득해요."
    ],
-   "i": 16
+   "i": 16,
+   "a": "963545d84712.m4a",
+   "xa": "963da8d7765d.m4a",
+   "ab": "bbec63e8c6fc.m4a",
+   "xab": "eac97360377a.m4a"
   },
   {
    "w": "rug",
@@ -43,7 +55,11 @@
     "There's a red rug on the floor.",
     "바닥에 빨간 러그가 있어요."
    ],
-   "i": 18
+   "i": 18,
+   "a": "d07cb11bab90.m4a",
+   "xa": "ce5675ac2e57.m4a",
+   "ab": "b098973a19f5.m4a",
+   "xab": "cc73a50dfd8f.m4a"
   },
   {
    "w": "wardrobe",
@@ -54,7 +70,11 @@
     "My wardrobe is too small for all my clothes.",
     "제 옷장은 옷을 다 넣기엔 너무 작아요."
    ],
-   "i": 36
+   "i": 36,
+   "a": "73da3c31fceb.m4a",
+   "xa": "4c6ab7ebe3e7.m4a",
+   "ab": "445b465d3d77.m4a",
+   "xab": "284a7520c7d3.m4a"
   },
   {
    "w": "bedside table",
@@ -65,7 +85,11 @@
     "I keep my phone on the bedside table.",
     "휴대폰은 침대 옆 협탁에 둬요."
    ],
-   "i": 34
+   "i": 34,
+   "a": "9602754b8cff.m4a",
+   "xa": "8767ca1cd2ac.m4a",
+   "ab": "32a0ca6fb04b.m4a",
+   "xab": "2594e3ff0c17.m4a"
   },
   {
    "w": "drawers",
@@ -77,7 +101,11 @@
     "숟가락은 맨 위 서랍에 있어요."
    ],
    "find": "drawers?",
-   "i": 46
+   "i": 46,
+   "a": "f496afc80231.m4a",
+   "xa": "64d632706ca1.m4a",
+   "ab": "f9cb17d73231.m4a",
+   "xab": "eb3734b60e34.m4a"
   },
   {
    "w": "cupboard",
@@ -88,7 +116,11 @@
     "The cups are in the kitchen cupboard.",
     "컵은 부엌 찬장에 있어요."
    ],
-   "i": 53
+   "i": 53,
+   "a": "d7b507efb95a.m4a",
+   "xa": "87ea1d2396c0.m4a",
+   "ab": "c6747af28563.m4a",
+   "xab": "4b61515b716b.m4a"
   },
   {
    "w": "microwave",
@@ -99,7 +131,11 @@
     "Heat it in the microwave for two minutes.",
     "전자레인지에 2분 데우세요."
    ],
-   "i": 57
+   "i": 57,
+   "a": "9c31f681a2cd.m4a",
+   "xa": "03c61aecff00.m4a",
+   "ab": "bc25f512068a.m4a",
+   "xab": "52daa74aee45.m4a"
   }
  ]
 }

@@ -11,7 +11,11 @@
     "한국은 음주 문화가 강해요."
    ],
    "find": "drinking culture",
-   "i": 11
+   "i": 11,
+   "a": "fe5f61369fdb.m4a",
+   "xa": "b955bdcad062.m4a",
+   "ab": "61837682785c.m4a",
+   "xab": "28b45386fa1e.m4a"
   },
   {
    "w": "sober",
@@ -22,7 +26,11 @@
     "He's been sober for two years.",
     "그는 2년째 술을 안 마시고 있어요."
    ],
-   "i": 20
+   "i": 20,
+   "a": "0979b2d3f826.m4a",
+   "xa": "8366a31c2059.m4a",
+   "ab": "eb16943b2fc5.m4a",
+   "xab": "870a97cebdc6.m4a"
   },
   {
    "w": "societal pressure",
@@ -34,7 +42,11 @@
     "결혼하라는 사회적 압박이 있어요."
    ],
    "find": "societal pressure",
-   "i": 24
+   "i": 24,
+   "a": "9f6894862bbb.m4a",
+   "xa": "4ab5af10cb80.m4a",
+   "ab": "5d3c3cd84b7d.m4a",
+   "xab": "60ff93097483.m4a"
   },
   {
    "w": "the norm",
@@ -46,7 +58,11 @@
     "재택근무가 이제 일반적이에요."
    ],
    "find": "\\bnorm\\b",
-   "i": 24
+   "i": 24,
+   "a": "5652deb7ccec.m4a",
+   "xa": "3d8ff6340439.m4a",
+   "ab": "a7978f238b51.m4a",
+   "xab": "5c89792e9b01.m4a"
   },
   {
    "w": "self-optimisation",
@@ -58,7 +74,11 @@
     "SNS에는 자기 최적화 콘텐츠가 가득해요."
    ],
    "find": "self.optimi",
-   "i": 41
+   "i": 41,
+   "a": "c78d10a6e4c9.m4a",
+   "xa": "6fdece4dbf28.m4a",
+   "ab": "c0c69e7857e6.m4a",
+   "xab": "7acf855f7bea.m4a"
   },
   {
    "w": "tout",
@@ -69,7 +89,11 @@
     "The diet was touted as a miracle cure.",
     "그 다이어트는 기적의 치료법으로 홍보됐어요."
    ],
-   "i": 42
+   "i": 42,
+   "a": "0cb47920350d.m4a",
+   "xa": "1b9ce1a64646.m4a",
+   "ab": "bd0b1fdce622.m4a",
+   "xab": "5808a4b9a9fa.m4a"
   }
  ]
 }

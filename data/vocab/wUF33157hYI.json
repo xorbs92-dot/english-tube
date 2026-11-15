@@ -11,7 +11,11 @@
     "어떤 음식 좋아해요? — 국수 좋아해요."
    ],
    "find": "what food do you like",
-   "i": 4
+   "i": 4,
+   "a": "f0554cddee56.m4a",
+   "xa": "1f0b7df25f2c.m4a",
+   "ab": "d96749e90f72.m4a",
+   "xab": "05e672cfd74f.m4a"
   },
   {
    "w": "I don't like ...",
@@ -23,7 +27,11 @@
     "우유 안 넣은 커피는 안 좋아해요."
    ],
    "find": "don't like",
-   "i": 23
+   "i": 23,
+   "a": "d4b73bedc5f9.m4a",
+   "xa": "08dddfccbd72.m4a",
+   "ab": "8c74fa17c868.m4a",
+   "xab": "59bec3209577.m4a"
   },
   {
    "w": "like doing",
@@ -35,7 +43,11 @@
     "저는 기차에서 책 읽는 걸 좋아해요."
    ],
    "find": "like \\w+ing",
-   "i": 37
+   "i": 37,
+   "a": "c00cd3abdaef.m4a",
+   "xa": "7d4090d41c69.m4a",
+   "ab": "f0f01551a389.m4a",
+   "xab": "0cdb0da6c9e6.m4a"
   },
   {
    "w": "grapes",
@@ -46,7 +58,11 @@
     "Can I have some grapes?",
     "포도 좀 먹어도 돼요?"
    ],
-   "i": 13
+   "i": 13,
+   "a": "4c988083eecc.m4a",
+   "xa": "3c0db223fd72.m4a",
+   "ab": "69c83332be2a.m4a",
+   "xab": "fa04ee9ea8b1.m4a"
   },
   {
    "w": "nuts",
@@ -57,7 +73,11 @@
     "He can't eat nuts because of an allergy.",
     "그는 알레르기 때문에 견과류를 못 먹어요."
    ],
-   "i": 25
+   "i": 25,
+   "a": "f8a7650eb15b.m4a",
+   "xa": "3e4584202c39.m4a",
+   "ab": "e9dcbce8e56d.m4a",
+   "xab": "b5ffe6271cbc.m4a"
   },
   {
    "w": "hiking",
@@ -68,7 +88,11 @@
     "We go hiking every Sunday.",
     "우리는 매주 일요일에 하이킹을 가요."
    ],
-   "i": 42
+   "i": 42,
+   "a": "f1e9e6c61b11.m4a",
+   "xa": "57610cf9d546.m4a",
+   "ab": "5bf296dce6f9.m4a",
+   "xab": "0af9d22cbc52.m4a"
   },
   {
    "w": "She likes / He likes",
@@ -80,7 +104,11 @@
     "그녀는 바다에서 수영하는 걸 좋아해요."
    ],
    "find": "likes",
-   "i": 49
+   "i": 49,
+   "a": "0e68df5db0dd.m4a",
+   "xa": "550cf8ab062f.m4a",
+   "ab": "53b4e0327acb.m4a",
+   "xab": "5f52cd82ab41.m4a"
   }
  ]
 }

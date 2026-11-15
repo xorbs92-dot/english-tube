@@ -11,7 +11,11 @@
     "비가 오고 심심해요."
    ],
    "find": "bored",
-   "i": 2
+   "i": 2,
+   "a": "776adc783ed9.m4a",
+   "xa": "612ef8cd440a.m4a",
+   "ab": "b0a55a41015c.m4a",
+   "xab": "601adcdc2eaf.m4a"
   },
   {
    "w": "cuddly toy",
@@ -22,7 +26,11 @@
     "My daughter sleeps with a cuddly toy.",
     "딸은 봉제 인형을 안고 자요."
    ],
-   "i": 9
+   "i": 9,
+   "a": "47af848e8383.m4a",
+   "xa": "ad202999e63a.m4a",
+   "ab": "6e457ffc4f7d.m4a",
+   "xab": "771b712a93e7.m4a"
   },
   {
    "w": "expensive / cheap",
@@ -34,7 +42,11 @@
     "이 휴대폰은 비싸지만 저건 싸요."
    ],
    "find": "expensive",
-   "i": 11
+   "i": 11,
+   "a": "b0bdcf595ad0.m4a",
+   "xa": "a3d318d20454.m4a",
+   "ab": "2884f0239d13.m4a",
+   "xab": "d0cd7d1e239a.m4a"
   },
   {
    "w": "heavy / light",
@@ -46,7 +58,11 @@
     "이 가방이 무거워요. 도와줄래요?"
    ],
    "find": "heavy",
-   "i": 13
+   "i": 13,
+   "a": "fc38bd4ab16d.m4a",
+   "xa": "8c523d034851.m4a",
+   "ab": "ad70cacb5760.m4a",
+   "xab": "d64365deb992.m4a"
   },
   {
    "w": "new / old",
@@ -58,7 +74,11 @@
     "새 TV를 사고 오래된 건 팔았어요."
    ],
    "find": "\\bnew\\b",
-   "i": 15
+   "i": 15,
+   "a": "576680192ce2.m4a",
+   "xa": "863b31276851.m4a",
+   "ab": "ea42df32db54.m4a",
+   "xab": "43fb03be98a8.m4a"
   },
   {
    "w": "Can you remember ...?",
@@ -70,7 +90,11 @@
     "그녀 이름 기억나요?"
    ],
    "find": "remember",
-   "i": 8
+   "i": 8,
+   "a": "ae167d4b8f7f.m4a",
+   "xa": "900d86c4d993.m4a",
+   "ab": "4694d0c9fa26.m4a",
+   "xab": "2704ab718b24.m4a"
   },
   {
    "w": "Well done!",
@@ -82,7 +106,11 @@
     "다 맞혔네요. 잘했어요!"
    ],
    "find": "well done",
-   "i": 36
+   "i": 36,
+   "a": "7c594873597d.m4a",
+   "xa": "39cf12fce321.m4a",
+   "ab": "98a110d2ae99.m4a",
+   "xab": "bb32161a5a9d.m4a"
   }
  ]
 }

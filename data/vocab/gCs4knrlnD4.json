@@ -11,7 +11,11 @@
     "헬스장에 얼마나 자주 가요?"
    ],
    "find": "how often",
-   "i": 1
+   "i": 1,
+   "a": "92ecf785ed1c.m4a",
+   "xa": "0b1f69d214a6.m4a",
+   "ab": "b5915c621c6b.m4a",
+   "xab": "64bdeead30ad.m4a"
   },
   {
    "w": "always",
@@ -22,7 +26,11 @@
     "I always drink coffee in the morning.",
     "저는 아침에 항상 커피를 마셔요."
    ],
-   "i": 5
+   "i": 5,
+   "a": "7668a1650f0b.m4a",
+   "xa": "c6e10a034a36.m4a",
+   "ab": "36a98d50e2eb.m4a",
+   "xab": "848940bcc6f2.m4a"
   },
   {
    "w": "usually",
@@ -33,7 +41,11 @@
     "I usually walk to work.",
     "저는 보통 걸어서 출근해요."
    ],
-   "i": 6
+   "i": 6,
+   "a": "abbcb64b9fe8.m4a",
+   "xa": "94968fe849d3.m4a",
+   "ab": "e2ef9a776e4a.m4a",
+   "xab": "e8bdc2f5c7b2.m4a"
   },
   {
    "w": "often",
@@ -45,7 +57,11 @@
     "우리는 금요일에 자주 외식해요."
    ],
    "find": "\\boften\\b",
-   "i": 1
+   "i": 1,
+   "a": "225749182479.m4a",
+   "xa": "f1334f2d3c15.m4a",
+   "ab": "5c699c38dddb.m4a",
+   "xab": "dacd176c500a.m4a"
   },
   {
    "w": "sometimes",
@@ -56,7 +72,11 @@
     "Sometimes I take the bus.",
     "가끔 버스를 타요."
    ],
-   "i": 8
+   "i": 8,
+   "a": "b10a0f90105e.m4a",
+   "xa": "6721695d6a8b.m4a",
+   "ab": "99a7c15892ab.m4a",
+   "xab": "fe87c368eacc.m4a"
   },
   {
    "w": "occasionally",
@@ -67,7 +87,11 @@
     "I occasionally go to the cinema.",
     "이따금 영화관에 가요."
    ],
-   "i": 9
+   "i": 9,
+   "a": "a567919a16e9.m4a",
+   "xa": "c8ab3da6a9ff.m4a",
+   "ab": "7d3a6e2fd990.m4a",
+   "xab": "bad133146204.m4a"
   },
   {
    "w": "hardly ever",
@@ -78,7 +102,11 @@
     "I hardly ever watch TV.",
     "저는 TV를 거의 안 봐요."
    ],
-   "i": 11
+   "i": 11,
+   "a": "92398be321cf.m4a",
+   "xa": "64ba05eed0a0.m4a",
+   "ab": "601acf23b24a.m4a",
+   "xab": "efa007352f26.m4a"
   },
   {
    "w": "never",
@@ -90,7 +118,11 @@
     "그는 차를 절대 안 마셔요."
    ],
    "find": "\\bnever\\b",
-   "i": 14
+   "i": 14,
+   "a": "8b41f12b943c.m4a",
+   "xa": "2265796f41c6.m4a",
+   "ab": "b86e0c678b03.m4a",
+   "xab": "77b4172c5220.m4a"
   }
  ]
 }

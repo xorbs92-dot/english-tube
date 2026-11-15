@@ -11,7 +11,11 @@
     "실례지만, 몇 시예요?"
    ],
    "find": "what time is it",
-   "i": 1
+   "i": 1,
+   "a": "9b14c715b8a6.m4a",
+   "xa": "f0bc413373f0.m4a",
+   "ab": "623bff1979ac.m4a",
+   "xab": "3cadd9e06567.m4a"
   },
   {
    "w": "o'clock",
@@ -22,7 +26,11 @@
     "The meeting starts at three o'clock.",
     "회의는 3시 정각에 시작해요."
    ],
-   "i": 3
+   "i": 3,
+   "a": "63bb517662c1.m4a",
+   "xa": "97e43425abc2.m4a",
+   "ab": "dc2b261eb9c3.m4a",
+   "xab": "434b3df89628.m4a"
   },
   {
    "w": "half past",
@@ -33,7 +41,11 @@
     "The train leaves at half past six.",
     "기차는 6시 반에 떠나요."
    ],
-   "i": 31
+   "i": 31,
+   "a": "3bcab476eba3.m4a",
+   "xa": "f8c24cb2f672.m4a",
+   "ab": "0043dcbb4457.m4a",
+   "xab": "9caa4fa17674.m4a"
   },
   {
    "w": "quarter past / quarter to",
@@ -45,7 +57,11 @@
     "9시 15분 전이에요, 서둘러요!"
    ],
    "find": "quarter (past|to)",
-   "i": 27
+   "i": 27,
+   "a": "a967ac286aec.m4a",
+   "xa": "88cb556cb0f7.m4a",
+   "ab": "33fee4ba95b7.m4a",
+   "xab": "2f6322861efa.m4a"
   },
   {
    "w": "five past / ten to",
@@ -57,7 +73,11 @@
     "4시 10분 전이에요."
    ],
    "find": "(five|ten) (past|to)",
-   "i": 25
+   "i": 25,
+   "a": "433638d4a10d.m4a",
+   "xa": "00227c13a308.m4a",
+   "ab": "7fe523df4f00.m4a",
+   "xab": "57ddb95b6028.m4a"
   },
   {
    "w": "get up",
@@ -68,7 +88,11 @@
     "What time do you get up on Sundays?",
     "일요일엔 몇 시에 일어나요?"
    ],
-   "i": 52
+   "i": 52,
+   "a": "a3741c8ca9ff.m4a",
+   "xa": "69aed6c20c0e.m4a",
+   "ab": "f283cbfbedf7.m4a",
+   "xab": "b968446b48e9.m4a"
   },
   {
    "w": "go to bed",
@@ -79,7 +103,11 @@
     "I go to bed at eleven o'clock.",
     "저는 11시에 자요."
    ],
-   "i": 65
+   "i": 65,
+   "a": "8f73e7de0221.m4a",
+   "xa": "12bbbcd80a8f.m4a",
+   "ab": "2c6cb062c9c4.m4a",
+   "xab": "40ba05a183ea.m4a"
   }
  ]
 }

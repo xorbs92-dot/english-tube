@@ -11,7 +11,11 @@
     "이 재킷 저한테 어때 보여요?"
    ],
    "find": "how does this",
-   "i": 1
+   "i": 1,
+   "a": "0bdf9fd4b66d.m4a",
+   "xa": "f5ab7f11aa1c.m4a",
+   "ab": "3c826d510c54.m4a",
+   "xab": "5ac7cbbb0e16.m4a"
   },
   {
    "w": "a bit big / small",
@@ -23,7 +27,11 @@
     "이 신발이 조금 작아요."
    ],
    "find": "a bit (big|small)",
-   "i": 9
+   "i": 9,
+   "a": "c60200a401a5.m4a",
+   "xa": "96d298fb8c7c.m4a",
+   "ab": "6902b785501e.m4a",
+   "xab": "dbbe24d0aa45.m4a"
   },
   {
    "w": "Do you have this in a smaller size?",
@@ -35,7 +43,11 @@
     "이거 더 큰 사이즈 있어요?"
    ],
    "find": "in a (smaller|larger) size",
-   "i": 13
+   "i": 13,
+   "a": "5f9ef8ca8d32.m4a",
+   "xa": "7d0307ac2d71.m4a",
+   "ab": "b54bd4e635e5.m4a",
+   "xab": "2dc71290cc0f.m4a"
   },
   {
    "w": "Do you have this in blue?",
@@ -47,7 +59,11 @@
     "이거 검은색 있어요?"
    ],
    "find": "do you have (this|these|it) in \\w+\\?",
-   "i": 22
+   "i": 22,
+   "a": "53d961d64c77.m4a",
+   "xa": "4370b208c9ec.m4a",
+   "ab": "6ffe0181e1c6.m4a",
+   "xab": "34a70f436f46.m4a"
   },
   {
    "w": "Excuse me.",
@@ -59,7 +75,11 @@
     "저기요, 탈의실이 어디예요?"
    ],
    "find": "excuse me",
-   "i": 11
+   "i": 11,
+   "a": "31fb8b74baeb.m4a",
+   "xa": "926d2e61dbb6.m4a",
+   "ab": "ba14347f383c.m4a",
+   "xab": "6284a860683c.m4a"
   },
   {
    "w": "I'll take it / them.",
@@ -71,7 +91,11 @@
     "딱 맞네요. 이걸로 살게요."
    ],
    "find": "I'll take",
-   "i": 25
+   "i": 25,
+   "a": "2add45adfbc0.m4a",
+   "xa": "9a2390b094dc.m4a",
+   "ab": "32524f3fe353.m4a",
+   "xab": "bbfa690affd0.m4a"
   },
   {
    "w": "trousers",
@@ -82,7 +106,11 @@
     "These trousers are too long.",
     "이 바지는 너무 길어요."
    ],
-   "i": 98
+   "i": 98,
+   "a": "a8f07a3c75ac.m4a",
+   "xa": "296981c5988f.m4a",
+   "ab": "a9e11fa9ade9.m4a",
+   "xab": "bc719d253fdf.m4a"
   },
   {
    "w": "gloves",
@@ -93,7 +121,11 @@
     "Wear gloves — it's cold outside.",
     "장갑 껴요. 밖이 추워요."
    ],
-   "i": 77
+   "i": 77,
+   "a": "baf08222ddf3.m4a",
+   "xa": "f247a64fe93e.m4a",
+   "ab": "229587a4ff41.m4a",
+   "xab": "e6b62cc471fb.m4a"
   }
  ]
 }

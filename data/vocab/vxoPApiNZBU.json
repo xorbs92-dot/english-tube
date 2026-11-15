@@ -11,7 +11,11 @@
     "그의 질문에 제가 방어적이 됐어요."
    ],
    "find": "on the defensive",
-   "i": 6
+   "i": 6,
+   "a": "65cb2a39aa4d.m4a",
+   "xa": "7f04383fd8f4.m4a",
+   "ab": "e520bd1720eb.m4a",
+   "xab": "807b0733006d.m4a"
   },
   {
    "w": "uncivil / incivility",
@@ -23,7 +27,11 @@
     "직장 내 무례함은 생산성을 떨어뜨려요."
    ],
    "find": "uncivil|incivility",
-   "i": 11
+   "i": 11,
+   "a": "34427bc120fe.m4a",
+   "xa": "6bffd1236f22.m4a",
+   "ab": "59351a65ccf3.m4a",
+   "xab": "66620fcff168.m4a"
   },
   {
    "w": "belittle",
@@ -34,7 +42,11 @@
     "Don't belittle other people's ideas.",
     "다른 사람의 아이디어를 깎아내리지 마요."
    ],
-   "i": 24
+   "i": 24,
+   "a": "79af9f0f4982.m4a",
+   "xa": "9cf99f6eb34c.m4a",
+   "ab": "d687f86a351b.m4a",
+   "xab": "c740f66f4e66.m4a"
   },
   {
    "w": "put someone in their place",
@@ -46,7 +58,11 @@
     "그녀는 한 마디로 그의 콧대를 꺾었어요."
    ],
    "find": "in (their|your|his|her) place",
-   "i": 25
+   "i": 25,
+   "a": "00511f7feb9f.m4a",
+   "xa": "09f1acbf77e5.m4a",
+   "ab": "ac44dd3f7a24.m4a",
+   "xab": "ae97c5715db0.m4a"
   },
   {
    "w": "get something off your plate",
@@ -58,7 +74,11 @@
     "이 프로젝트를 손에서 털어 내고 싶어요."
    ],
    "find": "off (their|your|my) plate",
-   "i": 28
+   "i": 28,
+   "a": "d31ca216cd66.m4a",
+   "xa": "0612a0b1da1d.m4a",
+   "ab": "1a46e80f6769.m4a",
+   "xab": "355887a7b2f1.m4a"
   },
   {
    "w": "frazzled",
@@ -69,7 +89,11 @@
     "I'm frazzled after a week of deadlines.",
     "마감에 시달린 일주일 후 완전히 녹초예요."
    ],
-   "i": 36
+   "i": 36,
+   "a": "0ad7fb5ac230.m4a",
+   "xa": "cc87cf27ef9a.m4a",
+   "ab": "da4c5f1564ad.m4a",
+   "xab": "17f89232b531.m4a"
   },
   {
    "w": "hit send",
@@ -81,7 +105,11 @@
     "보내기 누르기 전에 두 번 읽어요."
    ],
    "find": "hit send",
-   "i": 39
+   "i": 39,
+   "a": "8534cf6556cb.m4a",
+   "xa": "4a5aec45b220.m4a",
+   "ab": "53530f795108.m4a",
+   "xab": "64caa6291d29.m4a"
   }
  ]
 }

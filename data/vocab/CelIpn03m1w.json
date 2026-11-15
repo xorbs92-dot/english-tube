@@ -11,7 +11,11 @@
     "부동산은 가치 있는 자산이에요."
    ],
    "find": "assets?",
-   "i": 20
+   "i": 20,
+   "a": "c5a237001545.m4a",
+   "xa": "35622dfee80f.m4a",
+   "ab": "1a20f4d42cea.m4a",
+   "xab": "26a3b98a65be.m4a"
   },
   {
    "w": "safe haven",
@@ -23,7 +27,11 @@
     "금은 위기 때 안전 자산으로 여겨져요."
    ],
    "find": "safe haven",
-   "i": 23
+   "i": 23,
+   "a": "3711ad65fc19.m4a",
+   "xa": "dbeede69ecd2.m4a",
+   "ab": "54fe5be5265a.m4a",
+   "xab": "ba264ba10950.m4a"
   },
   {
    "w": "out of thin air",
@@ -35,7 +43,11 @@
     "돈을 무에서 만들어 낼 수는 없어요."
    ],
    "find": "thin air",
-   "i": 29
+   "i": 29,
+   "a": "f75249352c37.m4a",
+   "xa": "6d6eab14e985.m4a",
+   "ab": "7ccd8c5878e3.m4a",
+   "xab": "57d34fdb0061.m4a"
   },
   {
    "w": "alchemy",
@@ -47,7 +59,11 @@
     "연금술사들은 납을 금으로 바꾸려 했어요."
    ],
    "find": "alchem",
-   "i": 29
+   "i": 29,
+   "a": "aa603353034b.m4a",
+   "xa": "5f2ada6edbad.m4a",
+   "ab": "42e0fa702b3b.m4a",
+   "xab": "42bcab49c60a.m4a"
   },
   {
    "w": "ethereal",
@@ -58,7 +74,11 @@
     "The music had an ethereal quality.",
     "그 음악은 천상의 느낌이 있었어요."
    ],
-   "i": 44
+   "i": 44,
+   "a": "5c3500455a29.m4a",
+   "xa": "f5187b75d30b.m4a",
+   "ab": "15a147b68e2a.m4a",
+   "xab": "b5be37633980.m4a"
   },
   {
    "w": "have a hankering for",
@@ -70,7 +90,11 @@
     "피자가 너무 먹고 싶어요."
    ],
    "find": "hankering",
-   "i": 46
+   "i": 46,
+   "a": "71a00cc2f601.m4a",
+   "xa": "32c49d1fb261.m4a",
+   "ab": "4415f4a0581b.m4a",
+   "xab": "4675bc130aa7.m4a"
   }
  ]
 }

@@ -11,7 +11,11 @@
     "예고편이 정말 재밌어 보여요."
    ],
    "find": "trailers?",
-   "i": 53
+   "i": 53,
+   "a": "d7717c4e74e6.m4a",
+   "xa": "08c4479a4ed4.m4a",
+   "ab": "41fec69c2f5e.m4a",
+   "xab": "0863e256c513.m4a"
   },
   {
    "w": "popcorn",
@@ -22,7 +26,11 @@
     "Do you like sweet or salty popcorn?",
     "단 팝콘이 좋아요, 짠 팝콘이 좋아요?"
    ],
-   "i": 52
+   "i": 52,
+   "a": "e4e7ab623528.m4a",
+   "xa": "fc13e981e0da.m4a",
+   "ab": "cc1cb8d6e04f.m4a",
+   "xab": "d049822b60e2.m4a"
   },
   {
    "w": "spectacular",
@@ -33,7 +41,11 @@
     "The fireworks were spectacular.",
     "불꽃놀이가 정말 장관이었어요."
    ],
-   "i": 16
+   "i": 16,
+   "a": "687e817ed807.m4a",
+   "xa": "26792120f0e2.m4a",
+   "ab": "c23a19efc4a7.m4a",
+   "xab": "756993fbe45e.m4a"
   },
   {
    "w": "distraction",
@@ -45,7 +57,11 @@
     "공부할 때 휴대폰이 큰 방해가 돼요."
    ],
    "find": "distractions?",
-   "i": 55
+   "i": 55,
+   "a": "bfe5e80a86e1.m4a",
+   "xa": "fb4fb89b136c.m4a",
+   "ab": "64badb653cf1.m4a",
+   "xab": "48f09a042a17.m4a"
   },
   {
    "w": "film / movie",
@@ -57,7 +73,11 @@
     "오늘 밤에 영화 보자."
    ],
    "find": "\\bfilms?\\b",
-   "i": 4
+   "i": 4,
+   "a": "e5aac75a2354.m4a",
+   "xa": "64fa63193e3f.m4a",
+   "ab": "4379bc68ff8a.m4a",
+   "xab": "6fd670b96a77.m4a"
   },
   {
    "w": "at home",
@@ -68,7 +88,11 @@
     "I prefer watching films at home.",
     "저는 집에서 영화 보는 게 더 좋아요."
    ],
-   "i": 5
+   "i": 5,
+   "a": "1408dcc9faf2.m4a",
+   "xa": "7155877650b8.m4a",
+   "ab": "e6d73a14bfbc.m4a",
+   "xab": "6d20377dfa7c.m4a"
   }
  ]
 }

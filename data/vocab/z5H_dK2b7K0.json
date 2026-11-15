@@ -11,7 +11,11 @@
     "신부와 신랑이 함께 케이크를 잘랐어요."
    ],
    "find": "bride|groom",
-   "i": 29
+   "i": 29,
+   "a": "808e99a9eef3.m4a",
+   "xa": "182be8730c19.m4a",
+   "ab": "177ad178ca34.m4a",
+   "xab": "b66e74891014.m4a"
   },
   {
    "w": "bridesmaid",
@@ -22,7 +26,11 @@
     "My sister asked me to be her bridesmaid.",
     "언니가 저한테 들러리를 서 달라고 했어요."
    ],
-   "i": 29
+   "i": 29,
+   "a": "fe187e4d9325.m4a",
+   "xa": "eaea09069768.m4a",
+   "ab": "079d6b208d7d.m4a",
+   "xab": "8e76c303ba42.m4a"
   },
   {
    "w": "maid of honour",
@@ -33,7 +41,11 @@
     "The maid of honour gave a funny speech.",
     "들러리 대표가 재밌는 축사를 했어요."
    ],
-   "i": 29
+   "i": 29,
+   "a": "38c26eb96fa7.m4a",
+   "xa": "4fafe3d0b3cd.m4a",
+   "ab": "f023cce23dd7.m4a",
+   "xab": "5093a2342772.m4a"
   },
   {
    "w": "best man",
@@ -44,7 +56,11 @@
     "His brother was the best man.",
     "그의 형이 신랑 들러리 대표였어요."
    ],
-   "i": 39
+   "i": 39,
+   "a": "676210274c51.m4a",
+   "xa": "53cde2bcffe0.m4a",
+   "ab": "115cc3eb0a35.m4a",
+   "xab": "e172ce599da6.m4a"
   },
   {
    "w": "hen party / stag party",
@@ -56,7 +72,11 @@
     "그들은 더블린에서 총각 파티를 했어요."
    ],
    "find": "hen part|stag part",
-   "i": 30
+   "i": 30,
+   "a": "8566248aa7d9.m4a",
+   "xa": "26008af1e421.m4a",
+   "ab": "15b51af621e2.m4a",
+   "xab": "3e24557b0817.m4a"
   },
   {
    "w": "traditional",
@@ -67,7 +87,11 @@
     "We had a traditional Korean wedding.",
     "우리는 전통 한국식 결혼식을 했어요."
    ],
-   "i": 50
+   "i": 50,
+   "a": "d3dd70a386cb.m4a",
+   "xa": "004487938bf6.m4a",
+   "ab": "8212e14af05a.m4a",
+   "xab": "5cbcb49ae92a.m4a"
   },
   {
    "w": "low key",
@@ -79,7 +103,11 @@
     "가족끼리 저녁 먹는 조촐한 생일이었어요."
    ],
    "find": "low.key",
-   "i": 50
+   "i": 50,
+   "a": "41081602e3f9.m4a",
+   "xa": "1ee39adde5d1.m4a",
+   "ab": "3f79885c4b0c.m4a",
+   "xab": "d963cae2d7e6.m4a"
   }
  ]
 }

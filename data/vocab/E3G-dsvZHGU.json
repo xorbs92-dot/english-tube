@@ -10,7 +10,11 @@
     "I complained about the cold food.",
     "음식이 식었다고 항의했어요."
    ],
-   "i": 3
+   "i": 3,
+   "a": "f7c6ed428573.m4a",
+   "xa": "88a032ebd28e.m4a",
+   "ab": "7c36a348c554.m4a",
+   "xab": "383e6882158b.m4a"
   },
   {
    "w": "make a complaint",
@@ -22,7 +26,11 @@
     "항의하고 싶어요."
    ],
    "find": "complaint",
-   "i": 72
+   "i": 72,
+   "a": "055826131243.m4a",
+   "xa": "8e194b0cf84c.m4a",
+   "ab": "615c96752cab.m4a",
+   "xab": "836e318ffe28.m4a"
   },
   {
    "w": "discount",
@@ -33,7 +41,11 @@
     "They gave me a 10% discount.",
     "10% 할인을 받았어요."
    ],
-   "i": 34
+   "i": 34,
+   "a": "7a998ebff2d1.m4a",
+   "xa": "724d915b64d1.m4a",
+   "ab": "b1253368231d.m4a",
+   "xab": "72f53f9a7180.m4a"
   },
   {
    "w": "be entitled to",
@@ -45,7 +57,11 @@
     "환불받을 권리가 있어요."
    ],
    "find": "entitled",
-   "i": 24
+   "i": 24,
+   "a": "fcd7c132a340.m4a",
+   "xa": "50fbc7058f17.m4a",
+   "ab": "c455bb140faf.m4a",
+   "xab": "9fd2879b74a1.m4a"
   },
   {
    "w": "review",
@@ -57,7 +73,11 @@
     "예약 전에 항상 후기를 읽어요."
    ],
    "find": "reviews?",
-   "i": 7
+   "i": 7,
+   "a": "165d6116944f.m4a",
+   "xa": "ac34b4d75ce3.m4a",
+   "ab": "24d1863cac53.m4a",
+   "xab": "73889044328e.m4a"
   },
   {
    "w": "embarrassing",
@@ -68,7 +88,11 @@
     "It was embarrassing when my phone rang in class.",
     "수업 중에 휴대폰이 울려서 창피했어요."
    ],
-   "i": 55
+   "i": 55,
+   "a": "24853683e90f.m4a",
+   "xa": "6063d60f77ac.m4a",
+   "ab": "9f3a7bf00bbb.m4a",
+   "xab": "2915e4d33537.m4a"
   }
  ]
 }

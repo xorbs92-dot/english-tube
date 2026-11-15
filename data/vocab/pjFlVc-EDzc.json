@@ -11,7 +11,11 @@
     "채소에는 영양소가 가득해요."
    ],
    "find": "nutrients?",
-   "i": 20
+   "i": 20,
+   "a": "77790479d701.m4a",
+   "xa": "a2a77e8f68ba.m4a",
+   "ab": "69eaa13aea24.m4a",
+   "xab": "f0793d9dfc97.m4a"
   },
   {
    "w": "saturated fats",
@@ -23,7 +27,11 @@
     "버터는 포화지방이 많아요."
    ],
    "find": "saturated fat",
-   "i": 26
+   "i": 26,
+   "a": "39acc7f392d3.m4a",
+   "xa": "1eca0919cd94.m4a",
+   "ab": "689e00574c0a.m4a",
+   "xab": "d4a0fa9bcba0.m4a"
   },
   {
    "w": "deep sleep",
@@ -35,7 +43,11 @@
     "8시간은 푹 자야 해요."
    ],
    "find": "deep sleep|deeper sleep",
-   "i": 26
+   "i": 26,
+   "a": "42a57a58221b.m4a",
+   "xa": "31168d5e3eba.m4a",
+   "ab": "fc3f06865b61.m4a",
+   "xab": "86e78c20d9ba.m4a"
   },
   {
    "w": "supplements",
@@ -47,7 +59,11 @@
     "겨울엔 비타민D 영양제를 먹어요."
    ],
    "find": "supplements?",
-   "i": 37
+   "i": 37,
+   "a": "223c8fe435ec.m4a",
+   "xa": "bc046d5b2b9f.m4a",
+   "ab": "440609ae54b4.m4a",
+   "xab": "afbd80dbd94a.m4a"
   },
   {
    "w": "feed information",
@@ -59,7 +75,11 @@
     "그 앱은 하루 종일 뉴스를 쏟아 줘요."
    ],
    "find": "fe(e)?d",
-   "i": 42
+   "i": 42,
+   "a": "8b5f583571e9.m4a",
+   "xa": "8ef242f9a43a.m4a",
+   "ab": "ea2649e39800.m4a",
+   "xab": "1c760042d345.m4a"
   },
   {
    "w": "magic bullet",
@@ -71,7 +91,11 @@
     "살 빼는 데 만능 해결책은 없어요."
    ],
    "find": "magic bullet",
-   "i": 44
+   "i": 44,
+   "a": "37cd795f12ab.m4a",
+   "xa": "5c844bd38430.m4a",
+   "ab": "31733a569597.m4a",
+   "xab": "992143665d99.m4a"
   }
  ]
 }

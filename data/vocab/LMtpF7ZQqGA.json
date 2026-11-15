@@ -10,7 +10,11 @@
     "An octopus has eight arms.",
     "문어는 팔이 여덟 개예요."
    ],
-   "i": 11
+   "i": 11,
+   "a": "245616e6775b.m4a",
+   "xa": "c0356989b9df.m4a",
+   "ab": "345e5e6af66d.m4a",
+   "xab": "943f48cd5338.m4a"
   },
   {
    "w": "tentacles",
@@ -22,7 +26,11 @@
     "해파리는 긴 촉수가 있어요."
    ],
    "find": "tentacles?",
-   "i": 16
+   "i": 16,
+   "a": "46a0ab5345d2.m4a",
+   "xa": "ad9a217ed383.m4a",
+   "ab": "3b18a35d7c6f.m4a",
+   "xab": "319b8736eb33.m4a"
   },
   {
    "w": "threat",
@@ -33,7 +41,11 @@
     "Climate change is a threat to coral reefs.",
     "기후 변화는 산호초에 위협이에요."
    ],
-   "i": 31
+   "i": 31,
+   "a": "07406a90f5bd.m4a",
+   "xa": "d3e9ebf21e67.m4a",
+   "ab": "e5b36411af50.m4a",
+   "xab": "dec1915639f5.m4a"
   },
   {
    "w": "pollution",
@@ -44,7 +56,11 @@
     "Air pollution is bad in big cities.",
     "대도시는 대기 오염이 심해요."
    ],
-   "i": 32
+   "i": 32,
+   "a": "a9ed2a1814ea.m4a",
+   "xa": "7fa918e5e2d7.m4a",
+   "ab": "25e1ea820bd0.m4a",
+   "xab": "8577272b743f.m4a"
   },
   {
    "w": "single-use plastic",
@@ -56,7 +72,11 @@
     "많은 카페가 일회용 플라스틱 사용을 중단했어요."
    ],
    "find": "single-use",
-   "i": 37
+   "i": 37,
+   "a": "ab3775aa2897.m4a",
+   "xa": "a941752dd9f3.m4a",
+   "ab": "e728f307e237.m4a",
+   "xab": "e8e6162b4fdd.m4a"
   },
   {
    "w": "dolphin",
@@ -68,7 +88,11 @@
     "배에서 돌고래를 봤어요."
    ],
    "find": "dolphins?",
-   "i": 23
+   "i": 23,
+   "a": "379406f63578.m4a",
+   "xa": "78c2587243aa.m4a",
+   "ab": "6ab3703953b7.m4a",
+   "xab": "910316508114.m4a"
   }
  ]
 }

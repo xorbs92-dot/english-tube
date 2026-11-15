@@ -11,7 +11,11 @@
     "오늘 디저트는 뭐예요?"
    ],
    "find": "pudding|dessert",
-   "i": 6
+   "i": 6,
+   "a": "677e811b55ef.m4a",
+   "xa": "58c990ff1a36.m4a",
+   "ab": "b9d85b2b8a93.m4a",
+   "xab": "7eba951be402.m4a"
   },
   {
    "w": "have a sweet tooth",
@@ -23,7 +27,11 @@
     "저는 단것을 좋아해서 케이크를 좋아해요."
    ],
    "find": "sweet tooth",
-   "i": 9
+   "i": 9,
+   "a": "82c54c951af4.m4a",
+   "xa": "9a5900ba5da8.m4a",
+   "ab": "896617e9f464.m4a",
+   "xab": "060a9b80f558.m4a"
   },
   {
    "w": "apple crumble",
@@ -35,7 +43,11 @@
     "애플 크럼블은 커스터드랑 먹으면 맛있어요."
    ],
    "find": "crumble",
-   "i": 24
+   "i": 24,
+   "a": "1801768c4135.m4a",
+   "xa": "0e437fcdabf8.m4a",
+   "ab": "e894df8738ea.m4a",
+   "xab": "8951b61f3aad.m4a"
   },
   {
    "w": "sharp / sour",
@@ -47,7 +59,11 @@
     "이 레몬 타르트는 좀 새콤해요."
    ],
    "find": "sharp",
-   "i": 29
+   "i": 29,
+   "a": "1f80e4d0df08.m4a",
+   "xa": "5ea0323f87b8.m4a",
+   "ab": "44249d2370a9.m4a",
+   "xab": "9388489ee81c.m4a"
   },
   {
    "w": "filling",
@@ -58,7 +74,11 @@
     "Rice is very filling.",
     "밥은 아주 든든해요."
    ],
-   "i": 34
+   "i": 34,
+   "a": "428b0786169a.m4a",
+   "xa": "6c29e390715e.m4a",
+   "ab": "5b7e81d117f9.m4a",
+   "xab": "a0375622be30.m4a"
   },
   {
    "w": "chocolate person",
@@ -70,7 +90,11 @@
     "저는 아침형 인간이 아니에요."
    ],
    "find": "person",
-   "i": 32
+   "i": 32,
+   "a": "e95e00128dc0.m4a",
+   "xa": "3f0d3d242c98.m4a",
+   "ab": "5bc7f89c2b01.m4a",
+   "xab": "062c1a4d239b.m4a"
   }
  ]
 }

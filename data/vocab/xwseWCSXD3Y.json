@@ -10,7 +10,11 @@
     "Take off your stinky socks!",
     "냄새나는 양말 좀 벗어!"
    ],
-   "i": 31
+   "i": 31,
+   "a": "b7606241e350.m4a",
+   "xa": "5c18dabc52bf.m4a",
+   "ab": "9abc9b8865da.m4a",
+   "xab": "21125d5bd2b3.m4a"
   },
   {
    "w": "fragrant",
@@ -21,7 +25,11 @@
     "The garden is full of fragrant flowers.",
     "정원이 향기로운 꽃으로 가득해요."
    ],
-   "i": 31
+   "i": 31,
+   "a": "1e669b7e383e.m4a",
+   "xa": "d7e27a52264b.m4a",
+   "ab": "8cb51f7cf88e.m4a",
+   "xab": "d266f9202e27.m4a"
   },
   {
    "w": "subjective",
@@ -32,7 +40,11 @@
     "Taste in music is very subjective.",
     "음악 취향은 아주 주관적이에요."
    ],
-   "i": 33
+   "i": 33,
+   "a": "8fc7f93b769b.m4a",
+   "xa": "0f9eb134010c.m4a",
+   "ab": "c5403801d5ed.m4a",
+   "xab": "5d35ae14bba7.m4a"
   },
   {
    "w": "visual / auditory",
@@ -44,7 +56,11 @@
     "저는 시각형 학습자라 그림이 필요해요."
    ],
    "find": "visual",
-   "i": 44
+   "i": 44,
+   "a": "c09e2465c363.m4a",
+   "xa": "90211ff59e8f.m4a",
+   "ab": "e259f80018fd.m4a",
+   "xab": "15376f02d0a7.m4a"
   },
   {
    "w": "olfactory",
@@ -55,7 +71,11 @@
     "Dogs have an amazing olfactory sense.",
     "개는 후각이 엄청나요."
    ],
-   "i": 50
+   "i": 50,
+   "a": "53d57100f6ca.m4a",
+   "xa": "22104f07a570.m4a",
+   "ab": "28de4c0748ea.m4a",
+   "xab": "edd350fd221f.m4a"
   },
   {
    "w": "shut something down",
@@ -67,7 +87,11 @@
     "그녀는 대화를 재빨리 끊었어요."
    ],
    "find": "shut (\\w+ )*down",
-   "i": 45
+   "i": 45,
+   "a": "cac529552b1f.m4a",
+   "xa": "7afd69b3455a.m4a",
+   "ab": "1edb43d39a89.m4a",
+   "xab": "612a5e40bb09.m4a"
   },
   {
    "w": "musty",
@@ -78,7 +102,11 @@
     "The old room smelled musty.",
     "오래된 방에서 쾨쾨한 냄새가 났어요."
    ],
-   "i": 56
+   "i": 56,
+   "a": "d0fabe884a2c.m4a",
+   "xa": "43c067686466.m4a",
+   "ab": "5a34d202b8a8.m4a",
+   "xab": "d197ad5add52.m4a"
   }
  ]
 }

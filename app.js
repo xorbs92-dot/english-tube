@@ -133,10 +133,10 @@ async function showLesson(course, idx) {
     const s = S[w.i];
     return `<li data-k="${k}">
       <div class="vw-head"><b class="vw-w">${esc(w.w)}</b>${w.ipa ? `<span class="vw-ipa">${esc(w.ipa)}</span>` : ""}${w.pos ? `<span class="vw-pos">${esc(w.pos)}</span>` : ""}
-        <span class="vw-say"><button data-say="${esc(w.w)}" title="발음 듣기">🔊</button><button data-say="${esc(w.w)}" data-slow="1" title="천천히">🐢</button></span></div>
+        <span class="vw-say"><button data-say="${esc(w.w)}" data-lang="en-US" data-file="${w.a || ""}" title="미국식 발음">🔊</button><button data-say="${esc(w.w)}" data-lang="en-US" data-file="${w.a || ""}" data-slow="1" title="미국식 천천히">🐢</button><button data-say="${esc(w.w)}" data-lang="en-GB" data-file="${w.ab || ""}" title="영국식 발음">🇬🇧</button></span></div>
       <div class="vw-ko">${esc(w.ko)}</div>
       ${s ? `<div class="vw-clip" data-i="${w.i}" title="영상에서 원어민 발음 듣기"><span class="vw-tag">▶ 영상 속 문장</span><div class="vw-en">${hl(s.en, re)}</div>${s.ko ? `<div class="vw-k">${esc(s.ko)}</div>` : ""}</div>` : ""}
-      ${w.ex ? `<div class="vw-ex"><span class="vw-tag">예문</span><button data-say="${esc(w.ex[0])}" class="vw-exsay" title="예문 듣기">🔊</button><div class="vw-en">${hl(w.ex[0], re)}</div><div class="vw-k">${esc(w.ex[1])}</div></div>` : ""}
+      ${w.ex ? `<div class="vw-ex"><span class="vw-tag">예문</span><span class="vw-exsay"><button data-say="${esc(w.ex[0])}" data-lang="en-US" data-file="${w.xa || ""}" title="예문 미국식">🔊</button><button data-say="${esc(w.ex[0])}" data-lang="en-GB" data-file="${w.xab || ""}" title="예문 영국식">🇬🇧</button></span><div class="vw-en">${hl(w.ex[0], re)}</div><div class="vw-k">${esc(w.ex[1])}</div></div>` : ""}
     </li>`;
   }).join("") : `<li class="vw-empty">이 강의는 아직 단어 정리가 없어요.</li>`;
 
@@ -154,22 +154,30 @@ async function showLesson(course, idx) {
     window.scrollTo({ top, behavior: "smooth" });
   };
 
-  // 원어민 발음(기기 음성) — 영국식 우선
-  let voice = null;
-  const pickVoice = () => {
-    const vs = speechSynthesis?.getVoices?.() || [];
-    voice = vs.find((v) => v.lang === "en-GB" && /Daniel|Google UK|Serena|Kate/i.test(v.name))
-      || vs.find((v) => v.lang === "en-GB") || vs.find((v) => v.lang === "en-US") || vs.find((v) => v.lang?.startsWith("en")) || null;
-  };
-  if (window.speechSynthesis) { pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
-  const say = (text, slow) => {
+  // 발음 듣기 — 미리 녹음한 파일(data/audio) 재생. 미국식 기본, 영국식은 🇬🇧.
+  // (아이폰 기기 음성은 무음 모드·홈 화면 앱에서 소리가 안 나는 경우가 많아 파일을 쓴다)
+  const audio = new Audio();
+  audio.preload = "none";
+  const sayTTS = (text, lang, slow) => {   // 파일이 없을 때만 쓰는 예비 수단
     if (!window.speechSynthesis) return;
-    try { player?.pauseVideo?.(); } catch {}
     speechSynthesis.cancel();
     const u = new SpeechSynthesisUtterance(text);
-    u.lang = voice?.lang || "en-GB"; if (voice) u.voice = voice;
+    const v = speechSynthesis.getVoices().find((v) => v.lang === lang);
+    u.lang = lang; if (v) u.voice = v;
     u.rate = slow ? 0.6 : 0.95;
     speechSynthesis.speak(u);
+  };
+  const say = (b) => {
+    try { player?.pauseVideo?.(); } catch {}
+    window.speechSynthesis?.cancel(); audio.pause();
+    const slow = !!b.dataset.slow;
+    if (b.dataset.file) {
+      audio.pause();
+      audio.src = `data/audio/${b.dataset.file}`;
+      audio.playbackRate = slow ? 0.65 : 1;
+      audio.preservesPitch = true;
+      audio.play().catch(() => sayTTS(b.dataset.say, b.dataset.lang, slow));
+    } else sayTTS(b.dataset.say, b.dataset.lang, slow);
   };
 
   // 상태
@@ -292,9 +300,9 @@ async function showLesson(course, idx) {
   };
   vlist.onclick = (e) => {
     const b = e.target.closest("[data-say]");
-    if (b) { say(b.dataset.say, !!b.dataset.slow); return; }
+    if (b) { say(b); return; }
     const c = e.target.closest(".vw-clip");
-    if (c) { window.speechSynthesis?.cancel(); seekTo(+c.dataset.i); clipStop = +c.dataset.i; }
+    if (c) { window.speechSynthesis?.cancel(); audio.pause(); seekTo(+c.dataset.i); clipStop = +c.dataset.i; }
   };
   $("#current").onclick = () => $("#current").classList.toggle("revealed");
   const togglePlay = () => {
@@ -346,7 +354,7 @@ async function showLesson(course, idx) {
 
   cleanup = () => {
     clearInterval(timer); clearInterval(saver); saveProgress();
-    window.speechSynthesis?.cancel();
+    window.speechSynthesis?.cancel(); audio.pause();
     document.removeEventListener("keydown", onKey);
     try { player?.destroy(); } catch {}
   };

@@ -11,7 +11,11 @@
     "엄마! 뭐 하고 있어요?"
    ],
    "find": "what are you doing",
-   "i": 1
+   "i": 1,
+   "a": "d0105b68239b.m4a",
+   "xa": "f2c0be38fe85.m4a",
+   "ab": "1eab6719bc2f.m4a",
+   "xab": "7d98d518a5fb.m4a"
   },
   {
    "w": "I'm ...ing",
@@ -23,7 +27,11 @@
     "지금 저녁을 요리하고 있어요."
    ],
    "find": "I'm \\w+ing",
-   "i": 5
+   "i": 5,
+   "a": "84ed5c26e9d8.m4a",
+   "xa": "b7ca16417b2f.m4a",
+   "ab": "64bfd4fdbf80.m4a",
+   "xab": "e05ce96175e6.m4a"
   },
   {
    "w": "exercise",
@@ -35,7 +43,11 @@
     "저는 일주일에 세 번 운동해요."
    ],
    "find": "exercis",
-   "i": 5
+   "i": 5,
+   "a": "c35e7c8cd711.m4a",
+   "xa": "9c69b689702b.m4a",
+   "ab": "97d1d61106ba.m4a",
+   "xab": "5aa27203e603.m4a"
   },
   {
    "w": "snowboard",
@@ -46,7 +58,11 @@
     "We're snowboarding in the mountains.",
     "우리는 산에서 스노보드를 타고 있어요."
    ],
-   "i": 19
+   "i": 19,
+   "a": "1159152232c1.m4a",
+   "xa": "9f99c5392df4.m4a",
+   "ab": "caa2e354603d.m4a",
+   "xab": "0d954164dc9b.m4a"
   },
   {
    "w": "study",
@@ -58,7 +74,11 @@
     "그녀는 대학에서 스페인어를 공부하고 있어요."
    ],
    "find": "stud(y|ying)",
-   "i": 21
+   "i": 21,
+   "a": "dbb0a87b36a9.m4a",
+   "xa": "110c8e348a37.m4a",
+   "ab": "b06bac257603.m4a",
+   "xab": "0b7e90dfd008.m4a"
   },
   {
    "w": "play video games",
@@ -70,7 +90,11 @@
     "남동생은 매일 저녁 비디오 게임을 해요."
    ],
    "find": "play(s|ing)? video games",
-   "i": 35
+   "i": 35,
+   "a": "4573602bc310.m4a",
+   "xa": "b04f3984204b.m4a",
+   "ab": "6507b866071b.m4a",
+   "xab": "3e4f8986edb3.m4a"
   },
   {
    "w": "He's / She's",
@@ -82,7 +106,11 @@
     "그녀가 자고 있으니 조용히 해요."
    ],
    "find": "he's|she's",
-   "i": 33
+   "i": 33,
+   "a": "dcb170fc2adf.m4a",
+   "xa": "7edf0d1c3dd2.m4a",
+   "ab": "0eb09bbff988.m4a",
+   "xab": "57d9f631fbc5.m4a"
   }
  ]
 }

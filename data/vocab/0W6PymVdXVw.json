@@ -11,7 +11,11 @@
     "비행 두 시간 전에 탑승 수속을 해야 해요."
    ],
    "find": "check.in",
-   "i": 11
+   "i": 11,
+   "a": "f5972fa7080d.m4a",
+   "xa": "5f823907171c.m4a",
+   "ab": "1238d688c6f6.m4a",
+   "xab": "9b998c962a86.m4a"
   },
   {
    "w": "boarding pass",
@@ -22,7 +26,11 @@
     "Please show your boarding pass.",
     "탑승권을 보여 주세요."
    ],
-   "i": 17
+   "i": 17,
+   "a": "5adca995ac40.m4a",
+   "xa": "f99b795352d7.m4a",
+   "ab": "f56fdbedc9e3.m4a",
+   "xab": "a17684e15b12.m4a"
   },
   {
    "w": "go through security",
@@ -34,7 +42,11 @@
     "보안 검색대 통과하는 데 30분 걸렸어요."
    ],
    "find": "through security",
-   "i": 22
+   "i": 22,
+   "a": "2792d5018c55.m4a",
+   "xa": "23a156d0dbd9.m4a",
+   "ab": "0da22244e0f1.m4a",
+   "xab": "e0f2fafff58a.m4a"
   },
   {
    "w": "boarding gate",
@@ -46,7 +58,11 @@
     "우리 탑승구는 12번이에요."
    ],
    "find": "gate",
-   "i": 15
+   "i": 15,
+   "a": "af30ee5264cf.m4a",
+   "xa": "c8e6277a3d79.m4a",
+   "ab": "2ca5b1d6c6e0.m4a",
+   "xab": "7d4c4a2a86a3.m4a"
   },
   {
    "w": "catch a flight",
@@ -58,7 +74,11 @@
     "6시 비행기를 타야 해요."
    ],
    "find": "catch",
-   "i": 63
+   "i": 63,
+   "a": "cf01bce87e2d.m4a",
+   "xa": "252242305931.m4a",
+   "ab": "565d3271ae97.m4a",
+   "xab": "f57905440b2a.m4a"
   },
   {
    "w": "miss a flight",
@@ -70,7 +90,11 @@
     "차가 막혀서 비행기를 놓쳤어요."
    ],
    "find": "miss",
-   "i": 37
+   "i": 37,
+   "a": "d630fa6fa84e.m4a",
+   "xa": "0a8c2cced980.m4a",
+   "ab": "50677bdda331.m4a",
+   "xab": "d9e62bd8fcfa.m4a"
   },
   {
    "w": "stressful",
@@ -81,7 +105,11 @@
     "Airports can be very stressful.",
     "공항은 아주 스트레스받을 수 있어요."
    ],
-   "i": 32
+   "i": 32,
+   "a": "ba2338a23abc.m4a",
+   "xa": "8dcde49c5fcf.m4a",
+   "ab": "e99391b3faf3.m4a",
+   "xab": "627bc9ffa88e.m4a"
   }
  ]
 }

@@ -10,7 +10,11 @@
     "Korean food is often spicy.",
     "한국 음식은 매운 경우가 많아요."
    ],
-   "i": 7
+   "i": 7,
+   "a": "dd68d442bd0b.m4a",
+   "xa": "a154d95e57e3.m4a",
+   "ab": "193b1d0073b0.m4a",
+   "xab": "d85ad9efc3d6.m4a"
   },
   {
    "w": "hot",
@@ -22,7 +26,11 @@
     "이 카레 정말 매워요!"
    ],
    "find": "\\bhot\\b",
-   "i": 9
+   "i": 9,
+   "a": "d691cf72a848.m4a",
+   "xa": "cf60a7da70e6.m4a",
+   "ab": "4f714cfcbf85.m4a",
+   "xab": "4c00da44bac3.m4a"
   },
   {
    "w": "have a kick",
@@ -34,7 +42,11 @@
     "이 소스 정말 화끈해요."
    ],
    "find": "kick",
-   "i": 19
+   "i": 19,
+   "a": "00c2d5920cdf.m4a",
+   "xa": "079d1b826afd.m4a",
+   "ab": "923d89120f47.m4a",
+   "xab": "55c90e34b2f8.m4a"
   },
   {
    "w": "My mouth is on fire!",
@@ -46,7 +58,11 @@
     "물 좀 주세요! 입에 불나요!"
    ],
    "find": "on fire",
-   "i": 25
+   "i": 25,
+   "a": "196bb1df8293.m4a",
+   "xa": "8b613805d58f.m4a",
+   "ab": "4a0750f2a004.m4a",
+   "xab": "74c0eb014ca9.m4a"
   },
   {
    "w": "cool down",
@@ -58,7 +74,11 @@
     "우유를 마셔서 입을 식혀요."
    ],
    "find": "cool (\\w+ )*down",
-   "i": 21
+   "i": 21,
+   "a": "ace6baaba6cc.m4a",
+   "xa": "92ed5b181b02.m4a",
+   "ab": "37a2de6ad64d.m4a",
+   "xab": "49ab38502d51.m4a"
   },
   {
    "w": "mild",
@@ -69,7 +89,11 @@
     "Can I have the mild one, please?",
     "순한 맛으로 주실래요?"
    ],
-   "i": 31
+   "i": 31,
+   "a": "c73f220ce4e2.m4a",
+   "xa": "1243f2448ae9.m4a",
+   "ab": "6ed2bccc1d4b.m4a",
+   "xab": "002b12279bd8.m4a"
   },
   {
    "w": "flavour",
@@ -80,7 +104,11 @@
     "Spicy food has a lot of flavour.",
     "매운 음식은 풍미가 강해요."
    ],
-   "i": 14
+   "i": 14,
+   "a": "45f01e414820.m4a",
+   "xa": "63ad24c1ffcd.m4a",
+   "ab": "91f68cb55491.m4a",
+   "xab": "92de6ec8eacb.m4a"
   }
  ]
 }
