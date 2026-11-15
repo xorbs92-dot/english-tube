@@ -1,0 +1,75 @@
+{
+ "videoId": "GDwLjLHsGGg",
+ "words": [
+  {
+   "w": "heartbreak",
+   "ipa": "/ˈhɑːtbreɪk/",
+   "pos": "명사",
+   "ko": "상심, 실연의 아픔",
+   "ex": [
+    "Everyone experiences heartbreak at some point.",
+    "누구나 언젠가는 실연의 아픔을 겪어요."
+   ],
+   "i": 8
+  },
+  {
+   "w": "addicted to",
+   "ipa": "/əˈdɪktɪd tə/",
+   "pos": "표현",
+   "ko": "~에 중독된",
+   "ex": [
+    "I'm addicted to this TV show.",
+    "이 TV 쇼에 중독됐어요."
+   ],
+   "find": "addict",
+   "i": 28
+  },
+  {
+   "w": "oriented towards",
+   "ipa": "/ˈɔːrientɪd təˈwɔːdz/",
+   "pos": "표현",
+   "ko": "~에 초점을 맞춘, ~ 지향의",
+   "ex": [
+    "The course is oriented towards beginners.",
+    "이 과정은 초보자 대상이에요."
+   ],
+   "find": "orient",
+   "i": 29
+  },
+  {
+   "w": "social bonds",
+   "ipa": "/ˈsəʊʃl bɒndz/",
+   "pos": "명사",
+   "ko": "사회적 유대",
+   "ex": [
+    "Strong social bonds keep us healthy.",
+    "강한 사회적 유대는 우리를 건강하게 해요."
+   ],
+   "find": "social bonds?",
+   "i": 45
+  },
+  {
+   "w": "longevity",
+   "ipa": "/lɒnˈdʒevəti/",
+   "pos": "명사",
+   "ko": "장수, 수명",
+   "ex": [
+    "Exercise is linked to longevity.",
+    "운동은 장수와 관련이 있어요."
+   ],
+   "i": 46
+  },
+  {
+   "w": "ex",
+   "ipa": "/eks/",
+   "pos": "명사",
+   "ko": "전 애인",
+   "ex": [
+    "I saw my ex at the supermarket.",
+    "슈퍼마켓에서 전 애인을 봤어요."
+   ],
+   "find": "\\bex\\b",
+   "i": 70
+  }
+ ]
+}

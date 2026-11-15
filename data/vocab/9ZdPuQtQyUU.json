@@ -1,0 +1,75 @@
+{
+ "videoId": "9ZdPuQtQyUU",
+ "words": [
+  {
+   "w": "drinking culture",
+   "ipa": "/ˈdrɪŋkɪŋ ˈkʌltʃə/",
+   "pos": "명사",
+   "ko": "음주 문화",
+   "ex": [
+    "Korea has a strong drinking culture.",
+    "한국은 음주 문화가 강해요."
+   ],
+   "find": "drinking culture",
+   "i": 11
+  },
+  {
+   "w": "sober",
+   "ipa": "/ˈsəʊbə/",
+   "pos": "형용사",
+   "ko": "술을 마시지 않은, 맨정신의",
+   "ex": [
+    "He's been sober for two years.",
+    "그는 2년째 술을 안 마시고 있어요."
+   ],
+   "i": 20
+  },
+  {
+   "w": "societal pressure",
+   "ipa": "/səˈsaɪətl ˈpreʃə/",
+   "pos": "명사",
+   "ko": "사회적 압박",
+   "ex": [
+    "There's societal pressure to get married.",
+    "결혼하라는 사회적 압박이 있어요."
+   ],
+   "find": "societal pressure",
+   "i": 24
+  },
+  {
+   "w": "the norm",
+   "ipa": "/ðə nɔːm/",
+   "pos": "명사",
+   "ko": "일반적인 것, 표준",
+   "ex": [
+    "Working from home is now the norm.",
+    "재택근무가 이제 일반적이에요."
+   ],
+   "find": "\\bnorm\\b",
+   "i": 24
+  },
+  {
+   "w": "self-optimisation",
+   "ipa": "/self ˌɒptɪmaɪˈzeɪʃn/",
+   "pos": "명사",
+   "ko": "자기 최적화 (건강·목표 달성에 집중하는 것)",
+   "ex": [
+    "Social media is full of self-optimisation content.",
+    "SNS에는 자기 최적화 콘텐츠가 가득해요."
+   ],
+   "find": "self.optimi",
+   "i": 41
+  },
+  {
+   "w": "tout",
+   "ipa": "/taʊt/",
+   "pos": "동사",
+   "ko": "(장점을) 내세우다, 홍보하다",
+   "ex": [
+    "The diet was touted as a miracle cure.",
+    "그 다이어트는 기적의 치료법으로 홍보됐어요."
+   ],
+   "i": 42
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "videoId": "UcfT3qOhyF0",
+ "words": [
+  {
+   "w": "autumn",
+   "ipa": "/ˈɔːtəm/",
+   "pos": "명사",
+   "ko": "가을 (영국식, 미국은 fall)",
+   "ex": [
+    "Autumn is my favourite season.",
+    "가을은 제가 제일 좋아하는 계절이에요."
+   ],
+   "i": 3
+  },
+  {
+   "w": "cosy",
+   "ipa": "/ˈkəʊzi/",
+   "pos": "형용사",
+   "ko": "아늑한 (미국식 cozy)",
+   "ex": [
+    "This café is small and cosy.",
+    "이 카페는 작고 아늑해요."
+   ],
+   "i": 25
+  },
+  {
+   "w": "bonfire",
+   "ipa": "/ˈbɒnfaɪə/",
+   "pos": "명사",
+   "ko": "(야외의) 큰 모닥불",
+   "ex": [
+    "We sat around the bonfire and sang.",
+    "모닥불 주위에 앉아 노래했어요."
+   ],
+   "i": 42
+  },
+  {
+   "w": "fireworks",
+   "ipa": "/ˈfaɪəwɜːks/",
+   "pos": "명사",
+   "ko": "불꽃놀이",
+   "ex": [
+    "We watched the fireworks at midnight.",
+    "자정에 불꽃놀이를 봤어요."
+   ],
+   "i": 44
+  },
+  {
+   "w": "crunchy",
+   "ipa": "/ˈkrʌntʃi/",
+   "pos": "형용사",
+   "ko": "바삭바삭한, 바스락거리는",
+   "ex": [
+    "I love walking on crunchy leaves.",
+    "바스락거리는 낙엽 위를 걷는 게 좋아요."
+   ],
+   "i": 14
+  },
+  {
+   "w": "autumnal",
+   "ipa": "/ɔːˈtʌmnəl/",
+   "pos": "형용사",
+   "ko": "가을 같은, 가을의",
+   "ex": [
+    "The room was decorated in autumnal colours.",
+    "방이 가을 색으로 꾸며져 있었어요."
+   ],
+   "i": 19
+  }
+ ]
+}

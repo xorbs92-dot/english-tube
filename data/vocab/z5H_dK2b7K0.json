@@ -1,0 +1,85 @@
+{
+ "videoId": "z5H_dK2b7K0",
+ "words": [
+  {
+   "w": "bride / groom",
+   "ipa": "/braɪd/ /ɡruːm/",
+   "pos": "명사",
+   "ko": "신부 / 신랑",
+   "ex": [
+    "The bride and groom cut the cake together.",
+    "신부와 신랑이 함께 케이크를 잘랐어요."
+   ],
+   "find": "bride|groom",
+   "i": 29
+  },
+  {
+   "w": "bridesmaid",
+   "ipa": "/ˈbraɪdzmeɪd/",
+   "pos": "명사",
+   "ko": "신부 들러리",
+   "ex": [
+    "My sister asked me to be her bridesmaid.",
+    "언니가 저한테 들러리를 서 달라고 했어요."
+   ],
+   "i": 29
+  },
+  {
+   "w": "maid of honour",
+   "ipa": "/meɪd əv ˈɒnə/",
+   "pos": "명사",
+   "ko": "신부 들러리 대표",
+   "ex": [
+    "The maid of honour gave a funny speech.",
+    "들러리 대표가 재밌는 축사를 했어요."
+   ],
+   "i": 29
+  },
+  {
+   "w": "best man",
+   "ipa": "/best mæn/",
+   "pos": "명사",
+   "ko": "신랑 들러리 대표",
+   "ex": [
+    "His brother was the best man.",
+    "그의 형이 신랑 들러리 대표였어요."
+   ],
+   "i": 39
+  },
+  {
+   "w": "hen party / stag party",
+   "ipa": "/hen ˈpɑːti/ /stæɡ/",
+   "pos": "명사",
+   "ko": "결혼 전 신부 / 신랑 친구들의 파티",
+   "ex": [
+    "They had a stag party in Dublin.",
+    "그들은 더블린에서 총각 파티를 했어요."
+   ],
+   "find": "hen part|stag part",
+   "i": 30
+  },
+  {
+   "w": "traditional",
+   "ipa": "/trəˈdɪʃənl/",
+   "pos": "형용사",
+   "ko": "전통적인",
+   "ex": [
+    "We had a traditional Korean wedding.",
+    "우리는 전통 한국식 결혼식을 했어요."
+   ],
+   "i": 50
+  },
+  {
+   "w": "low key",
+   "ipa": "/ˌləʊ ˈkiː/",
+   "pos": "형용사",
+   "ko": "조촐한, 소박한",
+   "ex": [
+    "It was a low-key birthday — just dinner with family.",
+    "가족끼리 저녁 먹는 조촐한 생일이었어요."
+   ],
+   "find": "low.key",
+   "i": 50
+  }
+ ]
+}

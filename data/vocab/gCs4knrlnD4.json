@@ -1,0 +1,96 @@
+{
+ "videoId": "gCs4knrlnD4",
+ "words": [
+  {
+   "w": "How often ...?",
+   "ipa": "/haʊ ˈɒfn/",
+   "pos": "표현",
+   "ko": "얼마나 자주 ~해요?",
+   "ex": [
+    "How often do you go to the gym?",
+    "헬스장에 얼마나 자주 가요?"
+   ],
+   "find": "how often",
+   "i": 1
+  },
+  {
+   "w": "always",
+   "ipa": "/ˈɔːlweɪz/",
+   "pos": "부사",
+   "ko": "항상 (100%)",
+   "ex": [
+    "I always drink coffee in the morning.",
+    "저는 아침에 항상 커피를 마셔요."
+   ],
+   "i": 5
+  },
+  {
+   "w": "usually",
+   "ipa": "/ˈjuːʒuəli/",
+   "pos": "부사",
+   "ko": "보통, 대개",
+   "ex": [
+    "I usually walk to work.",
+    "저는 보통 걸어서 출근해요."
+   ],
+   "i": 6
+  },
+  {
+   "w": "often",
+   "ipa": "/ˈɒfn/",
+   "pos": "부사",
+   "ko": "자주",
+   "ex": [
+    "We often eat out on Fridays.",
+    "우리는 금요일에 자주 외식해요."
+   ],
+   "find": "\\boften\\b",
+   "i": 1
+  },
+  {
+   "w": "sometimes",
+   "ipa": "/ˈsʌmtaɪmz/",
+   "pos": "부사",
+   "ko": "가끔",
+   "ex": [
+    "Sometimes I take the bus.",
+    "가끔 버스를 타요."
+   ],
+   "i": 8
+  },
+  {
+   "w": "occasionally",
+   "ipa": "/əˈkeɪʒnəli/",
+   "pos": "부사",
+   "ko": "이따금 (sometimes보다 드물게)",
+   "ex": [
+    "I occasionally go to the cinema.",
+    "이따금 영화관에 가요."
+   ],
+   "i": 9
+  },
+  {
+   "w": "hardly ever",
+   "ipa": "/ˈhɑːdli ˈevə/",
+   "pos": "부사",
+   "ko": "거의 ~ 안 하다",
+   "ex": [
+    "I hardly ever watch TV.",
+    "저는 TV를 거의 안 봐요."
+   ],
+   "i": 11
+  },
+  {
+   "w": "never",
+   "ipa": "/ˈnevə/",
+   "pos": "부사",
+   "ko": "절대 ~ 안 하다 (0%)",
+   "ex": [
+    "He never drinks tea.",
+    "그는 차를 절대 안 마셔요."
+   ],
+   "find": "\\bnever\\b",
+   "i": 14
+  }
+ ]
+}

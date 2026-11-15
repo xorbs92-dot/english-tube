@@ -1,0 +1,87 @@
+{
+ "videoId": "MSJMJxd1udk",
+ "words": [
+  {
+   "w": "something going on",
+   "ipa": "/ˈɡəʊɪŋ ɒn/",
+   "pos": "표현",
+   "ko": "뭔가 일이 벌어지는",
+   "ex": [
+    "There's something going on between them.",
+    "그 둘 사이에 뭔가 있어요."
+   ],
+   "find": "going on",
+   "i": 11
+  },
+  {
+   "w": "expertise",
+   "ipa": "/ˌekspɜːˈtiːz/",
+   "pos": "명사",
+   "ko": "전문 지식·기술",
+   "ex": [
+    "We need someone with legal expertise.",
+    "법률 전문 지식이 있는 사람이 필요해요."
+   ],
+   "i": 27
+  },
+  {
+   "w": "conscious",
+   "ipa": "/ˈkɒnʃəs/",
+   "pos": "형용사",
+   "ko": "의식적인",
+   "ex": [
+    "It takes a conscious effort to eat healthily.",
+    "건강하게 먹으려면 의식적인 노력이 필요해요."
+   ],
+   "i": 27
+  },
+  {
+   "w": "driven by",
+   "ipa": "/ˈdrɪvn baɪ/",
+   "pos": "표현",
+   "ko": "~에 의해 좌우되는, 이끌리는",
+   "ex": [
+    "Prices are driven by demand.",
+    "가격은 수요에 의해 좌우돼요."
+   ],
+   "find": "driven by",
+   "i": 40
+  },
+  {
+   "w": "all over the place",
+   "ipa": "/ɔːl ˈəʊvə ðə pleɪs/",
+   "pos": "표현",
+   "ko": "엉망인, 갈피를 못 잡는",
+   "ex": [
+    "My thoughts were all over the place.",
+    "생각이 엉망진창이었어요."
+   ],
+   "find": "all over the place",
+   "i": 46
+  },
+  {
+   "w": "margin",
+   "ipa": "/ˈmɑːdʒɪn/",
+   "pos": "명사",
+   "ko": "(작은) 차이",
+   "ex": [
+    "They won by a small margin.",
+    "그들은 근소한 차이로 이겼어요."
+   ],
+   "find": "margins?",
+   "i": 47
+  },
+  {
+   "w": "high-pressure",
+   "ipa": "/ˌhaɪ ˈpreʃə/",
+   "pos": "형용사",
+   "ko": "압박이 큰",
+   "ex": [
+    "Penalties are high-pressure moments.",
+    "페널티킥은 압박이 큰 순간이에요."
+   ],
+   "find": "high.pressure",
+   "i": 18
+  }
+ ]
+}

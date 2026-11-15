@@ -1,0 +1,86 @@
+{
+ "videoId": "ChYnYM0txRk",
+ "words": [
+  {
+   "w": "spicy",
+   "ipa": "/ˈspaɪsi/",
+   "pos": "형용사",
+   "ko": "매운",
+   "ex": [
+    "Korean food is often spicy.",
+    "한국 음식은 매운 경우가 많아요."
+   ],
+   "i": 7
+  },
+  {
+   "w": "hot",
+   "ipa": "/hɒt/",
+   "pos": "형용사",
+   "ko": "매운 (온도가 아니라 맛)",
+   "ex": [
+    "This curry is really hot!",
+    "이 카레 정말 매워요!"
+   ],
+   "find": "\\bhot\\b",
+   "i": 9
+  },
+  {
+   "w": "have a kick",
+   "ipa": "/hæv ə kɪk/",
+   "pos": "표현",
+   "ko": "(맛이) 톡 쏘다, 맵다",
+   "ex": [
+    "This sauce has a real kick.",
+    "이 소스 정말 화끈해요."
+   ],
+   "find": "kick",
+   "i": 19
+  },
+  {
+   "w": "My mouth is on fire!",
+   "ipa": "/maɪ maʊθ ɪz ɒn ˈfaɪə/",
+   "pos": "표현",
+   "ko": "입에 불이 났어요! (너무 매워요)",
+   "ex": [
+    "Water, please! My mouth is on fire!",
+    "물 좀 주세요! 입에 불나요!"
+   ],
+   "find": "on fire",
+   "i": 25
+  },
+  {
+   "w": "cool down",
+   "ipa": "/kuːl daʊn/",
+   "pos": "동사구",
+   "ko": "식히다",
+   "ex": [
+    "Drink some milk to cool your mouth down.",
+    "우유를 마셔서 입을 식혀요."
+   ],
+   "find": "cool (\\w+ )*down",
+   "i": 21
+  },
+  {
+   "w": "mild",
+   "ipa": "/maɪld/",
+   "pos": "형용사",
+   "ko": "순한 (맵지 않은)",
+   "ex": [
+    "Can I have the mild one, please?",
+    "순한 맛으로 주실래요?"
+   ],
+   "i": 31
+  },
+  {
+   "w": "flavour",
+   "ipa": "/ˈfleɪvə/",
+   "pos": "명사",
+   "ko": "맛, 풍미",
+   "ex": [
+    "Spicy food has a lot of flavour.",
+    "매운 음식은 풍미가 강해요."
+   ],
+   "i": 14
+  }
+ ]
+}

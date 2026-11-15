@@ -1,0 +1,85 @@
+{
+ "videoId": "bGxdYW_6rjQ",
+ "words": [
+  {
+   "w": "bustling",
+   "ipa": "/ˈbʌslɪŋ/",
+   "pos": "형용사",
+   "ko": "북적이는, 활기찬",
+   "ex": [
+    "The market was bustling with people.",
+    "시장이 사람들로 북적였어요."
+   ],
+   "i": 8
+  },
+  {
+   "w": "convenient",
+   "ipa": "/kənˈviːniənt/",
+   "pos": "형용사",
+   "ko": "편리한",
+   "ex": [
+    "The hotel is convenient for the station.",
+    "호텔이 역에서 가까워 편리해요."
+   ],
+   "i": 12
+  },
+  {
+   "w": "public transport",
+   "ipa": "/ˈpʌblɪk ˈtrænspɔːt/",
+   "pos": "명사",
+   "ko": "대중교통",
+   "ex": [
+    "Seoul has excellent public transport.",
+    "서울은 대중교통이 아주 좋아요."
+   ],
+   "i": 14
+  },
+  {
+   "w": "spontaneous",
+   "ipa": "/spɒnˈteɪniəs/",
+   "pos": "형용사",
+   "ko": "즉흥적인",
+   "ex": [
+    "We made a spontaneous trip to the beach.",
+    "즉흥적으로 해변에 다녀왔어요."
+   ],
+   "i": 21
+  },
+  {
+   "w": "capital city",
+   "ipa": "/ˈkæpɪtl ˈsɪti/",
+   "pos": "명사",
+   "ko": "수도",
+   "ex": [
+    "Tokyo is the capital city of Japan.",
+    "도쿄는 일본의 수도예요."
+   ],
+   "find": "capital",
+   "i": 31
+  },
+  {
+   "w": "eat out",
+   "ipa": "/iːt aʊt/",
+   "pos": "동사구",
+   "ko": "외식하다",
+   "ex": [
+    "We eat out every Friday.",
+    "우리는 금요일마다 외식해요."
+   ],
+   "find": "eat(ing)? out",
+   "i": 36
+  },
+  {
+   "w": "I'd like to ...",
+   "ipa": "/aɪd laɪk tə/",
+   "pos": "표현",
+   "ko": "~하고 싶어요 (공손하게)",
+   "ex": [
+    "I'd like to visit Japan next year.",
+    "내년에 일본에 가 보고 싶어요."
+   ],
+   "find": "I'd (like|love) to",
+   "i": 57
+  }
+ ]
+}

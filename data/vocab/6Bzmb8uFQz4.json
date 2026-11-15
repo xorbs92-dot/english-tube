@@ -1,0 +1,77 @@
+{
+ "videoId": "6Bzmb8uFQz4",
+ "words": [
+  {
+   "w": "dream job",
+   "ipa": "/driːm dʒɒb/",
+   "pos": "명사",
+   "ko": "꿈의 직업",
+   "ex": [
+    "My dream job is to be a travel writer.",
+    "제 꿈의 직업은 여행 작가예요."
+   ],
+   "find": "dream jobs?",
+   "i": 7
+  },
+  {
+   "w": "When I was younger, I wanted to be ...",
+   "ipa": "/ˈjʌŋɡə/",
+   "pos": "표현",
+   "ko": "어렸을 땐 ~가 되고 싶었어요",
+   "ex": [
+    "When I was younger, I wanted to be a doctor.",
+    "어렸을 땐 의사가 되고 싶었어요."
+   ],
+   "find": "wanted to be",
+   "i": 14
+  },
+  {
+   "w": "grow up",
+   "ipa": "/ɡrəʊ ʌp/",
+   "pos": "동사구",
+   "ko": "자라다, 어른이 되다",
+   "ex": [
+    "What do you want to be when you grow up?",
+    "커서 뭐가 되고 싶어요?"
+   ],
+   "find": "gr(o|e)w up",
+   "i": 11
+  },
+  {
+   "w": "live abroad",
+   "ipa": "/lɪv əˈbrɔːd/",
+   "pos": "표현",
+   "ko": "해외에 살다",
+   "ex": [
+    "I'd love to live abroad for a year.",
+    "1년 동안 해외에서 살아 보고 싶어요."
+   ],
+   "find": "abroad",
+   "i": 29
+  },
+  {
+   "w": "be important to",
+   "ipa": "/ɪmˈpɔːtnt tə/",
+   "pos": "표현",
+   "ko": "~에게 중요하다",
+   "ex": [
+    "Family is important to me.",
+    "가족은 저한테 중요해요."
+   ],
+   "find": "important to",
+   "i": 30
+  },
+  {
+   "w": "If I could ..., I would ...",
+   "ipa": "/ɪf aɪ kʊd/ /aɪ wʊd/",
+   "pos": "문법",
+   "ko": "~할 수 있다면 ~할 텐데 (가정법)",
+   "ex": [
+    "If I could fly, I would go everywhere.",
+    "날 수 있다면 어디든 갈 텐데."
+   ],
+   "find": "if I (could|didn't)",
+   "i": 44
+  }
+ ]
+}

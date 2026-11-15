@@ -1,0 +1,84 @@
+{
+ "videoId": "xwseWCSXD3Y",
+ "words": [
+  {
+   "w": "stinky",
+   "ipa": "/ˈstɪŋki/",
+   "pos": "형용사",
+   "ko": "고약한 냄새가 나는",
+   "ex": [
+    "Take off your stinky socks!",
+    "냄새나는 양말 좀 벗어!"
+   ],
+   "i": 31
+  },
+  {
+   "w": "fragrant",
+   "ipa": "/ˈfreɪɡrənt/",
+   "pos": "형용사",
+   "ko": "향기로운",
+   "ex": [
+    "The garden is full of fragrant flowers.",
+    "정원이 향기로운 꽃으로 가득해요."
+   ],
+   "i": 31
+  },
+  {
+   "w": "subjective",
+   "ipa": "/səbˈdʒektɪv/",
+   "pos": "형용사",
+   "ko": "주관적인",
+   "ex": [
+    "Taste in music is very subjective.",
+    "음악 취향은 아주 주관적이에요."
+   ],
+   "i": 33
+  },
+  {
+   "w": "visual / auditory",
+   "ipa": "/ˈvɪʒuəl/ /ˈɔːdɪtri/",
+   "pos": "형용사",
+   "ko": "시각의 / 청각의",
+   "ex": [
+    "I'm a visual learner — I need pictures.",
+    "저는 시각형 학습자라 그림이 필요해요."
+   ],
+   "find": "visual",
+   "i": 44
+  },
+  {
+   "w": "olfactory",
+   "ipa": "/ɒlˈfæktəri/",
+   "pos": "형용사",
+   "ko": "후각의",
+   "ex": [
+    "Dogs have an amazing olfactory sense.",
+    "개는 후각이 엄청나요."
+   ],
+   "i": 50
+  },
+  {
+   "w": "shut something down",
+   "ipa": "/ʃʌt daʊn/",
+   "pos": "동사구",
+   "ko": "(대화 등을) 막다, 중단시키다",
+   "ex": [
+    "She shut the conversation down quickly.",
+    "그녀는 대화를 재빨리 끊었어요."
+   ],
+   "find": "shut (\\w+ )*down",
+   "i": 45
+  },
+  {
+   "w": "musty",
+   "ipa": "/ˈmʌsti/",
+   "pos": "형용사",
+   "ko": "곰팡내 나는, 쾨쾨한",
+   "ex": [
+    "The old room smelled musty.",
+    "오래된 방에서 쾨쾨한 냄새가 났어요."
+   ],
+   "i": 56
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "videoId": "I_tRSrPru94",
+ "words": [
+  {
+   "w": "What's your name?",
+   "ipa": "/wɒts jɔː neɪm/",
+   "pos": "표현",
+   "ko": "이름이 뭐예요?",
+   "ex": [
+    "Hi, I'm Anna. What's your name?",
+    "안녕하세요, 저는 애나예요. 이름이 뭐예요?"
+   ],
+   "find": "what'?s your name",
+   "i": 1
+  },
+  {
+   "w": "nice to meet you",
+   "ipa": "/naɪs tə miːt juː/",
+   "pos": "표현",
+   "ko": "만나서 반가워요",
+   "ex": [
+    "Nice to meet you. I'm Tom.",
+    "만나서 반가워요. 저는 톰이에요."
+   ],
+   "i": 7
+  },
+  {
+   "w": "lovely",
+   "ipa": "/ˈlʌvli/",
+   "pos": "형용사",
+   "ko": "정말 좋은, 반가운 (영국식으로 자주 씀)",
+   "ex": [
+    "It was lovely to see you again.",
+    "다시 봐서 정말 반가웠어요."
+   ],
+   "i": 8
+  },
+  {
+   "w": "How's it going?",
+   "ipa": "/haʊz ɪt ˈɡəʊɪŋ/",
+   "pos": "표현",
+   "ko": "잘 지내? (친근한 인사)",
+   "ex": [
+    "Hey Sam! How's it going?",
+    "안녕 샘! 잘 지내?"
+   ],
+   "find": "how's it going",
+   "i": 9
+  },
+  {
+   "w": "Hiya",
+   "ipa": "/ˈhaɪjə/",
+   "pos": "감탄사",
+   "ko": "안녕 (영국식 친근한 인사)",
+   "ex": [
+    "Hiya! Are you coming to the party?",
+    "안녕! 파티 올 거야?"
+   ],
+   "i": 20
+  },
+  {
+   "w": "his / her",
+   "ipa": "/hɪz/ /hɜː/",
+   "pos": "대명사",
+   "ko": "그의 / 그녀의",
+   "ex": [
+    "Her name's Lucy and his name's Ben.",
+    "그녀의 이름은 루시고, 그의 이름은 벤이에요."
+   ],
+   "find": "his name|her name",
+   "i": 31
+  },
+  {
+   "w": "Goodbye",
+   "ipa": "/ɡʊdˈbaɪ/",
+   "pos": "감탄사",
+   "ko": "안녕히 가세요 (작별 인사)",
+   "ex": [
+    "Goodbye! See you tomorrow.",
+    "안녕히 가세요! 내일 봬요."
+   ],
+   "i": 49
+  }
+ ]
+}

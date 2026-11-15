@@ -1,0 +1,74 @@
+{
+ "videoId": "LMtpF7ZQqGA",
+ "words": [
+  {
+   "w": "octopus",
+   "ipa": "/ˈɒktəpəs/",
+   "pos": "명사",
+   "ko": "문어 (복수 octopuses)",
+   "ex": [
+    "An octopus has eight arms.",
+    "문어는 팔이 여덟 개예요."
+   ],
+   "i": 11
+  },
+  {
+   "w": "tentacles",
+   "ipa": "/ˈtentəklz/",
+   "pos": "명사",
+   "ko": "(문어 등의) 촉수, 다리",
+   "ex": [
+    "The jellyfish has long tentacles.",
+    "해파리는 긴 촉수가 있어요."
+   ],
+   "find": "tentacles?",
+   "i": 16
+  },
+  {
+   "w": "threat",
+   "ipa": "/θret/",
+   "pos": "명사",
+   "ko": "위협",
+   "ex": [
+    "Climate change is a threat to coral reefs.",
+    "기후 변화는 산호초에 위협이에요."
+   ],
+   "i": 31
+  },
+  {
+   "w": "pollution",
+   "ipa": "/pəˈluːʃn/",
+   "pos": "명사",
+   "ko": "오염",
+   "ex": [
+    "Air pollution is bad in big cities.",
+    "대도시는 대기 오염이 심해요."
+   ],
+   "i": 32
+  },
+  {
+   "w": "single-use plastic",
+   "ipa": "/ˌsɪŋɡl juːs ˈplæstɪk/",
+   "pos": "명사",
+   "ko": "일회용 플라스틱",
+   "ex": [
+    "Many cafés have stopped using single-use plastic.",
+    "많은 카페가 일회용 플라스틱 사용을 중단했어요."
+   ],
+   "find": "single-use",
+   "i": 37
+  },
+  {
+   "w": "dolphin",
+   "ipa": "/ˈdɒlfɪn/",
+   "pos": "명사",
+   "ko": "돌고래",
+   "ex": [
+    "We saw dolphins from the boat.",
+    "배에서 돌고래를 봤어요."
+   ],
+   "find": "dolphins?",
+   "i": 23
+  }
+ ]
+}

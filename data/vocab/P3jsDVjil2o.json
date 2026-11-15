@@ -1,0 +1,76 @@
+{
+ "videoId": "P3jsDVjil2o",
+ "words": [
+  {
+   "w": "dessert / pudding",
+   "ipa": "/dɪˈzɜːt/ /ˈpʊdɪŋ/",
+   "pos": "명사",
+   "ko": "디저트 (영국에선 pudding이라고도 함)",
+   "ex": [
+    "What's for pudding tonight?",
+    "오늘 디저트는 뭐예요?"
+   ],
+   "find": "pudding|dessert",
+   "i": 6
+  },
+  {
+   "w": "have a sweet tooth",
+   "ipa": "/hæv ə swiːt tuːθ/",
+   "pos": "표현",
+   "ko": "단것을 좋아하다",
+   "ex": [
+    "I have a sweet tooth, so I love cake.",
+    "저는 단것을 좋아해서 케이크를 좋아해요."
+   ],
+   "find": "sweet tooth",
+   "i": 9
+  },
+  {
+   "w": "apple crumble",
+   "ipa": "/ˈæpl ˈkrʌmbl/",
+   "pos": "명사",
+   "ko": "애플 크럼블 (영국 전통 디저트)",
+   "ex": [
+    "Apple crumble is great with custard.",
+    "애플 크럼블은 커스터드랑 먹으면 맛있어요."
+   ],
+   "find": "crumble",
+   "i": 24
+  },
+  {
+   "w": "sharp / sour",
+   "ipa": "/ʃɑːp/ /ˈsaʊə/",
+   "pos": "형용사",
+   "ko": "(맛이) 새콤한 / 신",
+   "ex": [
+    "This lemon tart is a bit sharp.",
+    "이 레몬 타르트는 좀 새콤해요."
+   ],
+   "find": "sharp",
+   "i": 29
+  },
+  {
+   "w": "filling",
+   "ipa": "/ˈfɪlɪŋ/",
+   "pos": "형용사",
+   "ko": "배부르게 하는, 든든한",
+   "ex": [
+    "Rice is very filling.",
+    "밥은 아주 든든해요."
+   ],
+   "i": 34
+  },
+  {
+   "w": "chocolate person",
+   "ipa": "/ˈtʃɒklət ˈpɜːsn/",
+   "pos": "표현",
+   "ko": "초콜릿을 아주 좋아하는 사람 (… person)",
+   "ex": [
+    "I'm not a morning person.",
+    "저는 아침형 인간이 아니에요."
+   ],
+   "find": "person",
+   "i": 32
+  }
+ ]
+}

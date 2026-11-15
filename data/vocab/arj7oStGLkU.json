@@ -1,0 +1,85 @@
+{
+ "videoId": "arj7oStGLkU",
+ "words": [
+  {
+   "w": "procrastinate / procrastination",
+   "ipa": "/prəˈkræstɪneɪt/",
+   "pos": "동사·명사",
+   "ko": "미루다 / 미루는 버릇",
+   "ex": [
+    "I always procrastinate when I have homework.",
+    "저는 숙제가 있으면 항상 미뤄요."
+   ],
+   "find": "procrastinat",
+   "i": 40
+  },
+  {
+   "w": "deadline",
+   "ipa": "/ˈdedlaɪn/",
+   "pos": "명사",
+   "ko": "마감 기한",
+   "ex": [
+    "The deadline for the report is Friday.",
+    "보고서 마감은 금요일이에요."
+   ],
+   "i": 24
+  },
+  {
+   "w": "thesis",
+   "ipa": "/ˈθiːsɪs/",
+   "pos": "명사",
+   "ko": "(졸업·학위) 논문",
+   "ex": [
+    "She's writing her master's thesis.",
+    "그녀는 석사 논문을 쓰고 있어요."
+   ],
+   "i": 9
+  },
+  {
+   "w": "instant gratification",
+   "ipa": "/ˈɪnstənt ˌɡrætɪfɪˈkeɪʃn/",
+   "pos": "명사",
+   "ko": "즉각적인 만족",
+   "ex": [
+    "Social media gives us instant gratification.",
+    "SNS는 즉각적인 만족을 줘요."
+   ],
+   "find": "gratification",
+   "i": 51
+  },
+  {
+   "w": "rational",
+   "ipa": "/ˈræʃənl/",
+   "pos": "형용사",
+   "ko": "이성적인",
+   "ex": [
+    "Let's make a rational decision.",
+    "이성적으로 결정해요."
+   ],
+   "i": 51
+  },
+  {
+   "w": "dormant",
+   "ipa": "/ˈdɔːmənt/",
+   "pos": "형용사",
+   "ko": "잠자는, 휴면 상태의",
+   "ex": [
+    "The volcano has been dormant for 100 years.",
+    "그 화산은 100년간 휴면 상태였어요."
+   ],
+   "i": 90
+  },
+  {
+   "w": "long-term",
+   "ipa": "/ˌlɒŋ ˈtɜːm/",
+   "pos": "형용사",
+   "ko": "장기적인",
+   "ex": [
+    "Exercise has long-term health benefits.",
+    "운동은 장기적으로 건강에 좋아요."
+   ],
+   "find": "long-term",
+   "i": 75
+  }
+ ]
+}

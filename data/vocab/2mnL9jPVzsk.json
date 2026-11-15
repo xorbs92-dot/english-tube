@@ -1,0 +1,99 @@
+{
+ "videoId": "2mnL9jPVzsk",
+ "words": [
+  {
+   "w": "How does this ... look?",
+   "ipa": "/haʊ dəz ðɪs lʊk/",
+   "pos": "표현",
+   "ko": "이거 어때 보여요?",
+   "ex": [
+    "How does this jacket look on me?",
+    "이 재킷 저한테 어때 보여요?"
+   ],
+   "find": "how does this",
+   "i": 1
+  },
+  {
+   "w": "a bit big / small",
+   "ipa": "/ə bɪt bɪɡ/",
+   "pos": "표현",
+   "ko": "조금 큰 / 작은",
+   "ex": [
+    "These shoes are a bit small.",
+    "이 신발이 조금 작아요."
+   ],
+   "find": "a bit (big|small)",
+   "i": 9
+  },
+  {
+   "w": "Do you have this in a smaller size?",
+   "ipa": "/ə ˈsmɔːlə saɪz/",
+   "pos": "표현",
+   "ko": "이거 더 작은 사이즈 있어요?",
+   "ex": [
+    "Do you have this in a larger size?",
+    "이거 더 큰 사이즈 있어요?"
+   ],
+   "find": "in a (smaller|larger) size",
+   "i": 13
+  },
+  {
+   "w": "Do you have this in blue?",
+   "ipa": "/ɪn bluː/",
+   "pos": "표현",
+   "ko": "이거 파란색 있어요? (in + 색깔)",
+   "ex": [
+    "Do you have this in black?",
+    "이거 검은색 있어요?"
+   ],
+   "find": "do you have (this|these|it) in \\w+\\?",
+   "i": 22
+  },
+  {
+   "w": "Excuse me.",
+   "ipa": "/ɪkˈskjuːz miː/",
+   "pos": "표현",
+   "ko": "실례합니다, 저기요 (점원을 부를 때)",
+   "ex": [
+    "Excuse me, where are the fitting rooms?",
+    "저기요, 탈의실이 어디예요?"
+   ],
+   "find": "excuse me",
+   "i": 11
+  },
+  {
+   "w": "I'll take it / them.",
+   "ipa": "/aɪl teɪk ɪt/",
+   "pos": "표현",
+   "ko": "이걸로 살게요.",
+   "ex": [
+    "They fit perfectly. I'll take them.",
+    "딱 맞네요. 이걸로 살게요."
+   ],
+   "find": "I'll take",
+   "i": 25
+  },
+  {
+   "w": "trousers",
+   "ipa": "/ˈtraʊzəz/",
+   "pos": "명사",
+   "ko": "바지 (영국식, 미국은 pants)",
+   "ex": [
+    "These trousers are too long.",
+    "이 바지는 너무 길어요."
+   ],
+   "i": 98
+  },
+  {
+   "w": "gloves",
+   "ipa": "/ɡlʌvz/",
+   "pos": "명사",
+   "ko": "장갑",
+   "ex": [
+    "Wear gloves — it's cold outside.",
+    "장갑 껴요. 밖이 추워요."
+   ],
+   "i": 77
+  }
+ ]
+}

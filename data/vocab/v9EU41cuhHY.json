@@ -1,0 +1,98 @@
+{
+ "videoId": "v9EU41cuhHY",
+ "words": [
+  {
+   "w": "family tree",
+   "ipa": "/ˈfæməli triː/",
+   "pos": "명사",
+   "ko": "가계도",
+   "ex": [
+    "I drew my family tree for a school project.",
+    "학교 과제로 가계도를 그렸어요."
+   ],
+   "i": 5
+  },
+  {
+   "w": "daughter / son",
+   "ipa": "/ˈdɔːtə/ /sʌn/",
+   "pos": "명사",
+   "ko": "딸 / 아들",
+   "ex": [
+    "They have one daughter and two sons.",
+    "그들은 딸 하나, 아들 둘이 있어요."
+   ],
+   "find": "daughter",
+   "i": 7
+  },
+  {
+   "w": "husband / wife",
+   "ipa": "/ˈhʌzbənd/ /waɪf/",
+   "pos": "명사",
+   "ko": "남편 / 아내",
+   "ex": [
+    "This is my wife, Sarah.",
+    "이쪽은 제 아내 사라예요."
+   ],
+   "find": "husband|wife",
+   "i": 11
+  },
+  {
+   "w": "aunt / uncle",
+   "ipa": "/ɑːnt/ /ˈʌŋkl/",
+   "pos": "명사",
+   "ko": "이모·고모 / 삼촌",
+   "ex": [
+    "My aunt lives in Australia.",
+    "이모는 호주에 살아요."
+   ],
+   "find": "aunt",
+   "i": 18
+  },
+  {
+   "w": "niece / nephew",
+   "ipa": "/niːs/ /ˈnefjuː/",
+   "pos": "명사",
+   "ko": "조카딸 / 조카아들",
+   "ex": [
+    "My nephew is five years old.",
+    "조카는 다섯 살이에요."
+   ],
+   "find": "niece|nephew",
+   "i": 17
+  },
+  {
+   "w": "grandparents",
+   "ipa": "/ˈɡrænpeərənts/",
+   "pos": "명사",
+   "ko": "조부모님",
+   "ex": [
+    "I visit my grandparents every summer.",
+    "매년 여름 조부모님 댁에 가요."
+   ],
+   "i": 22
+  },
+  {
+   "w": "only child",
+   "ipa": "/ˈəʊnli tʃaɪld/",
+   "pos": "명사",
+   "ko": "외동",
+   "ex": [
+    "I'm an only child, so I have no brothers or sisters.",
+    "저는 외동이라 형제자매가 없어요."
+   ],
+   "i": 40
+  },
+  {
+   "w": "Do you have any brothers or sisters?",
+   "ipa": "/ˈbrʌðəz ɔː ˈsɪstəz/",
+   "pos": "표현",
+   "ko": "형제자매가 있어요?",
+   "ex": [
+    "Do you have any brothers or sisters? — One sister.",
+    "형제자매 있어요? — 여동생 한 명이요."
+   ],
+   "find": "brothers or sisters",
+   "i": 14
+  }
+ ]
+}

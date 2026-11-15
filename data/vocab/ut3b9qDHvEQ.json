@@ -1,0 +1,86 @@
+{
+ "videoId": "ut3b9qDHvEQ",
+ "words": [
+  {
+   "w": "conflict zone",
+   "ipa": "/ˈkɒnflɪkt zəʊn/",
+   "pos": "명사",
+   "ko": "분쟁 지역",
+   "ex": [
+    "Millions of children live in conflict zones.",
+    "수백만 명의 아이들이 분쟁 지역에 살아요."
+   ],
+   "find": "conflict zones?",
+   "i": 6
+  },
+  {
+   "w": "hypervigilant",
+   "ipa": "/ˌhaɪpəˈvɪdʒɪlənt/",
+   "pos": "형용사",
+   "ko": "과잉 경계하는",
+   "ex": [
+    "After the accident, she became hypervigilant on the road.",
+    "사고 후 그녀는 도로에서 과하게 경계하게 됐어요."
+   ],
+   "find": "hypervigilan",
+   "i": 14
+  },
+  {
+   "w": "be of one mind",
+   "ipa": "/əv wʌn maɪnd/",
+   "pos": "표현",
+   "ko": "한마음이다, 의견이 같다",
+   "ex": [
+    "The team is of one mind on this decision.",
+    "이 결정에 대해 팀은 한마음이에요."
+   ],
+   "find": "of one mind",
+   "i": 22
+  },
+  {
+   "w": "confront",
+   "ipa": "/kənˈfrʌnt/",
+   "pos": "동사",
+   "ko": "마주하다, 맞서다",
+   "ex": [
+    "You need to confront your fears.",
+    "두려움에 맞서야 해요."
+   ],
+   "i": 27
+  },
+  {
+   "w": "nightmare",
+   "ipa": "/ˈnaɪtmeə/",
+   "pos": "명사",
+   "ko": "악몽",
+   "ex": [
+    "I had a nightmare last night.",
+    "어젯밤에 악몽을 꿨어요."
+   ],
+   "i": 29
+  },
+  {
+   "w": "phenomenally",
+   "ipa": "/fəˈnɒmɪnəli/",
+   "pos": "부사",
+   "ko": "놀라울 만큼",
+   "ex": [
+    "The book was phenomenally successful.",
+    "그 책은 놀라울 만큼 성공했어요."
+   ],
+   "find": "phenomenal",
+   "i": 37
+  },
+  {
+   "w": "resilient",
+   "ipa": "/rɪˈzɪliənt/",
+   "pos": "형용사",
+   "ko": "회복력 있는",
+   "ex": [
+    "Children are often very resilient.",
+    "아이들은 대개 회복력이 아주 강해요."
+   ],
+   "i": 37
+  }
+ ]
+}

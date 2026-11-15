@@ -1,0 +1,96 @@
+{
+ "videoId": "3FP-RbqWB_s",
+ "words": [
+  {
+   "w": "waste",
+   "ipa": "/weɪst/",
+   "pos": "명사",
+   "ko": "쓰레기, 낭비",
+   "ex": [
+    "We need to reduce food waste.",
+    "음식물 쓰레기를 줄여야 해요."
+   ],
+   "i": 9
+  },
+  {
+   "w": "rubbish",
+   "ipa": "/ˈrʌbɪʃ/",
+   "pos": "명사",
+   "ko": "쓰레기 (영국식, 미국은 trash)",
+   "ex": [
+    "Please take the rubbish out.",
+    "쓰레기 좀 내다 버려 줘요."
+   ],
+   "i": 10
+  },
+  {
+   "w": "recycle",
+   "ipa": "/ˌriːˈsaɪkl/",
+   "pos": "동사",
+   "ko": "재활용하다",
+   "ex": [
+    "We recycle glass and paper.",
+    "우리는 유리와 종이를 재활용해요."
+   ],
+   "i": 13
+  },
+  {
+   "w": "single-use plastic",
+   "ipa": "/ˌsɪŋɡl juːs ˈplæstɪk/",
+   "pos": "명사",
+   "ko": "일회용 플라스틱",
+   "ex": [
+    "Try to avoid single-use plastic bags.",
+    "일회용 비닐봉지는 피하도록 해요."
+   ],
+   "find": "single-use",
+   "i": 40
+  },
+  {
+   "w": "reusable",
+   "ipa": "/ˌriːˈjuːzəbl/",
+   "pos": "형용사",
+   "ko": "재사용할 수 있는",
+   "ex": [
+    "I carry a reusable water bottle.",
+    "저는 다회용 물병을 들고 다녀요."
+   ],
+   "i": 31
+  },
+  {
+   "w": "rely on",
+   "ipa": "/rɪˈlaɪ ɒn/",
+   "pos": "동사구",
+   "ko": "~에 의존하다",
+   "ex": [
+    "We rely on our phones too much.",
+    "우리는 휴대폰에 너무 의존해요."
+   ],
+   "find": "rely on",
+   "i": 29
+  },
+  {
+   "w": "cut back on",
+   "ipa": "/kʌt bæk ɒn/",
+   "pos": "동사구",
+   "ko": "~을 줄이다",
+   "ex": [
+    "I want to cut back on plastic.",
+    "플라스틱 사용을 줄이고 싶어요."
+   ],
+   "find": "cut (back|down) on",
+   "i": 51
+  },
+  {
+   "w": "clingfilm",
+   "ipa": "/ˈklɪŋfɪlm/",
+   "pos": "명사",
+   "ko": "랩 (식품 포장용)",
+   "ex": [
+    "Cover the bowl with clingfilm.",
+    "그릇을 랩으로 덮으세요."
+   ],
+   "i": 53
+  }
+ ]
+}

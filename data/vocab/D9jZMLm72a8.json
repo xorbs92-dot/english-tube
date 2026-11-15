@@ -1,0 +1,77 @@
+{
+ "videoId": "D9jZMLm72a8",
+ "words": [
+  {
+   "w": "household chores",
+   "ipa": "/ˈhaʊshəʊld tʃɔːz/",
+   "pos": "명사",
+   "ko": "집안일",
+   "ex": [
+    "We share the household chores.",
+    "우리는 집안일을 나눠서 해요."
+   ],
+   "find": "chores",
+   "i": 2
+  },
+  {
+   "w": "do your fair share",
+   "ipa": "/fɛə ʃeə/",
+   "pos": "표현",
+   "ko": "자기 몫을 공평하게 하다",
+   "ex": [
+    "Everyone should do their fair share of cleaning.",
+    "모두가 청소를 공평하게 해야 해요."
+   ],
+   "find": "fair share",
+   "i": 10
+  },
+  {
+   "w": "women's work",
+   "ipa": "/ˈwɪmɪnz wɜːk/",
+   "pos": "명사",
+   "ko": "'여자 일' (부정적 고정관념)",
+   "ex": [
+    "Cooking isn't just women's work.",
+    "요리는 '여자 일'만이 아니에요."
+   ],
+   "find": "women's work",
+   "i": 31
+  },
+  {
+   "w": "division of labour",
+   "ipa": "/dɪˈvɪʒn əv ˈleɪbə/",
+   "pos": "명사",
+   "ko": "분업",
+   "ex": [
+    "There's a clear division of labour in our team.",
+    "우리 팀은 분업이 분명해요."
+   ],
+   "find": "division of labour",
+   "i": 32
+  },
+  {
+   "w": "take a breather",
+   "ipa": "/teɪk ə ˈbriːðə/",
+   "pos": "표현",
+   "ko": "잠깐 쉬다, 한숨 돌리다",
+   "ex": [
+    "Let's take a breather before we continue.",
+    "계속하기 전에 잠깐 쉬어요."
+   ],
+   "find": "breather",
+   "i": 41
+  },
+  {
+   "w": "pull your weight",
+   "ipa": "/pʊl jɔː weɪt/",
+   "pos": "표현",
+   "ko": "제 몫을 하다",
+   "ex": [
+    "He doesn't pull his weight at home.",
+    "그는 집에서 제 몫을 안 해요."
+   ],
+   "find": "pull(ing)? (your|their|his|her) weight",
+   "i": 43
+  }
+ ]
+}

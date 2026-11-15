@@ -1,0 +1,87 @@
+{
+ "videoId": "0W6PymVdXVw",
+ "words": [
+  {
+   "w": "check in",
+   "ipa": "/tʃek ɪn/",
+   "pos": "동사구",
+   "ko": "탑승 수속을 하다",
+   "ex": [
+    "You need to check in two hours before the flight.",
+    "비행 두 시간 전에 탑승 수속을 해야 해요."
+   ],
+   "find": "check.in",
+   "i": 11
+  },
+  {
+   "w": "boarding pass",
+   "ipa": "/ˈbɔːdɪŋ pɑːs/",
+   "pos": "명사",
+   "ko": "탑승권",
+   "ex": [
+    "Please show your boarding pass.",
+    "탑승권을 보여 주세요."
+   ],
+   "i": 17
+  },
+  {
+   "w": "go through security",
+   "ipa": "/ɡəʊ θruː sɪˈkjʊərəti/",
+   "pos": "표현",
+   "ko": "보안 검색대를 통과하다",
+   "ex": [
+    "It took 30 minutes to go through security.",
+    "보안 검색대 통과하는 데 30분 걸렸어요."
+   ],
+   "find": "through security",
+   "i": 22
+  },
+  {
+   "w": "boarding gate",
+   "ipa": "/ˈbɔːdɪŋ ɡeɪt/",
+   "pos": "명사",
+   "ko": "탑승구",
+   "ex": [
+    "Our boarding gate is number 12.",
+    "우리 탑승구는 12번이에요."
+   ],
+   "find": "gate",
+   "i": 15
+  },
+  {
+   "w": "catch a flight",
+   "ipa": "/kætʃ ə flaɪt/",
+   "pos": "표현",
+   "ko": "비행기를 타다 (제시간에)",
+   "ex": [
+    "I have to catch a flight at six.",
+    "6시 비행기를 타야 해요."
+   ],
+   "find": "catch",
+   "i": 63
+  },
+  {
+   "w": "miss a flight",
+   "ipa": "/mɪs ə flaɪt/",
+   "pos": "표현",
+   "ko": "비행기를 놓치다",
+   "ex": [
+    "We missed our flight because of traffic.",
+    "차가 막혀서 비행기를 놓쳤어요."
+   ],
+   "find": "miss",
+   "i": 37
+  },
+  {
+   "w": "stressful",
+   "ipa": "/ˈstresfl/",
+   "pos": "형용사",
+   "ko": "스트레스가 많은",
+   "ex": [
+    "Airports can be very stressful.",
+    "공항은 아주 스트레스받을 수 있어요."
+   ],
+   "i": 32
+  }
+ ]
+}

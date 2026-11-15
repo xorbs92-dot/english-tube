@@ -1,0 +1,86 @@
+{
+ "videoId": "SC_opiKLohg",
+ "words": [
+  {
+   "w": "driverless car",
+   "ipa": "/ˈdraɪvələs kɑː/",
+   "pos": "명사",
+   "ko": "자율주행차",
+   "ex": [
+    "Would you ride in a driverless car?",
+    "자율주행차를 타 볼래요?"
+   ],
+   "find": "driverless cars?",
+   "i": 3
+  },
+  {
+   "w": "eye contact",
+   "ipa": "/aɪ ˈkɒntækt/",
+   "pos": "명사",
+   "ko": "눈 맞춤",
+   "ex": [
+    "Make eye contact when you speak.",
+    "말할 때 눈을 마주치세요."
+   ],
+   "i": 8
+  },
+  {
+   "w": "wave",
+   "ipa": "/weɪv/",
+   "pos": "동사",
+   "ko": "손을 흔들다",
+   "ex": [
+    "She waved at me from the bus.",
+    "그녀가 버스에서 저한테 손을 흔들었어요."
+   ],
+   "find": "\\bwav",
+   "i": 8
+  },
+  {
+   "w": "alert",
+   "ipa": "/əˈlɜːt/",
+   "pos": "동사",
+   "ko": "경고하다, 알리다",
+   "ex": [
+    "The app alerts you when it's going to rain.",
+    "비가 올 때 앱이 알려 줘요."
+   ],
+   "i": 31
+  },
+  {
+   "w": "animation",
+   "ipa": "/ˌænɪˈmeɪʃn/",
+   "pos": "명사",
+   "ko": "애니메이션, 움직이는 화면",
+   "ex": [
+    "The screen shows an animation of a walking man.",
+    "화면에 걷는 사람 애니메이션이 나와요."
+   ],
+   "find": "animations?",
+   "i": 33
+  },
+  {
+   "w": "glance",
+   "ipa": "/ɡlɑːns/",
+   "pos": "명사·동사",
+   "ko": "힐끗 봄 / 힐끗 보다",
+   "ex": [
+    "She glanced at her watch.",
+    "그녀는 시계를 힐끗 봤어요."
+   ],
+   "i": 34
+  },
+  {
+   "w": "jaywalking",
+   "ipa": "/ˈdʒeɪwɔːkɪŋ/",
+   "pos": "명사",
+   "ko": "무단횡단",
+   "ex": [
+    "Jaywalking is illegal in many countries.",
+    "많은 나라에서 무단횡단은 불법이에요."
+   ],
+   "find": "jaywalk",
+   "i": 48
+  }
+ ]
+}

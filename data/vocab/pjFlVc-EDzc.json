@@ -1,0 +1,77 @@
+{
+ "videoId": "pjFlVc-EDzc",
+ "words": [
+  {
+   "w": "nutrients",
+   "ipa": "/ˈnjuːtriənts/",
+   "pos": "명사",
+   "ko": "영양소",
+   "ex": [
+    "Vegetables are full of nutrients.",
+    "채소에는 영양소가 가득해요."
+   ],
+   "find": "nutrients?",
+   "i": 20
+  },
+  {
+   "w": "saturated fats",
+   "ipa": "/ˈsætʃəreɪtɪd fæts/",
+   "pos": "명사",
+   "ko": "포화지방",
+   "ex": [
+    "Butter is high in saturated fats.",
+    "버터는 포화지방이 많아요."
+   ],
+   "find": "saturated fat",
+   "i": 26
+  },
+  {
+   "w": "deep sleep",
+   "ipa": "/diːp sliːp/",
+   "pos": "명사",
+   "ko": "깊은 잠",
+   "ex": [
+    "I need eight hours of deep sleep.",
+    "8시간은 푹 자야 해요."
+   ],
+   "find": "deep sleep|deeper sleep",
+   "i": 26
+  },
+  {
+   "w": "supplements",
+   "ipa": "/ˈsʌplɪmənts/",
+   "pos": "명사",
+   "ko": "영양제, 보충제",
+   "ex": [
+    "I take vitamin D supplements in winter.",
+    "겨울엔 비타민D 영양제를 먹어요."
+   ],
+   "find": "supplements?",
+   "i": 37
+  },
+  {
+   "w": "feed information",
+   "ipa": "/fiːd ˌɪnfəˈmeɪʃn/",
+   "pos": "표현",
+   "ko": "정보를 계속 주다",
+   "ex": [
+    "The app feeds you news all day.",
+    "그 앱은 하루 종일 뉴스를 쏟아 줘요."
+   ],
+   "find": "fe(e)?d",
+   "i": 42
+  },
+  {
+   "w": "magic bullet",
+   "ipa": "/ˌmædʒɪk ˈbʊlɪt/",
+   "pos": "표현",
+   "ko": "만병통치약, 간단한 해결책",
+   "ex": [
+    "There's no magic bullet for losing weight.",
+    "살 빼는 데 만능 해결책은 없어요."
+   ],
+   "find": "magic bullet",
+   "i": 44
+  }
+ ]
+}

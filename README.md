@@ -58,6 +58,9 @@ cd ~/Desktop/AI/app/english_tube
 
 ## 학습 화면 기능
 
+- **← 홈:** 영상 위 바의 버튼으로 언제든 시작 페이지로 돌아가기
+- **📖 단어:** 강의별 주요 단어·표현 (뜻, 발음기호, 🔊 기기 음성 / 🐢 천천히, ▶ 영상 속 문장을 누르면 그 부분만 원어민 음성으로 재생, 추가 예문과 해석)
+
 - **자막 모드:** 영+한 / 영어만 / 한글만 / 가리기 (가리기는 문장을 클릭하면 보여요, 듣기 테스트용)
 - **문장 이동:** 스크립트 문장을 클릭하면 그 문장으로 이동, ◀ 이전 / ↺ 다시 / 다음 ▶
 - **🔁 반복:** 현재 문장을 무한 반복
@@ -80,6 +83,8 @@ manifest.json icon-*.png  홈 화면 추가용
 index.html app.js style.css   학습 앱
 data/courses.json   코스 목록과 순서 (직접 편집해서 순서를 바꿔도 됨)
 data/subs/<id>.json 영상별 문장 자막 {s, e, en, ko}
+data/vocab/<id>.json 영상별 단어장 {w, ipa, pos, ko, ex, i(영상 속 문장 번호), find}
+tools/mkvocab.py    단어장 만들기: tools/vocab/*.json 원본 → data/vocab (.venv/bin/python tools/mkvocab.py tools/vocab/파일.json)
 ```
 
 ## 알려진 한계

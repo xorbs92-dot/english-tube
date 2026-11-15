@@ -1,0 +1,77 @@
+{
+ "videoId": "HHLfkHkUc14",
+ "words": [
+  {
+   "w": "difficult job",
+   "ipa": "/ˈdɪfɪkəlt dʒɒb/",
+   "pos": "표현",
+   "ko": "힘든 일, 고된 직업",
+   "ex": [
+    "Nursing is a difficult job.",
+    "간호는 힘든 일이에요."
+   ],
+   "find": "difficult job",
+   "i": 4
+  },
+  {
+   "w": "stressful / stressed",
+   "ipa": "/ˈstresfl/ /strest/",
+   "pos": "형용사",
+   "ko": "스트레스 주는 / 스트레스받은",
+   "ex": [
+    "My job is stressful, so I often feel stressed.",
+    "일이 스트레스가 많아서 자주 스트레스를 받아요."
+   ],
+   "find": "stressful",
+   "i": 36
+  },
+  {
+   "w": "exhausting / exhausted",
+   "ipa": "/ɪɡˈzɔːstɪŋ/ /ɪɡˈzɔːstɪd/",
+   "pos": "형용사",
+   "ko": "진을 빼는 / 기진맥진한",
+   "ex": [
+    "The hike was exhausting. I'm exhausted!",
+    "하이킹이 너무 힘들었어요. 녹초예요!"
+   ],
+   "find": "exhausting",
+   "i": 27
+  },
+  {
+   "w": "annoying / annoyed",
+   "ipa": "/əˈnɔɪɪŋ/ /əˈnɔɪd/",
+   "pos": "형용사",
+   "ko": "짜증 나게 하는 / 짜증 난",
+   "ex": [
+    "That noise is annoying.",
+    "저 소음 짜증 나요."
+   ],
+   "find": "annoying",
+   "i": 26
+  },
+  {
+   "w": "take something personally",
+   "ipa": "/teɪk ˈpɜːsənəli/",
+   "pos": "표현",
+   "ko": "(남의 말을) 자기에 대한 공격으로 받아들이다",
+   "ex": [
+    "Don't take it personally — he's rude to everyone.",
+    "너무 마음에 담아 두지 마요. 그는 모두에게 무례해요."
+   ],
+   "find": "personally",
+   "i": 39
+  },
+  {
+   "w": "take something to heart",
+   "ipa": "/teɪk tə hɑːt/",
+   "pos": "표현",
+   "ko": "마음에 깊이 담아 두다, 상처받다",
+   "ex": [
+    "She took his comments to heart.",
+    "그녀는 그의 말을 마음에 담아 뒀어요."
+   ],
+   "find": "to heart",
+   "i": 42
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "videoId": "1VQNMDSzWpE",
+ "words": [
+  {
+   "w": "itch / itchy",
+   "ipa": "/ɪtʃ/ /ˈɪtʃi/",
+   "pos": "명사·형용사",
+   "ko": "가려움 / 가려운",
+   "ex": [
+    "This sweater is really itchy.",
+    "이 스웨터 정말 가려워요."
+   ],
+   "find": "itch",
+   "i": 4
+  },
+  {
+   "w": "scratch",
+   "ipa": "/skrætʃ/",
+   "pos": "동사",
+   "ko": "긁다",
+   "ex": [
+    "Try not to scratch the mosquito bite.",
+    "모기 물린 데를 긁지 않도록 해요."
+   ],
+   "i": 5
+  },
+  {
+   "w": "unpack",
+   "ipa": "/ʌnˈpæk/",
+   "pos": "동사",
+   "ko": "(개념을) 풀어서 설명하다",
+   "ex": [
+    "Let's unpack what that really means.",
+    "그게 진짜 무슨 뜻인지 풀어 봐요."
+   ],
+   "i": 27
+  },
+  {
+   "w": "parasite",
+   "ipa": "/ˈpærəsaɪt/",
+   "pos": "명사",
+   "ko": "기생충",
+   "ex": [
+    "Some parasites live on the skin.",
+    "어떤 기생충은 피부에 살아요."
+   ],
+   "find": "parasites?",
+   "i": 28
+  },
+  {
+   "w": "spontaneously",
+   "ipa": "/spɒnˈteɪniəsli/",
+   "pos": "부사",
+   "ko": "자연스럽게, 저절로, 즉흥적으로",
+   "ex": [
+    "The crowd spontaneously started clapping.",
+    "관중이 저절로 박수를 치기 시작했어요."
+   ],
+   "find": "spontaneous",
+   "i": 41
+  },
+  {
+   "w": "catch",
+   "ipa": "/kætʃ/",
+   "pos": "동사",
+   "ko": "(병 등이) 옮다",
+   "ex": [
+    "I caught a cold from my son.",
+    "아들한테 감기가 옮았어요."
+   ],
+   "find": "catch|caught",
+   "i": 42
+  }
+ ]
+}

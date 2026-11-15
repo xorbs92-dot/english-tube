@@ -1,0 +1,86 @@
+{
+ "videoId": "W_yFHgHafKM",
+ "words": [
+  {
+   "w": "extended family",
+   "ipa": "/ɪkˈstendɪd ˈfæməli/",
+   "pos": "명사",
+   "ko": "친척 (확대 가족)",
+   "ex": [
+    "My extended family meets every Chuseok.",
+    "친척들은 추석마다 모여요."
+   ],
+   "i": 26
+  },
+  {
+   "w": "cousin",
+   "ipa": "/ˈkʌzn/",
+   "pos": "명사",
+   "ko": "사촌",
+   "ex": [
+    "My cousin lives in Canada.",
+    "사촌이 캐나다에 살아요."
+   ],
+   "find": "cousins?",
+   "i": 11
+  },
+  {
+   "w": "be close to / with",
+   "ipa": "/kləʊs/",
+   "pos": "표현",
+   "ko": "~와 가깝다, 친하다",
+   "ex": [
+    "I'm very close to my grandmother.",
+    "저는 할머니와 아주 가까워요."
+   ],
+   "find": "close (with|to)",
+   "i": 30
+  },
+  {
+   "w": "family tree",
+   "ipa": "/ˈfæməli triː/",
+   "pos": "명사",
+   "ko": "가계도",
+   "ex": [
+    "Let's look at our family tree.",
+    "우리 가계도를 보자."
+   ],
+   "i": 42
+  },
+  {
+   "w": "ancestors",
+   "ipa": "/ˈænsestəz/",
+   "pos": "명사",
+   "ko": "조상",
+   "ex": [
+    "My ancestors came from Ireland.",
+    "제 조상은 아일랜드에서 왔어요."
+   ],
+   "i": 47
+  },
+  {
+   "w": "look up",
+   "ipa": "/lʊk ʌp/",
+   "pos": "동사구",
+   "ko": "(정보를) 찾아보다",
+   "ex": [
+    "I looked up the word in a dictionary.",
+    "사전에서 그 단어를 찾아봤어요."
+   ],
+   "find": "look(ed)? (\\w+ )?up",
+   "i": 52
+  },
+  {
+   "w": "great-grandmother",
+   "ipa": "/ˌɡreɪt ˈɡrænmʌðə/",
+   "pos": "명사",
+   "ko": "증조할머니",
+   "ex": [
+    "My great-grandmother was born in 1920.",
+    "증조할머니는 1920년에 태어나셨어요."
+   ],
+   "find": "great.grand",
+   "i": 49
+  }
+ ]
+}

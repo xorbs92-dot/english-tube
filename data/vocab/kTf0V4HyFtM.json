@@ -1,0 +1,87 @@
+{
+ "videoId": "kTf0V4HyFtM",
+ "words": [
+  {
+   "w": "What did you do at the weekend?",
+   "ipa": "/wɒt dɪd juː duː ət ðə ˌwiːkˈend/",
+   "pos": "표현",
+   "ko": "주말에 뭐 했어요? (영국식 at the weekend)",
+   "ex": [
+    "What did you do at the weekend? — I went shopping.",
+    "주말에 뭐 했어요? — 쇼핑 갔어요."
+   ],
+   "find": "what did you do at the weekend",
+   "i": 1
+  },
+  {
+   "w": "went",
+   "ipa": "/went/",
+   "pos": "동사",
+   "ko": "갔다 (go의 과거)",
+   "ex": [
+    "I went hiking with my friends.",
+    "친구들이랑 하이킹 갔어요."
+   ],
+   "find": "\\bwent\\b",
+   "i": 8
+  },
+  {
+   "w": "ate",
+   "ipa": "/et/",
+   "pos": "동사",
+   "ko": "먹었다 (eat의 과거, 영국식 '엣')",
+   "ex": [
+    "We ate pizza for dinner.",
+    "저녁으로 피자를 먹었어요."
+   ],
+   "find": "\\bate\\b",
+   "i": 12
+  },
+  {
+   "w": "watched",
+   "ipa": "/wɒtʃt/",
+   "pos": "동사",
+   "ko": "봤다 (watch의 과거)",
+   "ex": [
+    "I watched a horror film last night.",
+    "어젯밤에 공포 영화를 봤어요."
+   ],
+   "i": 15
+  },
+  {
+   "w": "made",
+   "ipa": "/meɪd/",
+   "pos": "동사",
+   "ko": "만들었다 (make의 과거)",
+   "ex": [
+    "She made a chocolate cake.",
+    "그녀는 초콜릿 케이크를 만들었어요."
+   ],
+   "find": "\\bmade\\b",
+   "i": 33
+  },
+  {
+   "w": "flavour",
+   "ipa": "/ˈfleɪvə/",
+   "pos": "명사",
+   "ko": "맛 (영국식 철자, 미국은 flavor)",
+   "ex": [
+    "What's your favourite ice cream flavour?",
+    "제일 좋아하는 아이스크림 맛이 뭐예요?"
+   ],
+   "i": 26
+  },
+  {
+   "w": "How was your weekend?",
+   "ipa": "/haʊ wɒz jɔː ˌwiːkˈend/",
+   "pos": "표현",
+   "ko": "주말 어땠어요?",
+   "ex": [
+    "How was your weekend? — It was great!",
+    "주말 어땠어요? — 정말 좋았어요!"
+   ],
+   "find": "how was your weekend",
+   "i": 18
+  }
+ ]
+}

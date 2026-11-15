@@ -25,6 +25,11 @@
   <div class="lesson">
     <section class="left">
       <div class="stick">
+        <div class="lesson-bar">
+          <a href="#/" class="home-btn">← 홈</a>
+          <span class="lb-title" id="lb-title"></span>
+          <button id="vocab-btn" class="vocab-btn">📖 단어</button>
+        </div>
         <div class="player-wrap"><div id="player"></div></div>
         <div class="current" id="current">
           <div class="cur-en"></div>
@@ -60,8 +65,15 @@
       <p class="keys">단축키: Space 재생/정지 · ←/→ 문장 이동 · ↓ 다시 · R 반복 · P 쉐도잉 · S 저장 · 1~4 자막 모드</p>
     </section>
     <section class="right">
-      <div class="script-head"><span id="script-title">스크립트</span><label><input type="checkbox" id="follow" checked> 자동 스크롤</label></div>
+      <div class="script-head">
+        <div class="tabs" id="tabs">
+          <button data-tab="script" class="on" id="script-title">스크립트</button>
+          <button data-tab="vocab" id="vocab-title">단어</button>
+        </div>
+        <label id="follow-wrap"><input type="checkbox" id="follow" checked> 자동 스크롤</label>
+      </div>
       <ol class="script" id="script"></ol>
+      <ol class="vocab" id="vocab" hidden></ol>
     </section>
   </div>
 </template>

@@ -103,9 +103,15 @@ async function showLesson(course, idx) {
   app.append($("#lesson-tpl").content.cloneNode(true));
   const root = $(".lesson");
 
-  const subs = await fetch(`data/subs/${vid}.json`, { cache: "no-store" }).then((r) => r.json());
+  $("#lb-title").textContent = `${idx + 1}강 · ${lesson.title}`;
+  const [subs, vocab] = await Promise.all([
+    fetch(`data/subs/${vid}.json`, { cache: "no-store" }).then((r) => r.json()),
+    fetch(`data/vocab/${vid}.json`, { cache: "no-store" }).then((r) => (r.ok ? r.json() : null)).catch(() => null),
+  ]);
   const S = subs.sentences;
-  $("#script-title").textContent = `스크립트 · ${S.length}문장`;
+  const W = vocab?.words || [];
+  $("#script-title").textContent = `스크립트 ${S.length}`;
+  $("#vocab-title").textContent = W.length ? `단어 ${W.length}` : "단어";
 
   // 스크립트 목록
   const list = $("#script");
@@ -114,8 +120,60 @@ async function showLesson(course, idx) {
     <span class="tm">${fmt(s.s)}</span><div class="en">${esc(s.en)}</div>${s.ko ? `<div class="ko">${esc(s.ko)}</div>` : ""}</li>`).join("");
   const items = [...list.children];
 
+  // 단어장
+  const hl = (text, re) => {
+    if (!re) return esc(text);
+    const m = text.match(re);
+    if (!m) return esc(text);
+    return esc(text.slice(0, m.index)) + "<mark>" + esc(m[0]) + "</mark>" + esc(text.slice(m.index + m[0].length));
+  };
+  const vlist = $("#vocab");
+  vlist.innerHTML = W.length ? W.map((w, k) => {
+    let re = null; try { re = new RegExp(w.find || w.w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), "i"); } catch {}
+    const s = S[w.i];
+    return `<li data-k="${k}">
+      <div class="vw-head"><b class="vw-w">${esc(w.w)}</b>${w.ipa ? `<span class="vw-ipa">${esc(w.ipa)}</span>` : ""}${w.pos ? `<span class="vw-pos">${esc(w.pos)}</span>` : ""}
+        <span class="vw-say"><button data-say="${esc(w.w)}" title="발음 듣기">🔊</button><button data-say="${esc(w.w)}" data-slow="1" title="천천히">🐢</button></span></div>
+      <div class="vw-ko">${esc(w.ko)}</div>
+      ${s ? `<div class="vw-clip" data-i="${w.i}" title="영상에서 원어민 발음 듣기"><span class="vw-tag">▶ 영상 속 문장</span><div class="vw-en">${hl(s.en, re)}</div>${s.ko ? `<div class="vw-k">${esc(s.ko)}</div>` : ""}</div>` : ""}
+      ${w.ex ? `<div class="vw-ex"><span class="vw-tag">예문</span><button data-say="${esc(w.ex[0])}" class="vw-exsay" title="예문 듣기">🔊</button><div class="vw-en">${hl(w.ex[0], re)}</div><div class="vw-k">${esc(w.ex[1])}</div></div>` : ""}
+    </li>`;
+  }).join("") : `<li class="vw-empty">이 강의는 아직 단어 정리가 없어요.</li>`;
+
+  const setTab = (t) => {
+    $("#tabs").querySelectorAll("button").forEach((b) => b.classList.toggle("on", b.dataset.tab === t));
+    list.hidden = t !== "script";
+    vlist.hidden = t !== "vocab";
+    $("#follow-wrap").hidden = t !== "script";
+    root.classList.toggle("tab-vocab", t === "vocab");
+  };
+  $("#tabs").onclick = (e) => e.target.dataset.tab && setTab(e.target.dataset.tab);
+  $("#vocab-btn").onclick = () => {
+    setTab("vocab");
+    const top = $(".right").getBoundingClientRect().top + window.scrollY - (isPhone() ? $(".stick").offsetHeight : 70);
+    window.scrollTo({ top, behavior: "smooth" });
+  };
+
+  // 원어민 발음(기기 음성) — 영국식 우선
+  let voice = null;
+  const pickVoice = () => {
+    const vs = speechSynthesis?.getVoices?.() || [];
+    voice = vs.find((v) => v.lang === "en-GB" && /Daniel|Google UK|Serena|Kate/i.test(v.name))
+      || vs.find((v) => v.lang === "en-GB") || vs.find((v) => v.lang === "en-US") || vs.find((v) => v.lang?.startsWith("en")) || null;
+  };
+  if (window.speechSynthesis) { pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
+  const say = (text, slow) => {
+    if (!window.speechSynthesis) return;
+    try { player?.pauseVideo?.(); } catch {}
+    speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = voice?.lang || "en-GB"; if (voice) u.voice = voice;
+    u.rate = slow ? 0.6 : 0.95;
+    speechSynthesis.speak(u);
+  };
+
   // 상태
-  let cur = -1, repeat = false, autoPause = false, pausedAt = -1, player = null, timer = null;
+  let cur = -1, repeat = false, autoPause = false, pausedAt = -1, player = null, timer = null, clipStop = -1;
 
   // 자막 모드
   const setMode = (m) => {
@@ -214,6 +272,7 @@ async function showLesson(course, idx) {
     if (cur >= 0 && playing) {
       const s = S[cur];
       const end = Math.max(s.e, (S[cur + 1]?.s ?? s.e) - 0.05);
+      if (clipStop === cur && t >= end - 0.1) { clipStop = -1; pausedAt = cur; player.pauseVideo(); return; }
       if (repeat && t >= s.e + 0.2) { player.seekTo(s.s, true); return; }
       if (autoPause && !repeat && t >= end - 0.15 && pausedAt !== cur) { pausedAt = cur; player.pauseVideo(); return; }
     }
@@ -230,6 +289,12 @@ async function showLesson(course, idx) {
     const li = e.target.closest("li"); if (!li) return;
     li.classList.add("revealed");
     seekTo(+li.dataset.i);
+  };
+  vlist.onclick = (e) => {
+    const b = e.target.closest("[data-say]");
+    if (b) { say(b.dataset.say, !!b.dataset.slow); return; }
+    const c = e.target.closest(".vw-clip");
+    if (c) { window.speechSynthesis?.cancel(); seekTo(+c.dataset.i); clipStop = +c.dataset.i; }
   };
   $("#current").onclick = () => $("#current").classList.toggle("revealed");
   const togglePlay = () => {
@@ -281,6 +346,7 @@ async function showLesson(course, idx) {
 
   cleanup = () => {
     clearInterval(timer); clearInterval(saver); saveProgress();
+    window.speechSynthesis?.cancel();
     document.removeEventListener("keydown", onKey);
     try { player?.destroy(); } catch {}
   };
@@ -294,7 +360,7 @@ if ("serviceWorker" in navigator && window.isSecureContext) {
   navigator.serviceWorker.register("sw.js").then(async () => {
     const reg = await navigator.serviceWorker.ready;
     await firstRoute.catch(() => {});
-    const urls = courses.flatMap((c) => c.lessons.map((l) => `data/subs/${l.videoId}.json`));
+    const urls = courses.flatMap((c) => c.lessons.flatMap((l) => [`data/subs/${l.videoId}.json`, `data/vocab/${l.videoId}.json`]));
     reg.active?.postMessage({ type: "precache", urls });
   }).catch(() => {});
 }

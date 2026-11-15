@@ -1,0 +1,87 @@
+{
+ "videoId": "vxoPApiNZBU",
+ "words": [
+  {
+   "w": "put someone on the defensive",
+   "ipa": "/ɒn ðə dɪˈfensɪv/",
+   "pos": "표현",
+   "ko": "~를 방어적으로 만들다",
+   "ex": [
+    "His question put me on the defensive.",
+    "그의 질문에 제가 방어적이 됐어요."
+   ],
+   "find": "on the defensive",
+   "i": 6
+  },
+  {
+   "w": "uncivil / incivility",
+   "ipa": "/ʌnˈsɪvl/ /ˌɪnsəˈvɪləti/",
+   "pos": "형용사·명사",
+   "ko": "무례한 / 무례함",
+   "ex": [
+    "Incivility at work lowers productivity.",
+    "직장 내 무례함은 생산성을 떨어뜨려요."
+   ],
+   "find": "uncivil|incivility",
+   "i": 11
+  },
+  {
+   "w": "belittle",
+   "ipa": "/bɪˈlɪtl/",
+   "pos": "동사",
+   "ko": "깎아내리다, 하찮게 만들다",
+   "ex": [
+    "Don't belittle other people's ideas.",
+    "다른 사람의 아이디어를 깎아내리지 마요."
+   ],
+   "i": 24
+  },
+  {
+   "w": "put someone in their place",
+   "ipa": "/pʊt ɪn ðeə pleɪs/",
+   "pos": "표현",
+   "ko": "~의 콧대를 꺾다",
+   "ex": [
+    "She put him in his place with one sentence.",
+    "그녀는 한 마디로 그의 콧대를 꺾었어요."
+   ],
+   "find": "in (their|your|his|her) place",
+   "i": 25
+  },
+  {
+   "w": "get something off your plate",
+   "ipa": "/ɒf jɔː pleɪt/",
+   "pos": "표현",
+   "ko": "일을 털어 내다, 남에게 넘기다",
+   "ex": [
+    "I want to get this project off my plate.",
+    "이 프로젝트를 손에서 털어 내고 싶어요."
+   ],
+   "find": "off (their|your|my) plate",
+   "i": 28
+  },
+  {
+   "w": "frazzled",
+   "ipa": "/ˈfræzld/",
+   "pos": "형용사",
+   "ko": "지친, 녹초가 된",
+   "ex": [
+    "I'm frazzled after a week of deadlines.",
+    "마감에 시달린 일주일 후 완전히 녹초예요."
+   ],
+   "i": 36
+  },
+  {
+   "w": "hit send",
+   "ipa": "/hɪt send/",
+   "pos": "표현",
+   "ko": "보내기를 누르다",
+   "ex": [
+    "Read it twice before you hit send.",
+    "보내기 누르기 전에 두 번 읽어요."
+   ],
+   "find": "hit send",
+   "i": 39
+  }
+ ]
+}

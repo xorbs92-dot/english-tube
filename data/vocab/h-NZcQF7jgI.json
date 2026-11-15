@@ -1,0 +1,74 @@
+{
+ "videoId": "h-NZcQF7jgI",
+ "words": [
+  {
+   "w": "generation",
+   "ipa": "/ˌdʒenəˈreɪʃn/",
+   "pos": "명사",
+   "ko": "세대 (비슷한 나이의 사람들)",
+   "ex": [
+    "My parents' generation didn't have smartphones.",
+    "부모님 세대는 스마트폰이 없었어요."
+   ],
+   "i": 4
+  },
+  {
+   "w": "fill a void",
+   "ipa": "/fɪl ə vɔɪd/",
+   "pos": "표현",
+   "ko": "(상실 후) 빈자리를 채우다",
+   "ex": [
+    "Getting a dog helped fill the void after he retired.",
+    "은퇴 후 강아지를 키우면서 빈자리를 채웠어요."
+   ],
+   "find": "void",
+   "i": 19
+  },
+  {
+   "w": "such and such",
+   "ipa": "/sʌtʃ ən sʌtʃ/",
+   "pos": "표현",
+   "ko": "이러이러한 (구체적으로 말하지 않을 때)",
+   "ex": [
+    "He said he'd meet us at such and such a place.",
+    "그는 어디어디서 만나자고 했어요."
+   ],
+   "i": 22
+  },
+  {
+   "w": "hear something on the grapevine",
+   "ipa": "/ˈɡreɪpvaɪn/",
+   "pos": "표현",
+   "ko": "소문으로 듣다",
+   "ex": [
+    "I heard on the grapevine that she's leaving.",
+    "그녀가 그만둔다는 소문을 들었어요."
+   ],
+   "find": "grapevine",
+   "i": 27
+  },
+  {
+   "w": "break down stereotypes",
+   "ipa": "/ˈsteriətaɪps/",
+   "pos": "표현",
+   "ko": "고정관념을 깨다",
+   "ex": [
+    "The project aims to break down stereotypes about older people.",
+    "이 프로젝트는 노인에 대한 고정관념을 깨는 게 목표예요."
+   ],
+   "find": "stereotypes?",
+   "i": 41
+  },
+  {
+   "w": "lively",
+   "ipa": "/ˈlaɪvli/",
+   "pos": "형용사",
+   "ko": "활기찬, 떠들썩한",
+   "ex": [
+    "The party was loud and lively.",
+    "파티는 시끌벅적하고 활기찼어요."
+   ],
+   "i": 42
+  }
+ ]
+}

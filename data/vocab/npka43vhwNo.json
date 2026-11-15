@@ -1,0 +1,76 @@
+{
+ "videoId": "npka43vhwNo",
+ "words": [
+  {
+   "w": "life-saving",
+   "ipa": "/ˈlaɪf seɪvɪŋ/",
+   "pos": "형용사",
+   "ko": "생명을 구하는",
+   "ex": [
+    "Air conditioning can be life-saving in a heatwave.",
+    "폭염에는 에어컨이 생명을 구할 수 있어요."
+   ],
+   "find": "life.saving",
+   "i": 25
+  },
+  {
+   "w": "inhabit",
+   "ipa": "/ɪnˈhæbɪt/",
+   "pos": "동사",
+   "ko": "~에 살다, 거주하다",
+   "ex": [
+    "Few people inhabit the desert.",
+    "사막에 사는 사람은 별로 없어요."
+   ],
+   "i": 27
+  },
+  {
+   "w": "the grid",
+   "ipa": "/ðə ɡrɪd/",
+   "pos": "명사",
+   "ko": "전력망",
+   "ex": [
+    "Too many air conditioners put pressure on the grid.",
+    "에어컨이 너무 많으면 전력망에 부담이 가요."
+   ],
+   "find": "\\bgrid\\b",
+   "i": 38
+  },
+  {
+   "w": "vicious cycle",
+   "ipa": "/ˌvɪʃəs ˈsaɪkl/",
+   "pos": "명사",
+   "ko": "악순환",
+   "ex": [
+    "Stress and bad sleep create a vicious cycle.",
+    "스트레스와 수면 부족은 악순환을 만들어요."
+   ],
+   "find": "vicious (cycle|circle)",
+   "i": 41
+  },
+  {
+   "w": "passive cooling",
+   "ipa": "/ˈpæsɪv ˈkuːlɪŋ/",
+   "pos": "명사",
+   "ko": "패시브 쿨링 (전력 없이 건물을 식히기)",
+   "ex": [
+    "Thick walls are a simple form of passive cooling.",
+    "두꺼운 벽은 간단한 패시브 쿨링이에요."
+   ],
+   "find": "passive cooling",
+   "i": 57
+  },
+  {
+   "w": "shading",
+   "ipa": "/ˈʃeɪdɪŋ/",
+   "pos": "명사",
+   "ko": "그늘 만들기, 차양",
+   "ex": [
+    "Trees provide natural shading.",
+    "나무는 자연 그늘을 만들어 줘요."
+   ],
+   "find": "shad(ing|e)",
+   "i": 59
+  }
+ ]
+}

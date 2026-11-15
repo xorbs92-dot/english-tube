@@ -1,0 +1,88 @@
+{
+ "videoId": "ceOhxZjDt-g",
+ "words": [
+  {
+   "w": "I'm bored.",
+   "ipa": "/aɪm bɔːd/",
+   "pos": "표현",
+   "ko": "심심해요, 지루해요.",
+   "ex": [
+    "It's raining and I'm bored.",
+    "비가 오고 심심해요."
+   ],
+   "find": "bored",
+   "i": 2
+  },
+  {
+   "w": "cuddly toy",
+   "ipa": "/ˈkʌdli tɔɪ/",
+   "pos": "명사",
+   "ko": "봉제 인형",
+   "ex": [
+    "My daughter sleeps with a cuddly toy.",
+    "딸은 봉제 인형을 안고 자요."
+   ],
+   "i": 9
+  },
+  {
+   "w": "expensive / cheap",
+   "ipa": "/ɪkˈspensɪv/ /tʃiːp/",
+   "pos": "형용사",
+   "ko": "비싼 / 싼",
+   "ex": [
+    "This phone is expensive, but that one is cheap.",
+    "이 휴대폰은 비싸지만 저건 싸요."
+   ],
+   "find": "expensive",
+   "i": 11
+  },
+  {
+   "w": "heavy / light",
+   "ipa": "/ˈhevi/ /laɪt/",
+   "pos": "형용사",
+   "ko": "무거운 / 가벼운",
+   "ex": [
+    "This bag is heavy. Can you help me?",
+    "이 가방이 무거워요. 도와줄래요?"
+   ],
+   "find": "heavy",
+   "i": 13
+  },
+  {
+   "w": "new / old",
+   "ipa": "/njuː/ /əʊld/",
+   "pos": "형용사",
+   "ko": "새 / 오래된",
+   "ex": [
+    "I bought a new TV and sold the old one.",
+    "새 TV를 사고 오래된 건 팔았어요."
+   ],
+   "find": "\\bnew\\b",
+   "i": 15
+  },
+  {
+   "w": "Can you remember ...?",
+   "ipa": "/kən juː rɪˈmembə/",
+   "pos": "표현",
+   "ko": "~을 기억할 수 있어요?",
+   "ex": [
+    "Can you remember her name?",
+    "그녀 이름 기억나요?"
+   ],
+   "find": "remember",
+   "i": 8
+  },
+  {
+   "w": "Well done!",
+   "ipa": "/wel dʌn/",
+   "pos": "표현",
+   "ko": "잘했어요!",
+   "ex": [
+    "You got every answer right. Well done!",
+    "다 맞혔네요. 잘했어요!"
+   ],
+   "find": "well done",
+   "i": 36
+  }
+ ]
+}

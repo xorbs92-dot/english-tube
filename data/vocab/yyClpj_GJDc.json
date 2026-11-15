@@ -1,0 +1,97 @@
+{
+ "videoId": "yyClpj_GJDc",
+ "words": [
+  {
+   "w": "How are you feeling?",
+   "ipa": "/haʊ ə juː ˈfiːlɪŋ/",
+   "pos": "표현",
+   "ko": "기분이 어때요?",
+   "ex": [
+    "You look pale. How are you feeling?",
+    "창백해 보여요. 기분이 어때요?"
+   ],
+   "find": "how are you feeling",
+   "i": 1
+  },
+  {
+   "w": "excited",
+   "ipa": "/ɪkˈsaɪtɪd/",
+   "pos": "형용사",
+   "ko": "신난, 들뜬",
+   "ex": [
+    "I'm so excited about the trip!",
+    "여행 때문에 너무 신나요!"
+   ],
+   "i": 2
+  },
+  {
+   "w": "tired / sleepy",
+   "ipa": "/ˈtaɪəd/ /ˈsliːpi/",
+   "pos": "형용사",
+   "ko": "피곤한 / 졸린",
+   "ex": [
+    "I'm tired because I worked late.",
+    "늦게까지 일해서 피곤해요."
+   ],
+   "find": "tired",
+   "i": 5
+  },
+  {
+   "w": "scared",
+   "ipa": "/skeəd/",
+   "pos": "형용사",
+   "ko": "무서운, 겁먹은",
+   "ex": [
+    "My little brother is scared of dogs.",
+    "남동생은 개를 무서워해요."
+   ],
+   "i": 11
+  },
+  {
+   "w": "thirsty / hungry",
+   "ipa": "/ˈθɜːsti/ /ˈhʌŋɡri/",
+   "pos": "형용사",
+   "ko": "목마른 / 배고픈",
+   "ex": [
+    "I'm really hungry. Let's eat!",
+    "정말 배고파요. 먹어요!"
+   ],
+   "find": "thirsty|hungry",
+   "i": 49
+  },
+  {
+   "w": "angry",
+   "ipa": "/ˈæŋɡri/",
+   "pos": "형용사",
+   "ko": "화난",
+   "ex": [
+    "He was angry because I was late.",
+    "제가 늦어서 그가 화났어요."
+   ],
+   "i": 59
+  },
+  {
+   "w": "full",
+   "ipa": "/fʊl/",
+   "pos": "형용사",
+   "ko": "배부른",
+   "ex": [
+    "No more, thanks. I'm full.",
+    "이제 됐어요, 고마워요. 배불러요."
+   ],
+   "find": "\\bfull\\b",
+   "i": 60
+  },
+  {
+   "w": "because",
+   "ipa": "/bɪˈkɒz/",
+   "pos": "접속사",
+   "ko": "왜냐하면, ~ 때문에",
+   "ex": [
+    "I'm sad because it's raining.",
+    "비가 와서 슬퍼요."
+   ],
+   "i": 7
+  }
+ ]
+}

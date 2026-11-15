@@ -1,0 +1,101 @@
+{
+ "videoId": "5VGtCbFclgk",
+ "words": [
+  {
+   "w": "the tallest",
+   "ipa": "/ðə ˈtɔːlɪst/",
+   "pos": "최상급",
+   "ko": "가장 키가 큰",
+   "ex": [
+    "Who is the tallest in your family?",
+    "가족 중에 누가 제일 키가 커요?"
+   ],
+   "find": "the tallest",
+   "i": 1
+  },
+  {
+   "w": "taller than",
+   "ipa": "/ˈtɔːlə ðæn/",
+   "pos": "비교급",
+   "ko": "~보다 키가 큰",
+   "ex": [
+    "My brother is taller than my dad.",
+    "남동생은 아빠보다 키가 커요."
+   ],
+   "find": "taller than",
+   "i": 12
+  },
+  {
+   "w": "stronger / weaker",
+   "ipa": "/ˈstrɒŋɡə/ /ˈwiːkə/",
+   "pos": "비교급",
+   "ko": "더 힘센 / 더 약한",
+   "ex": [
+    "I'm weaker than him, but faster.",
+    "저는 그보다 약하지만 더 빨라요."
+   ],
+   "find": "stronger|weaker",
+   "i": 19
+  },
+  {
+   "w": "better / the best",
+   "ipa": "/ˈbetə/ /ðə best/",
+   "pos": "비교·최상급",
+   "ko": "더 좋은 / 최고의 (good의 비교급·최상급)",
+   "ex": [
+    "This cake is the best I've ever had.",
+    "이 케이크가 지금까지 먹어 본 것 중 최고예요."
+   ],
+   "find": "better|the best",
+   "i": 24
+  },
+  {
+   "w": "worse / the worst",
+   "ipa": "/wɜːs/ /ðə wɜːst/",
+   "pos": "비교·최상급",
+   "ko": "더 나쁜 / 최악의 (bad의 비교급·최상급)",
+   "ex": [
+    "Today's weather is worse than yesterday's.",
+    "오늘 날씨가 어제보다 더 나빠요."
+   ],
+   "find": "worse",
+   "i": 60
+  },
+  {
+   "w": "faster / slower",
+   "ipa": "/ˈfɑːstə/ /ˈsləʊə/",
+   "pos": "비교급",
+   "ko": "더 빠른 / 더 느린",
+   "ex": [
+    "The train is faster than the bus.",
+    "기차가 버스보다 빨라요."
+   ],
+   "find": "faster",
+   "i": 70
+  },
+  {
+   "w": "Whose ... is this?",
+   "ipa": "/huːz/",
+   "pos": "표현",
+   "ko": "이건 누구의 ~예요?",
+   "ex": [
+    "Whose phone is this? — It's mine.",
+    "이거 누구 휴대폰이에요? — 제 거예요."
+   ],
+   "find": "whose",
+   "i": 30
+  },
+  {
+   "w": "On your marks, get set, go!",
+   "ipa": "/ɒn jɔː mɑːks ɡet set ɡəʊ/",
+   "pos": "표현",
+   "ko": "제자리에, 준비, 출발!",
+   "ex": [
+    "On your marks, get set, go! Run!",
+    "제자리에, 준비, 출발! 달려!"
+   ],
+   "find": "on your marks",
+   "i": 25
+  }
+ ]
+}

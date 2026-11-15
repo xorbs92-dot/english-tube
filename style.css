@@ -133,3 +133,46 @@ button { touch-action: manipulation; -webkit-tap-highlight-color: transparent; }
 .m-ko .cur-ko { font-size: 20px; }
 .m-hide .en, .m-hide .ko, .m-hide .cur-en, .m-hide .cur-ko { filter: blur(7px); user-select: none; transition: filter .15s; }
 .m-hide .revealed .en, .m-hide .revealed .ko, .m-hide .current.revealed div { filter: none; }
+
+/* ---------- 레슨 상단 바 (홈으로) ---------- */
+.lesson-bar { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
+.home-btn { flex: none; padding: 6px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--card);
+  color: var(--ink); font-weight: 600; }
+.lb-title { flex: 1; min-width: 0; color: var(--sub); font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.vocab-btn { flex: none; }
+
+/* ---------- 탭 ---------- */
+.script-head { align-items: center; }
+.tabs { display: flex; gap: 4px; }
+.tabs button { border: 0; background: none; padding: 4px 10px; font-size: 14px; color: var(--sub); border-radius: 6px; }
+.tabs button.on { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+
+/* ---------- 단어장 ---------- */
+.vocab { list-style: none; margin: 0; padding: 0; max-height: calc(100vh - 140px); overflow-y: auto; }
+.vocab li { padding: 14px 16px; border-bottom: 1px solid var(--line); }
+.vw-head { display: flex; align-items: baseline; flex-wrap: wrap; gap: 4px 10px; }
+.vw-w { font-size: 20px; }
+.vw-ipa { color: var(--sub); font-size: 15px; font-family: "Lucida Sans Unicode", "Arial Unicode MS", sans-serif; }
+.vw-pos { font-size: 12px; color: var(--accent); border: 1px solid var(--accent); border-radius: 10px; padding: 0 7px; }
+.vw-say { margin-left: auto; display: flex; gap: 6px; }
+.vw-say button, .vw-exsay { padding: 3px 9px; font-size: 16px; }
+.vw-ko { font-size: 16px; color: var(--ko); margin: 4px 0 8px; font-weight: 500; }
+.vw-clip, .vw-ex { position: relative; border-radius: 8px; padding: 8px 10px; margin-top: 6px; font-size: 14px; }
+.vw-clip { background: var(--accent-soft); cursor: pointer; }
+.vw-ex { border: 1px solid var(--line); padding-right: 52px; }
+.vw-exsay { position: absolute; right: 8px; top: 8px; }
+.vw-tag { display: block; font-size: 11px; color: var(--sub); margin-bottom: 2px; }
+.vw-clip .vw-tag { color: var(--accent); font-weight: 600; }
+.vw-en { font-size: 15px; }
+.vw-k { color: var(--ko); }
+.vocab mark { background: none; color: var(--accent); font-weight: 700; text-decoration: underline; text-underline-offset: 3px; }
+.vw-empty { color: var(--sub); }
+
+@media (max-width: 900px) {
+  .lesson-bar { margin: 0; padding: 6px 10px; padding-top: max(6px, env(safe-area-inset-top)); background: var(--card);
+    border-bottom: 1px solid var(--line); }
+  .home-btn, .vocab-btn { padding: 5px 10px; font-size: 14px; }
+  .lb-title { font-size: 13px; }
+  body:has(.lesson) .top { display: none; }
+  .vocab { max-height: none; overflow: visible; }
+}

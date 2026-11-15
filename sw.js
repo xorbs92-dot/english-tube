@@ -1,6 +1,6 @@
 // 오프라인 대비: 앱 화면과 자막을 휴대폰에 저장해 두고, 신호가 약해도 열리게 한다.
 // (유튜브 영상 자체는 저장할 수 없어서 재생에는 인터넷이 필요해요.)
-const CACHE = "english-tube-v1";
+const CACHE = "english-tube-v2";
 const SHELL = ["./", "index.html", "app.js", "style.css", "manifest.json", "icon-192.png", "icon-180.png"];
 
 self.addEventListener("install", (e) => {

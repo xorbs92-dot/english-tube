@@ -1,0 +1,88 @@
+{
+ "videoId": "aiUGN3TDvw4",
+ "words": [
+  {
+   "w": "What are you doing?",
+   "ipa": "/wɒt ɑː juː ˈduːɪŋ/",
+   "pos": "표현",
+   "ko": "뭐 하고 있어요? (지금 진행 중인 일)",
+   "ex": [
+    "Hi Mum! What are you doing?",
+    "엄마! 뭐 하고 있어요?"
+   ],
+   "find": "what are you doing",
+   "i": 1
+  },
+  {
+   "w": "I'm ...ing",
+   "ipa": "/aɪm/",
+   "pos": "문법",
+   "ko": "나는 ~하고 있어요 (현재진행형)",
+   "ex": [
+    "I'm cooking dinner right now.",
+    "지금 저녁을 요리하고 있어요."
+   ],
+   "find": "I'm \\w+ing",
+   "i": 5
+  },
+  {
+   "w": "exercise",
+   "ipa": "/ˈeksəsaɪz/",
+   "pos": "동사",
+   "ko": "운동하다",
+   "ex": [
+    "I exercise three times a week.",
+    "저는 일주일에 세 번 운동해요."
+   ],
+   "find": "exercis",
+   "i": 5
+  },
+  {
+   "w": "snowboard",
+   "ipa": "/ˈsnəʊbɔːd/",
+   "pos": "동사",
+   "ko": "스노보드를 타다",
+   "ex": [
+    "We're snowboarding in the mountains.",
+    "우리는 산에서 스노보드를 타고 있어요."
+   ],
+   "i": 19
+  },
+  {
+   "w": "study",
+   "ipa": "/ˈstʌdi/",
+   "pos": "동사",
+   "ko": "공부하다",
+   "ex": [
+    "She's studying Spanish at university.",
+    "그녀는 대학에서 스페인어를 공부하고 있어요."
+   ],
+   "find": "stud(y|ying)",
+   "i": 21
+  },
+  {
+   "w": "play video games",
+   "ipa": "/pleɪ ˈvɪdiəʊ ɡeɪmz/",
+   "pos": "표현",
+   "ko": "비디오 게임을 하다",
+   "ex": [
+    "My brother plays video games every evening.",
+    "남동생은 매일 저녁 비디오 게임을 해요."
+   ],
+   "find": "play(s|ing)? video games",
+   "i": 35
+  },
+  {
+   "w": "He's / She's",
+   "ipa": "/hiːz/ /ʃiːz/",
+   "pos": "축약",
+   "ko": "He is / She is (그는 / 그녀는 ~이다)",
+   "ex": [
+    "She's sleeping, so be quiet.",
+    "그녀가 자고 있으니 조용히 해요."
+   ],
+   "find": "he's|she's",
+   "i": 33
+  }
+ ]
+}

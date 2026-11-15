@@ -1,0 +1,74 @@
+{
+ "videoId": "-XcALxwXJVY",
+ "words": [
+  {
+   "w": "implicit",
+   "ipa": "/ɪmˈplɪsɪt/",
+   "pos": "형용사",
+   "ko": "암시적인, 은연중의",
+   "ex": [
+    "There was an implicit criticism in his words.",
+    "그의 말에는 은근한 비판이 담겨 있었어요."
+   ],
+   "i": 15
+  },
+  {
+   "w": "explicit",
+   "ipa": "/ɪkˈsplɪsɪt/",
+   "pos": "형용사",
+   "ko": "명시적인, 분명한",
+   "ex": [
+    "The teacher gave explicit instructions.",
+    "선생님이 분명한 지시를 줬어요."
+   ],
+   "i": 22
+  },
+  {
+   "w": "immersion",
+   "ipa": "/ɪˈmɜːʃn/",
+   "pos": "명사",
+   "ko": "몰입, (언어) 몰입 학습",
+   "ex": [
+    "Language immersion is the fastest way to learn.",
+    "언어 몰입이 가장 빨리 배우는 방법이에요."
+   ],
+   "i": 23
+  },
+  {
+   "w": "key finding",
+   "ipa": "/kiː ˈfaɪndɪŋ/",
+   "pos": "명사",
+   "ko": "핵심 연구 결과",
+   "ex": [
+    "The key finding was that sleep improves memory.",
+    "핵심 결과는 잠이 기억력을 높인다는 거였어요."
+   ],
+   "find": "key finding",
+   "i": 34
+  },
+  {
+   "w": "one particular",
+   "ipa": "/wʌn pəˈtɪkjələ/",
+   "pos": "표현",
+   "ko": "특정한 하나의",
+   "ex": [
+    "One particular student asked great questions.",
+    "특정한 한 학생이 아주 좋은 질문을 했어요."
+   ],
+   "find": "particular",
+   "i": 35
+  },
+  {
+   "w": "language app",
+   "ipa": "/ˈlæŋɡwɪdʒ æp/",
+   "pos": "명사",
+   "ko": "언어 학습 앱",
+   "ex": [
+    "I practise Spanish with a language app every day.",
+    "매일 언어 학습 앱으로 스페인어를 연습해요."
+   ],
+   "find": "\\bapps?\\b",
+   "i": 2
+  }
+ ]
+}

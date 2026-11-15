@@ -1,0 +1,88 @@
+{
+ "videoId": "-ukHyqiEH1U",
+ "words": [
+  {
+   "w": "a long time coming",
+   "ipa": "/ə lɒŋ taɪm ˈkʌmɪŋ/",
+   "pos": "표현",
+   "ko": "오래 걸려서 이루어진, 진작 됐어야 할",
+   "ex": [
+    "This award was a long time coming.",
+    "이 상은 진작 받았어야 했어요."
+   ],
+   "find": "long time coming",
+   "i": 21
+  },
+  {
+   "w": "false dawn",
+   "ipa": "/fɔːls dɔːn/",
+   "pos": "표현",
+   "ko": "헛된 희망 (좋아지는 듯하다 아닌 것)",
+   "ex": [
+    "The early results were a false dawn.",
+    "초기 결과는 헛된 희망이었어요."
+   ],
+   "find": "false dawn",
+   "i": 22
+  },
+  {
+   "w": "breakthrough",
+   "ipa": "/ˈbreɪkθruː/",
+   "pos": "명사",
+   "ko": "돌파구, 획기적 발전",
+   "ex": [
+    "Scientists have made a breakthrough in cancer research.",
+    "과학자들이 암 연구에서 획기적 발전을 이뤘어요."
+   ],
+   "i": 23
+  },
+  {
+   "w": "prime",
+   "ipa": "/praɪm/",
+   "pos": "동사",
+   "ko": "준비시키다",
+   "ex": [
+    "The vaccine primes the immune system.",
+    "백신은 면역 체계를 준비시켜요."
+   ],
+   "find": "prim(e|es|ed|ing)\\b",
+   "i": 39
+  },
+  {
+   "w": "promise",
+   "ipa": "/ˈprɒmɪs/",
+   "pos": "명사",
+   "ko": "가능성, 전망",
+   "ex": [
+    "This new treatment shows real promise.",
+    "이 새 치료법은 정말 가능성이 있어요."
+   ],
+   "find": "promis",
+   "i": 51
+  },
+  {
+   "w": "vaccine",
+   "ipa": "/ˈvæksiːn/",
+   "pos": "명사",
+   "ko": "백신",
+   "ex": [
+    "Is there a vaccine for this virus?",
+    "이 바이러스에 백신이 있어요?"
+   ],
+   "find": "vaccines?",
+   "i": 1
+  },
+  {
+   "w": "space",
+   "ipa": "/speɪs/",
+   "pos": "명사",
+   "ko": "(연구) 분야",
+   "ex": [
+    "She's an expert in the AI space.",
+    "그녀는 AI 분야 전문가예요."
+   ],
+   "find": "\\bspace\\b",
+   "i": 23
+  }
+ ]
+}

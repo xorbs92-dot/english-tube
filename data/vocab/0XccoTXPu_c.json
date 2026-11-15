@@ -1,0 +1,87 @@
+{
+ "videoId": "0XccoTXPu_c",
+ "words": [
+  {
+   "w": "doping",
+   "ipa": "/ˈdəʊpɪŋ/",
+   "pos": "명사",
+   "ko": "도핑 (금지 약물 사용)",
+   "ex": [
+    "He was banned for doping.",
+    "그는 도핑으로 출전 정지를 받았어요."
+   ],
+   "i": 4
+  },
+  {
+   "w": "performance-enhancing drugs",
+   "ipa": "/pəˈfɔːməns ɪnˈhɑːnsɪŋ drʌɡz/",
+   "pos": "명사",
+   "ko": "경기력 향상 약물",
+   "ex": [
+    "Performance-enhancing drugs are banned in the Olympics.",
+    "올림픽에서는 경기력 향상 약물이 금지예요."
+   ],
+   "find": "performance-enhancing",
+   "i": 4
+  },
+  {
+   "w": "it's fair to say",
+   "ipa": "/ɪts feə tə seɪ/",
+   "pos": "표현",
+   "ko": "~라고 해도 무리가 없다",
+   "ex": [
+    "It's fair to say the film was a success.",
+    "그 영화는 성공했다고 해도 무리가 없어요."
+   ],
+   "find": "fair to say",
+   "i": 32
+  },
+  {
+   "w": "divisive",
+   "ipa": "/dɪˈvaɪsɪv/",
+   "pos": "형용사",
+   "ko": "분열을 일으키는, 의견이 갈리는",
+   "ex": [
+    "Politics can be very divisive.",
+    "정치는 의견이 크게 갈릴 수 있어요."
+   ],
+   "i": 32
+  },
+  {
+   "w": "cross the line",
+   "ipa": "/krɒs ðə laɪn/",
+   "pos": "표현",
+   "ko": "선을 넘다",
+   "ex": [
+    "That joke crossed the line.",
+    "그 농담은 선을 넘었어요."
+   ],
+   "find": "cross(es|ed)? (an ethical |the )?line",
+   "i": 40
+  },
+  {
+   "w": "set a bad example",
+   "ipa": "/set ə bæd ɪɡˈzɑːmpl/",
+   "pos": "표현",
+   "ko": "나쁜 본보기가 되다",
+   "ex": [
+    "Parents who smoke set a bad example.",
+    "담배 피우는 부모는 나쁜 본보기가 돼요."
+   ],
+   "find": "(dreadful|bad) example",
+   "i": 40
+  },
+  {
+   "w": "normalise",
+   "ipa": "/ˈnɔːməlaɪz/",
+   "pos": "동사",
+   "ko": "정상화하다, 당연하게 만들다",
+   "ex": [
+    "We shouldn't normalise working late every day.",
+    "매일 야근하는 걸 당연하게 만들면 안 돼요."
+   ],
+   "find": "normalis",
+   "i": 40
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "videoId": "rCIs5x0SGTY",
+ "words": [
+  {
+   "w": "rejection",
+   "ipa": "/rɪˈdʒekʃn/",
+   "pos": "명사",
+   "ko": "거절",
+   "ex": [
+    "Nobody likes rejection.",
+    "거절을 좋아하는 사람은 없어요."
+   ],
+   "i": 4
+  },
+  {
+   "w": "spike",
+   "ipa": "/spaɪk/",
+   "pos": "동사",
+   "ko": "급증하다",
+   "ex": [
+    "Prices spiked after the storm.",
+    "폭풍 이후 가격이 급등했어요."
+   ],
+   "find": "spik",
+   "i": 40
+  },
+  {
+   "w": "socially anxious",
+   "ipa": "/ˈsəʊʃəli ˈæŋkʃəs/",
+   "pos": "형용사",
+   "ko": "사회 불안이 있는, 남 앞에서 긴장하는",
+   "ex": [
+    "He's socially anxious at parties.",
+    "그는 파티에서 남들과 어울리는 걸 불안해해요."
+   ],
+   "find": "socially anxious|social anxiety",
+   "i": 41
+  },
+  {
+   "w": "come easier",
+   "ipa": "/kʌm ˈiːziə/",
+   "pos": "표현",
+   "ko": "더 쉽게 되다",
+   "ex": [
+    "Speaking English comes easier with practice.",
+    "영어 말하기는 연습하면 더 쉬워져요."
+   ],
+   "find": "comes? easier",
+   "i": 50
+  },
+  {
+   "w": "perfectionism",
+   "ipa": "/pəˈfekʃənɪzəm/",
+   "pos": "명사",
+   "ko": "완벽주의",
+   "ex": [
+    "Perfectionism can stop you from finishing work.",
+    "완벽주의 때문에 일을 못 끝낼 수 있어요."
+   ],
+   "find": "perfectionis",
+   "i": 57
+  },
+  {
+   "w": "say no",
+   "ipa": "/seɪ nəʊ/",
+   "pos": "표현",
+   "ko": "거절하다",
+   "ex": [
+    "It's hard for me to say no to friends.",
+    "친구들한테 거절하기가 어려워요."
+   ],
+   "find": "say(s|ing)? ('|‘)?no",
+   "i": 5
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "videoId": "bq6GBbh3uhU",
+ "words": [
+  {
+   "w": "wake up",
+   "ipa": "/weɪk ʌp/",
+   "pos": "동사구",
+   "ko": "잠에서 깨다",
+   "ex": [
+    "I usually wake up at seven.",
+    "저는 보통 7시에 일어나요."
+   ],
+   "i": 7
+  },
+  {
+   "w": "have breakfast / eat breakfast",
+   "ipa": "/hæv ˈbrekfəst/",
+   "pos": "표현",
+   "ko": "아침을 먹다",
+   "ex": [
+    "I have breakfast at home before work.",
+    "출근 전에 집에서 아침을 먹어요."
+   ],
+   "find": "(eat|have) breakfast",
+   "i": 8
+  },
+  {
+   "w": "get the bus",
+   "ipa": "/ɡet ðə bʌs/",
+   "pos": "표현",
+   "ko": "버스를 타다",
+   "ex": [
+    "I get the bus to school every day.",
+    "저는 매일 버스를 타고 학교에 가요."
+   ],
+   "i": 10
+  },
+  {
+   "w": "go jogging",
+   "ipa": "/ɡəʊ ˈdʒɒɡɪŋ/",
+   "pos": "표현",
+   "ko": "조깅하러 가다",
+   "ex": [
+    "She goes jogging in the park.",
+    "그녀는 공원에서 조깅을 해요."
+   ],
+   "find": "go(es)? jogging",
+   "i": 9
+  },
+  {
+   "w": "have a shower",
+   "ipa": "/hæv ə ˈʃaʊə/",
+   "pos": "표현",
+   "ko": "샤워하다 (영국식)",
+   "ex": [
+    "I have a shower every morning.",
+    "저는 매일 아침 샤워해요."
+   ],
+   "i": 15
+  },
+  {
+   "w": "drive to work",
+   "ipa": "/draɪv tə wɜːk/",
+   "pos": "표현",
+   "ko": "차로 출근하다",
+   "ex": [
+    "My dad drives to work.",
+    "아빠는 차로 출근해요."
+   ],
+   "find": "drives? to work",
+   "i": 22
+  },
+  {
+   "w": "go to sleep",
+   "ipa": "/ɡəʊ tə sliːp/",
+   "pos": "표현",
+   "ko": "잠자리에 들다, 자다",
+   "ex": [
+    "I go to sleep at eleven.",
+    "저는 11시에 자요."
+   ],
+   "i": 16
+  },
+  {
+   "w": "porridge",
+   "ipa": "/ˈpɒrɪdʒ/",
+   "pos": "명사",
+   "ko": "포리지 (오트밀 죽)",
+   "ex": [
+    "I eat porridge with honey in winter.",
+    "겨울엔 포리지에 꿀을 넣어 먹어요."
+   ],
+   "i": 72
+  }
+ ]
+}

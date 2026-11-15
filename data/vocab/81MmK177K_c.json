@@ -1,0 +1,85 @@
+{
+ "videoId": "81MmK177K_c",
+ "words": [
+  {
+   "w": "What time is it?",
+   "ipa": "/wɒt taɪm ɪz ɪt/",
+   "pos": "표현",
+   "ko": "몇 시예요?",
+   "ex": [
+    "Excuse me, what time is it?",
+    "실례지만, 몇 시예요?"
+   ],
+   "find": "what time is it",
+   "i": 1
+  },
+  {
+   "w": "o'clock",
+   "ipa": "/əˈklɒk/",
+   "pos": "부사",
+   "ko": "~시 정각",
+   "ex": [
+    "The meeting starts at three o'clock.",
+    "회의는 3시 정각에 시작해요."
+   ],
+   "i": 3
+  },
+  {
+   "w": "half past",
+   "ipa": "/hɑːf pɑːst/",
+   "pos": "표현",
+   "ko": "~시 반 (half past two = 2:30)",
+   "ex": [
+    "The train leaves at half past six.",
+    "기차는 6시 반에 떠나요."
+   ],
+   "i": 31
+  },
+  {
+   "w": "quarter past / quarter to",
+   "ipa": "/ˈkwɔːtə pɑːst/ /tuː/",
+   "pos": "표현",
+   "ko": "~시 15분 / ~시 15분 전",
+   "ex": [
+    "It's quarter to nine, hurry up!",
+    "9시 15분 전이에요, 서둘러요!"
+   ],
+   "find": "quarter (past|to)",
+   "i": 27
+  },
+  {
+   "w": "five past / ten to",
+   "ipa": "/faɪv pɑːst/ /ten tuː/",
+   "pos": "표현",
+   "ko": "~시 5분 / ~시 10분 전",
+   "ex": [
+    "It's ten to four.",
+    "4시 10분 전이에요."
+   ],
+   "find": "(five|ten) (past|to)",
+   "i": 25
+  },
+  {
+   "w": "get up",
+   "ipa": "/ɡet ʌp/",
+   "pos": "동사구",
+   "ko": "일어나다 (잠자리에서)",
+   "ex": [
+    "What time do you get up on Sundays?",
+    "일요일엔 몇 시에 일어나요?"
+   ],
+   "i": 52
+  },
+  {
+   "w": "go to bed",
+   "ipa": "/ɡəʊ tə bed/",
+   "pos": "표현",
+   "ko": "잠자리에 들다",
+   "ex": [
+    "I go to bed at eleven o'clock.",
+    "저는 11시에 자요."
+   ],
+   "i": 65
+  }
+ ]
+}

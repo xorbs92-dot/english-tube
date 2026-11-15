@@ -1,0 +1,86 @@
+{
+ "videoId": "n0rrgJ4MGdY",
+ "words": [
+  {
+   "w": "straight / wavy / curly",
+   "ipa": "/streɪt/ /ˈweɪvi/ /ˈkɜːli/",
+   "pos": "형용사",
+   "ko": "곧은 / 물결 모양의 / 곱슬곱슬한",
+   "ex": [
+    "Her hair is long and wavy.",
+    "그녀의 머리는 길고 물결 모양이에요."
+   ],
+   "find": "wavy",
+   "i": 18
+  },
+  {
+   "w": "ginger",
+   "ipa": "/ˈdʒɪndʒə/",
+   "pos": "형용사",
+   "ko": "(머리가) 주황빛 빨간색인",
+   "ex": [
+    "He has ginger hair and freckles.",
+    "그는 빨간 머리에 주근깨가 있어요."
+   ],
+   "i": 15
+  },
+  {
+   "w": "blonde",
+   "ipa": "/blɒnd/",
+   "pos": "형용사",
+   "ko": "금발의",
+   "ex": [
+    "She dyed her hair blonde.",
+    "그녀는 머리를 금발로 염색했어요."
+   ],
+   "find": "blond",
+   "i": 56
+  },
+  {
+   "w": "dye",
+   "ipa": "/daɪ/",
+   "pos": "동사",
+   "ko": "염색하다",
+   "ex": [
+    "I want to dye my hair brown.",
+    "머리를 갈색으로 염색하고 싶어요."
+   ],
+   "find": "\\bdye",
+   "i": 46
+  },
+  {
+   "w": "get my hair cut",
+   "ipa": "/ɡet maɪ heə kʌt/",
+   "pos": "표현",
+   "ko": "머리를 자르다 (미용실에서)",
+   "ex": [
+    "I need to get my hair cut.",
+    "머리 자르러 가야 해요."
+   ],
+   "find": "hair cut",
+   "i": 33
+  },
+  {
+   "w": "hairdresser",
+   "ipa": "/ˈheədresə/",
+   "pos": "명사",
+   "ko": "미용사, 미용실",
+   "ex": [
+    "I go to the hairdresser every two months.",
+    "두 달에 한 번 미용실에 가요."
+   ],
+   "i": 35
+  },
+  {
+   "w": "bald",
+   "ipa": "/bɔːld/",
+   "pos": "형용사",
+   "ko": "대머리의",
+   "ex": [
+    "My grandad went bald at forty.",
+    "할아버지는 마흔에 대머리가 되셨어요."
+   ],
+   "i": 68
+  }
+ ]
+}

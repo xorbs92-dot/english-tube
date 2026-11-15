@@ -1,0 +1,76 @@
+{
+ "videoId": "CelIpn03m1w",
+ "words": [
+  {
+   "w": "asset",
+   "ipa": "/ˈæset/",
+   "pos": "명사",
+   "ko": "자산",
+   "ex": [
+    "Property is a valuable asset.",
+    "부동산은 가치 있는 자산이에요."
+   ],
+   "find": "assets?",
+   "i": 20
+  },
+  {
+   "w": "safe haven",
+   "ipa": "/seɪf ˈheɪvn/",
+   "pos": "명사",
+   "ko": "안전한 피난처, 안전 자산",
+   "ex": [
+    "Gold is seen as a safe haven in a crisis.",
+    "금은 위기 때 안전 자산으로 여겨져요."
+   ],
+   "find": "safe haven",
+   "i": 23
+  },
+  {
+   "w": "out of thin air",
+   "ipa": "/aʊt əv θɪn eə/",
+   "pos": "표현",
+   "ko": "무에서, 난데없이",
+   "ex": [
+    "You can't make money out of thin air.",
+    "돈을 무에서 만들어 낼 수는 없어요."
+   ],
+   "find": "thin air",
+   "i": 29
+  },
+  {
+   "w": "alchemy",
+   "ipa": "/ˈælkəmi/",
+   "pos": "명사",
+   "ko": "연금술",
+   "ex": [
+    "Alchemists tried to turn lead into gold.",
+    "연금술사들은 납을 금으로 바꾸려 했어요."
+   ],
+   "find": "alchem",
+   "i": 29
+  },
+  {
+   "w": "ethereal",
+   "ipa": "/iˈθɪəriəl/",
+   "pos": "형용사",
+   "ko": "실재하지 않는 듯한, 천상의",
+   "ex": [
+    "The music had an ethereal quality.",
+    "그 음악은 천상의 느낌이 있었어요."
+   ],
+   "i": 44
+  },
+  {
+   "w": "have a hankering for",
+   "ipa": "/ˈhæŋkərɪŋ/",
+   "pos": "표현",
+   "ko": "~을 몹시 원하다",
+   "ex": [
+    "I have a hankering for pizza.",
+    "피자가 너무 먹고 싶어요."
+   ],
+   "find": "hankering",
+   "i": 46
+  }
+ ]
+}

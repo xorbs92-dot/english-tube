@@ -1,0 +1,89 @@
+{
+ "videoId": "9OzIMC6XCiE",
+ "words": [
+  {
+   "w": "What does he look like?",
+   "ipa": "/wɒt dəz hiː lʊk laɪk/",
+   "pos": "표현",
+   "ko": "그는 어떻게 생겼어요? (외모)",
+   "ex": [
+    "What does your brother look like?",
+    "남동생은 어떻게 생겼어요?"
+   ],
+   "find": "look like",
+   "i": 1
+  },
+  {
+   "w": "short / long hair",
+   "ipa": "/ʃɔːt/ /lɒŋ heə/",
+   "pos": "표현",
+   "ko": "짧은 / 긴 머리",
+   "ex": [
+    "She has long, straight hair.",
+    "그녀는 길고 곧은 머리예요."
+   ],
+   "find": "(short|long)\\b",
+   "i": 13
+  },
+  {
+   "w": "blond(e)",
+   "ipa": "/blɒnd/",
+   "pos": "형용사",
+   "ko": "금발의",
+   "ex": [
+    "The boy with blond hair is my son.",
+    "금발 머리 남자아이가 제 아들이에요."
+   ],
+   "find": "blond",
+   "i": 16
+  },
+  {
+   "w": "curly / straight",
+   "ipa": "/ˈkɜːli/ /streɪt/",
+   "pos": "형용사",
+   "ko": "곱슬곱슬한 / 곧은",
+   "ex": [
+    "I have curly hair like my mum.",
+    "저는 엄마처럼 곱슬머리예요."
+   ],
+   "find": "curly",
+   "i": 18
+  },
+  {
+   "w": "brown eyes",
+   "ipa": "/braʊn aɪz/",
+   "pos": "표현",
+   "ko": "갈색 눈",
+   "ex": [
+    "He has brown eyes and black hair.",
+    "그는 갈색 눈에 검은 머리예요."
+   ],
+   "find": "brown eyes",
+   "i": 22
+  },
+  {
+   "w": "tall / short",
+   "ipa": "/tɔːl/ /ʃɔːt/",
+   "pos": "형용사",
+   "ko": "키가 큰 / 키가 작은",
+   "ex": [
+    "My sister is taller than me.",
+    "언니는 저보다 키가 커요."
+   ],
+   "find": "\\btall(er)?\\b",
+   "i": 24
+  },
+  {
+   "w": "Is this him?",
+   "ipa": "/ɪz ðɪs hɪm/",
+   "pos": "표현",
+   "ko": "이 사람이에요?",
+   "ex": [
+    "Is this him? — Yes, that's him!",
+    "이 사람이에요? — 네, 그 사람이에요!"
+   ],
+   "find": "is this him",
+   "i": 27
+  }
+ ]
+}

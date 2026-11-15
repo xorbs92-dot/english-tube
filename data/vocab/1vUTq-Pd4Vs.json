@@ -1,0 +1,87 @@
+{
+ "videoId": "1vUTq-Pd4Vs",
+ "words": [
+  {
+   "w": "What can you do?",
+   "ipa": "/wɒt kən juː duː/",
+   "pos": "표현",
+   "ko": "뭘 할 수 있어요?",
+   "ex": [
+    "What can you do? — I can swim.",
+    "뭘 할 수 있어요? — 수영할 수 있어요."
+   ],
+   "find": "what can you do",
+   "i": 1
+  },
+  {
+   "w": "can",
+   "ipa": "/kæn/",
+   "pos": "조동사",
+   "ko": "~할 수 있다",
+   "ex": [
+    "I can speak a little English.",
+    "저는 영어를 조금 할 수 있어요."
+   ],
+   "find": "\\bcan\\b",
+   "i": 1
+  },
+  {
+   "w": "can't",
+   "ipa": "/kɑːnt/",
+   "pos": "조동사",
+   "ko": "~할 수 없다 (영국식 발음 '칸트')",
+   "ex": [
+    "I can't drive, so I take the bus.",
+    "저는 운전을 못 해서 버스를 타요."
+   ],
+   "i": 7
+  },
+  {
+   "w": "play the trumpet",
+   "ipa": "/pleɪ ðə ˈtrʌmpɪt/",
+   "pos": "표현",
+   "ko": "트럼펫을 불다 (악기엔 the)",
+   "ex": [
+    "He plays the piano and the trumpet.",
+    "그는 피아노와 트럼펫을 연주해요."
+   ],
+   "find": "trumpet",
+   "i": 5
+  },
+  {
+   "w": "rock-climb",
+   "ipa": "/ˈrɒk klaɪm/",
+   "pos": "동사",
+   "ko": "암벽 등반을 하다",
+   "ex": [
+    "I'd love to learn to rock-climb.",
+    "암벽 등반을 배워 보고 싶어요."
+   ],
+   "find": "rock-climb",
+   "i": 11
+  },
+  {
+   "w": "juggle",
+   "ipa": "/ˈdʒʌɡl/",
+   "pos": "동사",
+   "ko": "저글링하다",
+   "ex": [
+    "Can you juggle three balls?",
+    "공 세 개로 저글링할 수 있어요?"
+   ],
+   "i": 22
+  },
+  {
+   "w": "play guitar",
+   "ipa": "/pleɪ ɡɪˈtɑː/",
+   "pos": "표현",
+   "ko": "기타를 치다",
+   "ex": [
+    "My sister plays guitar in a band.",
+    "언니는 밴드에서 기타를 쳐요."
+   ],
+   "find": "guitar",
+   "i": 26
+  }
+ ]
+}

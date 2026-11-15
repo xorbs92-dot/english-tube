@@ -1,0 +1,86 @@
+{
+ "videoId": "sMg4vj6ugSs",
+ "words": [
+  {
+   "w": "How's the weather?",
+   "ipa": "/haʊz ðə ˈweðə/",
+   "pos": "표현",
+   "ko": "날씨 어때요?",
+   "ex": [
+    "How's the weather in Seoul today?",
+    "오늘 서울 날씨 어때요?"
+   ],
+   "find": "how's the weather",
+   "i": 1
+  },
+  {
+   "w": "hot and sunny",
+   "ipa": "/hɒt ənd ˈsʌni/",
+   "pos": "표현",
+   "ko": "덥고 화창한",
+   "ex": [
+    "It's hot and sunny, so let's go to the beach.",
+    "덥고 화창하니까 해변에 가요."
+   ],
+   "i": 8
+  },
+  {
+   "w": "It's raining.",
+   "ipa": "/ɪts ˈreɪnɪŋ/",
+   "pos": "표현",
+   "ko": "비가 와요.",
+   "ex": [
+    "Take an umbrella — it's raining.",
+    "우산 챙겨요. 비가 와요."
+   ],
+   "find": "raining",
+   "i": 14
+  },
+  {
+   "w": "It's snowing.",
+   "ipa": "/ɪts ˈsnəʊɪŋ/",
+   "pos": "표현",
+   "ko": "눈이 와요.",
+   "ex": [
+    "Look outside! It's snowing!",
+    "밖에 봐요! 눈이 와요!"
+   ],
+   "find": "snowing",
+   "i": 21
+  },
+  {
+   "w": "windy",
+   "ipa": "/ˈwɪndi/",
+   "pos": "형용사",
+   "ko": "바람이 부는",
+   "ex": [
+    "It's too windy to cycle today.",
+    "오늘은 바람이 너무 불어서 자전거 타기 힘들어요."
+   ],
+   "i": 30
+  },
+  {
+   "w": "cloudy",
+   "ipa": "/ˈklaʊdi/",
+   "pos": "형용사",
+   "ko": "흐린, 구름 낀",
+   "ex": [
+    "It's cloudy but it isn't cold.",
+    "흐리지만 춥지는 않아요."
+   ],
+   "i": 38
+  },
+  {
+   "w": "take photos",
+   "ipa": "/teɪk ˈfəʊtəʊz/",
+   "pos": "표현",
+   "ko": "사진을 찍다",
+   "ex": [
+    "I'm taking some photos of the city.",
+    "도시 사진을 좀 찍고 있어요."
+   ],
+   "find": "taking some photos",
+   "i": 6
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "videoId": "KHimUkNBDiQ",
+ "words": [
+  {
+   "w": "landmark",
+   "ipa": "/ˈlændmɑːk/",
+   "pos": "명사",
+   "ko": "랜드마크, 명소",
+   "ex": [
+    "Big Ben is a famous London landmark.",
+    "빅벤은 유명한 런던 명소예요."
+   ],
+   "find": "landmarks?",
+   "i": 3
+  },
+  {
+   "w": "sightseeing",
+   "ipa": "/ˈsaɪtsiːɪŋ/",
+   "pos": "명사",
+   "ko": "관광",
+   "ex": [
+    "We spent the day sightseeing in Rome.",
+    "우리는 로마에서 하루 종일 관광했어요."
+   ],
+   "i": 62
+  },
+  {
+   "w": "guided tour",
+   "ipa": "/ˌɡaɪdɪd ˈtʊə/",
+   "pos": "명사",
+   "ko": "가이드 투어",
+   "ex": [
+    "We took a guided tour of the castle.",
+    "성 가이드 투어를 했어요."
+   ],
+   "i": 57
+  },
+  {
+   "w": "recommend",
+   "ipa": "/ˌrekəˈmend/",
+   "pos": "동사",
+   "ko": "추천하다",
+   "ex": [
+    "I'd really recommend this restaurant.",
+    "이 식당 정말 추천해요."
+   ],
+   "i": 79
+  },
+  {
+   "w": "famous",
+   "ipa": "/ˈfeɪməs/",
+   "pos": "형용사",
+   "ko": "유명한",
+   "ex": [
+    "Paris is famous for the Eiffel Tower.",
+    "파리는 에펠탑으로 유명해요."
+   ],
+   "i": 3
+  },
+  {
+   "w": "tourist",
+   "ipa": "/ˈtʊərɪst/",
+   "pos": "명사",
+   "ko": "관광객",
+   "ex": [
+    "The museum is full of tourists in summer.",
+    "여름엔 박물관이 관광객으로 가득해요."
+   ],
+   "find": "tourists?",
+   "i": 49
+  }
+ ]
+}

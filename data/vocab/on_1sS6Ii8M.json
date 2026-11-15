@@ -1,0 +1,98 @@
+{
+ "videoId": "on_1sS6Ii8M",
+ "words": [
+  {
+   "w": "there is / there are",
+   "ipa": "/ðeər ɪz/ /ðeər ɑː/",
+   "pos": "표현",
+   "ko": "~이 있다 (단수 / 복수)",
+   "ex": [
+    "There's a café and there are two parks near my house.",
+    "우리 집 근처에 카페가 하나 있고 공원이 두 개 있어요."
+   ],
+   "find": "there's|there are",
+   "i": 10
+  },
+  {
+   "w": "Is there ...?",
+   "ipa": "/ɪz ðeə/",
+   "pos": "표현",
+   "ko": "~이 있어요?",
+   "ex": [
+    "Is there a bank near here?",
+    "이 근처에 은행이 있어요?"
+   ],
+   "find": "is there",
+   "i": 9
+  },
+  {
+   "w": "No, there isn't.",
+   "ipa": "/nəʊ ðeər ˈɪznt/",
+   "pos": "표현",
+   "ko": "아니요, 없어요.",
+   "ex": [
+    "Is there a cinema? — No, there isn't.",
+    "영화관 있어요? — 아니요, 없어요."
+   ],
+   "find": "there isn't",
+   "i": 17
+  },
+  {
+   "w": "What else is there?",
+   "ipa": "/wɒt els ɪz ðeə/",
+   "pos": "표현",
+   "ko": "또 뭐가 있어요?",
+   "ex": [
+    "There's a beach. What else is there?",
+    "해변이 있네요. 또 뭐가 있어요?"
+   ],
+   "find": "what else",
+   "i": 11
+  },
+  {
+   "w": "lots of",
+   "ipa": "/lɒts əv/",
+   "pos": "표현",
+   "ko": "많은",
+   "ex": [
+    "There are lots of restaurants in this street.",
+    "이 거리에는 식당이 많아요."
+   ],
+   "i": 14
+  },
+  {
+   "w": "some",
+   "ipa": "/sʌm/",
+   "pos": "한정사",
+   "ko": "몇몇의, 약간의",
+   "ex": [
+    "There are some shops and a post office.",
+    "가게 몇 개와 우체국이 있어요."
+   ],
+   "find": "\\bsome\\b",
+   "i": 15
+  },
+  {
+   "w": "cathedral",
+   "ipa": "/kəˈθiːdrəl/",
+   "pos": "명사",
+   "ko": "대성당",
+   "ex": [
+    "The old cathedral is in the city centre.",
+    "오래된 대성당은 도심에 있어요."
+   ],
+   "i": 63
+  },
+  {
+   "w": "theme park",
+   "ipa": "/ˈθiːm pɑːk/",
+   "pos": "명사",
+   "ko": "놀이공원",
+   "ex": [
+    "We went to a theme park for my birthday.",
+    "제 생일에 놀이공원에 갔어요."
+   ],
+   "i": 68
+  }
+ ]
+}

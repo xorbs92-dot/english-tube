@@ -1,0 +1,96 @@
+{
+ "videoId": "SHXPpsIJTb0",
+ "words": [
+  {
+   "w": "Where is ...?",
+   "ipa": "/weər ɪz/",
+   "pos": "표현",
+   "ko": "~이 어디예요?",
+   "ex": [
+    "Excuse me, where is the post office?",
+    "실례합니다, 우체국이 어디예요?"
+   ],
+   "find": "where is",
+   "i": 1
+  },
+  {
+   "w": "lost",
+   "ipa": "/lɒst/",
+   "pos": "형용사",
+   "ko": "길을 잃은",
+   "ex": [
+    "I'm lost. Can you help me?",
+    "길을 잃었어요. 도와주실래요?"
+   ],
+   "i": 7
+  },
+  {
+   "w": "go straight",
+   "ipa": "/ɡəʊ streɪt/",
+   "pos": "표현",
+   "ko": "직진하다",
+   "ex": [
+    "Go straight and you'll see the station.",
+    "직진하면 역이 보여요."
+   ],
+   "i": 9
+  },
+  {
+   "w": "turn left / turn right",
+   "ipa": "/tɜːn left/ /tɜːn raɪt/",
+   "pos": "표현",
+   "ko": "왼쪽으로 / 오른쪽으로 돌다",
+   "ex": [
+    "Turn right at the traffic lights.",
+    "신호등에서 오른쪽으로 도세요."
+   ],
+   "find": "turn (left|right)",
+   "i": 12
+  },
+  {
+   "w": "go past",
+   "ipa": "/ɡəʊ pɑːst/",
+   "pos": "동사구",
+   "ko": "~을 지나가다",
+   "ex": [
+    "Go past the church and turn left.",
+    "교회를 지나서 왼쪽으로 도세요."
+   ],
+   "i": 11
+  },
+  {
+   "w": "next to",
+   "ipa": "/nekst tə/",
+   "pos": "전치사",
+   "ko": "~ 옆에",
+   "ex": [
+    "The bank is next to the supermarket.",
+    "은행은 슈퍼마켓 옆에 있어요."
+   ],
+   "i": 16
+  },
+  {
+   "w": "opposite",
+   "ipa": "/ˈɒpəzɪt/",
+   "pos": "전치사",
+   "ko": "~ 맞은편에",
+   "ex": [
+    "The café is opposite the library.",
+    "카페는 도서관 맞은편에 있어요."
+   ],
+   "i": 33
+  },
+  {
+   "w": "You're welcome.",
+   "ipa": "/jɔː ˈwelkəm/",
+   "pos": "표현",
+   "ko": "천만에요.",
+   "ex": [
+    "Thank you! — You're welcome.",
+    "고마워요! — 천만에요."
+   ],
+   "find": "you're welcome",
+   "i": 19
+  }
+ ]
+}

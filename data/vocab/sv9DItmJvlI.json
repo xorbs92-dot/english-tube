@@ -1,0 +1,88 @@
+{
+ "videoId": "sv9DItmJvlI",
+ "words": [
+  {
+   "w": "heatwave",
+   "ipa": "/ˈhiːtweɪv/",
+   "pos": "명사",
+   "ko": "폭염",
+   "ex": [
+    "There's a heatwave across Europe.",
+    "유럽 전역에 폭염이 왔어요."
+   ],
+   "find": "heatwaves?",
+   "i": 2
+  },
+  {
+   "w": "prediction / projection",
+   "ipa": "/prɪˈdɪkʃn/ /prəˈdʒekʃn/",
+   "pos": "명사",
+   "ko": "예측 / (조건부) 전망",
+   "ex": [
+    "The model makes projections, not predictions.",
+    "그 모델은 예측이 아니라 전망을 해요."
+   ],
+   "find": "predictions?",
+   "i": 20
+  },
+  {
+   "w": "conditional",
+   "ipa": "/kənˈdɪʃənl/",
+   "pos": "형용사",
+   "ko": "조건부의",
+   "ex": [
+    "The offer is conditional on passing the test.",
+    "그 제안은 시험 통과가 조건이에요."
+   ],
+   "i": 21
+  },
+  {
+   "w": "the thing about ... is",
+   "ipa": "/ðə θɪŋ əˈbaʊt/",
+   "pos": "표현",
+   "ko": "~에 관해 중요한 건 …예요",
+   "ex": [
+    "The thing about London is it's so expensive.",
+    "런던에 관해 중요한 건 너무 비싸다는 거예요."
+   ],
+   "find": "the thing about",
+   "i": 30
+  },
+  {
+   "w": "out of whack",
+   "ipa": "/aʊt əv wæk/",
+   "pos": "표현",
+   "ko": "균형이 깨진, 고장 난",
+   "ex": [
+    "My sleep is out of whack after the trip.",
+    "여행 후 수면 패턴이 엉망이에요."
+   ],
+   "find": "out of whack",
+   "i": 32
+  },
+  {
+   "w": "pro-",
+   "ipa": "/prəʊ/",
+   "pos": "접두사",
+   "ko": "~을 지지하는",
+   "ex": [
+    "She's very pro-science.",
+    "그녀는 과학을 아주 지지해요."
+   ],
+   "find": "pro-",
+   "i": 44
+  },
+  {
+   "w": "not on the table",
+   "ipa": "/nɒt ɒn ðə ˈteɪbl/",
+   "pos": "표현",
+   "ko": "선택지에 없는",
+   "ex": [
+    "Moving abroad is not on the table right now.",
+    "해외 이사는 지금 선택지에 없어요."
+   ],
+   "find": "on the table",
+   "i": 45
+  }
+ ]
+}

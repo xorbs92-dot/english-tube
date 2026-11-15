@@ -1,0 +1,105 @@
+{
+ "videoId": "Te-UyphkKRk",
+ "words": [
+  {
+   "w": "living room",
+   "ipa": "/ˈlɪvɪŋ ruːm/",
+   "pos": "명사",
+   "ko": "거실",
+   "ex": [
+    "We watch TV in the living room.",
+    "우리는 거실에서 TV를 봐요."
+   ],
+   "i": 6
+  },
+  {
+   "w": "furniture",
+   "ipa": "/ˈfɜːnɪtʃə/",
+   "pos": "명사",
+   "ko": "가구 (셀 수 없는 명사)",
+   "ex": [
+    "We need some new furniture.",
+    "새 가구가 좀 필요해요."
+   ],
+   "i": 11
+  },
+  {
+   "w": "bookshelf",
+   "ipa": "/ˈbʊkʃelf/",
+   "pos": "명사",
+   "ko": "책장",
+   "ex": [
+    "The bookshelf is full of novels.",
+    "책장이 소설로 가득해요."
+   ],
+   "i": 16
+  },
+  {
+   "w": "rug",
+   "ipa": "/rʌɡ/",
+   "pos": "명사",
+   "ko": "러그, 작은 깔개",
+   "ex": [
+    "There's a red rug on the floor.",
+    "바닥에 빨간 러그가 있어요."
+   ],
+   "i": 18
+  },
+  {
+   "w": "wardrobe",
+   "ipa": "/ˈwɔːdrəʊb/",
+   "pos": "명사",
+   "ko": "옷장",
+   "ex": [
+    "My wardrobe is too small for all my clothes.",
+    "제 옷장은 옷을 다 넣기엔 너무 작아요."
+   ],
+   "i": 36
+  },
+  {
+   "w": "bedside table",
+   "ipa": "/ˈbedsaɪd ˈteɪbl/",
+   "pos": "명사",
+   "ko": "침대 옆 협탁",
+   "ex": [
+    "I keep my phone on the bedside table.",
+    "휴대폰은 침대 옆 협탁에 둬요."
+   ],
+   "i": 34
+  },
+  {
+   "w": "drawers",
+   "ipa": "/drɔːz/",
+   "pos": "명사",
+   "ko": "서랍(장)",
+   "ex": [
+    "The spoons are in the top drawer.",
+    "숟가락은 맨 위 서랍에 있어요."
+   ],
+   "find": "drawers?",
+   "i": 46
+  },
+  {
+   "w": "cupboard",
+   "ipa": "/ˈkʌbəd/",
+   "pos": "명사",
+   "ko": "찬장 (발음 '커버드')",
+   "ex": [
+    "The cups are in the kitchen cupboard.",
+    "컵은 부엌 찬장에 있어요."
+   ],
+   "i": 53
+  },
+  {
+   "w": "microwave",
+   "ipa": "/ˈmaɪkrəweɪv/",
+   "pos": "명사",
+   "ko": "전자레인지",
+   "ex": [
+    "Heat it in the microwave for two minutes.",
+    "전자레인지에 2분 데우세요."
+   ],
+   "i": 57
+  }
+ ]
+}

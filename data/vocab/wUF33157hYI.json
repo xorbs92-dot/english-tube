@@ -1,0 +1,86 @@
+{
+ "videoId": "wUF33157hYI",
+ "words": [
+  {
+   "w": "What food do you like?",
+   "ipa": "/wɒt fuːd də juː laɪk/",
+   "pos": "표현",
+   "ko": "어떤 음식을 좋아해요?",
+   "ex": [
+    "What food do you like? — I like noodles.",
+    "어떤 음식 좋아해요? — 국수 좋아해요."
+   ],
+   "find": "what food do you like",
+   "i": 4
+  },
+  {
+   "w": "I don't like ...",
+   "ipa": "/aɪ dəʊnt laɪk/",
+   "pos": "표현",
+   "ko": "나는 ~을 안 좋아해요",
+   "ex": [
+    "I don't like coffee without milk.",
+    "우유 안 넣은 커피는 안 좋아해요."
+   ],
+   "find": "don't like",
+   "i": 23
+  },
+  {
+   "w": "like doing",
+   "ipa": "/laɪk ˈduːɪŋ/",
+   "pos": "표현",
+   "ko": "~하는 것을 좋아하다 (like + -ing)",
+   "ex": [
+    "I like reading on the train.",
+    "저는 기차에서 책 읽는 걸 좋아해요."
+   ],
+   "find": "like \\w+ing",
+   "i": 37
+  },
+  {
+   "w": "grapes",
+   "ipa": "/ɡreɪps/",
+   "pos": "명사",
+   "ko": "포도",
+   "ex": [
+    "Can I have some grapes?",
+    "포도 좀 먹어도 돼요?"
+   ],
+   "i": 13
+  },
+  {
+   "w": "nuts",
+   "ipa": "/nʌts/",
+   "pos": "명사",
+   "ko": "견과류",
+   "ex": [
+    "He can't eat nuts because of an allergy.",
+    "그는 알레르기 때문에 견과류를 못 먹어요."
+   ],
+   "i": 25
+  },
+  {
+   "w": "hiking",
+   "ipa": "/ˈhaɪkɪŋ/",
+   "pos": "명사",
+   "ko": "하이킹, 등산",
+   "ex": [
+    "We go hiking every Sunday.",
+    "우리는 매주 일요일에 하이킹을 가요."
+   ],
+   "i": 42
+  },
+  {
+   "w": "She likes / He likes",
+   "ipa": "/ʃiː laɪks/",
+   "pos": "문법",
+   "ko": "그녀는/그는 ~을 좋아해요 (3인칭 -s)",
+   "ex": [
+    "She likes swimming in the sea.",
+    "그녀는 바다에서 수영하는 걸 좋아해요."
+   ],
+   "find": "likes",
+   "i": 49
+  }
+ ]
+}

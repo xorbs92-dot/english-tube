@@ -1,0 +1,73 @@
+{
+ "videoId": "BFJsSnEEGrI",
+ "words": [
+  {
+   "w": "How do you take your coffee?",
+   "ipa": "/haʊ də juː teɪk jɔː ˈkɒfi/",
+   "pos": "표현",
+   "ko": "커피 어떻게 드세요? (뭘 넣어서)",
+   "ex": [
+    "How do you take your tea? — With milk, please.",
+    "차 어떻게 드세요? — 우유 넣어 주세요."
+   ],
+   "find": "take (your|my|our) (coffee|tea)",
+   "i": 20
+  },
+  {
+   "w": "black / white coffee",
+   "ipa": "/blæk/ /waɪt ˈkɒfi/",
+   "pos": "표현",
+   "ko": "블랙커피 / 우유 넣은 커피",
+   "ex": [
+    "I'd like a white coffee, no sugar.",
+    "우유 넣은 커피, 설탕 없이 주세요."
+   ],
+   "find": "black|white coffee",
+   "i": 24
+  },
+  {
+   "w": "caffeine",
+   "ipa": "/ˈkæfiːn/",
+   "pos": "명사",
+   "ko": "카페인",
+   "ex": [
+    "Too much caffeine keeps me awake.",
+    "카페인을 너무 많이 마시면 잠이 안 와요."
+   ],
+   "i": 48
+  },
+  {
+   "w": "decaf",
+   "ipa": "/ˈdiːkæf/",
+   "pos": "명사",
+   "ko": "디카페인 커피",
+   "ex": [
+    "Can I have a decaf latte?",
+    "디카페인 라테 주실래요?"
+   ],
+   "i": 65
+  },
+  {
+   "w": "cut down on",
+   "ipa": "/kʌt daʊn ɒn/",
+   "pos": "동사구",
+   "ko": "~을 줄이다",
+   "ex": [
+    "I'm trying to cut down on sugar.",
+    "설탕을 줄이려고 하고 있어요."
+   ],
+   "i": 60
+  },
+  {
+   "w": "alert",
+   "ipa": "/əˈlɜːt/",
+   "pos": "형용사",
+   "ko": "정신이 맑은, 기민한",
+   "ex": [
+    "Coffee helps me stay alert.",
+    "커피는 정신을 맑게 해 줘요."
+   ],
+   "i": 18
+  }
+ ]
+}

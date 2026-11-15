@@ -1,0 +1,75 @@
+{
+ "videoId": "VFA53-P4yPo",
+ "words": [
+  {
+   "w": "job interview",
+   "ipa": "/dʒɒb ˈɪntəvjuː/",
+   "pos": "명사",
+   "ko": "면접",
+   "ex": [
+    "I have a job interview tomorrow morning.",
+    "내일 아침에 면접이 있어요."
+   ],
+   "find": "interview",
+   "i": 3
+  },
+  {
+   "w": "nervous",
+   "ipa": "/ˈnɜːvəs/",
+   "pos": "형용사",
+   "ko": "긴장한, 불안한",
+   "ex": [
+    "I always get nervous before exams.",
+    "저는 시험 전에 늘 긴장해요."
+   ],
+   "i": 9
+  },
+  {
+   "w": "confident",
+   "ipa": "/ˈkɒnfɪdənt/",
+   "pos": "형용사",
+   "ko": "자신감 있는",
+   "ex": [
+    "She sounded confident in the interview.",
+    "그녀는 면접에서 자신감 있어 보였어요."
+   ],
+   "i": 14
+  },
+  {
+   "w": "skills",
+   "ipa": "/skɪlz/",
+   "pos": "명사",
+   "ko": "기술, 능력",
+   "ex": [
+    "Good communication skills are important.",
+    "좋은 의사소통 능력은 중요해요."
+   ],
+   "find": "skills?",
+   "i": 21
+  },
+  {
+   "w": "example",
+   "ipa": "/ɪɡˈzɑːmpl/",
+   "pos": "명사",
+   "ko": "예, 사례",
+   "ex": [
+    "Can you give me an example?",
+    "예를 하나 들어 줄래요?"
+   ],
+   "find": "examples?",
+   "i": 22
+  },
+  {
+   "w": "prepare",
+   "ipa": "/prɪˈpeə/",
+   "pos": "동사",
+   "ko": "준비하다",
+   "ex": [
+    "I prepared answers to common questions.",
+    "자주 나오는 질문에 대한 답을 준비했어요."
+   ],
+   "find": "prepar",
+   "i": 18
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "videoId": "-idY8F7LOSE",
+ "words": [
+  {
+   "w": "ups and downs",
+   "ipa": "/ʌps ən daʊnz/",
+   "pos": "표현",
+   "ko": "기복, 좋을 때와 나쁠 때",
+   "ex": [
+    "Every relationship has its ups and downs.",
+    "모든 관계에는 기복이 있어요."
+   ],
+   "i": 17
+  },
+  {
+   "w": "mood",
+   "ipa": "/muːd/",
+   "pos": "명사",
+   "ko": "기분",
+   "ex": [
+    "I'm not in the mood for a party.",
+    "파티할 기분이 아니에요."
+   ],
+   "find": "\\bmood\\b",
+   "i": 19
+  },
+  {
+   "w": "battleground",
+   "ipa": "/ˈbætlɡraʊnd/",
+   "pos": "명사",
+   "ko": "전쟁터, 갈등의 장",
+   "ex": [
+    "Bedtime became a battleground.",
+    "잠자는 시간이 전쟁터가 됐어요."
+   ],
+   "i": 38
+  },
+  {
+   "w": "a big deal",
+   "ipa": "/ə bɪɡ diːl/",
+   "pos": "표현",
+   "ko": "큰일, 중요한 일",
+   "ex": [
+    "Don't worry — it's not a big deal.",
+    "걱정 마요. 별일 아니에요."
+   ],
+   "find": "big deal",
+   "i": 41
+  },
+  {
+   "w": "food allergy",
+   "ipa": "/fuːd ˈælədʒi/",
+   "pos": "명사",
+   "ko": "음식 알레르기",
+   "ex": [
+    "Do you have any food allergies?",
+    "음식 알레르기 있어요?"
+   ],
+   "find": "allerg",
+   "i": 46
+  },
+  {
+   "w": "winning formula",
+   "ipa": "/ˈwɪnɪŋ ˈfɔːmjələ/",
+   "pos": "명사",
+   "ko": "성공 공식",
+   "ex": [
+    "Good food and low prices — that's a winning formula.",
+    "맛있는 음식과 싼 가격, 그게 성공 공식이에요."
+   ],
+   "find": "winning formula",
+   "i": 49
+  },
+  {
+   "w": "pressure",
+   "ipa": "/ˈpreʃə/",
+   "pos": "동사",
+   "ko": "압박하다",
+   "ex": [
+    "Don't pressure your kids to eat everything.",
+    "아이들에게 다 먹으라고 압박하지 마세요."
+   ],
+   "find": "pressur",
+   "i": 31
+  }
+ ]
+}

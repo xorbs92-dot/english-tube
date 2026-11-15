@@ -1,0 +1,95 @@
+{
+ "videoId": "osDr7To4Ml4",
+ "words": [
+  {
+   "w": "What's she like?",
+   "ipa": "/wɒts ʃiː laɪk/",
+   "pos": "표현",
+   "ko": "그녀는 어떤 사람이에요? (성격)",
+   "ex": [
+    "What's your new boss like? — She's friendly.",
+    "새 상사는 어떤 사람이에요? — 친절해요."
+   ],
+   "find": "what's [\\w ]+ like|what is \\w+ like",
+   "i": 1
+  },
+  {
+   "w": "hardworking",
+   "ipa": "/ˌhɑːdˈwɜːkɪŋ/",
+   "pos": "형용사",
+   "ko": "열심히 일하는, 근면한",
+   "ex": [
+    "She's very hardworking and never late.",
+    "그녀는 아주 성실하고 절대 지각하지 않아요."
+   ],
+   "i": 9
+  },
+  {
+   "w": "talkative",
+   "ipa": "/ˈtɔːkətɪv/",
+   "pos": "형용사",
+   "ko": "말이 많은, 수다스러운",
+   "ex": [
+    "My friend is really talkative on the phone.",
+    "제 친구는 통화할 때 정말 수다스러워요."
+   ],
+   "i": 14
+  },
+  {
+   "w": "sporty",
+   "ipa": "/ˈspɔːti/",
+   "pos": "형용사",
+   "ko": "운동을 좋아하는",
+   "ex": [
+    "He's sporty — he plays football and tennis.",
+    "그는 운동을 좋아해요. 축구랑 테니스를 해요."
+   ],
+   "i": 16
+  },
+  {
+   "w": "funny",
+   "ipa": "/ˈfʌni/",
+   "pos": "형용사",
+   "ko": "재미있는, 웃긴",
+   "ex": [
+    "My dad is really funny.",
+    "우리 아빠는 정말 웃겨요."
+   ],
+   "i": 24
+  },
+  {
+   "w": "grumpy",
+   "ipa": "/ˈɡrʌmpi/",
+   "pos": "형용사",
+   "ko": "투덜대는, 심술난",
+   "ex": [
+    "He's always grumpy in the morning.",
+    "그는 아침엔 늘 투덜대요."
+   ],
+   "i": 37
+  },
+  {
+   "w": "brave",
+   "ipa": "/breɪv/",
+   "pos": "형용사",
+   "ko": "용감한",
+   "ex": [
+    "It was brave of you to speak first.",
+    "먼저 말한 건 용감했어요."
+   ],
+   "i": 39
+  },
+  {
+   "w": "lazy / quiet",
+   "ipa": "/ˈleɪzi/ /ˈkwaɪət/",
+   "pos": "형용사",
+   "ko": "게으른 / 조용한",
+   "ex": [
+    "I feel lazy on Sunday mornings.",
+    "일요일 아침엔 게을러져요."
+   ],
+   "find": "lazy",
+   "i": 56
+  }
+ ]
+}

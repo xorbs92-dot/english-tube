@@ -1,0 +1,74 @@
+{
+ "videoId": "E3G-dsvZHGU",
+ "words": [
+  {
+   "w": "complain",
+   "ipa": "/kəmˈpleɪn/",
+   "pos": "동사",
+   "ko": "불평하다, 항의하다",
+   "ex": [
+    "I complained about the cold food.",
+    "음식이 식었다고 항의했어요."
+   ],
+   "i": 3
+  },
+  {
+   "w": "make a complaint",
+   "ipa": "/meɪk ə kəmˈpleɪnt/",
+   "pos": "표현",
+   "ko": "항의하다, 민원을 넣다",
+   "ex": [
+    "I'd like to make a complaint.",
+    "항의하고 싶어요."
+   ],
+   "find": "complaint",
+   "i": 72
+  },
+  {
+   "w": "discount",
+   "ipa": "/ˈdɪskaʊnt/",
+   "pos": "명사",
+   "ko": "할인",
+   "ex": [
+    "They gave me a 10% discount.",
+    "10% 할인을 받았어요."
+   ],
+   "i": 34
+  },
+  {
+   "w": "be entitled to",
+   "ipa": "/ɪnˈtaɪtld tə/",
+   "pos": "표현",
+   "ko": "~을 받을 권리가 있다",
+   "ex": [
+    "You're entitled to a refund.",
+    "환불받을 권리가 있어요."
+   ],
+   "find": "entitled",
+   "i": 24
+  },
+  {
+   "w": "review",
+   "ipa": "/rɪˈvjuː/",
+   "pos": "명사",
+   "ko": "후기, 리뷰",
+   "ex": [
+    "I always read the reviews before booking.",
+    "예약 전에 항상 후기를 읽어요."
+   ],
+   "find": "reviews?",
+   "i": 7
+  },
+  {
+   "w": "embarrassing",
+   "ipa": "/ɪmˈbærəsɪŋ/",
+   "pos": "형용사",
+   "ko": "창피한, 난처한",
+   "ex": [
+    "It was embarrassing when my phone rang in class.",
+    "수업 중에 휴대폰이 울려서 창피했어요."
+   ],
+   "i": 55
+  }
+ ]
+}

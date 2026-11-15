@@ -1,0 +1,74 @@
+{
+ "videoId": "qfQ61oYIbxY",
+ "words": [
+  {
+   "w": "grumpy",
+   "ipa": "/ˈɡrʌmpi/",
+   "pos": "형용사",
+   "ko": "짜증 난, 투덜대는",
+   "ex": [
+    "I'm grumpy when I'm hungry.",
+    "저는 배고프면 짜증이 나요."
+   ],
+   "i": 4
+  },
+  {
+   "w": "in a bad mood",
+   "ipa": "/ɪn ə bæd muːd/",
+   "pos": "표현",
+   "ko": "기분이 안 좋은",
+   "ex": [
+    "Don't talk to him — he's in a bad mood.",
+    "그한테 말 걸지 마요. 기분이 안 좋아요."
+   ],
+   "find": "bad mood",
+   "i": 6
+  },
+  {
+   "w": "in a good mood",
+   "ipa": "/ɪn ə ɡʊd muːd/",
+   "pos": "표현",
+   "ko": "기분이 좋은",
+   "ex": [
+    "You're in a good mood today!",
+    "오늘 기분 좋아 보이네요!"
+   ],
+   "find": "good mood|better mood",
+   "i": 39
+  },
+  {
+   "w": "cheerful",
+   "ipa": "/ˈtʃɪəfl/",
+   "pos": "형용사",
+   "ko": "쾌활한, 밝은",
+   "ex": [
+    "She's always cheerful in the morning.",
+    "그녀는 아침에 늘 밝아요."
+   ],
+   "i": 18
+  },
+  {
+   "w": "cheer up",
+   "ipa": "/tʃɪər ʌp/",
+   "pos": "동사구",
+   "ko": "기운 내다, 기분을 북돋우다",
+   "ex": [
+    "Cheer up! It's nearly the weekend.",
+    "힘내요! 곧 주말이에요."
+   ],
+   "find": "cheer (\\w+ )?up",
+   "i": 31
+  },
+  {
+   "w": "irritable",
+   "ipa": "/ˈɪrɪtəbl/",
+   "pos": "형용사",
+   "ko": "짜증을 잘 내는, 예민한",
+   "ex": [
+    "I get irritable when I'm tired.",
+    "피곤하면 예민해져요."
+   ],
+   "i": 24
+  }
+ ]
+}

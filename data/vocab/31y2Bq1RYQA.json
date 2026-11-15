@@ -1,0 +1,86 @@
+{
+ "videoId": "31y2Bq1RYQA",
+ "words": [
+  {
+   "w": "Where are you from?",
+   "ipa": "/weər ə juː frɒm/",
+   "pos": "표현",
+   "ko": "어디 출신이에요?",
+   "ex": [
+    "Where are you from? — I'm from Seoul.",
+    "어디 출신이에요? — 서울 출신이에요."
+   ],
+   "find": "where are you from",
+   "i": 1
+  },
+  {
+   "w": "live in",
+   "ipa": "/lɪv ɪn/",
+   "pos": "동사구",
+   "ko": "~에 살다",
+   "ex": [
+    "I live in a small town near Busan.",
+    "저는 부산 근처 작은 마을에 살아요."
+   ],
+   "i": 22
+  },
+  {
+   "w": "house",
+   "ipa": "/haʊs/",
+   "pos": "명사",
+   "ko": "주택, 집",
+   "ex": [
+    "They live in a big house with a garden.",
+    "그들은 정원이 있는 큰 집에 살아요."
+   ],
+   "i": 22
+  },
+  {
+   "w": "flat",
+   "ipa": "/flæt/",
+   "pos": "명사",
+   "ko": "아파트 (영국식, 미국은 apartment)",
+   "ex": [
+    "My flat is on the third floor.",
+    "제 아파트는 3층에 있어요."
+   ],
+   "i": 29
+  },
+  {
+   "w": "housemate",
+   "ipa": "/ˈhaʊsmeɪt/",
+   "pos": "명사",
+   "ko": "같은 집에 사는 사람, 하우스메이트",
+   "ex": [
+    "My housemates are really friendly.",
+    "제 하우스메이트들은 정말 친절해요."
+   ],
+   "find": "housemates?",
+   "i": 23
+  },
+  {
+   "w": "live on my own",
+   "ipa": "/lɪv ɒn maɪ əʊn/",
+   "pos": "표현",
+   "ko": "혼자 살다",
+   "ex": [
+    "I've lived on my own since I was twenty.",
+    "스무 살 때부터 혼자 살았어요."
+   ],
+   "find": "on my own",
+   "i": 31
+  },
+  {
+   "w": "Who do you live with?",
+   "ipa": "/huː də juː lɪv wɪð/",
+   "pos": "표현",
+   "ko": "누구랑 같이 살아요?",
+   "ex": [
+    "Who do you live with? — With my parents.",
+    "누구랑 같이 살아요? — 부모님이랑요."
+   ],
+   "find": "who do you live with",
+   "i": 26
+  }
+ ]
+}
