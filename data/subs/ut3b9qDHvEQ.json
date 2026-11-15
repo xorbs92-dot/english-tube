@@ -3,349 +3,349 @@
  "title": "Children in war zones ⏲️ 6 Minute English",
  "channel": "BBC Learning English",
  "enSource": "manual",
- "koSource": "none",
+ "koSource": "claude",
  "sentences": [
   {
    "s": 0.33,
    "e": 3.88,
    "en": "Hello. This is 6 Minute English from BBC Learning English.",
-   "ko": ""
+   "ko": "안녕하세요. BBC Learning English의 6 Minute English입니다."
   },
   {
    "s": 3.88,
    "e": 5.76,
    "en": "I'm Neil. And I'm Becca.",
-   "ko": ""
+   "ko": "저는 닐이에요. 그리고 저는 베카예요."
   },
   {
    "s": 5.76,
    "e": 12.64,
    "en": "Now, today we're going to be talking about the very serious topic of war and how it affects children.",
-   "ko": ""
+   "ko": "오늘은 전쟁, 그리고 전쟁이 아이들에게 미치는 영향이라는 아주 무거운 주제에 대해 이야기할 거예요."
   },
   {
    "s": 12.64,
    "e": 16.52,
    "en": "Some of the discussions you hear will mention death and trauma.",
-   "ko": ""
+   "ko": "여러분이 듣게 될 이야기 중에는 죽음과 트라우마에 대한 언급이 있어요."
   },
   {
    "s": 16.52,
    "e": 27.65,
    "en": "We won't go into detail, but if you think you may feel uncomfortable, you can check the transcript for this episode before listening to it on our website, bbclearningenglish.com.",
-   "ko": ""
+   "ko": "자세히 다루진 않겠지만, 불편하실 것 같다면 듣기 전에 웹사이트 bbclearningenglish.com에서 이번 에피소드의 대본을 먼저 확인하실 수 있어요."
   },
   {
    "s": 27.65,
    "e": 37.91,
    "en": "And remember, you'll find all this episode's vocabulary, along with the free worksheet and many other six minute English episodes on our website, bbclearningenglish.com.",
-   "ko": ""
+   "ko": "그리고 기억하세요, 이번 에피소드의 모든 어휘와 무료 학습지, 그리고 다른 많은 6 Minute English 에피소드가 웹사이트 bbclearningenglish.com에 있어요."
   },
   {
    "s": 37.91,
    "e": 46.21,
    "en": "The most recent figure from 2024 says that 520 million children are living in conflict zones.",
-   "ko": ""
+   "ko": "2024년 최신 수치에 따르면 5억 2천만 명의 아이들이 분쟁 지역에서 살고 있어요."
   },
   {
    "s": 46.21,
    "e": 49.51,
    "en": "That's about one in every five children worldwide.",
-   "ko": ""
+   "ko": "전 세계 아이 다섯 명 중 한 명꼴이에요."
   },
   {
    "s": 49.51,
    "e": 56.01,
    "en": "In this episode, we'll hear from Fergal Keane on the BBC World Service programme, The Global Story.",
-   "ko": ""
+   "ko": "이번 에피소드에서는 BBC 월드 서비스 프로그램 'The Global Story'에 나온 퍼걸 킨의 이야기를 들어 볼 거예요."
   },
   {
    "s": 56.01,
    "e": 68.19,
    "en": "Fergal is a BBC reporter best known for reporting from war zones around the world, and as a result he developed PTSD, which is a type of stress disorder.",
-   "ko": ""
+   "ko": "퍼걸은 전 세계 전쟁 지역에서 보도한 것으로 가장 잘 알려진 BBC 기자인데, 그 결과 스트레스 장애의 일종인 PTSD를 겪게 됐어요."
   },
   {
    "s": 68.19,
    "e": 72.66,
    "en": "We'll be finding out what PTSD stands for at the end of the programme.",
-   "ko": ""
+   "ko": "PTSD가 무엇의 약자인지는 프로그램 마지막에 알아볼게요."
   },
   {
    "s": 72.66,
    "e": 79.83,
    "en": "Now in the clips, we'll hear Asma Khalid ask Fergal Keane about his own experience with childhood trauma.",
-   "ko": ""
+   "ko": "자, 클립에서는 아스마 칼리드가 퍼걸 킨에게 그 자신의 어린 시절 트라우마 경험에 대해 묻는 걸 듣게 될 거예요."
   },
   {
    "s": 79.83,
    "e": 83.33,
    "en": "Fergal grew up in a home with an alcoholic father.",
-   "ko": ""
+   "ko": "퍼걸은 알코올 중독자 아버지가 있는 집에서 자랐어요."
   },
   {
    "s": 83.33,
    "e": 91.17,
    "en": "Asma wanted to know how Fergal's own childhood trauma affected his reporting on the experiences of children in war zones.",
-   "ko": ""
+   "ko": "아스마는 퍼걸 자신의 어린 시절 트라우마가 전쟁 지역 아이들의 경험을 보도하는 데 어떤 영향을 미쳤는지 알고 싶었어요."
   },
   {
    "s": 91.17,
    "e": 98.1,
    "en": "I was hypervigilant from the very earliest age, obviously watching out, you know, am I under a threat?",
-   "ko": ""
+   "ko": "저는 아주 어릴 때부터 과잉 경계 상태였어요. 당연히 늘 살피는 거죠. 내가 위협받고 있나?"
   },
   {
    "s": 98.1,
    "e": 99.77,
    "en": "Is there a danger to me here?",
-   "ko": ""
+   "ko": "여기 나한테 위험한 게 있나?"
   },
   {
    "s": 99.77,
    "e": 105.81,
    "en": "Fergal mentions that he was hypervigilant because he was in dangerous situations as a child.",
-   "ko": ""
+   "ko": "퍼걸은 어렸을 때 위험한 상황에 있었기 때문에 hypervigilant했다고 말해요."
   },
   {
    "s": 105.81,
    "e": 113.45,
    "en": "The adjective vigilant means to always be careful to notice things, particularly when there's a possibility of danger.",
-   "ko": ""
+   "ko": "형용사 vigilant는 특히 위험의 가능성이 있을 때 늘 주의 깊게 살핀다는 뜻이에요."
   },
   {
    "s": 113.45,
    "e": 119.62,
    "en": "Yes, and the prefix hyper expresses that there is a lot of or even too much of something.",
-   "ko": ""
+   "ko": "네, 그리고 접두사 hyper는 뭔가가 많거나 심지어 지나치게 많다는 걸 나타내요."
   },
   {
    "s": 119.62,
    "e": 124.12,
    "en": "Though neutral, it is often used in negative or critical contexts.",
-   "ko": ""
+   "ko": "중립적이긴 하지만, 부정적이거나 비판적인 맥락에서 자주 쓰여요."
   },
   {
    "s": 124.12,
    "e": 139.35,
    "en": "So, hyper vigilant means very, very careful, sometimes too careful and thoughtful. Hypervigilence, the noun, is a state of extreme alertness and sensitivity to surroundings, possibly because of extreme anxiety.",
-   "ko": ""
+   "ko": "그래서 hypervigilant는 아주아주 조심하는, 때로는 지나치게 조심하고 신경 쓰는 걸 뜻해요. 명사 hypervigilance는 아마도 극심한 불안 때문에 주변에 극도로 경계하고 예민한 상태를 말해요."
   },
   {
    "s": 139.35,
    "e": 146.02,
    "en": "Now let's hear from Fergal as he talks about research on the experiences of children in war zones.",
-   "ko": ""
+   "ko": "이제 퍼걸이 전쟁 지역 아이들의 경험에 관한 연구에 대해 말하는 걸 들어 봐요."
   },
   {
    "s": 146.02,
    "e": 150.61,
    "en": "I mean, they disagree about a few things, but on this they're absolutely of one mind.",
-   "ko": ""
+   "ko": "그러니까, 그들은 몇 가지에 대해선 의견이 다르지만, 이 점에 대해선 완전히 한마음이에요."
   },
   {
    "s": 150.61,
    "e": 161.29,
    "en": "Fergal mentions that they, the researchers, disagree about their findings, but they're absolutely of one mind when considering the recovery from war trauma.",
-   "ko": ""
+   "ko": "퍼걸은 연구자들이 연구 결과에 대해선 의견이 다르지만, 전쟁 트라우마에서의 회복에 대해선 완전히 한마음(of one mind)이라고 말해요."
   },
   {
    "s": 161.29,
    "e": 168.92,
    "en": "If you are of one mind, you are of a group of people that share the same opinion, desire, or viewpoint on a matter.",
-   "ko": ""
+   "ko": "of one mind라면 어떤 문제에 대해 같은 의견, 바람, 관점을 공유하는 집단의 일원이라는 거예요."
   },
   {
    "s": 168.92,
    "e": 183.02,
    "en": "Researchers may disagree on whether the experiences of children in war zones is improving, but on the point of recovery, they are of one mind in that you can't recover from war trauma if you continue living with it.",
-   "ko": ""
+   "ko": "연구자들은 전쟁 지역 아이들의 경험이 나아지고 있는지에 대해선 의견이 다를 수 있지만, 회복에 관해선 트라우마 속에서 계속 살면 회복할 수 없다는 데 한마음이에요."
   },
   {
    "s": 183.02,
    "e": 188.1,
    "en": "Fergal goes on to talk about some of the ways in which these children might be helped.",
-   "ko": ""
+   "ko": "퍼걸은 이어서 이 아이들을 도울 수 있는 몇 가지 방법에 대해 이야기해요."
   },
   {
    "s": 188.1,
    "e": 206.79,
    "en": "And so there's a new field of theory, well, I mean, relatively new field of theory, which encourages children to slowly and carefully try to confront, obviously not death and massacre again, but things like learning to sleep alone, not having to sleep with a parent",
-   "ko": ""
+   "ko": "그래서 새로운 이론 분야가, 음, 비교적 새로운 이론 분야가 있는데, 아이들이 천천히 조심스럽게 마주하도록 독려해요. 당연히 죽음과 학살을 다시 마주하는 게 아니라, 혼자 자는 법을 배우는 것 같은 거요. 부모와 같이 자지 않아도 되도록요."
   },
   {
    "s": 206.79,
    "e": 210.54,
    "en": "because that's what they did during the war, because they were so consistently terrified.",
-   "ko": ""
+   "ko": "전쟁 중에 늘 너무 겁에 질려 있어서 그렇게 했으니까요."
   },
   {
    "s": 210.54,
    "e": 223.6,
    "en": "Now it sounds like a simple thing, but as anybody who's tried to put a child to sleep, who's had a nightmare, a child who hasn't been traumatized will know it's very difficult.",
-   "ko": ""
+   "ko": "단순한 일처럼 들리지만, 악몽을 꾼 아이를 재워 본 사람이라면, 트라우마가 없는 아이라도 그게 아주 어렵다는 걸 알 거예요."
   },
   {
    "s": 223.6,
    "e": 229.81,
    "en": "Fergal says that children should be encouraged to slowly and carefully try to confront their experiences.",
-   "ko": ""
+   "ko": "퍼걸은 아이들이 자신의 경험을 천천히 조심스럽게 마주하도록(confront) 독려해야 한다고 말해요."
   },
   {
    "s": 229.81,
    "e": 233.19,
    "en": "To confront something is to meet with it or deal with it.",
-   "ko": ""
+   "ko": "뭔가를 confront한다는 건 그것과 맞닥뜨리거나 그것에 대처하는 거예요."
   },
   {
    "s": 233.19,
    "e": 240.95,
    "en": "For the children to confront their terrifying experiences, they must start with more simple things like learning to sleep alone.",
-   "ko": ""
+   "ko": "아이들이 끔찍한 경험을 마주하려면 혼자 자는 법 배우기처럼 더 단순한 것부터 시작해야 해요."
   },
   {
    "s": 240.95,
    "e": 250.04,
    "en": "Sleeping alone seems simple enough, but Fergal compares the experiences of children in war zones to that of children who might have nightmares.",
-   "ko": ""
+   "ko": "혼자 자는 건 꽤 단순해 보이지만, 퍼걸은 전쟁 지역 아이들의 경험을 악몽을 꾸는 아이들의 경험에 비유해요."
   },
   {
    "s": 250.04,
    "e": 254.25,
    "en": "Yes, and a nightmare is a very scary or upsetting dream.",
-   "ko": ""
+   "ko": "네, nightmare는 아주 무섭거나 괴로운 꿈이에요."
   },
   {
    "s": 254.25,
    "e": 259.8,
    "en": "It can also be used metaphorically to describe unpleasant events or experiences.",
-   "ko": ""
+   "ko": "불쾌한 사건이나 경험을 비유적으로 묘사할 때도 쓸 수 있어요."
   },
   {
    "s": 259.8,
    "e": 265.56,
    "en": "Now let's hear Fergal talking about what he's learned from reporting on children in war zones.",
-   "ko": ""
+   "ko": "이제 퍼걸이 전쟁 지역 아이들을 보도하면서 배운 것에 대해 말하는 걸 들어 봐요."
   },
   {
    "s": 265.56,
    "e": 273.48,
    "en": "The big lesson is, is that given a chance, the human spirit and especially children, are phenomenally resilient.",
-   "ko": ""
+   "ko": "가장 큰 교훈은, 기회만 주어지면 인간의 정신, 특히 아이들은 놀라울 만큼 회복력이 강하다는 거예요."
   },
   {
    "s": 273.48,
    "e": 278.03,
    "en": "Fergal describes the children as being phenomenally resilient.",
-   "ko": ""
+   "ko": "퍼걸은 아이들이 phenomenally resilient하다고 표현해요."
   },
   {
    "s": 278.03,
    "e": 287.95,
    "en": "The noun phenomenon, or phenomena in its plural form, refers to an observable fact or event that can be experienced through the senses.",
-   "ko": ""
+   "ko": "명사 phenomenon, 복수형 phenomena는 감각으로 경험할 수 있는 관찰 가능한 사실이나 사건을 말해요."
   },
   {
    "s": 287.95,
    "e": 295.21,
    "en": "The adverb phenomenally describes something being done or felt in an extreme or surprising way.",
-   "ko": ""
+   "ko": "부사 phenomenally는 뭔가가 극단적이거나 놀라운 방식으로 이루어지거나 느껴지는 걸 묘사해요."
   },
   {
    "s": 295.21,
    "e": 301.88,
    "en": "To be resilient is to be able to recover from and come back from something difficult or bad that's happened.",
-   "ko": ""
+   "ko": "resilient하다는 건 어렵거나 나쁜 일이 일어난 뒤에 회복하고 다시 일어설 수 있다는 거예요."
   },
   {
    "s": 301.88,
    "e": 308.85,
    "en": "So Fergal says that children can be surprisingly positive despite the negative things happening around them.",
-   "ko": ""
+   "ko": "그러니까 퍼걸은 주변에서 부정적인 일이 일어나도 아이들이 놀라울 만큼 긍정적일 수 있다고 말해요."
   },
   {
    "s": 308.85,
    "e": 311.73,
    "en": "They are phenomenally resilient.",
-   "ko": ""
+   "ko": "놀라울 만큼 회복력이 강하다는 거죠."
   },
   {
    "s": 311.73,
    "e": 315.86,
    "en": "A result of these negative things could be PTSD.",
-   "ko": ""
+   "ko": "이런 부정적인 일의 결과로 PTSD가 생길 수 있어요."
   },
   {
    "s": 315.86,
    "e": 321.78,
    "en": "Earlier we mentioned PTSD and it stands for post-traumatic stress disorder.",
-   "ko": ""
+   "ko": "앞에서 PTSD를 언급했는데, post-traumatic stress disorder, 즉 외상 후 스트레스 장애의 약자예요."
   },
   {
    "s": 321.78,
    "e": 333.96,
    "en": "Yes, and the P in PTSD stands for post, as we've just heard, and the prefix post expresses something that happens after or as a result of the event it's attached to.",
-   "ko": ""
+   "ko": "네, 방금 들었듯이 PTSD의 P는 post를 뜻하는데, 접두사 post는 붙어 있는 사건 이후에, 또는 그 결과로 일어나는 걸 나타내요."
   },
   {
    "s": 333.96,
    "e": 336.46,
    "en": "Now let's recap the vocabulary.",
-   "ko": ""
+   "ko": "이제 어휘를 정리해 봐요."
   },
   {
    "s": 336.46,
    "e": 346.72,
    "en": "We first had hypervigilant, that is to be very careful or maybe almost too careful to notice things, particularly when there is a possibility of danger.",
-   "ko": ""
+   "ko": "먼저 hypervigilant가 나왔어요. 특히 위험의 가능성이 있을 때 아주, 어쩌면 지나칠 정도로 주의 깊게 살피는 거예요."
   },
   {
    "s": 346.72,
    "e": 354.48,
    "en": "To be of one mind is to be part of a group of people that share the same opinion, desire, or viewpoint on a matter.",
-   "ko": ""
+   "ko": "to be of one mind는 어떤 문제에 대해 같은 의견, 바람, 관점을 공유하는 집단의 일원이라는 거예요."
   },
   {
    "s": 354.48,
    "e": 358.9,
    "en": "We had to confront something that is to meet with it or deal with it.",
-   "ko": ""
+   "ko": "to confront something은 그것과 맞닥뜨리거나 그것에 대처하는 거예요."
   },
   {
    "s": 358.9,
    "e": 362.36,
    "en": "A nightmare is a scary or upsetting dream.",
-   "ko": ""
+   "ko": "nightmare는 무섭거나 괴로운 꿈이에요."
   },
   {
    "s": 362.36,
    "e": 367.62,
    "en": "To do something phenomenally is to do it in an extreme or surprising way.",
-   "ko": ""
+   "ko": "뭔가를 phenomenally 한다는 건 극단적이거나 놀라운 방식으로 한다는 거예요."
   },
   {
    "s": 367.62,
    "e": 374.87,
    "en": "And to be resilient is to be able to recover and come back from something difficult or bad that's happened.",
-   "ko": ""
+   "ko": "그리고 resilient하다는 건 어렵거나 나쁜 일이 일어난 뒤에 회복하고 다시 일어설 수 있다는 거예요."
   },
   {
    "s": 374.87,
    "e": 376.54,
    "en": "Once again, our six minutes are up.",
-   "ko": ""
+   "ko": "이번에도 6분이 다 됐어요."
   },
   {
    "s": 376.54,
    "e": 384.09,
    "en": "You'll find a quiz and a worksheet to practise the vocabulary we've learnt from this episode on our website bbclearningenglish.com.",
-   "ko": ""
+   "ko": "이번 에피소드에서 배운 어휘를 연습할 퀴즈와 학습지는 웹사이트 bbclearningenglish.com에 있어요."
   },
   {
    "s": 384.09,
    "e": 386.05,
    "en": "Goodbye for now. Bye.",
-   "ko": ""
+   "ko": "오늘은 여기까지, 안녕히. 안녕."
   }
  ]
 }

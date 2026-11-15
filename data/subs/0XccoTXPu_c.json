@@ -3,397 +3,397 @@
  "title": "What if athletes were allowed to take drugs? ⏲️ 6 Minute English",
  "channel": "BBC Learning English",
  "enSource": "manual",
- "koSource": "none",
+ "koSource": "claude",
  "sentences": [
   {
    "s": 7.76,
    "e": 11.68,
    "en": "Hello, this is 6 Minute English from BBC Learning English. I'm Neil.",
-   "ko": ""
+   "ko": "안녕하세요, BBC Learning English의 6 Minute English입니다. 저는 닐이에요."
   },
   {
    "s": 11.68,
    "e": 13.08,
    "en": "And I'm Pippa.",
-   "ko": ""
+   "ko": "그리고 저는 피파예요."
   },
   {
    "s": 13.08,
    "e": 20.96,
    "en": "Sharing your Netflix password, lying about your age or not paying the bus fare are a few examples of cheating in daily life.",
-   "ko": ""
+   "ko": "넷플릭스 비밀번호 공유, 나이 속이기, 버스 요금 안 내기는 일상 속 부정행위의 몇 가지 예예요."
   },
   {
    "s": 20.96,
    "e": 25.96,
    "en": "But there's one place where cheating is usually considered wrong, and that's sport.",
-   "ko": ""
+   "ko": "그런데 부정행위가 보통 잘못된 것으로 여겨지는 곳이 하나 있는데, 바로 스포츠예요."
   },
   {
    "s": 25.96,
    "e": 33.32,
    "en": "Cheating in sport through the use of performance-enhancing drugs, informally called doping, is normally considered wrong.",
-   "ko": ""
+   "ko": "경기력 향상 약물을 써서 스포츠에서 부정행위를 하는 것, 비격식적으로 도핑이라고 하는데, 이건 보통 잘못된 것으로 여겨져요."
   },
   {
    "s": 33.32,
    "e": 40.32,
    "en": "Just ask American cycling legend Lance Armstrong, who was thrown out of the sport for using banned substances.",
-   "ko": ""
+   "ko": "금지 약물을 써서 스포츠계에서 퇴출된 미국 사이클의 전설 랜스 암스트롱에게 물어보세요."
   },
   {
    "s": 40.32,
    "e": 46.96,
    "en": "But earlier this year, a sporting event took place which turned the debate about drugs in sport upside down.",
-   "ko": ""
+   "ko": "그런데 올해 초, 스포츠 약물에 관한 논쟁을 완전히 뒤집어 놓은 스포츠 행사가 열렸어요."
   },
   {
    "s": 46.96,
    "e": 62.84,
    "en": "Here's Asma Khalid from BBC World Service's The Global Story to explain: This weekend, elite athletes from around the world are descending on Las Vegas, Nevada, for the first-of-its-kind sporting competition known as The Enhanced Games.",
-   "ko": ""
+   "ko": "BBC 월드 서비스 'The Global Story'의 아스마 칼리드가 설명해요. 이번 주말, 전 세계의 엘리트 선수들이 '인핸스드 게임'이라는 사상 최초의 스포츠 대회를 위해 네바다주 라스베이거스로 몰려들고 있어요."
   },
   {
    "s": 62.84,
    "e": 67.16,
    "en": "It's kind of like the Olympics, but only for swimming, sprinting and weightlifting.",
-   "ko": ""
+   "ko": "올림픽 같은 건데, 수영, 단거리 달리기, 역도만 있어요."
   },
   {
    "s": 67.16,
    "e": 69.44,
    "en": "The aim is to break world records.",
-   "ko": ""
+   "ko": "목표는 세계 기록을 깨는 거예요."
   },
   {
    "s": 69.44,
    "e": 75.6,
    "en": "In fact, some of these competitors are former Olympians – medallists battling it out for money and glory.",
-   "ko": ""
+   "ko": "사실 참가자 중 일부는 전직 올림픽 선수, 메달리스트들로, 돈과 영광을 위해 겨루고 있어요."
   },
   {
    "s": 75.6,
    "e": 79.08,
    "en": "But there's one big difference...",
-   "ko": ""
+   "ko": "그런데 큰 차이가 하나 있어요..."
   },
   {
    "s": 79.08,
    "e": 87.4,
    "en": "The big difference is that The Enhanced Games allow athletes to use performance-enhancing drugs that are banned in professional sports.",
-   "ko": ""
+   "ko": "큰 차이는 인핸스드 게임에서는 프로 스포츠에서 금지된 경기력 향상 약물을 선수들이 쓸 수 있다는 거예요."
   },
   {
    "s": 87.4,
    "e": 94.88,
    "en": "In these games, nicknamed The Doping Olympics, steroids, growth hormones and stimulants are all OK.",
-   "ko": ""
+   "ko": "'도핑 올림픽'이라는 별명이 붙은 이 대회에서는 스테로이드, 성장 호르몬, 각성제가 모두 허용돼요."
   },
   {
    "s": 94.88,
    "e": 96.48,
    "en": "You're a big sports fan, Neil.",
-   "ko": ""
+   "ko": "닐, 당신은 스포츠 광팬이잖아요."
   },
   {
    "s": 96.48,
    "e": 100.36,
    "en": "Would you enjoy watching a sport where the athletes have taken drugs?",
-   "ko": ""
+   "ko": "선수들이 약물을 쓴 스포츠를 보는 게 즐거울까요?"
   },
   {
    "s": 100.36,
    "e": 101.64,
    "en": "No, I wouldn't.",
-   "ko": ""
+   "ko": "아니요, 안 그럴 거예요."
   },
   {
    "s": 101.64,
    "e": 103.4,
    "en": "I really don't think that's fair.",
-   "ko": ""
+   "ko": "정말 공정하지 않다고 생각해요."
   },
   {
    "s": 103.4,
    "e": 109.44,
    "en": "I think we need to know that all the athletes start and compete from the same level.",
-   "ko": ""
+   "ko": "모든 선수가 같은 수준에서 출발하고 경쟁한다는 걸 알 수 있어야 한다고 생각해요."
   },
   {
    "s": 109.44,
    "e": 111.0,
    "en": "Yeah, I guess that makes sense.",
-   "ko": ""
+   "ko": "네, 일리가 있네요."
   },
   {
    "s": 111.0,
    "e": 118.32,
    "en": "I don't really watch that many sports so I guess I wouldn't notice the difference, but if you're really into sport you care about the rules, right?",
-   "ko": ""
+   "ko": "저는 스포츠를 그렇게 많이 보지 않아서 차이를 못 느낄 것 같지만, 스포츠를 정말 좋아하면 규칙이 중요하겠죠?"
   },
   {
    "s": 118.32,
    "e": 119.56,
    "en": "Yes, absolutely.",
-   "ko": ""
+   "ko": "네, 당연하죠."
   },
   {
    "s": 119.56,
    "e": 128.16,
    "en": "And in this episode we'll dive into the controversial world of The Enhanced Games, learning some useful new words and phrases along the way.",
-   "ko": ""
+   "ko": "이번 에피소드에서는 논란 많은 인핸스드 게임의 세계로 들어가면서 유용한 새 단어와 표현도 배워 볼 거예요."
   },
   {
    "s": 128.16,
    "e": 134.92,
    "en": "And remember, you'll find all the vocabulary, plus a quiz and a worksheet, on our website, bbclearningenglish.com.",
-   "ko": ""
+   "ko": "그리고 기억하세요, 모든 어휘와 퀴즈, 학습지는 웹사이트 bbclearningenglish.com에 있어요."
   },
   {
    "s": 134.92,
    "e": 137.68,
    "en": "But now I have a question for you, Neil.",
-   "ko": ""
+   "ko": "그런데 이제 닐, 질문이 있어요."
   },
   {
    "s": 137.68,
    "e": 149.32,
    "en": "You mentioned the famous sporting cheat Lance Armstrong, but how many times did Lance Armstrong win the famous race, the Tour de France, before he was finally caught out?",
-   "ko": ""
+   "ko": "유명한 스포츠 부정행위자 랜스 암스트롱을 언급했는데, 그가 마침내 들통나기 전까지 유명한 경주인 투르 드 프랑스에서 몇 번 우승했을까요?"
   },
   {
    "s": 149.32,
    "e": 154.0,
    "en": "Was it: a) five, b) six, or c) seven?",
-   "ko": ""
+   "ko": "a) 5번, b) 6번, c) 7번 중 무엇일까요?"
   },
   {
    "s": 154.0,
    "e": 159.2,
    "en": "Ooh... Well, it was a lot, so I think I'll go for c) seven.",
-   "ko": ""
+   "ko": "오... 음, 많았으니까 c) 7번으로 할게요."
   },
   {
    "s": 159.2,
    "e": 162.32,
    "en": "Well, we'll find out the answer at the end of the programme.",
-   "ko": ""
+   "ko": "자, 답은 프로그램 마지막에 알아볼게요."
   },
   {
    "s": 162.32,
    "e": 167.64,
    "en": "Now, it's no exaggeration to say that The Enhanced Games are controversial.",
-   "ko": ""
+   "ko": "인핸스드 게임이 논란이 많다고 해도 과장이 아니에요."
   },
   {
    "s": 167.64,
    "e": 175.72,
    "en": "After all, organisations like the World Anti-Doping Agency have spent decades fighting performance-enhancing drugs in sport.",
-   "ko": ""
+   "ko": "어쨌든 세계반도핑기구 같은 기관들은 수십 년 동안 스포츠의 경기력 향상 약물과 싸워 왔으니까요."
   },
   {
    "s": 175.72,
    "e": 180.72,
    "en": "Here's BBC sports editor Dan Roan on World Service programme The Global Story.",
-   "ko": ""
+   "ko": "BBC 스포츠 에디터 댄 로언이 월드 서비스 프로그램 'The Global Story'에서 말해요."
   },
   {
    "s": 180.72,
    "e": 187.08,
    "en": "I think it's fair to say it's one of the most divisive and controversial events that the world of sport has seen for a long time.",
-   "ko": ""
+   "ko": "스포츠계가 오랫동안 본 것 중 가장 분열을 일으키고 논란이 많은 행사 중 하나라고 해도 무리가 없을 것 같아요."
   },
   {
    "s": 187.08,
    "e": 198.56,
    "en": "It's an event where performance-enhancing drugs, banned elsewhere in mainstream sport of course, are actually allowed to be taken by the competitors under medical supervision.",
-   "ko": ""
+   "ko": "물론 다른 주류 스포츠에서는 금지된 경기력 향상 약물을 선수들이 의료 감독하에 실제로 복용할 수 있는 행사예요."
   },
   {
    "s": 198.56,
    "e": 203.16,
    "en": "Dan Roan says, It's fair to say The Enhanced Games are controversial.",
-   "ko": ""
+   "ko": "댄 로언은 인핸스드 게임이 논란이 많다고 해도 무리가 없다(It's fair to say)고 말해요."
   },
   {
    "s": 203.16,
    "e": 211.88,
    "en": "He uses the phrase 'it's fair to say' to introduce a statement that he considers to be balanced and reasonable – that the games are controversial.",
-   "ko": ""
+   "ko": "'it's fair to say'라는 표현으로 그가 균형 잡히고 합리적이라고 생각하는 진술, 즉 이 대회가 논란이 많다는 걸 소개해요."
   },
   {
    "s": 211.88,
    "e": 219.28,
    "en": "Dan also describes the games as divisive – an adjective that means causing a lot of disagreement between people.",
-   "ko": ""
+   "ko": "댄은 또 이 대회를 divisive하다고 표현해요. 사람들 사이에 의견 대립을 많이 일으킨다는 뜻의 형용사예요."
   },
   {
    "s": 219.28,
    "e": 224.16,
    "en": "Much of this disagreement is about the use of performance-enhancing drugs themselves.",
-   "ko": ""
+   "ko": "이 의견 대립의 상당 부분은 경기력 향상 약물 사용 자체에 관한 거예요."
   },
   {
    "s": 224.16,
    "e": 237.0,
    "en": "The Games' organisers point out that all drugs are approved by the US Food and Drug Agency and taken openly under medical supervision, which they say makes them safer than when they are taken secretly at competitions elsewhere.",
-   "ko": ""
+   "ko": "대회 주최 측은 모든 약물이 미국 식품의약국의 승인을 받았고 의료 감독하에 공개적으로 복용되기 때문에, 다른 대회에서 몰래 복용할 때보다 더 안전하다고 강조해요."
   },
   {
    "s": 237.0,
    "e": 243.32,
    "en": "But there are many critics too, as Dan Roan outlined to BBC World Service's The Global Story.",
-   "ko": ""
+   "ko": "하지만 비판하는 사람도 많아요. 댄 로언이 BBC 월드 서비스 'The Global Story'에서 설명한 대로요."
   },
   {
    "s": 243.32,
    "e": 251.0,
    "en": "But the critics, of course, say that this crosses an ethical line, that it sets a dreadful example because it risks normalising doping.",
-   "ko": ""
+   "ko": "하지만 비판하는 사람들은 당연히 이게 윤리적 선을 넘는다고, 도핑을 정상적인 것으로 만들 위험이 있어서 끔찍한 선례를 남긴다고 말해요."
   },
   {
    "s": 251.0,
    "e": 256.0,
    "en": "It could harm the integrity, therefore, of sport, and it could be dangerous to the health of those taking part.",
-   "ko": ""
+   "ko": "그래서 스포츠의 진정성을 해칠 수 있고, 참가자들의 건강에 위험할 수 있다는 거예요."
   },
   {
    "s": 256.0,
    "e": 259.88,
    "en": "For the Games' critics, doping crosses an ethical line.",
-   "ko": ""
+   "ko": "대회를 비판하는 사람들에게 도핑은 윤리적 선을 넘는 거예요."
   },
   {
    "s": 259.88,
    "e": 265.28,
    "en": "The phrase 'to cross the line' means to start behaving in a way that's not socially acceptable.",
-   "ko": ""
+   "ko": "'to cross the line'은 사회적으로 용납되지 않는 방식으로 행동하기 시작한다는 뜻이에요."
   },
   {
    "s": 265.28,
    "e": 271.84,
    "en": "These critics say the Games set a bad example, meaning that they encourage others to behave badly as well.",
-   "ko": ""
+   "ko": "비판하는 사람들은 이 대회가 나쁜 선례를 남긴다(set a bad example)고 말해요. 다른 사람들도 나쁘게 행동하도록 부추긴다는 뜻이에요."
   },
   {
    "s": 271.84,
    "e": 272.92,
    "en": "Why is that, Pippa?",
-   "ko": ""
+   "ko": "왜 그래요, 피파?"
   },
   {
    "s": 272.92,
    "e": 278.32,
    "en": "Well, it's because critics argue the games normalise the use of performance drugs in sport.",
-   "ko": ""
+   "ko": "음, 비판하는 사람들은 이 대회가 스포츠에서 약물 사용을 정상화한다(normalise)고 주장하거든요."
   },
   {
    "s": 278.32,
    "e": 283.4,
    "en": "If you normalise something, you treat it as normal or acceptable when previously it wasn't.",
-   "ko": ""
+   "ko": "뭔가를 normalise하면, 전에는 그렇지 않았던 걸 정상적이거나 용인되는 걸로 취급하는 거예요."
   },
   {
    "s": 283.4,
    "e": 288.2,
    "en": "But with arguments strongly held on both sides, the debate is far from over.",
-   "ko": ""
+   "ko": "하지만 양측 주장이 강해서 논쟁은 아직 끝나려면 멀었어요."
   },
   {
    "s": 288.2,
    "e": 292.72,
    "en": "So Neil, have you changed your opinion after hearing both sides of the story?",
-   "ko": ""
+   "ko": "그래서 닐, 양쪽 얘기를 다 듣고 나서 생각이 바뀌었어요?"
   },
   {
    "s": 292.72,
    "e": 293.8,
    "en": "No, I haven't.",
-   "ko": ""
+   "ko": "아니요, 안 바뀌었어요."
   },
   {
    "s": 293.8,
    "e": 299.12,
    "en": "I think it's just not fair, and I think if you're not fair in sport, what's the point?",
-   "ko": ""
+   "ko": "그냥 공정하지 않다고 생각해요. 스포츠에서 공정하지 않으면 무슨 의미가 있어요?"
   },
   {
    "s": 299.12,
    "e": 302.68,
    "en": "Well, let's hear the answer to my quiz question, Neil.",
-   "ko": ""
+   "ko": "자, 퀴즈 답을 들어 봐요, 닐."
   },
   {
    "s": 302.68,
    "e": 314.76,
    "en": "I asked you how many times Lance Armstrong won the Tour de France, and it was c) seven times, consecutively between 1999 and 2005.",
-   "ko": ""
+   "ko": "랜스 암스트롱이 투르 드 프랑스에서 몇 번 우승했는지 물었는데, 답은 c) 7번이었어요. 1999년부터 2005년까지 연속으로요."
   },
   {
    "s": 314.76,
    "e": 318.8,
    "en": "Of course, we now know that there were performance-enhancing drugs involved.",
-   "ko": ""
+   "ko": "물론 이제는 경기력 향상 약물이 관련돼 있었다는 걸 알죠."
   },
   {
    "s": 318.8,
    "e": 327.76,
    "en": "OK. So, now it's time to recap the vocabulary we've learned, starting with 'doping' – using banned drugs to perform better in sporting competitions.",
-   "ko": ""
+   "ko": "좋아요. 이제 배운 어휘를 정리할 시간이에요. 'doping'부터요. 스포츠 경기에서 더 잘하려고 금지 약물을 쓰는 거예요."
   },
   {
    "s": 327.76,
    "e": 334.2,
    "en": "You can use the phrase 'it's fair to say' to introduce a statement you consider to be balanced, reasonable or true.",
-   "ko": ""
+   "ko": "'it's fair to say'라는 표현으로 균형 잡히고 합리적이거나 사실이라고 생각하는 진술을 소개할 수 있어요."
   },
   {
    "s": 334.2,
    "e": 338.28,
    "en": "If something is divisive, it causes disagreement between people.",
-   "ko": ""
+   "ko": "뭔가가 divisive하면 사람들 사이에 의견 대립을 일으켜요."
   },
   {
    "s": 338.28,
    "e": 343.32,
    "en": "The idiom 'cross the line' means to start behaving in an unacceptable way.",
-   "ko": ""
+   "ko": "관용구 'cross the line'은 용납되지 않는 방식으로 행동하기 시작한다는 뜻이에요."
   },
   {
    "s": 343.32,
    "e": 348.52,
    "en": "If you set a bad example, you behave in a way that encourages others to behave badly.",
-   "ko": ""
+   "ko": "set a bad example하면 다른 사람들이 나쁘게 행동하도록 부추기는 방식으로 행동하는 거예요."
   },
   {
    "s": 348.52,
    "e": 355.48,
    "en": "And finally, 'to normalise something' means to treat it as normal or acceptable when previously it wasn't.",
-   "ko": ""
+   "ko": "그리고 마지막으로, 'to normalise something'은 전에는 그렇지 않았던 걸 정상적이거나 용인되는 걸로 취급한다는 뜻이에요."
   },
   {
    "s": 355.48,
    "e": 363.8,
    "en": "OK. Once again, our six minutes are up, but if you'd like to practise more, you'll find a quiz and worksheet on our website, bbclearningenglish.com.",
-   "ko": ""
+   "ko": "좋아요. 이번에도 6분이 다 됐지만, 더 연습하고 싶으면 웹사이트 bbclearningenglish.com에 퀴즈와 학습지가 있어요."
   },
   {
    "s": 363.8,
    "e": 364.88,
    "en": "See you again soon.",
-   "ko": ""
+   "ko": "곧 다시 만나요."
   },
   {
    "s": 364.88,
    "e": 366.32,
    "en": "But for now it's goodbye.",
-   "ko": ""
+   "ko": "오늘은 여기까지, 안녕히."
   },
   {
    "s": 366.32,
    "e": 367.6,
    "en": "Bye!",
-   "ko": ""
+   "ko": "안녕!"
   }
  ]
 }

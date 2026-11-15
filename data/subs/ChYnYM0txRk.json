@@ -3,445 +3,445 @@
  "title": "Do you like spicy food? 🌶️🥵 Improve your listening with Real Easy English",
  "channel": "BBC Learning English",
  "enSource": "manual",
- "koSource": "none",
+ "koSource": "claude",
  "sentences": [
   {
    "s": 0.21,
    "e": 1.38,
    "en": "Hello, I'm Neil.",
-   "ko": ""
+   "ko": "안녕하세요, 저는 닐이에요."
   },
   {
    "s": 1.38,
    "e": 2.59,
    "en": "And I'm Georgie.",
-   "ko": ""
+   "ko": "그리고 저는 조지예요."
   },
   {
    "s": 2.59,
    "e": 4.92,
    "en": "Welcome to Real Easy English.",
-   "ko": ""
+   "ko": "Real Easy English에 오신 걸 환영해요."
   },
   {
    "s": 4.92,
    "e": 11.3,
    "en": "You can find a worksheet and transcript for this episode on our website, bbclearningenglish.com.",
-   "ko": ""
+   "ko": "이 에피소드의 학습지와 대본은 웹사이트 bbclearningenglish.com에서 볼 수 있어요."
   },
   {
    "s": 17.64,
    "e": 19.06,
    "en": "Hi Georgie. How are you?",
-   "ko": ""
+   "ko": "안녕, 조지. 잘 지내요?"
   },
   {
    "s": 19.06,
    "e": 20.81,
    "en": "I'm very well, thank you, Neil.",
-   "ko": ""
+   "ko": "아주 잘 지내요, 고마워요, 닐."
   },
   {
    "s": 20.81,
    "e": 27.61,
    "en": "Something that made me very happy yesterday was that my housemate made me a delicious meal.",
-   "ko": ""
+   "ko": "어제 정말 기뻤던 게, 하우스메이트가 맛있는 요리를 해 줬어요."
   },
   {
    "s": 27.61,
    "e": 29.49,
    "en": "It was very spicy.",
-   "ko": ""
+   "ko": "아주 매웠어요."
   },
   {
    "s": 29.49,
    "e": 33.24,
    "en": "Well, we're talking about spicy food today.",
-   "ko": ""
+   "ko": "마침 오늘은 매운 음식에 대해 얘기해요."
   },
   {
    "s": 33.24,
    "e": 39.96,
    "en": "Yes. Spicy food is food that makes your mouth hot, and sometimes it can be painful.",
-   "ko": ""
+   "ko": "네. 매운 음식은 입이 화끈거리게 하는 음식이고, 가끔은 아플 수도 있어요."
   },
   {
    "s": 39.96,
    "e": 41.67,
    "en": "Neil, I like spicy food.",
-   "ko": ""
+   "ko": "닐, 저는 매운 음식 좋아해요."
   },
   {
    "s": 41.67,
    "e": 42.67,
    "en": "What about you?",
-   "ko": ""
+   "ko": "당신은요?"
   },
   {
    "s": 42.67,
    "e": 44.92,
    "en": "Yeah, I really like spicy food.",
-   "ko": ""
+   "ko": "네, 저도 매운 음식 정말 좋아해요."
   },
   {
    "s": 44.92,
    "e": 46.67,
    "en": "I think...",
-   "ko": ""
+   "ko": "제 생각엔..."
   },
   {
    "s": 46.67,
    "e": 50.34,
    "en": "Well, it has a lot of flavour.",
-   "ko": ""
+   "ko": "음, 맛이 풍부하잖아요."
   },
   {
    "s": 50.34,
    "e": 56.56,
    "en": "And it can make you actually feel good when you eat spicy food.",
-   "ko": ""
+   "ko": "그리고 매운 음식을 먹으면 실제로 기분이 좋아질 수 있어요."
   },
   {
    "s": 56.56,
    "e": 58.68,
    "en": "It can, kind of, lift your mood.",
-   "ko": ""
+   "ko": "기분을 좀 끌어올려 주죠."
   },
   {
    "s": 58.68,
    "e": 59.85,
    "en": "Yeah, I agree actually.",
-   "ko": ""
+   "ko": "네, 사실 저도 동의해요."
   },
   {
    "s": 59.85,
    "e": 63.1,
    "en": "Spicy food really makes you feel alive.",
-   "ko": ""
+   "ko": "매운 음식은 정말 살아 있는 느낌을 줘요."
   },
   {
    "s": 63.1,
    "e": 72.7,
    "en": "The food that my housemate made for me yesterday was jerk chicken, which she put on the barbecue and it really had a kick.",
-   "ko": ""
+   "ko": "어제 하우스메이트가 해 준 건 저크 치킨이었는데, 바비큐에 구웠고 정말 화끈했어요(had a kick)."
   },
   {
    "s": 72.7,
    "e": 77.41,
    "en": "So, if something has a kick, it means that it's a little bit spicy.",
-   "ko": ""
+   "ko": "뭔가 'has a kick'이라고 하면 조금 맵다는 뜻이에요."
   },
   {
    "s": 77.41,
    "e": 81.83,
    "en": "So, we had some mayonnaise with it to, kind of, cool it down.",
-   "ko": ""
+   "ko": "그래서 좀 식히려고 마요네즈를 같이 먹었어요."
   },
   {
    "s": 81.83,
    "e": 82.83,
    "en": "Yeah, good idea.",
-   "ko": ""
+   "ko": "네, 좋은 생각이네요."
   },
   {
    "s": 82.83,
    "e": 87.96,
    "en": "Sometimes when you eat really spicy food or hot food.",
-   "ko": ""
+   "ko": "정말 맵거나 'hot'한 음식을 먹을 때가 있죠."
   },
   {
    "s": 87.96,
    "e": 94.55,
    "en": "We say hot food and it doesn't mean the temperature always – it means spicy.",
-   "ko": ""
+   "ko": "'hot food'라고 할 때 늘 온도를 말하는 건 아니에요. 맵다는 뜻이에요."
   },
   {
    "s": 94.55,
    "e": 101.18,
    "en": "When you have spicy food or hot food, it can make it feel like your mouth is on fire.",
-   "ko": ""
+   "ko": "맵거나 'hot'한 음식을 먹으면 입에 불이 난 것 같은 느낌이 들 수 있어요."
   },
   {
    "s": 101.18,
    "e": 103.14,
    "en": "Very true.",
-   "ko": ""
+   "ko": "정말 맞아요."
   },
   {
    "s": 103.14,
    "e": 108.9,
    "en": "Have you always liked spicy food or was it something you had to learn to love?",
-   "ko": ""
+   "ko": "원래부터 매운 음식을 좋아했어요, 아니면 좋아하게 되기까지 시간이 걸렸어요?"
   },
   {
    "s": 108.9,
    "e": 110.03,
    "en": "I think so.",
-   "ko": ""
+   "ko": "그런 것 같아요."
   },
   {
    "s": 110.03,
    "e": 112.86,
    "en": "I think I've always liked spicy food.",
-   "ko": ""
+   "ko": "원래부터 매운 음식을 좋아했던 것 같아요."
   },
   {
    "s": 112.86,
    "e": 123.12,
    "en": "Yeah, I've always eaten lots of Indian curries, or Mexican food, or Caribbean food, like your jerk chicken.",
-   "ko": ""
+   "ko": "네, 저는 인도 커리나 멕시코 음식, 아니면 당신의 저크 치킨 같은 카리브 음식을 늘 많이 먹었어요."
   },
   {
    "s": 123.12,
    "e": 139.18,
    "en": "Yeah, I remember going on holiday with my family in Spain, and they have a dish there made of peppers, and some of them are very mild so they aren't very spicy, but some of them really have a kick, and",
-   "ko": ""
+   "ko": "네, 가족이랑 스페인에 휴가 갔던 게 기억나요. 거기에 고추로 만든 요리가 있는데, 어떤 건 아주 순해서 별로 안 맵지만 어떤 건 정말 화끈하고,"
   },
   {
    "s": 139.18,
    "e": 144.9,
    "en": "you don't know which one is going to be really spicy, so it was quite...",
-   "ko": ""
+   "ko": "어떤 게 정말 매울지 모르니까 꽤..."
   },
   {
    "s": 144.9,
    "e": 147.94,
    "en": "it was almost like an exciting game.",
-   "ko": ""
+   "ko": "거의 신나는 게임 같았어요."
   },
   {
    "s": 147.94,
    "e": 150.36,
    "en": "So, I've always enjoyed spice.",
-   "ko": ""
+   "ko": "그래서 저는 늘 매운맛을 즐겼어요."
   },
   {
    "s": 150.36,
    "e": 155.61,
    "en": "OK. So, Georgie, you can eat spicier food now than when you were younger.",
-   "ko": ""
+   "ko": "그렇군요. 그러니까 조지, 어렸을 때보다 지금 더 매운 걸 먹을 수 있는 거네요."
   },
   {
    "s": 155.61,
    "e": 161.79,
    "en": "Yes. Now, Neil, what's the spiciest meal you've ever eaten?",
-   "ko": ""
+   "ko": "네. 그럼 닐, 지금까지 먹어 본 것 중에 제일 매운 음식은 뭐예요?"
   },
   {
    "s": 161.79,
    "e": 178.05,
    "en": "Well, I was travelling in South East Asia, and there was something on a menu, in a restaurant or bar I was in, called the spicy sausage salad...",
-   "ko": ""
+   "ko": "음, 동남아시아를 여행할 때였는데, 제가 간 식당인지 바인지 메뉴에 '매운 소시지 샐러드'라는 게 있었어요..."
   },
   {
    "s": 178.05,
    "e": 182.89,
    "en": "and they weren't lying!",
-   "ko": ""
+   "ko": "그리고 거짓말이 아니었어요!"
   },
   {
    "s": 182.89,
    "e": 190.23,
    "en": "It was so spicy, it felt almost like somebody had attacked my tongue.",
-   "ko": ""
+   "ko": "너무 매워서 누가 제 혀를 공격한 것 같았어요."
   },
   {
    "s": 190.23,
    "e": 193.94,
    "en": "Oh no! Was your mouth on fire?",
-   "ko": ""
+   "ko": "저런! 입에 불이 났어요?"
   },
   {
    "s": 193.94,
    "e": 197.82,
    "en": "My mouth... My whole head was on fire!",
-   "ko": ""
+   "ko": "입이... 머리 전체에 불이 났어요!"
   },
   {
    "s": 197.82,
    "e": 202.83,
    "en": "And it took a long time and lots of water before...",
-   "ko": ""
+   "ko": "그리고 한참이 걸렸고 물도 엄청 마셨어요..."
   },
   {
    "s": 202.83,
    "e": 204.54,
    "en": "before I felt normal again.",
-   "ko": ""
+   "ko": "다시 정상으로 돌아오기까지요."
   },
   {
    "s": 204.54,
    "e": 206.12,
    "en": "Does water help?",
-   "ko": ""
+   "ko": "물이 도움이 돼요?"
   },
   {
    "s": 206.12,
    "e": 210.38,
    "en": "I don't know. I needed to try something.",
-   "ko": ""
+   "ko": "모르겠어요. 뭐라도 해 봐야 했어요."
   },
   {
    "s": 210.38,
    "e": 215.59,
    "en": "I think sometimes milk can help, but I don't know if there are...",
-   "ko": ""
+   "ko": "가끔 우유가 도움이 되는 것 같은데, 다른 게 있는지는..."
   },
   {
    "s": 215.59,
    "e": 217.26,
    "en": "if there's anything else that can help.",
-   "ko": ""
+   "ko": "도움이 되는 다른 게 있는지는 모르겠어요."
   },
   {
    "s": 217.26,
    "e": 221.14,
    "en": "But sometimes you really need something to cool down.",
-   "ko": ""
+   "ko": "그래도 가끔은 정말 뭔가로 식혀야 하죠."
   },
   {
    "s": 221.14,
    "e": 223.43,
    "en": "Yeah. How about you, Georgie?",
-   "ko": ""
+   "ko": "네. 조지, 당신은요?"
   },
   {
    "s": 223.43,
    "e": 227.44,
    "en": "What's the hottest thing that you've ever eaten?",
-   "ko": ""
+   "ko": "지금까지 먹어 본 것 중에 제일 매운 건 뭐예요?"
   },
   {
    "s": 227.44,
    "e": 231.81,
    "en": "Well, it wasn't a meal, but I used to work in a restaurant.",
-   "ko": ""
+   "ko": "음, 식사는 아니었는데, 제가 예전에 식당에서 일했거든요."
   },
   {
    "s": 231.81,
    "e": 248.16,
    "en": "And there was a chef there who had three bottles of hot sauce with different levels of spice, and we were all trying it – everyone that worked there – and the spiciest one was so hot.",
-   "ko": ""
+   "ko": "거기 셰프가 매운 정도가 다른 핫소스 세 병을 갖고 있었는데, 거기서 일하는 사람들이 다 같이 먹어 봤어요. 제일 매운 건 정말 너무 매웠어요."
   },
   {
    "s": 248.16,
    "e": 250.46,
    "en": "It was so spicy, it...",
-   "ko": ""
+   "ko": "너무 매워서..."
   },
   {
    "s": 250.46,
    "e": 252.59,
    "en": "my mouth was completely on fire.",
-   "ko": ""
+   "ko": "입에 완전히 불이 났어요."
   },
   {
    "s": 252.59,
    "e": 253.96,
    "en": "It was horrible.",
-   "ko": ""
+   "ko": "끔찍했어요."
   },
   {
    "s": 253.96,
    "e": 256.01,
    "en": "I actually didn't enjoy that.",
-   "ko": ""
+   "ko": "사실 그건 즐겁지 않았어요."
   },
   {
    "s": 256.01,
    "e": 259.59,
    "en": "Everyone was sweating, crying.",
-   "ko": ""
+   "ko": "다들 땀 흘리고, 울고."
   },
   {
    "s": 259.59,
    "e": 262.72,
    "en": "I don't think anyone enjoyed the experience.",
-   "ko": ""
+   "ko": "그 경험을 즐긴 사람은 아무도 없었던 것 같아요."
   },
   {
    "s": 269.02,
    "e": 274.44,
    "en": "Time now to recap the vocabulary we've heard in this episode, starting with 'spicy'.",
-   "ko": ""
+   "ko": "이제 이번 에피소드에서 들은 어휘를 정리할 시간이에요. 'spicy'부터 시작해요."
   },
   {
    "s": 274.44,
    "e": 281.87,
    "en": "If something is 'spicy', it makes your mouth feel hot and that can be uncomfortable or even painful.",
-   "ko": ""
+   "ko": "뭔가가 'spicy'하면 입이 화끈거리고, 불편하거나 심지어 아플 수도 있어요."
   },
   {
    "s": 281.87,
    "e": 284.33,
    "en": "We can also describe food as 'hot'.",
-   "ko": ""
+   "ko": "음식을 'hot'이라고 표현할 수도 있어요."
   },
   {
    "s": 284.33,
    "e": 289.87,
    "en": "Now, 'hot' is not always about the temperature – it can also mean 'spicy'.",
-   "ko": ""
+   "ko": "'hot'은 늘 온도를 말하는 게 아니에요. 'spicy'라는 뜻일 수도 있어요."
   },
   {
    "s": 289.87,
    "e": 294.59,
    "en": "If food is spicy, we can say it 'has a kick'.",
-   "ko": ""
+   "ko": "음식이 매우면 'has a kick'이라고 할 수 있어요."
   },
   {
    "s": 294.59,
    "e": 301.09,
    "en": "Now, Georgie said she had some Jamaican jerk chicken and that had a kick – it was spicy.",
-   "ko": ""
+   "ko": "조지가 자메이카식 저크 치킨을 먹었는데 그게 'had a kick', 즉 매웠다고 했죠."
   },
   {
    "s": 301.09,
    "e": 306.51,
    "en": "If you eat something that's really spicy, you could say, My mouth is on fire!",
-   "ko": ""
+   "ko": "정말 매운 걸 먹으면 'My mouth is on fire!'라고 할 수 있어요."
   },
   {
    "s": 306.51,
    "e": 310.02,
    "en": "And it means it made your mouth feel very hot.",
-   "ko": ""
+   "ko": "입이 아주 화끈거렸다는 뜻이에요."
   },
   {
    "s": 310.02,
    "e": 316.77,
    "en": "If your mouth is on fire, you might want to cool it down with maybe a glass of water or a glass of milk.",
-   "ko": ""
+   "ko": "입에 불이 나면 물 한 잔이나 우유 한 잔으로 식히고(cool it down) 싶을 거예요."
   },
   {
    "s": 316.77,
    "e": 326.62,
    "en": "That's it for this episode of Real Easy English, but don't forget to go to our website where you can find a free worksheet and you can test yourself on what you've learned.",
-   "ko": ""
+   "ko": "Real Easy English 이번 에피소드는 여기까지예요. 웹사이트에 가면 무료 학습지로 배운 걸 확인할 수 있다는 것도 잊지 마세요."
   },
   {
    "s": 326.62,
    "e": 329.12,
    "en": "That's at bbclearningenglish.com.",
-   "ko": ""
+   "ko": "bbclearningenglish.com이에요."
   },
   {
    "s": 329.12,
    "e": 333.79,
    "en": "And we'll be back next week with another conversation in easy English.",
-   "ko": ""
+   "ko": "그리고 다음 주에 쉬운 영어로 된 다른 대화로 돌아올게요."
   },
   {
    "s": 333.79,
    "e": 334.75,
    "en": "Goodbye for now.",
-   "ko": ""
+   "ko": "오늘은 여기까지, 안녕히."
   },
   {
    "s": 334.75,
    "e": 335.88,
    "en": "Goodbye!",
-   "ko": ""
+   "ko": "안녕!"
   }
  ]
 }

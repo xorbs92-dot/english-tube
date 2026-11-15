@@ -3,559 +3,559 @@
  "title": "Do you like cleaning? 🚽🧹🧽 | Improve your listening skills with Real Easy English",
  "channel": "BBC Learning English",
  "enSource": "manual",
- "koSource": "none",
+ "koSource": "claude",
  "sentences": [
   {
    "s": 0.16,
    "e": 1.96,
    "en": "Hi, Phil. How are you doing?",
-   "ko": ""
+   "ko": "안녕, 필. 어떻게 지내요?"
   },
   {
    "s": 1.96,
    "e": 4.48,
    "en": "I'm good, I'm good. A little bit tired, but yeah.",
-   "ko": ""
+   "ko": "잘 지내요, 잘 지내요. 좀 피곤하긴 한데, 네."
   },
   {
    "s": 4.48,
    "e": 5.28,
    "en": "I'm good.",
-   "ko": ""
+   "ko": "잘 지내요."
   },
   {
    "s": 5.28,
    "e": 6.48,
    "en": "Oh no. Why?",
-   "ko": ""
+   "ko": "저런. 왜요?"
   },
   {
    "s": 6.48,
    "e": 7.8,
    "en": "Lots of housework this weekend.",
-   "ko": ""
+   "ko": "이번 주말에 집안일이 많았어요."
   },
   {
    "s": 7.8,
    "e": 10.88,
    "en": "We had to get the house ready so, yeah, a lot to do.",
-   "ko": ""
+   "ko": "집을 준비해야 해서, 네, 할 게 많았어요."
   },
   {
    "s": 10.88,
    "e": 11.92,
    "en": "You said ready?",
-   "ko": ""
+   "ko": "준비라고 했어요?"
   },
   {
    "s": 11.92,
    "e": 12.96,
    "en": "Ready for what?",
-   "ko": ""
+   "ko": "뭘 위한 준비요?"
   },
   {
    "s": 12.96,
    "e": 15.44,
    "en": "Oh, we've got some people coming to visit, so we had to...",
-   "ko": ""
+   "ko": "아, 손님이 오기로 해서, 그래서..."
   },
   {
    "s": 15.44,
    "e": 16.84,
    "en": "we had to get ready for that.",
-   "ko": ""
+   "ko": "그 준비를 해야 했어요."
   },
   {
    "s": 16.84,
    "e": 21.48,
    "en": "Well, Phil, we are talking about housework today in Real Easy English.",
-   "ko": ""
+   "ko": "자, 필, 오늘 Real Easy English에서는 집안일에 대해 얘기해요."
   },
   {
    "s": 21.48,
    "e": 25.04,
    "en": "So, housework is all of those jobs you do in the house.",
-   "ko": ""
+   "ko": "집안일은 집에서 하는 모든 일을 말해요."
   },
   {
    "s": 25.04,
    "e": 28.88,
    "en": "So, cleaning, washing, cooking – things like that.",
-   "ko": ""
+   "ko": "청소, 빨래, 요리 같은 것들이요."
   },
   {
    "s": 28.88,
    "e": 31.28,
    "en": "Yep. All really important things.",
-   "ko": ""
+   "ko": "네. 다 정말 중요한 일이죠."
   },
   {
    "s": 31.28,
    "e": 43.84,
    "en": "Just before we start, I just wanted to remind everyone that they can go to our website to get a worksheet to get even more practice, and that is bbclearningenglish.com.",
-   "ko": ""
+   "ko": "시작하기 전에, 웹사이트에서 학습지를 받아 더 연습할 수 있다는 걸 알려 드려요. 주소는 bbclearningenglish.com이에요."
   },
   {
    "s": 50.0,
    "e": 54.36,
    "en": "So, Phil, you said at the weekend you did a lot of housework.",
-   "ko": ""
+   "ko": "자, 필, 주말에 집안일을 많이 했다고 했죠."
   },
   {
    "s": 54.36,
    "e": 55.64,
    "en": "What did you do?",
-   "ko": ""
+   "ko": "뭘 했어요?"
   },
   {
    "s": 55.64,
    "e": 59.72,
    "en": "Well, I mean we share out the housework, but I was...",
-   "ko": ""
+   "ko": "음, 집안일은 나눠서 하는데, 저는..."
   },
   {
    "s": 59.72,
    "e": 63.16,
    "en": "I had to make sure I was cleaning the kitchen.",
-   "ko": ""
+   "ko": "저는 부엌 청소를 꼭 해야 했어요."
   },
   {
    "s": 63.16,
    "e": 64.84,
    "en": "I also did...",
-   "ko": ""
+   "ko": "그리고 또..."
   },
   {
    "s": 64.84,
    "e": 72.08,
    "en": "We say do the hoovering or do the vacuuming, around all the carpets to make sure that's nice and clean, under all the furniture.",
-   "ko": ""
+   "ko": "'do the hoovering'이나 'do the vacuuming'이라고 하죠, 카펫 전체랑 가구 밑까지 청소기를 돌려서 깨끗하게 했어요."
   },
   {
    "s": 72.08,
    "e": 75.08,
    "en": "So, Georgie, do you do a lot of housework?",
-   "ko": ""
+   "ko": "조지, 당신은 집안일을 많이 해요?"
   },
   {
    "s": 75.08,
    "e": 91.32,
    "en": "Well, I live in a shared flat, so I have two housemates who are not super clean, so I have a bit of a routine with them. Every weekend, one person will clean the communal areas.",
-   "ko": ""
+   "ko": "음, 저는 셰어 플랫에 사는데, 하우스메이트 두 명이 그렇게 깔끔하진 않아서 같이 규칙을 정해 뒀어요. 매주 주말에 한 사람이 공용 공간을 청소해요."
   },
   {
    "s": 91.32,
    "e": 96.56,
    "en": "So, those are the areas that are shared – so the kitchen and the living room.",
-   "ko": ""
+   "ko": "공용 공간은 같이 쓰는 곳이에요, 부엌이랑 거실이요."
   },
   {
    "s": 96.56,
    "e": 98.84,
    "en": "One person will clean those properly.",
-   "ko": ""
+   "ko": "한 사람이 거기를 제대로 청소해요."
   },
   {
    "s": 98.84,
    "e": 102.48,
    "en": "So, wipe the surfaces, wipe away the crumbs.",
-   "ko": ""
+   "ko": "그러니까 표면을 닦고, 부스러기를 닦아 내요."
   },
   {
    "s": 102.48,
    "e": 104.6,
    "en": "So, the crumbs are little bits of food.",
-   "ko": ""
+   "ko": "부스러기는 작은 음식 조각이에요."
   },
   {
    "s": 104.6,
    "e": 107.32,
    "en": "Then hoover or sweep the floor.",
-   "ko": ""
+   "ko": "그다음에 바닥에 청소기를 돌리거나 쓸어요."
   },
   {
    "s": 107.32,
    "e": 112.24,
    "en": "So, that removes the crumbs from the floor so that the floor is ready to be mopped.",
-   "ko": ""
+   "ko": "그러면 바닥의 부스러기가 없어져서 걸레질할 준비가 돼요."
   },
   {
    "s": 112.24,
    "e": 116.6,
    "en": "So, when you mop, that's when you make the floor wet and properly clean.",
-   "ko": ""
+   "ko": "걸레질(mop)은 바닥을 적셔서 제대로 깨끗하게 하는 거예요."
   },
   {
    "s": 116.6,
    "e": 119.32,
    "en": "That's a really impressive system.",
-   "ko": ""
+   "ko": "정말 인상적인 시스템이네요."
   },
   {
    "s": 119.32,
    "e": 121.12,
    "en": "I like the way you've got it so organised.",
-   "ko": ""
+   "ko": "그렇게 체계적으로 하는 거 좋아요."
   },
   {
    "s": 121.12,
    "e": 133.12,
    "en": "We always find we run out of time to get a lot of housework done, or we're doing stuff at the weekend or we're working during the week, and so some of those jobs, they get put off and put off and put off, which isn't good.",
-   "ko": ""
+   "ko": "저희는 늘 집안일을 할 시간이 모자라요. 주말엔 뭔가 하고 주중엔 일하니까, 어떤 일들은 미루고 미루고 또 미루게 돼요. 좋지 않죠."
   },
   {
    "s": 133.12,
    "e": 135.84,
    "en": "But yeah, it happens sometimes.",
-   "ko": ""
+   "ko": "그래도 네, 가끔 그래요."
   },
   {
    "s": 135.84,
    "e": 139.68,
    "en": "Well, there's also just so many other things we would rather be doing.",
-   "ko": ""
+   "ko": "음, 집안일 말고 하고 싶은 게 너무 많잖아요."
   },
   {
    "s": 139.68,
    "e": 143.44,
    "en": "So, yeah, it's easy to put off – to delay.",
-   "ko": ""
+   "ko": "그러니까 미루기(put off), 즉 늦추기 쉬워요."
   },
   {
    "s": 143.44,
    "e": 146.56,
    "en": "Georgie, we're talking about household chores.",
-   "ko": ""
+   "ko": "조지, 우리 지금 집안일(household chores)에 대해 얘기하고 있는데요."
   },
   {
    "s": 146.56,
    "e": 150.36,
    "en": "Is there one that you really hate doing?",
-   "ko": ""
+   "ko": "정말 하기 싫은 일이 있어요?"
   },
   {
    "s": 150.36,
    "e": 156.28,
    "en": "Yes, Phil, there is one job that comes to mind immediately, which is cleaning the bathroom.",
-   "ko": ""
+   "ko": "네, 필, 바로 떠오르는 게 하나 있어요. 욕실 청소요."
   },
   {
    "s": 156.28,
    "e": 158.64,
    "en": "Specifically cleaning the toilet.",
-   "ko": ""
+   "ko": "특히 변기 청소요."
   },
   {
    "s": 158.64,
    "e": 159.28,
    "en": "Oh yes.",
-   "ko": ""
+   "ko": "아 맞아요."
   },
   {
    "s": 159.28,
    "e": 160.2,
    "en": "Not very nice!",
-   "ko": ""
+   "ko": "별로 안 좋죠!"
   },
   {
    "s": 160.2,
    "e": 161.96,
    "en": "Yeah. No, not at all.",
-   "ko": ""
+   "ko": "네. 전혀요."
   },
   {
    "s": 161.96,
    "e": 164.24,
    "en": "Do you have one that you hate the most?",
-   "ko": ""
+   "ko": "당신은 제일 싫은 일이 있어요?"
   },
   {
    "s": 164.24,
    "e": 177.44,
    "en": "I think what I really dislike is trying to clean things – the bits on the cooker where everything gets stuck on, and you have to really rub it and scrub it really hard.",
-   "ko": ""
+   "ko": "제가 정말 싫어하는 건 레인지에 뭐가 눌어붙은 걸 닦는 거예요. 정말 세게 문지르고 박박 닦아야 하잖아요."
   },
   {
    "s": 177.44,
    "e": 178.52,
    "en": "I hate those jobs.",
-   "ko": ""
+   "ko": "그런 일이 싫어요."
   },
   {
    "s": 178.52,
    "e": 179.8,
    "en": "So, do you...",
-   "ko": ""
+   "ko": "그러면..."
   },
   {
    "s": 179.8,
    "e": 180.92,
    "en": "You said that you share...",
-   "ko": ""
+   "ko": "집안일을 나눠서 한다고 했죠..."
   },
   {
    "s": 180.92,
    "e": 182.76,
    "en": "you share the chores.",
-   "ko": ""
+   "ko": "집안일을 나눠서 한다고요."
   },
   {
    "s": 182.76,
    "e": 185.36,
    "en": "Do you get your kids to do chores?",
-   "ko": ""
+   "ko": "아이들한테도 집안일을 시켜요?"
   },
   {
    "s": 185.36,
    "e": 186.88,
    "en": "Now, that's a really good question.",
-   "ko": ""
+   "ko": "아, 그거 정말 좋은 질문이에요."
   },
   {
    "s": 186.88,
    "e": 194.0,
    "en": "We ask the kids to do chores and sometimes they do something.",
-   "ko": ""
+   "ko": "아이들한테 집안일을 하라고 하는데, 가끔은 뭔가를 해요."
   },
   {
    "s": 194.0,
    "e": 194.72,
    "en": "OK.",
-   "ko": ""
+   "ko": "그렇군요."
   },
   {
    "s": 194.72,
    "e": 195.76,
    "en": "But not a lot.",
-   "ko": ""
+   "ko": "많이는 아니고요."
   },
   {
    "s": 195.76,
    "e": 199.8,
    "en": "I'd really like them to be able to keep their rooms tidy.",
-   "ko": ""
+   "ko": "아이들이 자기 방을 깔끔하게 유지했으면 정말 좋겠어요."
   },
   {
    "s": 199.8,
    "e": 203.04,
    "en": "That's never going to happen, it feels.",
-   "ko": ""
+   "ko": "절대 그럴 일은 없을 것 같지만요."
   },
   {
    "s": 203.04,
    "e": 207.76,
    "en": "I'd really like it if they could, you know, help out cleaning the living room and putting things away.",
-   "ko": ""
+   "ko": "거실 청소를 돕고 물건을 정리해 주면 정말 좋겠어요."
   },
   {
    "s": 207.76,
    "e": 210.36,
    "en": "But, yeah, we haven't taught them very well.",
-   "ko": ""
+   "ko": "그런데, 네, 저희가 잘 가르치지 못했어요."
   },
   {
    "s": 210.36,
    "e": 212.24,
    "en": "Oh, maybe one day!",
-   "ko": ""
+   "ko": "아, 언젠가는요!"
   },
   {
    "s": 212.24,
    "e": 212.8,
    "en": "Maybe.",
-   "ko": ""
+   "ko": "그럴지도요."
   },
   {
    "s": 212.8,
    "e": 218.92,
    "en": "It's when you become an adult, I think, that you really appreciate a clean space, so hopefully that will come.",
-   "ko": ""
+   "ko": "어른이 돼야 깨끗한 공간의 소중함을 정말 알게 되는 것 같아요. 그러니 언젠가 그렇게 되겠죠."
   },
   {
    "s": 218.92,
    "e": 220.68,
    "en": "I was terrible as a teenager.",
-   "ko": ""
+   "ko": "저도 십 대 때 엉망이었어요."
   },
   {
    "s": 220.68,
    "e": 226.92,
    "en": "I didn't do much as a teenager at all, so this is just coming back to me now.",
-   "ko": ""
+   "ko": "십 대 땐 정말 아무것도 안 했어요. 그래서 지금 이게 저한테 돌아오는 거죠."
   },
   {
    "s": 226.92,
    "e": 228.2,
    "en": "Yeah. Well, me too!",
-   "ko": ""
+   "ko": "네. 저도 그래요!"
   },
   {
    "s": 228.2,
    "e": 235.84,
    "en": "So, we've talked about chores that we hate doing, but are there any jobs that you enjoy doing?",
-   "ko": ""
+   "ko": "하기 싫은 집안일 얘기를 했는데, 즐겁게 하는 일도 있어요?"
   },
   {
    "s": 235.84,
    "e": 237.36,
    "en": "Well, you know what?",
-   "ko": ""
+   "ko": "음, 그거 알아요?"
   },
   {
    "s": 237.36,
    "e": 240.8,
    "en": "Laundry or washing – that's washing your clothes.",
-   "ko": ""
+   "ko": "빨래(laundry, washing)요. 옷을 빠는 거죠."
   },
   {
    "s": 240.8,
    "e": 245.24,
    "en": "That can sometimes be really satisfying when you get a lot of it done.",
-   "ko": ""
+   "ko": "한꺼번에 많이 끝내면 가끔 정말 뿌듯해요."
   },
   {
    "s": 245.24,
    "e": 253.68,
    "en": "And actually, I've just got a new washing machine and it's much bigger than the one I had before, so I can do so much in one load.",
-   "ko": ""
+   "ko": "그리고 사실 새 세탁기를 샀는데, 전에 쓰던 것보다 훨씬 커서 한 번에 엄청 많이 빨 수 있어요."
   },
   {
    "s": 253.68,
    "e": 255.84,
    "en": "Phil, that is so exciting.",
-   "ko": ""
+   "ko": "필, 정말 신나는 일이네요."
   },
   {
    "s": 255.84,
    "e": 260.48,
    "en": "Even better – because it's summer at the moment, I can get it dry so quick.",
-   "ko": ""
+   "ko": "더 좋은 건, 지금이 여름이라 정말 빨리 말라요."
   },
   {
    "s": 260.48,
    "e": 261.84,
    "en": "It's amazing!",
-   "ko": ""
+   "ko": "대단해요!"
   },
   {
    "s": 261.84,
    "e": 262.92,
    "en": "I love that!",
-   "ko": ""
+   "ko": "그거 너무 좋아요!"
   },
   {
    "s": 262.92,
    "e": 266.12,
    "en": "Putting a... putting a load of washing in the...",
-   "ko": ""
+   "ko": "빨래를 한가득..."
   },
   {
    "s": 266.12,
    "e": 269.64,
    "en": "in the washing machine and then having it dry by the end of the day.",
-   "ko": ""
+   "ko": "세탁기에 넣고 하루가 끝날 때쯤 다 말라 있는 거."
   },
   {
    "s": 269.64,
    "e": 270.68,
    "en": "That is so good.",
-   "ko": ""
+   "ko": "정말 좋아요."
   },
   {
    "s": 270.68,
    "e": 272.72,
    "en": "It's the best thing.",
-   "ko": ""
+   "ko": "최고예요."
   },
   {
    "s": 272.72,
    "e": 278.28,
    "en": "Teenage Georgie would be so disappointed that I'm excited by laundry, but here we go...!",
-   "ko": ""
+   "ko": "십 대 때의 조지가 알면 제가 빨래에 신나 한다고 엄청 실망하겠지만, 어쩌겠어요...!"
   },
   {
    "s": 283.08,
    "e": 288.84,
    "en": "OK. Phil, let's recap the vocabulary we used in this conversation, starting with 'housework'.",
-   "ko": ""
+   "ko": "좋아요. 필, 이번 대화에서 쓴 어휘를 정리해 봐요. 'housework'부터요."
   },
   {
    "s": 288.84,
    "e": 294.12,
    "en": "So, this is the general term for jobs that we have to do in the house.",
-   "ko": ""
+   "ko": "집에서 해야 하는 일을 통틀어 이르는 말이에요."
   },
   {
    "s": 294.12,
    "e": 299.8,
    "en": "And then we had 'chores', which are the specific jobs that you have to do – for example, laundry.",
-   "ko": ""
+   "ko": "그리고 'chores'는 해야 하는 구체적인 일이에요. 예를 들면 빨래요."
   },
   {
    "s": 299.8,
    "e": 303.24,
    "en": "Yes. So, 'laundry' is washing your clothes.",
-   "ko": ""
+   "ko": "네. 'laundry'는 옷을 빠는 거예요."
   },
   {
    "s": 303.24,
    "e": 306.92,
    "en": "We say 'do the laundry', or just 'do the washing'.",
-   "ko": ""
+   "ko": "'do the laundry', 아니면 그냥 'do the washing'이라고 해요."
   },
   {
    "s": 306.92,
    "e": 315.44,
    "en": "Yes. And we had some other chores – for example, hoovering and sweeping the floor, which is what you do when there are crumbs on the floor.",
-   "ko": ""
+   "ko": "네. 다른 집안일도 나왔죠. 예를 들면 청소기 돌리기(hoovering), 그리고 바닥에 부스러기가 있을 때 하는 바닥 쓸기(sweeping)."
   },
   {
    "s": 315.44,
    "e": 323.28,
    "en": "After you've swept the crumbs, you can mop the floor, which is when you make the floor wet and clean it like that.",
-   "ko": ""
+   "ko": "부스러기를 쓸고 나면 걸레질(mop)을 할 수 있어요. 바닥을 적셔서 그렇게 닦는 거죠."
   },
   {
    "s": 323.28,
    "e": 334.04,
    "en": "Yes. We also talked about jobs that you hate, and sometimes when you really hate a job, you end up putting it off – that means to delay it.",
-   "ko": ""
+   "ko": "네. 싫어하는 일에 대해서도 얘기했는데, 정말 싫은 일은 결국 미루게 되죠(put off). 늦춘다는 뜻이에요."
   },
   {
    "s": 334.04,
    "e": 338.96,
    "en": "If you 'put something off', you delay something, sometimes because you just don't want to do it.",
-   "ko": ""
+   "ko": "뭔가를 'put off'하면 늦추는 거예요. 그냥 하기 싫어서 그럴 때도 있죠."
   },
   {
    "s": 338.96,
    "e": 344.92,
    "en": "So, that is the end of this episode of Real Easy English, but we'll be back next week, won't we?",
-   "ko": ""
+   "ko": "자, Real Easy English 이번 에피소드는 여기까지예요. 그래도 다음 주에 다시 오죠?"
   },
   {
    "s": 344.92,
    "e": 347.24,
    "en": "Yes, we'll be back with another episode.",
-   "ko": ""
+   "ko": "네, 다른 에피소드로 돌아올게요."
   },
   {
    "s": 347.24,
    "e": 352.96,
    "en": "Also, don't forget about that worksheet that's on our website, bbclearningenglish.com.",
-   "ko": ""
+   "ko": "그리고 웹사이트 bbclearningenglish.com의 학습지도 잊지 마세요."
   },
   {
    "s": 352.96,
    "e": 354.44,
    "en": "Goodbye for now.",
-   "ko": ""
+   "ko": "오늘은 여기까지, 안녕히."
   },
   {
    "s": 354.44,
    "e": 355.36,
    "en": "Bye!",
-   "ko": ""
+   "ko": "안녕!"
   }
  ]
 }

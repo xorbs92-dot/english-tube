@@ -3,421 +3,421 @@
  "title": "How do climate scientists make predictions? ⏲️ 6 Minute English",
  "channel": "BBC Learning English",
  "enSource": "manual",
- "koSource": "none",
+ "koSource": "claude",
  "sentences": [
   {
    "s": 7.84,
    "e": 12.52,
    "en": "Hello, this is 6 Minute English from BBC Learning English. I'm Phil.",
-   "ko": ""
+   "ko": "안녕하세요, BBC Learning English의 6 Minute English입니다. 저는 필이에요."
   },
   {
    "s": 12.52,
    "e": 13.84,
    "en": "And I'm Pippa.",
-   "ko": ""
+   "ko": "그리고 저는 피파예요."
   },
   {
    "s": 13.84,
    "e": 19.84,
    "en": "This summer is becoming one of the hottest ever with heatwaves across Europe.",
-   "ko": ""
+   "ko": "올여름은 유럽 전역에 폭염이 덮치면서 역대 가장 더운 여름 중 하나가 되고 있어요."
   },
   {
    "s": 19.84,
    "e": 29.44,
    "en": "Here in the UK, a new record for the highest June temperature was set at a sweltering 37.7°C.",
-   "ko": ""
+   "ko": "여기 영국에서는 6월 최고 기온 신기록이 섭씨 37.7도라는 찌는 듯한 더위로 세워졌어요."
   },
   {
    "s": 29.44,
    "e": 34.2,
    "en": "It seems that year after year, temperatures are going up.",
-   "ko": ""
+   "ko": "해마다 기온이 오르는 것 같아요."
   },
   {
    "s": 34.2,
    "e": 50.96,
    "en": "In 2015, the COP21 summit agreed to limit global warming to 1.5°C, but since then research shows temperatures exceeding that, leading to warnings of catastrophic damage to Earth's life support systems.",
-   "ko": ""
+   "ko": "2015년 COP21 정상회의에서 지구 온난화를 1.5도로 제한하기로 합의했지만, 그 이후 연구에 따르면 기온이 그걸 넘어서고 있어서, 지구의 생명 유지 시스템에 재앙적인 피해가 올 거라는 경고가 나오고 있어요."
   },
   {
    "s": 50.96,
    "e": 57.28,
    "en": "In this episode, we'll be discussing how hot the planet could get, using some useful new vocabulary.",
-   "ko": ""
+   "ko": "이번 에피소드에서는 유용한 새 어휘를 쓰면서 지구가 얼마나 더워질 수 있는지 이야기해 볼게요."
   },
   {
    "s": 57.28,
    "e": 63.8,
    "en": "And remember, you'll find a free transcript to read along with on our website, bbclearningenglish.com.",
-   "ko": ""
+   "ko": "그리고 기억하세요, 따라 읽을 수 있는 무료 대본은 웹사이트 bbclearningenglish.com에 있어요."
   },
   {
    "s": 63.8,
    "e": 66.64,
    "en": "But first, I have a question for you, Phil.",
-   "ko": ""
+   "ko": "그런데 먼저, 필, 질문이 있어요."
   },
   {
    "s": 66.64,
    "e": 77.92,
    "en": "Scientists monitor climate change using the Earth's energy imbalance – the difference between the solar energy entering the Earth's atmosphere and the radiation going back out into space.",
-   "ko": ""
+   "ko": "과학자들은 지구 에너지 불균형, 즉 지구 대기로 들어오는 태양 에너지와 우주로 다시 나가는 복사열의 차이로 기후 변화를 관측해요."
   },
   {
    "s": 77.92,
    "e": 80.68,
    "en": "But which unit do scientists use for this?",
-   "ko": ""
+   "ko": "그런데 과학자들은 이걸 어떤 단위로 쓸까요?"
   },
   {
    "s": 80.68,
    "e": 87.8,
    "en": "Is it: a) Fahrenheit, b) Watts per square metre, or c) Joules?",
-   "ko": ""
+   "ko": "a) 화씨, b) 제곱미터당 와트, c) 줄 중 무엇일까요?"
   },
   {
    "s": 87.8,
    "e": 93.16,
    "en": "Ooh, I know Joules is something to do with energy, so I'm going to go with c).",
-   "ko": ""
+   "ko": "오, 줄은 에너지와 관련 있다는 걸 아니까 c)로 할게요."
   },
   {
    "s": 93.16,
    "e": 100.2,
    "en": "Well, we'll find out the answer at the end of the programme, although careful listeners might hear the answer sooner.",
-   "ko": ""
+   "ko": "자, 답은 프로그램 마지막에 알아볼 텐데, 귀 기울여 듣는 분들은 더 일찍 답을 들을 수도 있어요."
   },
   {
    "s": 100.2,
    "e": 101.0,
    "en": "Ooh!",
-   "ko": ""
+   "ko": "오!"
   },
   {
    "s": 101.0,
    "e": 102.56,
    "en": "Yes, exciting!",
-   "ko": ""
+   "ko": "네, 신나죠!"
   },
   {
    "s": 102.56,
    "e": 107.56,
    "en": "So, how do scientists calculate the effects of climate change in the first place?",
-   "ko": ""
+   "ko": "그런데 과학자들은 애초에 기후 변화의 영향을 어떻게 계산할까요?"
   },
   {
    "s": 107.56,
    "e": 109.68,
    "en": "The answer is with models.",
-   "ko": ""
+   "ko": "답은 모델이에요."
   },
   {
    "s": 109.68,
    "e": 117.56,
    "en": "Huge amounts of physical and chemical data are fed into supercomputers, which then paint pictures of possible futures on Earth.",
-   "ko": ""
+   "ko": "엄청난 양의 물리·화학 데이터를 슈퍼컴퓨터에 넣으면, 지구의 가능한 미래 모습을 그려 내요."
   },
   {
    "s": 117.56,
    "e": 125.76,
    "en": "But, as NASA climate scientist Kate Marvel explained to BBC World Service programme The Climate Question, nothing is certain.",
-   "ko": ""
+   "ko": "하지만 NASA 기후 과학자 케이트 마블이 BBC 월드 서비스 프로그램 'The Climate Question'에서 설명했듯이, 확실한 건 없어요."
   },
   {
    "s": 125.76,
    "e": 129.24,
    "en": "Climate models don't make predictions – they make projections.",
-   "ko": ""
+   "ko": "기후 모델은 예측(prediction)을 하는 게 아니라 전망(projection)을 해요."
   },
   {
    "s": 129.24,
    "e": 135.2,
    "en": "Predictions are saying this is what will happen and a projection is conditional.",
-   "ko": ""
+   "ko": "예측은 '이런 일이 일어날 것이다'라고 말하는 거고, 전망은 조건부예요."
   },
   {
    "s": 135.2,
    "e": 138.8,
    "en": "A projection is: If we do this, then this will happen.",
-   "ko": ""
+   "ko": "전망은 '우리가 이렇게 하면, 이런 일이 일어날 것이다'예요."
   },
   {
    "s": 138.8,
    "e": 141.2,
    "en": "Climate models don't make predictions.",
-   "ko": ""
+   "ko": "기후 모델은 예측을 하지 않아요."
   },
   {
    "s": 141.2,
    "e": 143.84,
    "en": "Those are statements about what's likely to happen.",
-   "ko": ""
+   "ko": "예측은 일어날 가능성이 높은 일에 대한 진술이에요."
   },
   {
    "s": 143.84,
    "e": 150.76,
    "en": "Instead, they make projections about different possible futures, and these depend on many things.",
-   "ko": ""
+   "ko": "대신 서로 다른 가능한 미래에 대한 전망을 하는데, 이건 많은 것에 달려 있어요."
   },
   {
    "s": 150.76,
    "e": 157.24,
    "en": "In other words, climate models are conditional, meaning that they depend on other factors.",
-   "ko": ""
+   "ko": "다시 말해 기후 모델은 조건부(conditional)예요. 다른 요인에 달려 있다는 뜻이에요."
   },
   {
    "s": 157.24,
    "e": 163.6,
    "en": "The main factor in climate change, of course, is human activity, especially greenhouse gas emissions.",
-   "ko": ""
+   "ko": "기후 변화의 주요 요인은 물론 인간 활동, 특히 온실가스 배출이에요."
   },
   {
    "s": 163.6,
    "e": 167.04,
    "en": "Another influence on climate models is clouds.",
-   "ko": ""
+   "ko": "기후 모델에 영향을 주는 또 다른 것은 구름이에요."
   },
   {
    "s": 167.04,
    "e": 177.2,
    "en": "We usually associate hot summers with cloudless blue skies, but in fact clouds play a big part in the climate, as Kate Marvel explained to the BBC World Service.",
-   "ko": ""
+   "ko": "보통 더운 여름 하면 구름 없는 파란 하늘을 떠올리지만, 사실 구름은 기후에서 큰 역할을 해요. 케이트 마블이 BBC 월드 서비스에 설명한 대로요."
   },
   {
    "s": 177.2,
    "e": 181.48,
    "en": "So, the thing about clouds is that they have this dual effect.",
-   "ko": ""
+   "ko": "구름에 관해 중요한 건, 이중 효과가 있다는 거예요."
   },
   {
    "s": 181.48,
    "e": 188.88,
    "en": "They both cool the planet by blocking sunlight, and they warm the planet because they have their own greenhouse effect.",
-   "ko": ""
+   "ko": "햇빛을 가려서 지구를 식히기도 하고, 자체적인 온실 효과가 있어서 지구를 데우기도 해요."
   },
   {
    "s": 188.88,
    "e": 199.4,
    "en": "Right now, the unit that scientists use to measure the energy imbalance of the planet – how much it's out of whack – is Watts, like in a light bulb, per square metre.",
-   "ko": ""
+   "ko": "현재 과학자들이 지구의 에너지 불균형, 즉 얼마나 균형이 깨졌는지를 측정하는 단위는 전구에 쓰는 와트, 그것도 제곱미터당 와트예요."
   },
   {
    "s": 199.4,
    "e": 203.76,
    "en": "Kate starts by saying, The thing about clouds is.",
-   "ko": ""
+   "ko": "케이트는 'The thing about clouds is'라고 말을 시작해요."
   },
   {
    "s": 203.76,
    "e": 211.24,
    "en": "She uses the expression 'the thing about' to introduce the most important detail about something.",
-   "ko": ""
+   "ko": "'the thing about'이라는 표현으로 어떤 것에 관한 가장 중요한 세부 사항을 소개해요."
   },
   {
    "s": 211.24,
    "e": 219.0,
    "en": "Here, that detail is that clouds both cool the planet by blocking sunlight, but also warm it by trapping heat.",
-   "ko": ""
+   "ko": "여기서 그 세부 사항은 구름이 햇빛을 가려 지구를 식히기도 하지만 열을 가둬 데우기도 한다는 거예요."
   },
   {
    "s": 219.0,
    "e": 225.2,
    "en": "So, climate models monitor clouds to accurately measure how much the Earth is out of whack.",
-   "ko": ""
+   "ko": "그래서 기후 모델은 지구가 얼마나 균형이 깨졌는지 정확히 측정하려고 구름을 관측해요."
   },
   {
    "s": 225.2,
    "e": 229.92,
    "en": "If something is out of whack, it's out of balance and not working properly.",
-   "ko": ""
+   "ko": "뭔가가 out of whack하면 균형이 깨져서 제대로 작동하지 않는 거예요."
   },
   {
    "s": 229.92,
    "e": 234.08,
    "en": "Hmm. Climate models sound very complicated to me, Pippa.",
-   "ko": ""
+   "ko": "음. 기후 모델은 정말 복잡하게 들려요, 피파."
   },
   {
    "s": 234.08,
    "e": 239.84,
    "en": "For one thing, how can you monitor clouds which are constantly moving and changing?",
-   "ko": ""
+   "ko": "우선, 계속 움직이고 변하는 구름을 어떻게 관측할 수 있어요?"
   },
   {
    "s": 239.84,
    "e": 246.76,
    "en": "Yeah. And how much information from around the world would the supercomputers need to make accurate projections?",
-   "ko": ""
+   "ko": "네. 그리고 정확한 전망을 하려면 슈퍼컴퓨터에 전 세계에서 얼마나 많은 정보가 필요할까요?"
   },
   {
    "s": 246.76,
    "e": 254.44,
    "en": "It's a concern that BBC presenter Graihagh Jackson raised with Kate Marvel for BBC World Service programme The Climate Question.",
-   "ko": ""
+   "ko": "BBC 진행자 그레이하 잭슨이 BBC 월드 서비스 프로그램 'The Climate Question'에서 케이트 마블에게 제기한 우려예요."
   },
   {
    "s": 254.44,
    "e": 260.32,
    "en": "Surely we need to know the trajectory we're heading in, in order to adapt.",
-   "ko": ""
+   "ko": "적응하려면 분명 우리가 향하고 있는 궤도를 알아야 하잖아요."
   },
   {
    "s": 260.32,
    "e": 261.48,
    "en": "Oh absolutely.",
-   "ko": ""
+   "ko": "아 당연하죠."
   },
   {
    "s": 261.48,
    "e": 263.52,
    "en": "You know, I am very pro-science.",
-   "ko": ""
+   "ko": "저는 과학을 정말 지지해요."
   },
   {
    "s": 263.52,
    "e": 270.2,
    "en": "I am very pro-doing science because no climate change is unfortunately not on the table.",
-   "ko": ""
+   "ko": "과학을 하는 걸 정말 지지해요. 안타깝게도 기후 변화가 아예 없는 건 선택지에 없으니까요."
   },
   {
    "s": 270.2,
    "e": 272.92,
    "en": "Kate is very pro-science.",
-   "ko": ""
+   "ko": "케이트는 과학을 아주 지지해요(pro-science)."
   },
   {
    "s": 272.92,
    "e": 277.2,
    "en": "If you're pro-something, it means you're in favour of it.",
-   "ko": ""
+   "ko": "pro-something이면 그걸 지지한다는 뜻이에요."
   },
   {
    "s": 277.2,
    "e": 288.96,
    "en": "Models are complex, but they're necessary because unfortunately no climate change at all is not on the table, and that's an idiom, meaning it's not an option.",
-   "ko": ""
+   "ko": "모델은 복잡하지만, 안타깝게도 기후 변화가 아예 없는 건 'not on the table'이라서 꼭 필요해요. 선택지가 아니라는 뜻의 관용구예요."
   },
   {
    "s": 288.96,
    "e": 291.48,
    "en": "If all this sounds a bit depressing.",
-   "ko": ""
+   "ko": "이 모든 게 좀 우울하게 들린다면."
   },
   {
    "s": 291.48,
    "e": 294.16,
    "en": "Kate's final message is more hopeful.",
-   "ko": ""
+   "ko": "케이트의 마지막 메시지는 더 희망적이에요."
   },
   {
    "s": 294.16,
    "e": 303.92,
    "en": "Climate models prove beyond doubt that the problem of global warming is created by humans, so we know beyond doubt that the solution is also in our hands.",
-   "ko": ""
+   "ko": "기후 모델은 지구 온난화 문제가 인간이 만든 것이라는 걸 의심의 여지 없이 증명해요. 그러니 해결책도 우리 손에 있다는 걸 의심의 여지 없이 알 수 있죠."
   },
   {
    "s": 303.92,
    "e": 311.32,
    "en": "Now, Pippa, careful listeners might already know, but go ahead and reveal the correct answer to your question.",
-   "ko": ""
+   "ko": "자, 피파, 귀 기울여 들은 분들은 이미 알겠지만, 질문의 정답을 공개해 주세요."
   },
   {
    "s": 311.32,
    "e": 316.88,
    "en": "Yes. I asked you, Which unit do scientists use to measure the Earth's energy imbalance?",
-   "ko": ""
+   "ko": "네. 과학자들이 지구 에너지 불균형을 측정할 때 쓰는 단위가 뭐냐고 물었죠."
   },
   {
    "s": 316.88,
    "e": 319.32,
    "en": "And the answer was Watts per square metre.",
-   "ko": ""
+   "ko": "답은 제곱미터당 와트였어요."
   },
   {
    "s": 319.32,
    "e": 320.8,
    "en": "And I didn't know that, Phil.",
-   "ko": ""
+   "ko": "전 몰랐어요, 필."
   },
   {
    "s": 320.8,
    "e": 324.96,
    "en": "Right, it's time to recap the vocabulary we heard during this programme.",
-   "ko": ""
+   "ko": "자, 이번 프로그램에서 들은 어휘를 정리할 시간이에요."
   },
   {
    "s": 324.96,
    "e": 329.2,
    "en": "A prediction is a statement about what you think will happen in the future.",
-   "ko": ""
+   "ko": "prediction은 미래에 일어날 거라고 생각하는 일에 대한 진술이에요."
   },
   {
    "s": 329.2,
    "e": 333.6,
    "en": "The adjective 'conditional' means depending on other factors.",
-   "ko": ""
+   "ko": "형용사 'conditional'은 다른 요인에 달려 있다는 뜻이에요."
   },
   {
    "s": 333.6,
    "e": 340.52,
    "en": "You can use the informal expression 'the thing about' to introduce the most important feature or detail of something.",
-   "ko": ""
+   "ko": "비격식 표현 'the thing about'으로 어떤 것의 가장 중요한 특징이나 세부 사항을 소개할 수 있어요."
   },
   {
    "s": 340.52,
    "e": 345.6,
    "en": "The phrase 'out of whack' means out of balance and not working properly.",
-   "ko": ""
+   "ko": "'out of whack'은 균형이 깨져서 제대로 작동하지 않는다는 뜻이에요."
   },
   {
    "s": 345.6,
    "e": 348.76,
    "en": "If you're pro-something, you're in favour of it.",
-   "ko": ""
+   "ko": "pro-something이면 그걸 지지하는 거예요."
   },
   {
    "s": 348.76,
    "e": 353.08,
    "en": "And if something is not on the table, it's not an option.",
-   "ko": ""
+   "ko": "그리고 뭔가가 not on the table이면 선택지가 아니라는 거예요."
   },
   {
    "s": 353.08,
    "e": 355.12,
    "en": "It's not available to us.",
-   "ko": ""
+   "ko": "우리가 고를 수 없다는 거죠."
   },
   {
    "s": 355.12,
    "e": 358.12,
    "en": "That's the end of this episode of 6 Minute English.",
-   "ko": ""
+   "ko": "6 Minute English 이번 에피소드는 여기까지예요."
   },
   {
    "s": 358.12,
    "e": 362.16,
    "en": "Find a worksheet and quiz on our website to test what you've learned.",
-   "ko": ""
+   "ko": "웹사이트에서 학습지와 퀴즈로 배운 걸 확인해 보세요."
   },
   {
    "s": 362.16,
    "e": 366.12,
    "en": "We'll be back next week with another episode, so make sure you don't miss it.",
-   "ko": ""
+   "ko": "다음 주에 다른 에피소드로 돌아올 테니 놓치지 마세요."
   },
   {
    "s": 366.12,
    "e": 367.2,
    "en": "Bye for now.",
-   "ko": ""
+   "ko": "오늘은 여기까지, 안녕."
   },
   {
    "s": 367.2,
    "e": 368.12,
    "en": "Bye!",
-   "ko": ""
+   "ko": "안녕!"
   }
  ]
 }

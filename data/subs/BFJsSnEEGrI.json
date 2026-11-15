@@ -3,511 +3,511 @@
  "title": "How do you take your coffee? ☕🥛🍯 Improve your listening skills with Real Easy English",
  "channel": "BBC Learning English",
  "enSource": "manual",
- "koSource": "none",
+ "koSource": "claude",
  "sentences": [
   {
    "s": 0.16,
    "e": 1.48,
    "en": "Hi Neil. How are you?",
-   "ko": ""
+   "ko": "안녕, 닐. 잘 지내요?"
   },
   {
    "s": 1.48,
    "e": 3.04,
    "en": "I'm very well thank you, Georgie.",
-   "ko": ""
+   "ko": "아주 잘 지내요, 고마워요, 조지."
   },
   {
    "s": 3.04,
    "e": 5.12,
    "en": "Are you enjoying your coffee?",
-   "ko": ""
+   "ko": "커피 맛있게 마시고 있어요?"
   },
   {
    "s": 5.12,
    "e": 8.92,
    "en": "I am, but it's got a bit cool now.",
-   "ko": ""
+   "ko": "네, 그런데 이제 좀 식었어요."
   },
   {
    "s": 8.92,
    "e": 11.6,
    "en": "I prefer my coffee hot, but...",
-   "ko": ""
+   "ko": "저는 커피가 뜨거운 게 좋은데..."
   },
   {
    "s": 11.6,
    "e": 14.24,
    "en": "oh well! Are you enjoying yours?",
-   "ko": ""
+   "ko": "뭐 어쩔 수 없죠! 당신은 맛있게 마시고 있어요?"
   },
   {
    "s": 14.24,
    "e": 15.32,
    "en": "I've finished mine.",
-   "ko": ""
+   "ko": "저는 다 마셨어요."
   },
   {
    "s": 15.32,
    "e": 16.56,
    "en": "Oh, that's a shame.",
-   "ko": ""
+   "ko": "아, 아쉽네요."
   },
   {
    "s": 16.56,
    "e": 23.64,
    "en": "It's a sad moment when I've finished my second coffee of the day, because that's it.",
-   "ko": ""
+   "ko": "그날의 두 번째 커피를 다 마시면 슬퍼요. 그게 마지막이거든요."
   },
   {
    "s": 23.64,
    "e": 25.72,
    "en": "I don't have more than two.",
-   "ko": ""
+   "ko": "하루에 두 잔 넘게는 안 마셔요."
   },
   {
    "s": 25.72,
    "e": 29.52,
    "en": "So, we're talking about coffee in this episode, aren't we?",
-   "ko": ""
+   "ko": "그러니까 이번 에피소드에서는 커피에 대해 얘기하는 거죠?"
   },
   {
    "s": 29.52,
    "e": 37.88,
    "en": "We are. But before we start, of course, everyone needs to know that there is a free worksheet on our website.",
-   "ko": ""
+   "ko": "네. 그런데 시작하기 전에, 웹사이트에 무료 학습지가 있다는 걸 다들 알아야 해요."
   },
   {
    "s": 37.88,
    "e": 40.8,
    "en": "That's at bbclearningenglish.com.",
-   "ko": ""
+   "ko": "bbclearningenglish.com에 있어요."
   },
   {
    "s": 40.8,
    "e": 44.12,
    "en": "Yes, they can also find a free transcript, can't they?",
-   "ko": ""
+   "ko": "네, 무료 대본도 볼 수 있죠?"
   },
   {
    "s": 44.12,
    "e": 47.04,
    "en": "They can, yes, at the same address.",
-   "ko": ""
+   "ko": "네, 같은 주소에서요."
   },
   {
    "s": 52.12,
    "e": 55.2,
    "en": "So, Georgie, we're talking about coffee.",
-   "ko": ""
+   "ko": "자, 조지, 커피 얘기를 해 봐요."
   },
   {
    "s": 55.2,
    "e": 63.84,
    "en": "How much coffee, or how many coffees if we're talking about cups of coffee – how many do you have a day?",
-   "ko": ""
+   "ko": "하루에 커피를 얼마나, 잔으로 따지면 몇 잔 마셔요?"
   },
   {
    "s": 63.84,
    "e": 70.68,
    "en": "I usually have two, and I know that you do as well, because we drink them both in the office, don't we?",
-   "ko": ""
+   "ko": "보통 두 잔이요. 당신도 그런 거 알아요, 우리 둘 다 사무실에서 마시잖아요."
   },
   {
    "s": 70.68,
    "e": 81.88,
    "en": "We have one cup of coffee in the morning and one usually in the afternoon, when we need to regain some energy and alertness.",
-   "ko": ""
+   "ko": "아침에 한 잔, 그리고 보통 오후에 기운과 정신을 되찾아야 할 때 한 잔 마셔요."
   },
   {
    "s": 81.88,
    "e": 86.12,
    "en": "Yeah. And so, we all know because we make each other...",
-   "ko": ""
+   "ko": "네. 그래서 다들 알아요, 서로..."
   },
   {
    "s": 86.12,
    "e": 93.24,
    "en": "at BBC Learning English, we make each other coffee, so we know how we take our coffee.",
-   "ko": ""
+   "ko": "BBC Learning English에서는 서로 커피를 타 주니까, 각자 커피를 어떻게 마시는지 알아요."
   },
   {
    "s": 93.24,
    "e": 98.8,
    "en": "Yes. 'How we take our coffee' is how we like it – what we like to put in it.",
-   "ko": ""
+   "ko": "네. 'How we take our coffee'는 커피를 어떻게 좋아하는지, 뭘 넣어 마시는지를 말해요."
   },
   {
    "s": 98.8,
    "e": 101.56,
    "en": "For example, sugar or milk.",
-   "ko": ""
+   "ko": "예를 들면 설탕이나 우유요."
   },
   {
    "s": 101.56,
    "e": 105.0,
    "en": "I know that you don't like milk in your coffee.",
-   "ko": ""
+   "ko": "당신은 커피에 우유 넣는 걸 안 좋아하잖아요."
   },
   {
    "s": 105.0,
    "e": 107.16,
    "en": "You take your coffee black.",
-   "ko": ""
+   "ko": "블랙으로 마시죠."
   },
   {
    "s": 107.16,
    "e": 114.92,
    "en": "I do. I like black coffee and you take your coffee white and you used to have sugar, but you don't anymore.",
-   "ko": ""
+   "ko": "네. 저는 블랙커피를 좋아하고, 당신은 우유를 넣어 마시죠. 예전엔 설탕도 넣었는데 이젠 안 넣고요."
   },
   {
    "s": 114.92,
    "e": 122.32,
    "en": "That's right. Occasionally when I'm at home I put some honey in my coffee to make it a bit sweeter.",
-   "ko": ""
+   "ko": "맞아요. 가끔 집에서는 커피에 꿀을 조금 넣어서 좀 더 달게 마셔요."
   },
   {
    "s": 122.32,
    "e": 124.08,
    "en": "Eurgh! Honey in coffee?",
-   "ko": ""
+   "ko": "으엑! 커피에 꿀이요?"
   },
   {
    "s": 124.08,
    "e": 126.48,
    "en": "Yes. Is that surprising?",
-   "ko": ""
+   "ko": "네. 그게 놀라워요?"
   },
   {
    "s": 126.48,
    "e": 127.88,
    "en": "I've never heard of that.",
-   "ko": ""
+   "ko": "그런 건 처음 들어 봐요."
   },
   {
    "s": 127.88,
    "e": 129.2,
    "en": "Really?",
-   "ko": ""
+   "ko": "정말요?"
   },
   {
    "s": 129.2,
    "e": 131.36,
    "en": "Sugar, but not honey.",
-   "ko": ""
+   "ko": "설탕은 들어 봤지만, 꿀은 아니에요."
   },
   {
    "s": 131.36,
    "e": 134.48,
    "en": "But why would that be so bad?",
-   "ko": ""
+   "ko": "그런데 그게 왜 그렇게 별로예요?"
   },
   {
    "s": 134.48,
    "e": 136.16,
    "en": "Well, I don't know.",
-   "ko": ""
+   "ko": "글쎄요, 모르겠어요."
   },
   {
    "s": 136.16,
    "e": 139.12,
    "en": "It's just I've never heard of it.",
-   "ko": ""
+   "ko": "그냥 처음 들어 봐서요."
   },
   {
    "s": 139.12,
    "e": 140.2,
    "en": "It's really good.",
-   "ko": ""
+   "ko": "정말 맛있어요."
   },
   {
    "s": 140.2,
    "e": 141.56,
    "en": "I would recommend.",
-   "ko": ""
+   "ko": "추천해요."
   },
   {
    "s": 141.56,
    "e": 149.28,
    "en": "OK. So, Georgie, what happens if you don't have your coffee?",
-   "ko": ""
+   "ko": "좋아요. 조지, 커피를 안 마시면 어떻게 돼요?"
   },
   {
    "s": 149.28,
    "e": 157.56,
    "en": "Well, in the morning if I don't have coffee, I feel very grumpy and very tired.",
-   "ko": ""
+   "ko": "음, 아침에 커피를 안 마시면 아주 짜증 나고 아주 피곤해요."
   },
   {
    "s": 157.56,
    "e": 165.16,
    "en": "In the afternoon if I don't have a coffee, it's not terrible, but I would prefer to have my afternoon coffee.",
-   "ko": ""
+   "ko": "오후에 안 마시면 그렇게 끔찍하진 않지만, 오후 커피는 마시는 게 좋아요."
   },
   {
    "s": 165.16,
    "e": 166.8,
    "en": "How about you?",
-   "ko": ""
+   "ko": "당신은요?"
   },
   {
    "s": 166.8,
    "e": 174.24,
    "en": "Yeah, I need my coffee, especially in the morning, but I don't have my coffee first thing in the morning.",
-   "ko": ""
+   "ko": "네, 저도 커피가 필요해요, 특히 아침에요. 그런데 일어나자마자 마시지는 않아요."
   },
   {
    "s": 174.24,
    "e": 175.16,
    "en": "Oh, interesting.",
-   "ko": ""
+   "ko": "오, 흥미롭네요."
   },
   {
    "s": 175.16,
    "e": 179.92,
    "en": "I have it, kind of, I don't know... work time – nine o'clock.",
-   "ko": ""
+   "ko": "저는, 음, 업무 시간, 9시쯤에 마셔요."
   },
   {
    "s": 179.92,
    "e": 181.0,
    "en": "Why is that?",
-   "ko": ""
+   "ko": "왜 그래요?"
   },
   {
    "s": 181.0,
    "e": 183.64,
    "en": "I think it's too strong, too powerful.",
-   "ko": ""
+   "ko": "너무 진하고 너무 센 것 같아요."
   },
   {
    "s": 183.64,
    "e": 186.04,
    "en": "Or maybe just the way I drink it.",
-   "ko": ""
+   "ko": "아니면 그냥 제가 마시는 방식 때문일 수도 있고요."
   },
   {
    "s": 186.04,
    "e": 188.44,
    "en": "What happens if you drink too much coffee?",
-   "ko": ""
+   "ko": "커피를 너무 많이 마시면 어떻게 돼요?"
   },
   {
    "s": 188.44,
    "e": 194.08,
    "en": "Ooh, then it's difficult to sleep because of the caffeine.",
-   "ko": ""
+   "ko": "으, 카페인 때문에 잠들기 힘들어요."
   },
   {
    "s": 194.08,
    "e": 202.08,
    "en": "Caffeine is that chemical in coffee and tea that makes you feel awake and alert.",
-   "ko": ""
+   "ko": "카페인은 커피와 차에 들어 있는 화학 물질로, 잠이 깨고 정신이 들게 해요."
   },
   {
    "s": 202.08,
    "e": 206.2,
    "en": "But too much means you're too alert.",
-   "ko": ""
+   "ko": "그런데 너무 많으면 정신이 너무 말똥말똥해지죠."
   },
   {
    "s": 206.2,
    "e": 211.28,
    "en": "I don't think that caffeine has a big effect on me.",
-   "ko": ""
+   "ko": "저는 카페인이 저한테 큰 영향을 주는 것 같지 않아요."
   },
   {
    "s": 211.28,
    "e": 215.36,
    "en": "I don't think I have trouble sleeping if I drink too much coffee.",
-   "ko": ""
+   "ko": "커피를 많이 마셔도 잠드는 데 문제가 없는 것 같아요."
   },
   {
    "s": 215.36,
    "e": 216.92,
    "en": "It's strange.",
-   "ko": ""
+   "ko": "신기해요."
   },
   {
    "s": 216.92,
    "e": 220.56,
    "en": "Yeah, because sometimes I'll have an espresso after dinner.",
-   "ko": ""
+   "ko": "네, 가끔 저녁 먹고 에스프레소를 마시기도 하거든요."
   },
   {
    "s": 220.56,
    "e": 221.32,
    "en": "Really?",
-   "ko": ""
+   "ko": "정말요?"
   },
   {
    "s": 221.32,
    "e": 223.24,
    "en": "Yeah. And I can still sleep.",
-   "ko": ""
+   "ko": "네. 그래도 잘 자요."
   },
   {
    "s": 223.24,
    "e": 224.12,
    "en": "That's crazy.",
-   "ko": ""
+   "ko": "말도 안 돼요."
   },
   {
    "s": 224.12,
    "e": 225.36,
    "en": "Yeah. Lucky me.",
-   "ko": ""
+   "ko": "네. 운이 좋죠."
   },
   {
    "s": 225.36,
    "e": 227.6,
    "en": "Lucky you!",
-   "ko": ""
+   "ko": "운이 좋네요!"
   },
   {
    "s": 227.6,
    "e": 231.2,
    "en": "Neil, have you ever tried to cut down on coffee?",
-   "ko": ""
+   "ko": "닐, 커피를 줄이려고(cut down on) 해 본 적 있어요?"
   },
   {
    "s": 231.2,
    "e": 234.44,
    "en": "Cut down on... You mean have less?",
-   "ko": ""
+   "ko": "줄인다고요... 덜 마신다는 뜻이죠?"
   },
   {
    "s": 234.44,
    "e": 241.52,
    "en": "No, I haven't tried to cut down on coffee, but I've tried to cut down on caffeine.",
-   "ko": ""
+   "ko": "아니요, 커피를 줄이려고 한 적은 없지만, 카페인을 줄이려고 한 적은 있어요."
   },
   {
    "s": 241.52,
    "e": 242.08,
    "en": "OK.",
-   "ko": ""
+   "ko": "그렇군요."
   },
   {
    "s": 242.08,
    "e": 243.12,
    "en": "So, I...",
-   "ko": ""
+   "ko": "그래서 저는..."
   },
   {
    "s": 243.12,
    "e": 250.6,
    "en": "For a while, I only drank decaffeinated coffee, or decaf, as we call it.",
-   "ko": ""
+   "ko": "한동안 디카페인 커피, 우리가 '디캡'이라고 부르는 것만 마셨어요."
   },
   {
    "s": 250.6,
    "e": 252.24,
    "en": "OK. And how was that?",
-   "ko": ""
+   "ko": "그래요. 어땠어요?"
   },
   {
    "s": 252.24,
    "e": 258.24,
    "en": "Well, I didn't miss caffeine at the time, I don't think.",
-   "ko": ""
+   "ko": "음, 그때 카페인이 그립진 않았던 것 같아요."
   },
   {
    "s": 258.24,
    "e": 264.96,
    "en": "It lasted for a long time, but now I drink caffeine. I don't care.",
-   "ko": ""
+   "ko": "꽤 오래 그렇게 했는데, 지금은 카페인 마셔요. 상관없어요."
   },
   {
    "s": 271.08,
    "e": 276.12,
    "en": "OK. Neil, it's time to recap the vocabulary we used in the conversation.",
-   "ko": ""
+   "ko": "좋아요. 닐, 대화에서 쓴 어휘를 정리할 시간이에요."
   },
   {
    "s": 276.12,
    "e": 278.2,
    "en": "We used the verb 'take'.",
-   "ko": ""
+   "ko": "'take'라는 동사를 썼죠."
   },
   {
    "s": 278.2,
    "e": 280.52,
    "en": "So, Neil, how do you take your coffee?",
-   "ko": ""
+   "ko": "닐, 커피 어떻게 마셔요?"
   },
   {
    "s": 280.52,
    "e": 285.56,
    "en": "I take my coffee black, and I know you take your coffee white.",
-   "ko": ""
+   "ko": "저는 블랙으로 마시고, 당신은 우유를 넣어 마시는 거 알아요."
   },
   {
    "s": 285.56,
    "e": 292.76,
    "en": "Yes. We also heard 'caffeine', which is the chemical that is in coffee, which makes you feel more awake.",
-   "ko": ""
+   "ko": "네. 'caffeine'도 나왔죠. 커피에 들어 있는 화학 물질로, 더 깨어 있는 느낌이 들게 해요."
   },
   {
    "s": 292.76,
    "e": 298.88,
    "en": "Yes, but you can also get decaffeinated coffee or tea – it means there's no caffeine.",
-   "ko": ""
+   "ko": "네, 그런데 디카페인 커피나 차도 있어요. 카페인이 없다는 뜻이에요."
   },
   {
    "s": 298.88,
    "e": 303.76,
    "en": "And we usually shorten that just to 'decaf' – decaf coffee.",
-   "ko": ""
+   "ko": "그리고 보통 'decaf'로 줄여 말해요. 디캡 커피요."
   },
   {
    "s": 303.76,
    "e": 309.44,
    "en": "Yes. We also heard the phrasal verb 'cut down on', which means you have less of something.",
-   "ko": ""
+   "ko": "네. 'cut down on'이라는 구동사도 나왔는데, 뭔가를 덜 먹거나 덜 한다는 뜻이에요."
   },
   {
    "s": 309.44,
    "e": 312.0,
    "en": "Yep. And you can also say 'cut back on'.",
-   "ko": ""
+   "ko": "네. 'cut back on'이라고도 해요."
   },
   {
    "s": 312.0,
    "e": 313.8,
    "en": "It means the same thing.",
-   "ko": ""
+   "ko": "같은 뜻이에요."
   },
   {
    "s": 313.8,
    "e": 319.32,
    "en": "OK. Well, that is the end of this conversation about coffee in Real Easy English.",
-   "ko": ""
+   "ko": "좋아요. 자, Real Easy English 커피 대화는 여기까지예요."
   },
   {
    "s": 319.32,
    "e": 324.64,
    "en": "Yes, and if people want to watch more episodes of Real Easy English, what should they do?",
-   "ko": ""
+   "ko": "네, Real Easy English 에피소드를 더 보고 싶으면 어떻게 하면 돼요?"
   },
   {
    "s": 324.64,
    "e": 331.64,
    "en": "They should go to our website, bbclearningenglish.com, where they can find a free worksheet to test what they've learned.",
-   "ko": ""
+   "ko": "웹사이트 bbclearningenglish.com에 가면 배운 걸 확인할 수 있는 무료 학습지가 있어요."
   },
   {
    "s": 331.64,
    "e": 332.6,
    "en": "Goodbye for now.",
-   "ko": ""
+   "ko": "오늘은 여기까지, 안녕히."
   },
   {
    "s": 332.6,
    "e": 333.68,
    "en": "Goodbye!",
-   "ko": ""
+   "ko": "안녕!"
   }
  ]
 }

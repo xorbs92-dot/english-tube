@@ -3,391 +3,391 @@
  "title": "What's your dream job? 🤩🧑‍🚒🧑‍🚀 Real Easy English",
  "channel": "BBC Learning English",
  "enSource": "manual",
- "koSource": "none",
+ "koSource": "claude",
  "sentences": [
   {
    "s": 0.28,
    "e": 8.0,
    "en": "Hello and welcome to Real Easy English, the podcast where we have real conversations in easy English to help you learn.",
-   "ko": ""
+   "ko": "안녕하세요, Real Easy English에 오신 걸 환영해요. 쉬운 영어로 진짜 대화를 나누며 공부를 돕는 팟캐스트예요."
   },
   {
    "s": 8.0,
    "e": 8.84,
    "en": "I'm Georgie.",
-   "ko": ""
+   "ko": "저는 조지예요."
   },
   {
    "s": 8.84,
    "e": 10.04,
    "en": "And I'm Neil.",
-   "ko": ""
+   "ko": "그리고 저는 닐이에요."
   },
   {
    "s": 10.04,
    "e": 18.88,
    "en": "To watch a video version of this podcast and download a free worksheet, go to our website, bbclearningenglish.com.",
-   "ko": ""
+   "ko": "이 팟캐스트의 영상 버전을 보고 무료 학습지를 받으려면 웹사이트 bbclearningenglish.com에 가 보세요."
   },
   {
    "s": 24.08,
    "e": 25.24,
    "en": "Hi Neil. How are you?",
-   "ko": ""
+   "ko": "안녕, 닐. 잘 지내요?"
   },
   {
    "s": 25.24,
    "e": 27.2,
    "en": "Are you happy to be at work today?",
-   "ko": ""
+   "ko": "오늘 출근해서 좋아요?"
   },
   {
    "s": 27.2,
    "e": 29.76,
    "en": "Of course. I'm always happy to be at work.",
-   "ko": ""
+   "ko": "물론이죠. 저는 출근하면 늘 좋아요."
   },
   {
    "s": 29.76,
    "e": 33.8,
    "en": "Great. Well, today we are talking about dream jobs.",
-   "ko": ""
+   "ko": "좋아요. 자, 오늘은 꿈의 직업에 대해 얘기해요."
   },
   {
    "s": 33.8,
    "e": 40.28,
    "en": "Obviously, this job is amazing, but we're going to talk about some different jobs we'd like to do.",
-   "ko": ""
+   "ko": "당연히 이 일도 멋지지만, 해 보고 싶은 다른 직업들에 대해 얘기해 볼게요."
   },
   {
    "s": 40.28,
    "e": 42.0,
    "en": "Sounds good. Shall we start?",
-   "ko": ""
+   "ko": "좋네요. 시작할까요?"
   },
   {
    "s": 42.0,
    "e": 43.0,
    "en": "Yes.",
-   "ko": ""
+   "ko": "네."
   },
   {
    "s": 43.0,
    "e": 49.72,
    "en": "So, Georgie, when you were a child, what did you want to do when you grew up?",
-   "ko": ""
+   "ko": "조지, 어렸을 때 커서 뭐가 되고 싶었어요?"
   },
   {
    "s": 49.72,
    "e": 52.16,
    "en": "What was your dream job?",
-   "ko": ""
+   "ko": "꿈의 직업이 뭐였어요?"
   },
   {
    "s": 52.16,
    "e": 55.8,
    "en": "Well, when I was really little, about five or six.",
-   "ko": ""
+   "ko": "음, 정말 어렸을 때, 대여섯 살쯤에요."
   },
   {
    "s": 55.8,
    "e": 60.32,
    "en": "I remember telling people that I wanted to be a princess.",
-   "ko": ""
+   "ko": "사람들한테 공주가 되고 싶다고 말했던 게 기억나요."
   },
   {
    "s": 60.32,
    "e": 77.48,
    "en": "When I realised that wasn't going to be possible for me, my next dream was to be a pop star, because my friends and I used to write songs and perform in front of our parents, and I thought that would be really fun.",
-   "ko": ""
+   "ko": "그게 불가능하다는 걸 깨닫고 나서 다음 꿈은 팝 스타였어요. 친구들이랑 노래를 만들어서 부모님 앞에서 공연하곤 했는데, 그게 정말 재밌을 것 같았거든요."
   },
   {
    "s": 77.48,
    "e": 79.44,
    "en": "Yeah. What about you?",
-   "ko": ""
+   "ko": "네. 당신은요?"
   },
   {
    "s": 79.44,
    "e": 82.84,
    "en": "Well, I'm kind of similar.",
-   "ko": ""
+   "ko": "음, 저도 좀 비슷해요."
   },
   {
    "s": 82.84,
    "e": 94.44,
    "en": "I think, actually, when I was... when I was a child, I thought that being a professional sportsman would be fantastic – either a footballer or a cricketer.",
-   "ko": ""
+   "ko": "사실 어렸을 땐 프로 운동선수, 축구 선수나 크리켓 선수가 되면 멋질 거라고 생각했어요."
   },
   {
    "s": 94.44,
    "e": 95.76,
    "en": "What went wrong?",
-   "ko": ""
+   "ko": "뭐가 잘못됐어요?"
   },
   {
    "s": 95.76,
    "e": 98.48,
    "en": "I'm not good enough!",
-   "ko": ""
+   "ko": "실력이 부족했어요!"
   },
   {
    "s": 98.48,
    "e": 100.64,
    "en": "I learned that lesson.",
-   "ko": ""
+   "ko": "그 교훈은 얻었죠."
   },
   {
    "s": 100.64,
    "e": 112.24,
    "en": "But also, I wanted, when I got a little bit older, sort of teenage, and started playing guitar, I thought, yeah, maybe a rock star would be the thing for me.",
-   "ko": ""
+   "ko": "그리고 좀 더 커서, 십 대쯤 기타를 치기 시작하면서, 그래, 어쩌면 록 스타가 나한테 맞겠다고 생각했어요."
   },
   {
    "s": 112.24,
    "e": 120.28,
    "en": "So, Neil, obviously you are not a rock star, but how or when did you decide to become an English teacher instead?",
-   "ko": ""
+   "ko": "닐, 당연히 록 스타는 안 됐는데, 대신 영어 선생님이 되기로 언제, 어떻게 결심했어요?"
   },
   {
    "s": 120.28,
    "e": 125.6,
    "en": "Well, when I finished university, I wanted to travel more than anything else.",
-   "ko": ""
+   "ko": "음, 대학을 졸업했을 때 무엇보다 여행을 더 하고 싶었어요."
   },
   {
    "s": 125.6,
    "e": 130.2,
    "en": "And I wanted to live in foreign countries, not just go on holiday.",
-   "ko": ""
+   "ko": "그냥 휴가가 아니라 외국에서 살아 보고 싶었어요."
   },
   {
    "s": 130.2,
    "e": 134.96,
    "en": "And I thought a good way to do that would be to become an English teacher.",
-   "ko": ""
+   "ko": "그러려면 영어 선생님이 되는 게 좋은 방법이겠다고 생각했어요."
   },
   {
    "s": 134.96,
    "e": 136.4,
    "en": "Yeah, I have a similar story.",
-   "ko": ""
+   "ko": "네, 저도 비슷해요."
   },
   {
    "s": 136.4,
    "e": 138.08,
    "en": "It was the same thing for me.",
-   "ko": ""
+   "ko": "저도 똑같았어요."
   },
   {
    "s": 138.08,
    "e": 140.04,
    "en": "I just wanted to live abroad.",
-   "ko": ""
+   "ko": "그냥 해외에서 살고 싶었어요."
   },
   {
    "s": 140.04,
    "e": 144.24,
    "en": "Georgie, what is important to you about your job now?",
-   "ko": ""
+   "ko": "조지, 지금 일에서 중요하게 생각하는 건 뭐예요?"
   },
   {
    "s": 144.24,
    "e": 147.64,
    "en": "Well, many of us spend a lot of our lives working.",
-   "ko": ""
+   "ko": "음, 우리 대부분은 인생의 많은 시간을 일하면서 보내요."
   },
   {
    "s": 147.64,
    "e": 153.12,
    "en": "So, for me, it's really important to enjoy the day.",
-   "ko": ""
+   "ko": "그래서 저한테는 하루를 즐기는 게 정말 중요해요."
   },
   {
    "s": 153.12,
    "e": 154.76,
    "en": "We work nine to five.",
-   "ko": ""
+   "ko": "9시부터 5시까지 일하잖아요."
   },
   {
    "s": 154.76,
    "e": 156.52,
    "en": "It's a lot of hours in the day.",
-   "ko": ""
+   "ko": "하루 중 많은 시간이에요."
   },
   {
    "s": 156.52,
    "e": 162.4,
    "en": "It's really important to me to have a nice team that you can have fun with.",
-   "ko": ""
+   "ko": "같이 즐겁게 지낼 수 있는 좋은 팀이 있는 게 저한텐 정말 중요해요."
   },
   {
    "s": 162.4,
    "e": 172.8,
    "en": "It's also really important for me to feel like I'm giving something good or doing a good job.",
-   "ko": ""
+   "ko": "그리고 뭔가 좋은 걸 주고 있다거나 일을 잘하고 있다고 느끼는 것도 정말 중요해요."
   },
   {
    "s": 172.8,
    "e": 174.0,
    "en": "What about you?",
-   "ko": ""
+   "ko": "당신은요?"
   },
   {
    "s": 174.0,
    "e": 180.64,
    "en": "Yeah, I think it's important to feel that you're doing something useful.",
-   "ko": ""
+   "ko": "네, 쓸모 있는 일을 하고 있다고 느끼는 게 중요한 것 같아요."
   },
   {
    "s": 180.64,
    "e": 188.72,
    "en": "So, hopefully our conversations like this are useful for people because they can learn something, and I like that.",
-   "ko": ""
+   "ko": "그래서 이런 대화가 사람들이 뭔가 배울 수 있어서 쓸모 있었으면 좋겠어요. 그게 좋아요."
   },
   {
    "s": 188.72,
    "e": 189.96,
    "en": "Yeah. Me too.",
-   "ko": ""
+   "ko": "네. 저도요."
   },
   {
    "s": 189.96,
    "e": 196.72,
    "en": "So, Neil, if you didn't have to worry about money or anything else, what would your dream job be?",
-   "ko": ""
+   "ko": "닐, 돈이나 다른 걱정을 안 해도 된다면 꿈의 직업은 뭐예요?"
   },
   {
    "s": 196.72,
    "e": 199.24,
    "en": "I think I know the answer already.",
-   "ko": ""
+   "ko": "답을 이미 알 것 같아요."
   },
   {
    "s": 199.24,
    "e": 206.44,
    "en": "Yeah, well, you said earlier that I didn't become a rock star, but there is still a future.",
-   "ko": ""
+   "ko": "네, 아까 제가 록 스타가 안 됐다고 했지만, 아직 미래가 있잖아요."
   },
   {
    "s": 206.44,
    "e": 213.96,
    "en": "And, you know, if I didn't have to work, I could just follow my dream.",
-   "ko": ""
+   "ko": "그리고 일을 안 해도 된다면 그냥 꿈을 따를 수 있겠죠."
   },
   {
    "s": 213.96,
    "e": 216.28,
    "en": "How about you?",
-   "ko": ""
+   "ko": "당신은요?"
   },
   {
    "s": 216.28,
    "e": 225.36,
    "en": "I think if I didn't do this job, I would like to be a travel photographer or someone that makes documentaries.",
-   "ko": ""
+   "ko": "저는 이 일을 안 한다면 여행 사진작가나 다큐멘터리를 만드는 사람이 되고 싶어요."
   },
   {
    "s": 225.36,
    "e": 232.44,
    "en": "I really love those nature documentaries, and it would be very fun to be involved in those.",
-   "ko": ""
+   "ko": "자연 다큐멘터리를 정말 좋아해서, 그런 데 참여하면 정말 재밌을 것 같아요."
   },
   {
    "s": 232.44,
    "e": 235.16,
    "en": "Yes, that sounds like it would be amazing.",
-   "ko": ""
+   "ko": "네, 정말 멋질 것 같네요."
   },
   {
    "s": 240.96,
    "e": 244.72,
    "en": "OK. Let's recap the language we heard during the conversation.",
-   "ko": ""
+   "ko": "좋아요. 대화에서 들은 표현을 정리해 봐요."
   },
   {
    "s": 244.72,
    "e": 248.52,
    "en": "We can describe something like a job as 'important to' us.",
-   "ko": ""
+   "ko": "직업 같은 걸 우리에게 'important to'하다고 표현할 수 있어요."
   },
   {
    "s": 248.52,
    "e": 253.68,
    "en": "For example, I said that a nice team at work is important to me.",
-   "ko": ""
+   "ko": "예를 들어 저는 직장의 좋은 팀이 저한테 중요하다고 했어요."
   },
   {
    "s": 253.68,
    "e": 261.6,
    "en": "We talked about our dream jobs when we were children using the structure 'when I was younger, I wanted to be...'",
-   "ko": ""
+   "ko": "어렸을 때의 꿈의 직업은 'when I was younger, I wanted to be...' 구조로 얘기했어요."
   },
   {
    "s": 261.6,
    "e": 265.8,
    "en": "So, for example, when I was younger I wanted to be a footballer.",
-   "ko": ""
+   "ko": "예를 들면 'when I was younger I wanted to be a footballer.'"
   },
   {
    "s": 265.8,
    "e": 269.28,
    "en": "And we talked about our dream jobs now using conditionals.",
-   "ko": ""
+   "ko": "그리고 지금의 꿈의 직업은 가정법으로 얘기했어요."
   },
   {
    "s": 269.28,
    "e": 275.88,
    "en": "So, for example, if I 'could' do any job, I 'would' be a travel photographer.",
-   "ko": ""
+   "ko": "예를 들면 'if I could do any job, I would be a travel photographer.'"
   },
   {
    "s": 275.88,
    "e": 280.56,
    "en": "And when we're talking about jobs, we can 'do' them, or we can 'be' them.",
-   "ko": ""
+   "ko": "그리고 직업에 대해 말할 때 'do'를 쓸 수도 있고 'be'를 쓸 수도 있어요."
   },
   {
    "s": 280.56,
    "e": 285.48,
    "en": "For example, I teach English, or I am an English teacher.",
-   "ko": ""
+   "ko": "예를 들면 'I teach English', 또는 'I am an English teacher.'"
   },
   {
    "s": 285.48,
    "e": 288.48,
    "en": "And that's it for this episode of Real Easy English.",
-   "ko": ""
+   "ko": "Real Easy English 이번 에피소드는 여기까지예요."
   },
   {
    "s": 288.48,
    "e": 292.56,
    "en": "If you like our programmes, why not sign up to our email newsletter?",
-   "ko": ""
+   "ko": "저희 프로그램이 마음에 들면 이메일 뉴스레터를 신청해 보세요."
   },
   {
    "s": 292.56,
    "e": 295.92,
    "en": "You can get suggestions for other English lessons you might enjoy.",
-   "ko": ""
+   "ko": "좋아할 만한 다른 영어 수업을 추천받을 수 있어요."
   },
   {
    "s": 295.92,
    "e": 298.36,
    "en": "There's a link in the notes for this programme.",
-   "ko": ""
+   "ko": "이 프로그램 설명란에 링크가 있어요."
   },
   {
    "s": 298.36,
    "e": 299.27,
    "en": "Join us again.",
-   "ko": ""
+   "ko": "또 함께해요."
   },
   {
    "s": 299.27,
    "e": 300.15,
    "en": "Bye!",
-   "ko": ""
+   "ko": "안녕!"
   }
  ]
 }

@@ -3,421 +3,421 @@
  "title": "Sharing the road with driverless cars ⏲️ 6 Minute English",
  "channel": "BBC Learning English",
  "enSource": "manual",
- "koSource": "none",
+ "koSource": "claude",
  "sentences": [
   {
    "s": 7.96,
    "e": 12.88,
    "en": "Hello, this is 6 Minute English from BBC Learning English. I'm Phil.",
-   "ko": ""
+   "ko": "안녕하세요, BBC Learning English의 6 Minute English입니다. 저는 필이에요."
   },
   {
    "s": 12.88,
    "e": 14.16,
    "en": "And I'm Pippa.",
-   "ko": ""
+   "ko": "그리고 저는 피파예요."
   },
   {
    "s": 14.16,
    "e": 18.24,
    "en": "Here at 6 Minute English, we love discussing new tech.",
-   "ko": ""
+   "ko": "여기 6 Minute English는 신기술 얘기하는 걸 좋아해요."
   },
   {
    "s": 18.24,
    "e": 29.32,
    "en": "One of the most controversial technologies of recent years is driverless cars, also known as self-driving cars, autonomous cars or robotaxis.",
-   "ko": ""
+   "ko": "최근 몇 년간 가장 논란이 많은 기술 중 하나가 자율주행차예요. self-driving car, autonomous car, 로보택시라고도 하죠."
   },
   {
    "s": 29.32,
    "e": 40.2,
    "en": "Many people say they wouldn't feel safe in a car without a human driver, but there are concerns from other road users too – pedestrians, runners and cyclists.",
-   "ko": ""
+   "ko": "많은 사람이 사람 운전자가 없는 차는 안전하게 느껴지지 않을 거라고 하지만, 다른 도로 이용자들, 즉 보행자, 달리는 사람, 자전거 타는 사람들도 걱정이 있어요."
   },
   {
    "s": 40.2,
    "e": 43.12,
    "en": "How will driverless cars interact with them?",
-   "ko": ""
+   "ko": "자율주행차가 그들과 어떻게 소통할까요?"
   },
   {
    "s": 43.12,
    "e": 48.48,
    "en": "It's a problem Professor Stephen Brewster, from Glasgow University, has been working on.",
-   "ko": ""
+   "ko": "글래스고 대학교의 스티븐 브루스터 교수가 연구해 온 문제예요."
   },
   {
    "s": 48.48,
    "e": 52.72,
    "en": "He explained more to BBC World Service programme Tech Life.",
-   "ko": ""
+   "ko": "그가 BBC 월드 서비스 프로그램 'Tech Life'에서 더 자세히 설명했어요."
   },
   {
    "s": 52.72,
    "e": 59.12,
    "en": "If you're outside a vehicle right now, you can see the driver inside the vehicle, you can wave to them, they can see you, you can make eye contact.",
-   "ko": ""
+   "ko": "지금 차 밖에 있다면, 차 안의 운전자를 볼 수 있고, 손을 흔들 수 있고, 그들도 당신을 볼 수 있고, 눈을 마주칠 수 있어요."
   },
   {
    "s": 59.12,
    "e": 68.64,
    "en": "But when you come to an autonomous vehicle, there's no person in the driving seat, so how do you negotiate whether they're going to go, whether they're going to let you go?",
-   "ko": ""
+   "ko": "그런데 자율주행차 앞에서는 운전석에 사람이 없잖아요. 그러면 차가 갈지, 당신을 먼저 보내 줄지 어떻게 협의하죠?"
   },
   {
    "s": 68.64,
    "e": 71.4,
    "en": "On my walk to work, I need to cross the road.",
-   "ko": ""
+   "ko": "저는 걸어서 출근하는 길에 길을 건너야 해요."
   },
   {
    "s": 71.4,
    "e": 74.16,
    "en": "Usually a driver makes eye contact with me.",
-   "ko": ""
+   "ko": "보통 운전자가 저와 눈을 마주쳐요(eye contact)."
   },
   {
    "s": 74.16,
    "e": 78.04,
    "en": "They look directly into my eyes and then wave me across.",
-   "ko": ""
+   "ko": "제 눈을 똑바로 보고 나서 건너라고 손짓해요."
   },
   {
    "s": 78.04,
    "e": 82.48,
    "en": "'To wave' means to raise your hand and move it from side to side.",
-   "ko": ""
+   "ko": "'To wave'는 손을 들어 좌우로 흔드는 거예요."
   },
   {
    "s": 82.48,
    "e": 87.32,
    "en": "It's a gesture for saying hello, or a way of telling a person to do something.",
-   "ko": ""
+   "ko": "인사하는 몸짓이기도 하고, 누군가에게 뭔가를 하라고 알려 주는 방법이기도 해요."
   },
   {
    "s": 87.32,
    "e": 94.56,
    "en": "Luckily, Phil, you usually arrive safely at work and as yet there are no driverless cars in London.",
-   "ko": ""
+   "ko": "다행히 필, 당신은 보통 무사히 출근하고, 아직 런던엔 자율주행차가 없죠."
   },
   {
    "s": 94.56,
    "e": 100.16,
    "en": "But, Phil, how would you feel about crossing that road in front of a robotaxi?",
-   "ko": ""
+   "ko": "그런데 필, 로보택시 앞에서 길을 건넌다면 기분이 어떨 것 같아요?"
   },
   {
    "s": 100.16,
    "e": 101.96,
    "en": "Well, maybe a little bit nervous.",
-   "ko": ""
+   "ko": "음, 좀 긴장될 것 같아요."
   },
   {
    "s": 101.96,
    "e": 105.24,
    "en": "I might wait for it to go and go behind it or something.",
-   "ko": ""
+   "ko": "그냥 차가 지나가길 기다렸다가 뒤로 건너든지 할 것 같아요."
   },
   {
    "s": 105.24,
    "e": 106.72,
    "en": "Mmm... yeah, I get that.",
-   "ko": ""
+   "ko": "음... 네, 이해해요."
   },
   {
    "s": 106.72,
    "e": 114.44,
    "en": "I think maybe as we get more used to these technologies we'll get more used to how to deal with them and when to cross.",
-   "ko": ""
+   "ko": "이런 기술에 더 익숙해지면, 어떻게 대처하고 언제 건너야 하는지에도 더 익숙해질 것 같아요."
   },
   {
    "s": 114.44,
    "e": 120.84,
    "en": "But in this episode we investigate the tech helping driverless cars communicate on the roads.",
-   "ko": ""
+   "ko": "그런데 이번 에피소드에서는 자율주행차가 도로에서 소통하도록 돕는 기술을 살펴봐요."
   },
   {
    "s": 120.84,
    "e": 129.92,
    "en": "We'll learn some useful new words and phrases, and as usual you'll find all the vocabulary on our website, bbclearningenglish.com.",
-   "ko": ""
+   "ko": "유용한 새 단어와 표현도 배울 거고, 늘 그렇듯 모든 어휘는 웹사이트 bbclearningenglish.com에서 볼 수 있어요."
   },
   {
    "s": 129.92,
    "e": 133.6,
    "en": "But first, I have a question for you, Pippa.",
-   "ko": ""
+   "ko": "그런데 먼저, 피파, 질문이 있어요."
   },
   {
    "s": 133.6,
    "e": 137.68,
    "en": "As you mentioned, we don't have self-driving cars here in London yet.",
-   "ko": ""
+   "ko": "말했듯이 여기 런던엔 아직 자율주행차가 없어요."
   },
   {
    "s": 137.68,
    "e": 144.24,
    "en": "So, which was the first city to have fully driverless robotaxis on the streets?",
-   "ko": ""
+   "ko": "그럼 완전 무인 로보택시가 처음으로 거리를 달린 도시는 어디일까요?"
   },
   {
    "s": 144.24,
    "e": 149.68,
    "en": "Was it: a) Philadelphia, b) Phoenix, or c) San Francisco?",
-   "ko": ""
+   "ko": "a) 필라델피아, b) 피닉스, c) 샌프란시스코 중 어디일까요?"
   },
   {
    "s": 149.68,
    "e": 156.36,
    "en": "I'm going to say b) Phoenix because I think it's quite a car-friendly city.",
-   "ko": ""
+   "ko": "b) 피닉스로 할게요. 꽤 차 중심의 도시인 것 같아서요."
   },
   {
    "s": 156.36,
    "e": 160.76,
    "en": "OK. Well, we will find out the answer, but at the end of the programme.",
-   "ko": ""
+   "ko": "좋아요. 답은 프로그램 마지막에 알아볼게요."
   },
   {
    "s": 160.76,
    "e": 169.56,
    "en": "Because accidents are often caused by not seeing the oncoming danger, Professor Brewster wants to make driverless cars more visible.",
-   "ko": ""
+   "ko": "사고는 다가오는 위험을 못 봐서 일어나는 경우가 많기 때문에, 브루스터 교수는 자율주행차를 더 눈에 잘 띄게 만들고 싶어 해요."
   },
   {
    "s": 169.56,
    "e": 175.0,
    "en": "He discussed his work with BBC Tech Life's presenter Chris Vallance.",
-   "ko": ""
+   "ko": "그는 BBC 'Tech Life' 진행자 크리스 밸런스와 자신의 연구에 대해 이야기했어요."
   },
   {
    "s": 175.0,
    "e": 183.76,
    "en": "What kind of signals worked in terms of alerting pedestrians and runners and cyclists to the intentions of the vehicle?",
-   "ko": ""
+   "ko": "보행자, 달리는 사람, 자전거 타는 사람에게 차량의 의도를 알리는 데 어떤 신호가 효과가 있었나요?"
   },
   {
    "s": 183.76,
    "e": 184.68,
    "en": "We tested two things.",
-   "ko": ""
+   "ko": "저희는 두 가지를 시험했어요."
   },
   {
    "s": 184.68,
    "e": 188.96,
    "en": "We tested animations and fixed, coloured light rings.",
-   "ko": ""
+   "ko": "애니메이션과, 고정된 색깔 조명 링을 시험했어요."
   },
   {
    "s": 188.96,
    "e": 199.52,
    "en": "The animations – they work well for pedestrians, but when it came to runners and cyclists, they have much less time to make their decisions, so if you do a quick glance at a vehicle, you don't really see the animation.",
-   "ko": ""
+   "ko": "애니메이션은 보행자에게는 효과가 좋았지만, 달리는 사람과 자전거 타는 사람은 결정할 시간이 훨씬 적어서, 차를 힐끗 보면 애니메이션이 잘 안 보여요."
   },
   {
    "s": 199.52,
    "e": 203.52,
    "en": "It's important to alert people to driverless cars.",
-   "ko": ""
+   "ko": "사람들에게 자율주행차를 알리는(alert) 게 중요해요."
   },
   {
    "s": 203.52,
    "e": 207.76,
    "en": "To alert somebody means to warn them about a potential danger.",
-   "ko": ""
+   "ko": "누군가에게 alert한다는 건 잠재적 위험을 경고한다는 뜻이에요."
   },
   {
    "s": 207.76,
    "e": 211.88,
    "en": "Some cars do this with animations – displays of moving images.",
-   "ko": ""
+   "ko": "어떤 차들은 애니메이션, 즉 움직이는 이미지 화면으로 이걸 해요."
   },
   {
    "s": 211.88,
    "e": 216.36,
    "en": "For example, a green man walking to signal it's safe to cross.",
-   "ko": ""
+   "ko": "예를 들면 걷는 초록색 사람으로 건너도 안전하다고 신호를 주는 거죠."
   },
   {
    "s": 216.36,
    "e": 223.52,
    "en": "Animations alert pedestrians but are not suitable for runners and cyclists, who are travelling too fast to react.",
-   "ko": ""
+   "ko": "애니메이션은 보행자에게 알리는 데는 좋지만, 너무 빨리 이동해서 반응하기 어려운 달리는 사람과 자전거 타는 사람에겐 적합하지 않아요."
   },
   {
    "s": 223.52,
    "e": 226.16,
    "en": "They only have time for a glance.",
-   "ko": ""
+   "ko": "그들은 힐끗 볼 시간밖에 없어요."
   },
   {
    "s": 226.16,
    "e": 229.24,
    "en": "'A glance at something' means a quick look.",
-   "ko": ""
+   "ko": "'A glance at something'은 빠르게 한 번 보는 거예요."
   },
   {
    "s": 229.24,
    "e": 236.76,
    "en": "So, instead Stephen's team used coloured light rings, similar to traffic lights, to warn cyclists and runners.",
-   "ko": ""
+   "ko": "그래서 대신 스티븐의 팀은 신호등과 비슷한 색깔 조명 링으로 자전거 타는 사람과 달리는 사람에게 경고했어요."
   },
   {
    "s": 236.76,
    "e": 239.04,
    "en": "Culture is another problem.",
-   "ko": ""
+   "ko": "문화도 또 다른 문제예요."
   },
   {
    "s": 239.04,
    "e": 241.36,
    "en": "The meaning of body language can change.",
-   "ko": ""
+   "ko": "몸짓 언어의 의미가 달라질 수 있거든요."
   },
   {
    "s": 241.36,
    "e": 248.2,
    "en": "For example, hand waving can mean 'please proceed' in one culture, but 'thank you' in another.",
-   "ko": ""
+   "ko": "예를 들어 손을 흔드는 게 어떤 문화에서는 '먼저 가세요'라는 뜻이지만 다른 문화에서는 '고마워요'라는 뜻일 수 있어요."
   },
   {
    "s": 248.2,
    "e": 253.96,
    "en": "Ammar Al-Taie is a researcher at the Advanced Institute of Science and Technology in South Korea.",
-   "ko": ""
+   "ko": "아마르 알타이는 한국의 한 과학기술원 연구원이에요."
   },
   {
    "s": 253.96,
    "e": 262.84,
    "en": "Here, Ammar tells BBC World Service's Tech Life why Korean culture is especially suited to self-driving cars.",
-   "ko": ""
+   "ko": "여기서 아마르가 BBC 월드 서비스 'Tech Life'에 한국 문화가 왜 특히 자율주행차에 잘 맞는지 이야기해요."
   },
   {
    "s": 262.84,
    "e": 268.76,
    "en": "In South Korea, for example, jaywalking is illegal, whereas in the UK, you know, we tend to jaywalk a lot.",
-   "ko": ""
+   "ko": "예를 들어 한국에서는 무단횡단이 불법인데, 영국에서는, 알다시피 무단횡단을 많이 하는 편이에요."
   },
   {
    "s": 268.76,
    "e": 271.52,
    "en": "'Jaywalking' is an American-English word.",
-   "ko": ""
+   "ko": "'Jaywalking'은 미국 영어 단어예요."
   },
   {
    "s": 271.52,
    "e": 277.04,
    "en": "It means crossing the road at a place where crossing is not allowed or without taking care.",
-   "ko": ""
+   "ko": "건너면 안 되는 곳에서, 또는 주의하지 않고 길을 건너는 걸 말해요."
   },
   {
    "s": 277.04,
    "e": 283.68,
    "en": "Unlike Britain, jaywalking is rare in South Korea, making the country safer for autonomous cars.",
-   "ko": ""
+   "ko": "영국과 달리 한국에서는 무단횡단이 드물어서 자율주행차에 더 안전한 나라예요."
   },
   {
    "s": 283.68,
    "e": 294.32,
    "en": "We've heard a lot about making driverless cars safer, and with plans to introduce them to London later this year, we'll soon see how safe they really are.",
-   "ko": ""
+   "ko": "자율주행차를 더 안전하게 만드는 것에 대해 많이 들었는데, 올해 말 런던에 도입할 계획이 있으니 곧 실제로 얼마나 안전한지 알게 되겠죠."
   },
   {
    "s": 294.32,
    "e": 298.12,
    "en": "Now, isn't it time to reveal the answer to your question, Phil?",
-   "ko": ""
+   "ko": "자, 이제 질문의 답을 공개할 시간 아닌가요, 필?"
   },
   {
    "s": 298.12,
    "e": 304.52,
    "en": "I asked you which city was the first to have self-driving cars on the road, and you said it was Phoenix...",
-   "ko": ""
+   "ko": "자율주행차가 처음으로 도로를 달린 도시가 어딘지 물었고, 당신은 피닉스라고 했죠..."
   },
   {
    "s": 304.52,
    "e": 307.24,
    "en": "and that is the correct answer.",
-   "ko": ""
+   "ko": "정답이에요."
   },
   {
    "s": 307.24,
    "e": 317.16,
    "en": "Phoenix, Arizona, was the first city in the world to have self-driving cars operating on public roads without a human safety driver, and that was in 2017.",
-   "ko": ""
+   "ko": "애리조나주 피닉스는 사람 안전 요원 없이 자율주행차가 공공 도로를 달린 세계 최초의 도시였어요. 2017년이었어요."
   },
   {
    "s": 317.16,
    "e": 324.88,
    "en": "Let's recap the vocabulary we've learned, starting with 'eye contact' – looking directly into someone's eyes.",
-   "ko": ""
+   "ko": "배운 어휘를 정리해 봐요. 'eye contact'부터요. 누군가의 눈을 똑바로 보는 거예요."
   },
   {
    "s": 324.88,
    "e": 330.84,
    "en": "'To wave at someone' is a way of saying hi, by raising your hand and waving it from side to side.",
-   "ko": ""
+   "ko": "'To wave at someone'은 손을 들어 좌우로 흔들며 인사하는 방법이에요."
   },
   {
    "s": 330.84,
    "e": 334.28,
    "en": "If you alert someone, you warn them of potential danger.",
-   "ko": ""
+   "ko": "누군가에게 alert하면 잠재적 위험을 경고하는 거예요."
   },
   {
    "s": 334.28,
    "e": 338.36,
    "en": "An animation is a display made up of moving images.",
-   "ko": ""
+   "ko": "animation은 움직이는 이미지로 이루어진 화면이에요."
   },
   {
    "s": 338.36,
    "e": 341.36,
    "en": "A glance is a quick, brief look at something.",
-   "ko": ""
+   "ko": "glance는 뭔가를 빠르게 잠깐 보는 거예요."
   },
   {
    "s": 341.36,
    "e": 348.0,
    "en": "And finally, the American-English term 'jaywalking' means crossing the road where you're not supposed to.",
-   "ko": ""
+   "ko": "그리고 마지막으로, 미국 영어 'jaywalking'은 건너면 안 되는 곳에서 길을 건너는 거예요."
   },
   {
    "s": 348.0,
    "e": 350.16,
    "en": "Once again, our six minutes are up.",
-   "ko": ""
+   "ko": "이번에도 6분이 다 됐어요."
   },
   {
    "s": 350.16,
    "e": 357.2,
    "en": "If you'd like to hear more programmes about technology, you'll find plenty on our tech topic page, all on our website.",
-   "ko": ""
+   "ko": "기술에 관한 프로그램을 더 듣고 싶으면, 웹사이트의 기술 주제 페이지에 많이 있어요."
   },
   {
    "s": 357.2,
    "e": 361.08,
    "en": "And there you'll also find a quiz and worksheet for this episode.",
-   "ko": ""
+   "ko": "그리고 거기서 이번 에피소드의 퀴즈와 학습지도 볼 수 있어요."
   },
   {
    "s": 361.08,
    "e": 363.84,
    "en": "Visit bbclearningenglish.com.",
-   "ko": ""
+   "ko": "bbclearningenglish.com을 방문하세요."
   },
   {
    "s": 363.84,
    "e": 366.72,
    "en": "We'll see you again soon, but for now it's goodbye.",
-   "ko": ""
+   "ko": "곧 다시 만나요. 오늘은 여기까지, 안녕히."
   },
   {
    "s": 366.72,
    "e": 368.04,
    "en": "Goodbye!",
-   "ko": ""
+   "ko": "안녕!"
   }
  ]
 }

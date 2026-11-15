@@ -3,403 +3,403 @@
  "title": "How do footballers cope with high-pressure scenarios? ⏲️ 6 Minute English",
  "channel": "BBC Learning English",
  "enSource": "manual",
- "koSource": "none",
+ "koSource": "claude",
  "sentences": [
   {
    "s": 7.76,
    "e": 11.24,
    "en": "Hello. This is 6 Minute English from BBC Learning English.",
-   "ko": ""
+   "ko": "안녕하세요. BBC Learning English의 6 Minute English입니다."
   },
   {
    "s": 11.24,
    "e": 13.08,
    "en": "I'm Georgie. And I'm Neil.",
-   "ko": ""
+   "ko": "저는 조지예요. 그리고 저는 닐이에요."
   },
   {
    "s": 13.08,
    "e": 16.76,
    "en": "Neil, I'm not a huge fan of football, but I know you are.",
-   "ko": ""
+   "ko": "닐, 저는 축구를 그렇게 좋아하진 않지만 당신은 좋아하는 거 알아요."
   },
   {
    "s": 16.76,
    "e": 18.36,
    "en": "So why do you love it so much?",
-   "ko": ""
+   "ko": "왜 그렇게 좋아해요?"
   },
   {
    "s": 18.36,
    "e": 19.76,
    "en": "Oh, where can I start?",
-   "ko": ""
+   "ko": "오, 어디서부터 말해야 할까요?"
   },
   {
    "s": 19.76,
    "e": 29.16,
    "en": "I think it's the combination of the passion and also the skill and athleticism of the players.",
-   "ko": ""
+   "ko": "열정, 그리고 선수들의 기술과 운동 능력이 어우러진 거라고 생각해요."
   },
   {
    "s": 29.16,
    "e": 32.76,
    "en": "Um, they call it 'the beautiful game' for a reason.",
-   "ko": ""
+   "ko": "음, '아름다운 경기'라고 부르는 데는 이유가 있어요."
   },
   {
    "s": 32.76,
    "e": 39.4,
    "en": "Now, football players are faster than ever before, but the game is also about making very quick decisions.",
-   "ko": ""
+   "ko": "요즘 축구 선수들은 그 어느 때보다 빠르지만, 축구는 아주 빠른 결정을 내리는 경기이기도 해요."
   },
   {
    "s": 39.4,
    "e": 45.88,
    "en": "Yes, to be the best of the best, some football clubs have started looking beyond the body, to the brain.",
-   "ko": ""
+   "ko": "네, 최고 중의 최고가 되려고, 일부 축구 클럽은 몸을 넘어 뇌에 주목하기 시작했어요."
   },
   {
    "s": 45.88,
    "e": 53.32,
    "en": "Here's Tom Cooke, academy psychologist for Nottingham Forest Football Club, talking to the BBC World Service.",
-   "ko": ""
+   "ko": "노팅엄 포레스트 축구 클럽의 아카데미 심리학자 톰 쿡이 BBC 월드 서비스와 이야기해요."
   },
   {
    "s": 53.32,
    "e": 59.6,
    "en": "We're watching these athletes make decisions in split instincts under the highest pressures and the highest intensities.",
-   "ko": ""
+   "ko": "우리는 이 선수들이 최고의 압박과 최고의 강도 속에서 순간적인 본능으로 결정을 내리는 걸 보고 있어요."
   },
   {
    "s": 59.6,
    "e": 64.68,
    "en": "It made a lot of sense to go, well, neurologically or cognitively, there's something going on.",
-   "ko": ""
+   "ko": "그래서 신경학적으로든 인지적으로든 뭔가가 일어나고 있다고 보는 게 아주 타당했어요."
   },
   {
    "s": 64.68,
    "e": 69.16,
    "en": "There's something going on in the brain when the athletes are making quick decisions.",
-   "ko": ""
+   "ko": "선수들이 빠른 결정을 내릴 때 뇌에서 뭔가가 일어나고 있어요."
   },
   {
    "s": 69.16,
    "e": 73.68,
    "en": "If there's something going on, something unknown and interesting is happening.",
-   "ko": ""
+   "ko": "If there's something going on은 뭔가 알려지지 않은 흥미로운 일이 일어나고 있다는 뜻이에요."
   },
   {
    "s": 73.68,
    "e": 77.28,
    "en": "So what's happening inside the brains of football players?",
-   "ko": ""
+   "ko": "그럼 축구 선수들의 뇌 안에서는 무슨 일이 일어나고 있을까요?"
   },
   {
    "s": 77.28,
    "e": 80.6,
    "en": "And could brain training help win more games?",
-   "ko": ""
+   "ko": "그리고 뇌 훈련이 경기에서 더 많이 이기는 데 도움이 될 수 있을까요?"
   },
   {
    "s": 80.6,
    "e": 83.32,
    "en": "That's what we'll be hearing about in this programme.",
-   "ko": ""
+   "ko": "이번 프로그램에서 그 얘기를 들어 볼 거예요."
   },
   {
    "s": 83.32,
    "e": 91.04,
    "en": "And don't forget to find a free transcript at bbclearningenglish.com But first Neil, I have a question for you.",
-   "ko": ""
+   "ko": "그리고 bbclearningenglish.com에서 무료 대본을 보는 것도 잊지 마세요. 그런데 먼저, 닐, 질문이 있어요."
   },
   {
    "s": 91.04,
    "e": 100.48,
    "en": "As we've heard, football players have to make decisions in high-pressure situations and their performance may be influenced by their emotional state and fear response.",
-   "ko": ""
+   "ko": "들었듯이 축구 선수들은 압박이 큰 상황에서 결정을 내려야 하고, 그들의 경기력은 감정 상태와 공포 반응의 영향을 받을 수 있어요."
   },
   {
    "s": 100.48,
    "e": 106.52,
    "en": "But which part of the brain is best known for its role in processing fear and detecting threats?",
-   "ko": ""
+   "ko": "그런데 뇌의 어느 부분이 공포를 처리하고 위협을 감지하는 역할로 가장 잘 알려져 있을까요?"
   },
   {
    "s": 106.52,
    "e": 112.2,
    "en": "Is it a) the brain stem, b) the amygdala, or c) the cerebellum?",
-   "ko": ""
+   "ko": "a) 뇌간, b) 편도체, c) 소뇌 중 무엇일까요?"
   },
   {
    "s": 112.2,
    "e": 113.64,
    "en": "Well, I don't know.",
-   "ko": ""
+   "ko": "음, 모르겠어요."
   },
   {
    "s": 113.64,
    "e": 117.8,
    "en": "But I'm going to guess b) the amygdala because I like the sound of the word.",
-   "ko": ""
+   "ko": "그래도 b) 편도체(amygdala)로 찍을게요. 단어 소리가 마음에 들어서요."
   },
   {
    "s": 117.8,
    "e": 121.68,
    "en": "OK. Well I'll reveal the answer later in the programme.",
-   "ko": ""
+   "ko": "좋아요. 답은 프로그램 후반에 공개할게요."
   },
   {
    "s": 121.68,
    "e": 127.96,
    "en": "In 2014, a group of Japanese scientists studied the brain of Brazilian football star Neymar.",
-   "ko": ""
+   "ko": "2014년, 일본 과학자들이 브라질 축구 스타 네이마르의 뇌를 연구했어요."
   },
   {
    "s": 127.96,
    "e": 134.6,
    "en": "They found that his brain was a lot less active than the brains of his peers when he rotated his right ankle.",
-   "ko": ""
+   "ko": "그가 오른쪽 발목을 돌릴 때, 그의 뇌가 동료 선수들의 뇌보다 훨씬 덜 활발하다는 걸 발견했어요."
   },
   {
    "s": 134.6,
    "e": 142.48,
    "en": "Here's Holly Bridge, professor of neuroscience at the University of Oxford, talking about this research to the BBC World Service.",
-   "ko": ""
+   "ko": "옥스퍼드 대학교 신경과학 교수 홀리 브리지가 BBC 월드 서비스에 이 연구에 대해 이야기해요."
   },
   {
    "s": 142.48,
    "e": 157.88,
    "en": "That reduction in activity in Neymar's cortex reflects that he has absolute expertise in moving his feet, and it's essentially done with very, very little conscious effort. Holly said Neymar has absolute expertise in moving his feet.",
-   "ko": ""
+   "ko": "네이마르의 대뇌 피질 활동이 줄어든 건 그가 발을 움직이는 데 완벽한 전문성을 갖추고 있다는 걸 보여 주고, 사실상 아주아주 적은 의식적 노력으로 이루어진다는 거예요. 홀리는 네이마르가 발을 움직이는 데 완벽한 전문성(expertise)을 갖췄다고 말했어요."
   },
   {
    "s": 157.88,
    "e": 162.48,
    "en": "Expertise means a high level of skill or knowledge gained with experience.",
-   "ko": ""
+   "ko": "Expertise는 경험을 통해 얻은 높은 수준의 기술이나 지식을 뜻해요."
   },
   {
    "s": 162.48,
    "e": 166.72,
    "en": "Neymar's expertise is shown without much conscious effort.",
-   "ko": ""
+   "ko": "네이마르의 전문성은 큰 의식적 노력 없이 드러나요."
   },
   {
    "s": 166.72,
    "e": 170.8,
    "en": "Conscious describes something done with awareness, not by accident.",
-   "ko": ""
+   "ko": "Conscious는 우연이 아니라 인식하면서 하는 걸 말해요."
   },
   {
    "s": 170.8,
    "e": 176.84,
    "en": "So if Neymar kicks the ball without much conscious effort, he plays without thinking too much.",
-   "ko": ""
+   "ko": "그러니까 네이마르가 큰 의식적 노력 없이 공을 찬다면, 너무 많이 생각하지 않고 경기한다는 거예요."
   },
   {
    "s": 176.84,
    "e": 185.76,
    "en": "Decades after this research, football clubs are becoming more interested in brain data technology, even exploring whether a player's brain can be trained.",
-   "ko": ""
+   "ko": "이 연구 이후 수십 년이 지나, 축구 클럽들은 뇌 데이터 기술에 더 관심을 갖게 됐고, 선수의 뇌를 훈련할 수 있는지까지 탐구하고 있어요."
   },
   {
    "s": 185.76,
    "e": 190.72,
    "en": "Here's Tom Cooke, academy psychologist for Nottingham Forest Football Club.",
-   "ko": ""
+   "ko": "노팅엄 포레스트 축구 클럽의 아카데미 심리학자 톰 쿡이에요."
   },
   {
    "s": 190.72,
    "e": 196.44,
    "en": "What we're doing is trying to design sessions but with cognition or neuroscience at the centre of it.",
-   "ko": ""
+   "ko": "저희가 하는 건 인지나 신경과학을 중심에 두고 훈련 세션을 설계하는 거예요."
   },
   {
    "s": 196.44,
    "e": 200.76,
    "en": "So it could be something like they're not great at storing lots of information.",
-   "ko": ""
+   "ko": "예를 들면 선수들이 많은 정보를 저장하는 데 약할 수도 있어요."
   },
   {
    "s": 200.76,
    "e": 204.4,
    "en": "So we're trying to overwhelm them in a safe environment like training.",
-   "ko": ""
+   "ko": "그래서 훈련 같은 안전한 환경에서 그들에게 정보를 과하게 쏟아붓는 거예요."
   },
   {
    "s": 204.4,
    "e": 210.84,
    "en": "That's the way the development and improvement can happen to hopefully affect when they go out into games or cup competitions.",
-   "ko": ""
+   "ko": "그렇게 발전과 향상이 이루어져서, 실제 경기나 컵 대회에 나갔을 때 영향을 주길 바라는 거죠."
   },
   {
    "s": 210.84,
    "e": 214.24,
    "en": "Training can help players deal with the pressures of the game.",
-   "ko": ""
+   "ko": "훈련은 선수들이 경기의 압박에 대처하도록 도울 수 있어요."
   },
   {
    "s": 214.24,
    "e": 219.32,
    "en": "Here's Holly Bridge again talking about how emotions can affect a player's game.",
-   "ko": ""
+   "ko": "다시 홀리 브리지가 감정이 선수의 경기에 어떤 영향을 미치는지 이야기해요."
   },
   {
    "s": 219.32,
    "e": 228.0,
    "en": "A lot of performance is also driven by your emotional state, and that is something you can learn to control.",
-   "ko": ""
+   "ko": "경기력의 상당 부분은 감정 상태에 의해 좌우되기도 하는데, 그건 조절하는 법을 배울 수 있어요."
   },
   {
    "s": 228.0,
    "e": 236.44,
    "en": "How well a player performs is driven by their emotional state. Here, driven by means influenced by or pushed forward by.",
-   "ko": ""
+   "ko": "선수가 얼마나 잘하느냐는 감정 상태에 의해 좌우돼요(driven by). 여기서 driven by는 영향을 받거나 그것에 의해 추진된다는 뜻이에요."
   },
   {
    "s": 236.44,
    "e": 241.08,
    "en": "Holly says that too many emotions can lead to a lack of precision and focus.",
-   "ko": ""
+   "ko": "홀리는 감정이 너무 많으면 정확성과 집중력이 떨어질 수 있다고 말해요."
   },
   {
    "s": 241.08,
    "e": 248.4,
    "en": "In a football match, high-pressure scenarios like penalties, corners and free kicks offer rare moments of stillness.",
-   "ko": ""
+   "ko": "축구 경기에서 페널티킥, 코너킥, 프리킥 같은 압박이 큰 상황은 드물게 정지된 순간이에요."
   },
   {
    "s": 248.4,
    "e": 254.88,
    "en": "Here's Niklas Häusler, founder and CEO of Neuro 11, talking to the BBC World Service.",
-   "ko": ""
+   "ko": "뉴로 11의 창립자이자 CEO인 니클라스 호이슬러가 BBC 월드 서비스와 이야기해요."
   },
   {
    "s": 254.88,
    "e": 261.6,
    "en": "He measures players' brainwaves before these important kicks and teaches them how to stay relaxed.",
-   "ko": ""
+   "ko": "그는 이런 중요한 킥 직전에 선수들의 뇌파를 측정하고, 긴장을 풀고 있는 법을 가르쳐요."
   },
   {
    "s": 261.6,
    "e": 269.36,
    "en": "If you don't focus right in those moments and let's say mentally you're all over the place, then it becomes more difficult to have an accurate corner and to try to win the game.",
-   "ko": ""
+   "ko": "그 순간에 제대로 집중하지 못하고, 이를테면 정신적으로 엉망이면, 정확한 코너킥을 차서 경기를 이기기가 더 어려워져요."
   },
   {
    "s": 269.36,
    "e": 273.56,
    "en": "And when we talk about margins, those are the little margins that can make all the difference.",
-   "ko": ""
+   "ko": "그리고 차이(margins)에 대해 말하자면, 바로 그런 작은 차이가 모든 걸 바꿀 수 있어요."
   },
   {
    "s": 273.56,
    "e": 278.48,
    "en": "If you're mentally all over the place, it's more difficult to kick the ball accurately.",
-   "ko": ""
+   "ko": "정신적으로 엉망이면(all over the place) 공을 정확하게 차기가 더 어려워요."
   },
   {
    "s": 278.48,
    "e": 284.88,
    "en": "When we describe something as all over the place, we mean that it's chaotic, disorganised, or confused.",
-   "ko": ""
+   "ko": "뭔가를 all over the place라고 표현하면 혼란스럽고, 정리가 안 되고, 갈피를 못 잡는다는 뜻이에요."
   },
   {
    "s": 284.88,
    "e": 289.12,
    "en": "Niklas said that small margins can make all the difference to a game.",
-   "ko": ""
+   "ko": "니클라스는 작은 차이가 경기의 모든 걸 바꿀 수 있다고 했어요."
   },
   {
    "s": 289.12,
    "e": 292.2,
    "en": "Yes, a margin is a measure of difference.",
-   "ko": ""
+   "ko": "네, margin은 차이의 정도예요."
   },
   {
    "s": 292.2,
    "e": 297.68,
    "en": "Here we're talking about small details that can affect a player's performance or outcome of a match.",
-   "ko": ""
+   "ko": "여기서는 선수의 경기력이나 경기 결과에 영향을 줄 수 있는 작은 세부 사항을 말하는 거예요."
   },
   {
    "s": 297.68,
    "e": 304.08,
    "en": "Now, speaking of how emotions can affect performance, I think it's time for the answer to your quiz question, Georgie.",
-   "ko": ""
+   "ko": "자, 감정이 경기력에 어떤 영향을 주는지 얘기가 나왔으니, 퀴즈 답을 알려 줄 시간 같아요, 조지."
   },
   {
    "s": 304.08,
    "e": 309.32,
    "en": "Yes, I asked you which part of the brain is best known for its role in processing fear.",
-   "ko": ""
+   "ko": "네, 뇌의 어느 부분이 공포를 처리하는 역할로 가장 잘 알려져 있는지 물었죠."
   },
   {
    "s": 309.32,
    "e": 312.4,
    "en": "And I guessed b) the amygdala.",
-   "ko": ""
+   "ko": "그리고 저는 b) 편도체라고 찍었어요."
   },
   {
    "s": 312.4,
    "e": 315.28,
    "en": "Which was the correct answer. Well done.",
-   "ko": ""
+   "ko": "정답이었어요. 잘했어요."
   },
   {
    "s": 315.28,
    "e": 319.68,
    "en": "The amygdala is associated with our processing of fear and anxiety.",
-   "ko": ""
+   "ko": "편도체는 공포와 불안 처리와 관련이 있어요."
   },
   {
    "s": 319.68,
    "e": 322.04,
    "en": "OK, time for a vocabulary recap.",
-   "ko": ""
+   "ko": "좋아요, 어휘를 정리할 시간이에요."
   },
   {
    "s": 322.04,
    "e": 326.96,
    "en": "If there is something going on, something interesting or important is happening.",
-   "ko": ""
+   "ko": "If there is something going on이면 뭔가 흥미롭거나 중요한 일이 일어나고 있다는 거예요."
   },
   {
    "s": 326.96,
    "e": 332.04,
    "en": "Expertise is specialised knowledge or skill gained through study or experience.",
-   "ko": ""
+   "ko": "Expertise는 공부나 경험을 통해 얻은 전문 지식이나 기술이에요."
   },
   {
    "s": 332.04,
    "e": 335.48,
    "en": "Conscious means involving active thought or attention.",
-   "ko": ""
+   "ko": "Conscious는 적극적인 생각이나 주의를 기울이는 걸 뜻해요."
   },
   {
    "s": 335.48,
    "e": 340.72,
    "en": "If something is driven by something, it is influenced by it and pushed forward by it.",
-   "ko": ""
+   "ko": "뭔가가 driven by something이면 그것의 영향을 받고 그것에 의해 추진되는 거예요."
   },
   {
    "s": 340.72,
    "e": 346.64,
    "en": "All over the place describes a situation or mental state which is disorganised, chaotic, or confused.",
-   "ko": ""
+   "ko": "All over the place는 정리가 안 되고, 혼란스럽고, 갈피를 못 잡는 상황이나 정신 상태를 말해요."
   },
   {
    "s": 346.64,
    "e": 352.52,
    "en": "And finally, a margin is a measure of difference, small details of which can affect an outcome.",
-   "ko": ""
+   "ko": "그리고 마지막으로, margin은 차이의 정도로, 그 작은 세부 사항이 결과에 영향을 줄 수 있어요."
   },
   {
    "s": 352.52,
    "e": 363.6,
    "en": "Once again, our six minutes are up, but remember you can find a free transcript, worksheet and quiz on our website, bbclearningenglish.com Goodbye for now. Goodbye.",
-   "ko": ""
+   "ko": "이번에도 6분이 다 됐지만, 웹사이트 bbclearningenglish.com에서 무료 대본, 학습지, 퀴즈를 볼 수 있다는 걸 기억하세요. 오늘은 여기까지, 안녕히. 안녕."
   }
  ]
 }

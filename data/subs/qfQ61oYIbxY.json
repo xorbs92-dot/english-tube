@@ -3,469 +3,469 @@
  "title": "Are you in a good or bad mood? 🤩😡 Improve your listening with Real Easy English",
  "channel": "BBC Learning English",
  "enSource": "manual",
- "koSource": "none",
+ "koSource": "claude",
  "sentences": [
   {
    "s": 0.0,
    "e": 1.68,
    "en": "Hi Georgie, how are you today?",
-   "ko": ""
+   "ko": "안녕, 조지, 오늘 어때요?"
   },
   {
    "s": 1.68,
    "e": 6.04,
    "en": "I'm pretty good today, thank you, Neil. How are you?",
-   "ko": ""
+   "ko": "오늘은 꽤 괜찮아요, 고마워요, 닐. 당신은요?"
   },
   {
    "s": 6.04,
    "e": 10.44,
    "en": "I am much better than I was this morning.",
-   "ko": ""
+   "ko": "오늘 아침보다 훨씬 나아요."
   },
   {
    "s": 10.44,
    "e": 12.32,
    "en": "Oh. How were you feeling this morning?",
-   "ko": ""
+   "ko": "오. 오늘 아침엔 기분이 어땠는데요?"
   },
   {
    "s": 12.32,
    "e": 14.68,
    "en": "I was really grumpy.",
-   "ko": ""
+   "ko": "정말 짜증이 났어요."
   },
   {
    "s": 14.68,
    "e": 16.72,
    "en": "Oh! Why is that?",
-   "ko": ""
+   "ko": "오! 왜요?"
   },
   {
    "s": 16.72,
    "e": 24.28,
    "en": "Well, I'll tell you in a minute, but that's what we're talking about today – being grumpy, which means being in a bad mood.",
-   "ko": ""
+   "ko": "음, 곧 말해 줄게요. 그런데 그게 바로 오늘의 주제예요. grumpy, 즉 기분이 안 좋은 상태요."
   },
   {
    "s": 24.28,
    "e": 34.08,
    "en": "Yes, but before we begin, our listeners need to know that they can find a worksheet, a free worksheet, on our website at bbclearningenglish.com.",
-   "ko": ""
+   "ko": "네, 그런데 시작하기 전에, 청취자분들은 웹사이트 bbclearningenglish.com에서 무료 학습지를 받을 수 있다는 걸 알아야 해요."
   },
   {
    "s": 39.8,
    "e": 42.8,
    "en": "So, you said you were feeling grumpy this morning.",
-   "ko": ""
+   "ko": "그러니까 오늘 아침에 짜증이 났다고요."
   },
   {
    "s": 42.8,
    "e": 44.88,
    "en": "I didn't notice that.",
-   "ko": ""
+   "ko": "전혀 몰랐어요."
   },
   {
    "s": 44.88,
    "e": 47.16,
    "en": "Why were you feeling grumpy this morning?",
-   "ko": ""
+   "ko": "오늘 아침에 왜 짜증이 났어요?"
   },
   {
    "s": 47.16,
    "e": 55.48,
    "en": "I get really grumpy if I'm hungry or tired, and very, very grumpy if I'm hungry and tired.",
-   "ko": ""
+   "ko": "저는 배고프거나 피곤하면 정말 짜증이 나고, 배고프면서 피곤하면 아주아주 짜증이 나요."
   },
   {
    "s": 55.48,
    "e": 58.12,
    "en": "Oh no! Is that how you were feeling this morning then?",
-   "ko": ""
+   "ko": "저런! 오늘 아침에 그랬던 거예요?"
   },
   {
    "s": 58.12,
    "e": 61.8,
    "en": "Yeah. It's very hot at the moment – difficult to sleep.",
-   "ko": ""
+   "ko": "네. 요즘 너무 더워서 잠들기 힘들어요."
   },
   {
    "s": 61.8,
    "e": 62.48,
    "en": "Yeah.",
-   "ko": ""
+   "ko": "그렇죠."
   },
   {
    "s": 62.48,
    "e": 73.72,
    "en": "And we also didn't have any food in the fridge, so I came to work hungry and tired, and so I was grumpy.",
-   "ko": ""
+   "ko": "그리고 냉장고에 먹을 것도 없어서, 배고프고 피곤한 채로 출근했어요. 그래서 짜증이 났죠."
   },
   {
    "s": 73.72,
    "e": 75.72,
    "en": "Oh well, you hid it very well.",
-   "ko": ""
+   "ko": "아, 정말 잘 숨겼네요."
   },
   {
    "s": 75.72,
    "e": 77.56,
    "en": "I didn't notice that.",
-   "ko": ""
+   "ko": "전혀 몰랐어요."
   },
   {
    "s": 77.56,
    "e": 80.32,
    "en": "I've felt cheerful all day so far.",
-   "ko": ""
+   "ko": "저는 지금까지 하루 종일 기분이 좋았어요."
   },
   {
    "s": 80.32,
    "e": 82.24,
    "en": "Well, you're always cheerful, Georgie.",
-   "ko": ""
+   "ko": "음, 당신은 늘 밝잖아요, 조지."
   },
   {
    "s": 82.24,
    "e": 85.04,
    "en": "Or are you?",
-   "ko": ""
+   "ko": "아닌가요?"
   },
   {
    "s": 85.04,
    "e": 88.0,
    "en": "I... No, I'm not always cheerful.",
-   "ko": ""
+   "ko": "저... 아니요, 늘 밝지는 않아요."
   },
   {
    "s": 88.0,
    "e": 91.0,
    "en": "Mostly, I have to say, mostly I am.",
-   "ko": ""
+   "ko": "대부분은, 대부분은 그렇다고 해야겠네요."
   },
   {
    "s": 91.0,
    "e": 96.88,
    "en": "But there are certain times of the month that make me feel very grumpy.",
-   "ko": ""
+   "ko": "그런데 한 달 중에 아주 짜증이 나는 때가 있어요."
   },
   {
    "s": 96.88,
    "e": 103.12,
    "en": "And when I'm in a bad mood, I become a bit irritable.",
-   "ko": ""
+   "ko": "그리고 기분이 안 좋을 땐 좀 예민해져요."
   },
   {
    "s": 103.12,
    "e": 107.48,
    "en": "Small things that other people do annoy me.",
-   "ko": ""
+   "ko": "다른 사람들이 하는 사소한 것에도 짜증이 나요."
   },
   {
    "s": 107.48,
    "e": 114.44,
    "en": "And sometimes it's not for any reason or it's for a very small reason and I shouldn't be so grumpy.",
-   "ko": ""
+   "ko": "가끔은 아무 이유 없이, 아니면 아주 사소한 이유로 그래요. 그렇게까지 짜증 낼 필요는 없는데요."
   },
   {
    "s": 114.44,
    "e": 117.96,
    "en": "OK. Georgie, what kind of things make you grumpy?",
-   "ko": ""
+   "ko": "그렇군요. 조지, 어떤 것 때문에 짜증이 나요?"
   },
   {
    "s": 117.96,
    "e": 125.12,
    "en": "Well, as I said, there are certain times of the month where I feel grumpy, but other things that make me grumpy...",
-   "ko": ""
+   "ko": "음, 말했듯이 한 달 중 짜증 나는 때가 있고, 그 밖에 짜증 나게 하는 건..."
   },
   {
    "s": 125.12,
    "e": 142.68,
    "en": "Usually, if it's a really sunny day outside and I'm stuck inside working, that makes me feel a bit grumpy because I would prefer to be outside in the sun, in the park, spending time in the fresh air, but instead I'm working.",
-   "ko": ""
+   "ko": "보통 밖은 정말 화창한데 저는 안에 갇혀서 일하고 있으면 좀 짜증이 나요. 햇볕 아래 공원에서 신선한 공기를 마시며 시간을 보내고 싶은데, 대신 일을 하고 있으니까요."
   },
   {
    "s": 142.68,
    "e": 147.36,
    "en": "So, you said that you're grumpy when you're hungry or tired.",
-   "ko": ""
+   "ko": "그러니까 배고프거나 피곤하면 짜증이 난다고 했죠."
   },
   {
    "s": 147.36,
    "e": 151.52,
    "en": "What kind of things do you do to cheer yourself up?",
-   "ko": ""
+   "ko": "기분을 풀려고 어떤 걸 해요?"
   },
   {
    "s": 151.52,
    "e": 155.24,
    "en": "Ah yeah, 'to cheer myself up' – to feel better.",
-   "ko": ""
+   "ko": "아 네, 'to cheer myself up', 기분이 나아지게 하는 거죠."
   },
   {
    "s": 155.24,
    "e": 159.4,
    "en": "Well, eat something and sleep.",
-   "ko": ""
+   "ko": "음, 뭘 먹고 자요."
   },
   {
    "s": 159.4,
    "e": 164.0,
    "en": "But I guess also do something relaxing.",
-   "ko": ""
+   "ko": "그리고 뭔가 편안한 걸 하는 것 같아요."
   },
   {
    "s": 164.0,
    "e": 165.56,
    "en": "Maybe do some exercise.",
-   "ko": ""
+   "ko": "운동을 하기도 하고요."
   },
   {
    "s": 165.56,
    "e": 170.88,
    "en": "Exercise is a really good thing to lift your mood.",
-   "ko": ""
+   "ko": "운동은 기분을 끌어올리는 데 정말 좋아요."
   },
   {
    "s": 170.88,
    "e": 175.04,
    "en": "Yes. I, as I said, like to be outside.",
-   "ko": ""
+   "ko": "네. 저는 말했듯이 밖에 있는 걸 좋아해요."
   },
   {
    "s": 175.04,
    "e": 176.52,
    "en": "That will make me...",
-   "ko": ""
+   "ko": "그러면 저는..."
   },
   {
    "s": 176.52,
    "e": 178.48,
    "en": "That will put me in a better mood.",
-   "ko": ""
+   "ko": "그러면 기분이 나아져요."
   },
   {
    "s": 178.48,
    "e": 184.0,
    "en": "Going for a walk in the park, being in nature with some fresh air.",
-   "ko": ""
+   "ko": "공원 산책, 신선한 공기 속에서 자연과 함께하는 거요."
   },
   {
    "s": 184.0,
    "e": 190.8,
    "en": "I also really like to put some upbeat music on and dance around my bedroom.",
-   "ko": ""
+   "ko": "그리고 신나는 음악을 틀고 방에서 춤추는 것도 정말 좋아해요."
   },
   {
    "s": 190.8,
    "e": 192.4,
    "en": "I like doing that.",
-   "ko": ""
+   "ko": "그거 좋아해요."
   },
   {
    "s": 192.4,
    "e": 193.6,
    "en": "That cheers me up.",
-   "ko": ""
+   "ko": "그러면 기분이 좋아져요."
   },
   {
    "s": 193.6,
    "e": 196.08,
    "en": "OK. I think that would cheer everybody up.",
-   "ko": ""
+   "ko": "좋아요. 그건 모두의 기분을 좋게 할 것 같은데요."
   },
   {
    "s": 196.08,
    "e": 197.72,
    "en": "What? If they got to watch it?",
-   "ko": ""
+   "ko": "뭐라고요? 그걸 구경할 수 있으면요?"
   },
   {
    "s": 197.72,
    "e": 199.32,
    "en": "Yeah!",
-   "ko": ""
+   "ko": "네!"
   },
   {
    "s": 199.32,
    "e": 204.72,
    "en": "What do you think about people who are always grumpy?",
-   "ko": ""
+   "ko": "늘 짜증 내는 사람들에 대해선 어떻게 생각해요?"
   },
   {
    "s": 204.72,
    "e": 212.92,
    "en": "I do know someone who's always grumpy, but he's so grumpy, it's almost funny.",
-   "ko": ""
+   "ko": "늘 투덜대는 사람을 한 명 알아요. 그런데 너무 투덜대서 거의 웃길 정도예요."
   },
   {
    "s": 212.92,
    "e": 213.42,
    "en": "Yeah?",
-   "ko": ""
+   "ko": "그래요?"
   },
   {
    "s": 213.4,
    "e": 215.72,
    "en": "Like, he knows he's grumpy.",
-   "ko": ""
+   "ko": "그러니까, 본인도 자기가 투덜이인 걸 알아요."
   },
   {
    "s": 215.72,
    "e": 222.68,
    "en": "And people make little jokes about it and he, kind of, knows he's grumpy.",
-   "ko": ""
+   "ko": "사람들이 그걸로 살짝 농담도 하고, 본인도 좀 알고 있어요."
   },
   {
    "s": 222.68,
    "e": 225.08,
    "en": "Mmm. So, it's entertaining for you.",
-   "ko": ""
+   "ko": "음. 그러니까 당신한텐 재밌는 거네요."
   },
   {
    "s": 225.08,
    "e": 229.52,
    "en": "Yeah. But it's still not really that nice to be close to.",
-   "ko": ""
+   "ko": "네. 그래도 가까이 있기에 그렇게 기분 좋진 않아요."
   },
   {
    "s": 229.52,
    "e": 231.8,
    "en": "Yeah. A bit of a negative energy.",
-   "ko": ""
+   "ko": "네. 좀 부정적인 에너지죠."
   },
   {
    "s": 231.8,
    "e": 233.04,
    "en": "Absolutely.",
-   "ko": ""
+   "ko": "맞아요."
   },
   {
    "s": 233.04,
    "e": 237.04,
    "en": "Georgie are you good at hiding it when you are grumpy?",
-   "ko": ""
+   "ko": "조지, 짜증 날 때 잘 숨기는 편이에요?"
   },
   {
    "s": 237.04,
    "e": 247.2,
    "en": "Well, apparently I am, because I sometimes am grumpy and you said that I never seem grumpy, so maybe I am very good at hiding it.",
-   "ko": ""
+   "ko": "음, 그런 것 같아요. 가끔 짜증이 나는데 당신은 제가 짜증 나 보인 적이 없다고 했으니까, 아마 아주 잘 숨기나 봐요."
   },
   {
    "s": 247.2,
    "e": 260.52,
    "en": "I think it's good not to let other people feel your negativity coming out of you, but on the other hand I think it's also good to share how you feel sometimes.",
-   "ko": ""
+   "ko": "다른 사람들이 내 부정적인 기분을 느끼지 않게 하는 건 좋다고 생각해요. 하지만 한편으로는 가끔 내 기분을 나누는 것도 좋다고 생각해요."
   },
   {
    "s": 260.52,
    "e": 264.2,
    "en": "OK. So, perhaps you are really grumpy right now...",
-   "ko": ""
+   "ko": "그렇군요. 그러니까 어쩌면 지금 정말 짜증이 나 있는데..."
   },
   {
    "s": 264.2,
    "e": 264.96,
    "en": "Yeah.",
-   "ko": ""
+   "ko": "네."
   },
   {
    "s": 264.96,
    "e": 266.08,
    "en": "...even though you seem cheerful.",
-   "ko": ""
+   "ko": "...밝아 보이는 걸 수도 있겠네요."
   },
   {
    "s": 266.08,
    "e": 268.52,
    "en": "Even though I have a big smile on my face, yeah.",
-   "ko": ""
+   "ko": "얼굴에 큰 미소를 짓고 있는데도요, 네."
   },
   {
    "s": 268.52,
    "e": 270.84,
    "en": "It's because I've had a coffee.",
-   "ko": ""
+   "ko": "커피를 마셔서 그래요."
   },
   {
    "s": 270.84,
    "e": 272.56,
    "en": "I'm feeling good.",
-   "ko": ""
+   "ko": "기분 좋아요."
   },
   {
    "s": 277.44,
    "e": 282.88,
    "en": "OK. Georgie, it's time now to recap the language that we've used in this podcast.",
-   "ko": ""
+   "ko": "좋아요. 조지, 이제 이번 팟캐스트에서 쓴 표현을 정리할 시간이에요."
   },
   {
    "s": 282.88,
    "e": 289.32,
    "en": "Yes, we had 'grumpy', which means easily annoyed, negative or in a bad mood.",
-   "ko": ""
+   "ko": "네, 'grumpy'가 나왔어요. 쉽게 짜증 내거나, 부정적이거나, 기분이 안 좋다는 뜻이에요."
   },
   {
    "s": 289.32,
    "e": 290.8,
    "en": "Yes, 'in a bad mood'.",
-   "ko": ""
+   "ko": "네, 'in a bad mood'요."
   },
   {
    "s": 290.8,
    "e": 296.56,
    "en": "And the opposite of that is 'in a good mood', when you're feeling happy and cheerful.",
-   "ko": ""
+   "ko": "그 반대는 'in a good mood'예요. 행복하고 밝은 기분일 때요."
   },
   {
    "s": 296.56,
    "e": 298.88,
    "en": "'Cheerful' is another word we heard today.",
-   "ko": ""
+   "ko": "'Cheerful'도 오늘 나온 단어예요."
   },
   {
    "s": 298.88,
    "e": 305.08,
    "en": "Yes, 'cheerful' is another word for happy, but you show it in an obvious way, maybe by smiling.",
-   "ko": ""
+   "ko": "네, 'cheerful'은 행복하다는 뜻인데, 웃는 것처럼 겉으로 확실히 드러나는 거예요."
   },
   {
    "s": 305.08,
    "e": 311.72,
    "en": "Yep. And we've got the phrasal verb 'cheer up', which means to become happy or cheerful.",
-   "ko": ""
+   "ko": "네. 그리고 구동사 'cheer up'은 행복해지거나 밝아진다는 뜻이에요."
   },
   {
    "s": 311.72,
    "e": 317.2,
    "en": "Yes. For example, I cheer myself up by dancing alone in my bedroom.",
-   "ko": ""
+   "ko": "네. 예를 들어 저는 방에서 혼자 춤추면서 기분을 풀어요."
   },
   {
    "s": 317.2,
    "e": 322.4,
    "en": "That's it for this episode of Real Easy English, but come back next week for another episode.",
-   "ko": ""
+   "ko": "Real Easy English 이번 에피소드는 여기까지예요. 다음 주에 다른 에피소드로 다시 만나요."
   },
   {
    "s": 322.4,
    "e": 330.28,
    "en": "Yes. And don't forget, you can find a free transcript and worksheet to practise what you've learnt on our website, bbclearningenglish.com.",
-   "ko": ""
+   "ko": "네. 그리고 잊지 마세요, 웹사이트 bbclearningenglish.com에서 배운 걸 연습할 수 있는 무료 대본과 학습지를 볼 수 있어요."
   },
   {
    "s": 330.28,
    "e": 331.16,
    "en": "Goodbye for now.",
-   "ko": ""
+   "ko": "오늘은 여기까지, 안녕히."
   },
   {
    "s": 331.16,
    "e": 332.28,
    "en": "Goodbye.",
-   "ko": ""
+   "ko": "안녕."
   }
  ]
 }

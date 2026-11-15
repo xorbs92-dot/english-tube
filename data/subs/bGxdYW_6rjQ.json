@@ -3,451 +3,451 @@
  "title": "What are the pros and cons of living in a city?🏙️: Real Easy English",
  "channel": "BBC Learning English",
  "enSource": "manual",
- "koSource": "none",
+ "koSource": "claude",
  "sentences": [
   {
    "s": 0.21,
    "e": 1.46,
    "en": "Hello, I'm Neil.",
-   "ko": ""
+   "ko": "안녕하세요, 저는 닐이에요."
   },
   {
    "s": 1.46,
    "e": 2.59,
    "en": "And I'm Georgie.",
-   "ko": ""
+   "ko": "그리고 저는 조지예요."
   },
   {
    "s": 2.59,
    "e": 5.17,
    "en": "Welcome to Real Easy English.",
-   "ko": ""
+   "ko": "Real Easy English에 오신 걸 환영해요."
   },
   {
    "s": 5.17,
    "e": 11.55,
    "en": "You can find a worksheet and transcript for this episode on our website, bbclearningenglish.com",
-   "ko": ""
+   "ko": "이 에피소드의 학습지와 대본은 웹사이트 bbclearningenglish.com에서 볼 수 있어요."
   },
   {
    "s": 18.06,
    "e": 20.06,
    "en": "Hello Neil. How are you doing?",
-   "ko": ""
+   "ko": "안녕, 닐. 어떻게 지내요?"
   },
   {
    "s": 20.06,
    "e": 22.52,
    "en": "I'm very well, thank you, Georgie. How are you?",
-   "ko": ""
+   "ko": "아주 잘 지내요, 고마워요, 조지. 당신은요?"
   },
   {
    "s": 22.52,
    "e": 28.53,
    "en": "Yes, I'm very well, thank you. Neil, today we're talking about cities.",
-   "ko": ""
+   "ko": "네, 아주 잘 지내요, 고마워요. 닐, 오늘은 도시에 대해 얘기해요."
   },
   {
    "s": 28.53,
    "e": 33.49,
    "en": "We both live and work in London, which is a very big city.",
-   "ko": ""
+   "ko": "우리 둘 다 아주 큰 도시인 런던에서 살고 일하죠."
   },
   {
    "s": 33.49,
    "e": 39.79,
    "en": "It is. It's a huge city – very busy and bustling.",
-   "ko": ""
+   "ko": "그렇죠. 거대한 도시예요. 아주 바쁘고 북적거려요(bustling)."
   },
   {
    "s": 39.79,
    "e": 46.38,
    "en": "Bustling means there's lots of activity, lots of things going on, busy.",
-   "ko": ""
+   "ko": "Bustling은 활동이 많고, 일이 많이 벌어지고, 분주하다는 뜻이에요."
   },
   {
    "s": 46.38,
    "e": 51.97,
    "en": "Speaking of, what do you like about living in a big, bustling city?",
-   "ko": ""
+   "ko": "말 나온 김에, 크고 북적이는 도시에 사는 게 뭐가 좋아요?"
   },
   {
    "s": 51.97,
    "e": 57.93,
    "en": "Well, there are lots of good things about living in a big city.",
-   "ko": ""
+   "ko": "음, 큰 도시에 살면 좋은 점이 많아요."
   },
   {
    "s": 57.93,
    "e": 59.77,
    "en": "It's convenient.",
-   "ko": ""
+   "ko": "편리해요."
   },
   {
    "s": 59.77,
    "e": 60.98,
    "en": "It's very convenient.",
-   "ko": ""
+   "ko": "아주 편리해요."
   },
   {
    "s": 60.98,
    "e": 69.11,
    "en": "So, there is lots of public transport, which is sometimes good.",
-   "ko": ""
+   "ko": "대중교통이 많은데, 그게 좋을 때가 있어요."
   },
   {
    "s": 69.11,
    "e": 75.41,
    "en": "And you can get things that you need quite easily.",
-   "ko": ""
+   "ko": "그리고 필요한 걸 꽤 쉽게 구할 수 있어요."
   },
   {
    "s": 75.41,
    "e": 76.45,
    "en": "That's very true.",
-   "ko": ""
+   "ko": "정말 맞아요."
   },
   {
    "s": 76.45,
    "e": 77.29,
    "en": "Yeah.",
-   "ko": ""
+   "ko": "네."
   },
   {
    "s": 77.29,
    "e": 80.66,
    "en": "Yeah. There's also a lot of things to do.",
-   "ko": ""
+   "ko": "네. 할 것도 정말 많아요."
   },
   {
    "s": 80.66,
    "e": 86.13,
    "en": "We are lucky in London to have lots of theatres where you can see plays.",
-   "ko": ""
+   "ko": "런던엔 연극을 볼 수 있는 극장이 많아서 운이 좋아요."
   },
   {
    "s": 86.13,
    "e": 93.59,
    "en": "There's a really good music scene, so you can watch and listen to a lot of live music.",
-   "ko": ""
+   "ko": "음악 문화도 정말 좋아서 라이브 음악을 많이 보고 들을 수 있어요."
   },
   {
    "s": 93.59,
    "e": 102.6,
    "en": "If you have no plans on a day, you can always find plans, spontaneous plans, so we are really lucky in that sense.",
-   "ko": ""
+   "ko": "어느 날 계획이 없어도 언제든 즉흥적인 계획을 세울 수 있으니, 그런 면에서 정말 운이 좋아요."
   },
   {
    "s": 102.6,
    "e": 111.44,
    "en": "Yeah, and if you like art, there's all kinds of exhibitions and galleries and museums.",
-   "ko": ""
+   "ko": "네, 그리고 미술을 좋아하면 온갖 전시회와 갤러리와 박물관이 있죠."
   },
   {
    "s": 111.44,
    "e": 112.74,
    "en": "Lots of good things.",
-   "ko": ""
+   "ko": "좋은 게 많아요."
   },
   {
    "s": 112.74,
    "e": 118.2,
    "en": "But there are obviously some bad things about living in a city, aren't there?",
-   "ko": ""
+   "ko": "그런데 도시에 살면 당연히 안 좋은 점도 있죠?"
   },
   {
    "s": 118.2,
    "e": 119.04,
    "en": "Yes.",
-   "ko": ""
+   "ko": "네."
   },
   {
    "s": 119.04,
    "e": 120.41,
    "en": "Do you want to tell us some?",
-   "ko": ""
+   "ko": "몇 가지 말해 줄래요?"
   },
   {
    "s": 120.41,
    "e": 125.29,
    "en": "Yeah. Well, it's very noisy and dirty...",
-   "ko": ""
+   "ko": "네. 음, 아주 시끄럽고 더럽고..."
   },
   {
    "s": 125.29,
    "e": 126.04,
    "en": "Yeah.",
-   "ko": ""
+   "ko": "그렇죠."
   },
   {
    "s": 126.04,
    "e": 128.67,
    "en": "...and busy and expensive.",
-   "ko": ""
+   "ko": "...붐비고 비싸요."
   },
   {
    "s": 128.67,
    "e": 129.3,
    "en": "Yeah.",
-   "ko": ""
+   "ko": "네."
   },
   {
    "s": 129.3,
    "e": 135.47,
    "en": "It's always more expensive in a big city, especially the capital city.",
-   "ko": ""
+   "ko": "큰 도시, 특히 수도는 늘 더 비싸요."
   },
   {
    "s": 135.47,
    "e": 140.18,
    "en": "So, you can do all of the things that we just talked about...",
-   "ko": ""
+   "ko": "그러니까 방금 얘기한 것들을 다 할 수 있지만..."
   },
   {
    "s": 140.18,
    "e": 140.85,
    "en": "Yeah.",
-   "ko": ""
+   "ko": "네."
   },
   {
    "s": 140.85,
    "e": 142.35,
    "en": "...but you have to pay for them.",
-   "ko": ""
+   "ko": "...돈을 내야 하죠."
   },
   {
    "s": 142.35,
    "e": 142.89,
    "en": "Yeah!",
-   "ko": ""
+   "ko": "맞아요!"
   },
   {
    "s": 142.89,
    "e": 151.78,
    "en": "And things like eating out, especially going for a drink, is a really expensive thing to do in the capital city.",
-   "ko": ""
+   "ko": "외식, 특히 술 한잔하러 가는 건 수도에서 정말 비싼 일이에요."
   },
   {
    "s": 151.78,
    "e": 161.37,
    "en": "I feel like every time I leave the house I just spend loads of money and that is quite frustrating, but you have to pay for good...",
-   "ko": ""
+   "ko": "집을 나설 때마다 돈을 왕창 쓰는 것 같아서 꽤 속상해요. 그래도 좋은..."
   },
   {
    "s": 161.37,
    "e": 162.91,
    "en": "for good times, I guess.",
-   "ko": ""
+   "ko": "좋은 시간을 보내려면 돈을 내야 하는 거겠죠."
   },
   {
    "s": 162.91,
    "e": 167.63,
    "en": "Yeah. Have you ever lived in another city apart from London?",
-   "ko": ""
+   "ko": "네. 런던 말고 다른 도시에 살아 본 적 있어요?"
   },
   {
    "s": 167.63,
    "e": 168.67,
    "en": "Yes, I have.",
-   "ko": ""
+   "ko": "네, 있어요."
   },
   {
    "s": 168.67,
    "e": 187.52,
    "en": "I used to live in Barcelona, which is quite different to London because, well, it has a beach and the sea on one side and on the other side it has mountains, so it's contained by nature and you can get to the nature quite quickly,",
-   "ko": ""
+   "ko": "예전에 바르셀로나에 살았는데, 런던과는 꽤 달라요. 한쪽엔 해변과 바다가 있고 다른 쪽엔 산이 있어서 자연에 둘러싸여 있고, 자연으로 꽤 빨리 갈 수 있어요."
   },
   {
    "s": 187.52,
    "e": 189.06,
    "en": "which is really nice.",
-   "ko": ""
+   "ko": "그게 정말 좋아요."
   },
   {
    "s": 189.06,
    "e": 191.53,
    "en": "What about you? Have you lived anywhere different?",
-   "ko": ""
+   "ko": "당신은요? 다른 곳에 살아 본 적 있어요?"
   },
   {
    "s": 191.53,
    "e": 197.11,
    "en": "Yeah, I've lived in a few big cities – a few capital cities, actually.",
-   "ko": ""
+   "ko": "네, 큰 도시 몇 군데, 사실 수도 몇 군데에 살아 봤어요."
   },
   {
    "s": 197.11,
    "e": 200.78,
    "en": "I've also lived in Spain, but in Madrid.",
-   "ko": ""
+   "ko": "저도 스페인에 살았는데, 마드리드였어요."
   },
   {
    "s": 200.78,
    "e": 207.96,
    "en": "I lived and worked in Prague and that is a really pretty...",
-   "ko": ""
+   "ko": "프라하에서 살면서 일했는데, 정말 예쁜..."
   },
   {
    "s": 207.96,
    "e": 209.25,
    "en": "it's a beautiful city.",
-   "ko": ""
+   "ko": "아름다운 도시예요."
   },
   {
    "s": 209.25,
    "e": 209.75,
    "en": "Yeah.",
-   "ko": ""
+   "ko": "네."
   },
   {
    "s": 209.67,
    "e": 212.96,
    "en": "The architecture looks fantastic.",
-   "ko": ""
+   "ko": "건축물이 환상적이에요."
   },
   {
    "s": 212.96,
    "e": 223.51,
    "en": "Nice buildings. Talking about nice buildings, I lived in Edinburgh because I did my master's degree there and that has beautiful buildings.",
-   "ko": ""
+   "ko": "멋진 건물들이요. 멋진 건물 얘기가 나왔으니, 에든버러에서 석사 과정을 해서 거기 살았는데, 건물들이 아름다워요."
   },
   {
    "s": 223.51,
    "e": 225.39,
    "en": "I loved that city.",
-   "ko": ""
+   "ko": "그 도시가 정말 좋았어요."
   },
   {
    "s": 225.39,
    "e": 231.23,
    "en": "It has a castle on a big rock in the middle and it's just amazing to look at.",
-   "ko": ""
+   "ko": "한가운데 큰 바위 위에 성이 있는데, 보기만 해도 정말 멋져요."
   },
   {
    "s": 231.23,
    "e": 234.23,
    "en": "So, we've talked about cities we've been to.",
-   "ko": ""
+   "ko": "우리가 가 본 도시들에 대해 얘기했는데요."
   },
   {
    "s": 234.23,
    "e": 235.74,
    "en": "What about the future?",
-   "ko": ""
+   "ko": "앞으로는요?"
   },
   {
    "s": 235.74,
    "e": 240.53,
    "en": "Are there any cities you really want to visit or maybe even live in?",
-   "ko": ""
+   "ko": "꼭 가 보고 싶거나 살아 보고 싶은 도시가 있어요?"
   },
   {
    "s": 240.53,
    "e": 243.99,
    "en": "Oh, that's an interesting question!",
-   "ko": ""
+   "ko": "오, 흥미로운 질문이네요!"
   },
   {
    "s": 243.99,
    "e": 256.17,
    "en": "I've never been to Georgia or Armenia or that part of the world, so I'm going to say I'd like to go to Tbilisi in Georgia.",
-   "ko": ""
+   "ko": "조지아나 아르메니아, 그쪽 지역엔 가 본 적이 없어서, 조지아의 트빌리시에 가 보고 싶다고 할게요."
   },
   {
    "s": 256.17,
    "e": 258.84,
    "en": "That's a good answer. I'd love to go there as well.",
-   "ko": ""
+   "ko": "좋은 답이네요. 저도 거기 정말 가 보고 싶어요."
   },
   {
    "s": 258.84,
    "e": 263.01,
    "en": "For me, I'm desperate to go to Latin America.",
-   "ko": ""
+   "ko": "저는 라틴 아메리카에 정말 너무 가고 싶어요."
   },
   {
    "s": 263.01,
    "e": 274.48,
    "en": "I really want to go to Rio de Janeiro, and at the time when the carnival is there, because that sounds really fun and I like to party!",
-   "ko": ""
+   "ko": "리우데자네이루에 꼭 가 보고 싶어요. 카니발 기간에요. 정말 재밌을 것 같고, 저는 파티를 좋아하거든요!"
   },
   {
    "s": 280.2,
    "e": 289.91,
    "en": "Let's recap the vocabulary we heard during the conversation, starting with bustling, which means busy with lots of people and activity.",
-   "ko": ""
+   "ko": "대화에서 들은 어휘를 정리해 봐요. bustling부터요. 사람과 활동이 많아 분주하다는 뜻이에요."
   },
   {
    "s": 289.92,
    "e": 292.21,
    "en": "We also heard convenient.",
-   "ko": ""
+   "ko": "convenient도 나왔어요."
   },
   {
    "s": 292.21,
    "e": 296.88,
    "en": "If something is convenient, it means it's very easy to do it.",
-   "ko": ""
+   "ko": "뭔가가 convenient하면 하기가 아주 쉽다는 뜻이에요."
   },
   {
    "s": 296.88,
    "e": 303.35,
    "en": "For example, there's lots of public transport in London, so it's convenient for travel.",
-   "ko": ""
+   "ko": "예를 들어 런던엔 대중교통이 많아서 이동하기 편리해요."
   },
   {
    "s": 303.35,
    "e": 308.02,
    "en": "And we talked about possible plans for the future, using would like to.",
-   "ko": ""
+   "ko": "그리고 would like to를 써서 앞으로의 계획에 대해 얘기했어요."
   },
   {
    "s": 308.02,
    "e": 312.06,
    "en": "For example, I'd like to visit Tbilisi in Georgia.",
-   "ko": ""
+   "ko": "예를 들면 'I'd like to visit Tbilisi in Georgia.'"
   },
   {
    "s": 312.06,
    "e": 319.9,
    "en": "That's it for this episode of Real Easy English, but we'll be back next week with another conversation in easy English.",
-   "ko": ""
+   "ko": "Real Easy English 이번 에피소드는 여기까지예요. 다음 주에 쉬운 영어로 된 다른 대화로 돌아올게요."
   },
   {
    "s": 319.9,
    "e": 324.49,
    "en": "And you should check out our series The London to Edinburgh Challenge.",
-   "ko": ""
+   "ko": "그리고 저희 시리즈 'The London to Edinburgh Challenge'도 꼭 보세요."
   },
   {
    "s": 324.49,
    "e": 326.66,
    "en": "We've been talking about Edinburgh today.",
-   "ko": ""
+   "ko": "오늘 에든버러 얘기를 했잖아요."
   },
   {
    "s": 326.66,
    "e": 330.08,
    "en": "It's a beautiful place and you can see it in this series.",
-   "ko": ""
+   "ko": "아름다운 곳인데, 이 시리즈에서 볼 수 있어요."
   },
   {
    "s": 330.08,
    "e": 333.92,
    "en": "It's on our website, bbclearningenglish.com.",
-   "ko": ""
+   "ko": "웹사이트 bbclearningenglish.com에 있어요."
   },
   {
    "s": 333.92,
    "e": 335.58,
    "en": "Goodbye for now.",
-   "ko": ""
+   "ko": "오늘은 여기까지, 안녕히."
   },
   {
    "s": 335.58,
    "e": 336.54,
    "en": "Goodbye!",
-   "ko": ""
+   "ko": "안녕!"
   }
  ]
 }
